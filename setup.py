@@ -45,4 +45,9 @@ if __name__ == "__main__":
         packages=[
             'backbone',
         ],
+        entry_points={
+            'console_scripts': [
+                'normalize = backbone.normalize:main',
+            ],
+        },
     )
