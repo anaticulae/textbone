@@ -44,6 +44,7 @@ if __name__ == "__main__":
         ],
         packages=[
             'backbone',
+            'hugedata',
         ],
         entry_points={
             'console_scripts': [
