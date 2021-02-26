@@ -13,7 +13,7 @@ import backbone
 
 ROOT = os.path.join(backbone.ROOT, 'hugedata')
 
-LIT = os.path.join(ROOT, 'literature')
+LIT = os.path.join(ROOT, 'lit')
 
 LIT_MASTER = os.path.join(LIT, 'master')
 
