@@ -19,3 +19,4 @@ LIT_MASTER = os.path.join(LIT, 'master')
 
 LIT_MASTER072 = os.path.join(LIT_MASTER, 'master072.txt')
 LIT_MASTER075 = os.path.join(LIT_MASTER, 'master075.txt')
+LIT_MASTER083 = os.path.join(LIT_MASTER, 'master083.txt')
