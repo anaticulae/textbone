@@ -1,0 +1,814 @@
+Mit der Annahme einer formalen Kontinuität zwischen den Rhapsoden des antiken Griechenlands und den Medien der Audiovisionen rücken die narrativen Qualitäten des jeweiligen Mediums in den Mittelpunkt .
+Medien vermitteln Bedeutung und dienen im Sinne eines instrumentellen Verständnisses von Medientechnologien zu deren Weitergabe und Verbreitung .
+Die Auffassung vom Medium als Vermittler macht die Frage nach den jeweiligen Vermittlungsstrukturen unumgänglich .
+Rhapsoden sowie Film und Fernsehen als konkrete historische Ausgestaltung eines kommunikativen Apparates , so die die Untersuchung leitende Auffassung , vermitteln ihre Inhalte in Form von Erzählungen .
+Die Figur des antiken Sängers illustriert dies exemplarisch .
+Die mündliche Darbietung epischer Dichtung durch den Rhapsoden folgt einer bestimmten Geschehensfolge , die in den vermittelten Inhalten strukturell angelegt ist .
+Die durch den Rhapsoden wiedergegebenen Inhalte werden narrativ vermittelt .
+Der antike „ Storyteller “ ( Havelock 1963 : 83 ) erzählt neben anderen die Geschichten Homers , die in den Epen Ilias und Odyssee ihre formende Niederschrift finden .
+Homers Geschichten sind , der Einschätzung des Philologen Geoffrey Kirks ( vgl. 1973 : 240 ) folgend , die früheste schriftliche Überlieferung antiker Mythen .
+Im Hinblick auf die folgenden Ausführungen wird der Mythosbegriff jedoch nicht wie gemeinhin üblich inhaltlich , sondern formal zu bestimmen sein .
+Den antiken Rhapsoden als Vermittler der griechischen Mythen entsprechen in der Gegenwart die audiovisuellen Medien Film und Fernsehen1 als Erzähler fiktionaler Geschichten , wie Spielfilme sie als lediglich eine Variante von Film- und Fernsehnarration darstellen .
+Da das Erzählen nicht auf mündliche oder schriftliche Darstellungsformen von Sprache begrenzt ist , sondern Bilder ebenso einschließt , werden die audiovisuellen Medien gleichermaßen als erzählende Medien begriffen .
+Insbesondere das Fernsehen tritt als „ Erzählmaschine “ ( Hickethier 1994 ) , „ geschichtenerzählende [ ] Institution “ ( Mikos 2000 : 232 ) , „ system of storytelling ” ( Gerbner 1986 : 18 ) oder „ Bildergeschichtenerzähler “ ( Haberer 1993 : 128 ) in das Forschungsinteresse .
+Wenn die narrativen Vermittlungsstrukturen von antiken Rhapsoden sowie Film und Fernsehen in den Fokus der Betrachtung rücken , muss zwangsläufig die Jahrtausende 1 Wenn in dieser Arbeit umgangssprachlich Film und Fernsehen als audiovisuelle Medien bezeichnet werden , sind immer das Kino und das Fernsehen als technisch bedingte Vermittlungsformen gemeint .
+währende medientechnische Entwicklung konstatiert werden , die den Nachweis einer formalen Homologie zwischen oralen und audiovisuellen Medien sowie ihren Inhalten scheinbar verbietet .
+Trotz des mediengeschichtlichen Fortschritts besteht eine solche formale Kontinuität , und zwar zugleich in zweifacher Hinsicht .
+Unter der Prämisse Rhapsoden sowie Film und Fernsehen als Erzähler aufzufassen , betrifft sie zum einen die mediale Darstellung selbst und zum anderen die Struktur der vermittelten Inhalte .
+2 Beide Aspekte der formalen Kontinuität werden im Folgenden beleuchtet .
+Die Geschichte der Medientechnik ist geprägt von Evolutionen und Umbrüchen .
+Die bedeutendste und zugleich dem Entwicklungsprozess Impuls gebende Revolution markiert der Übergang von der Oralität zur Literalität durch die Erfindung der Schrift .
+Diesen tiefgreifenden Wandel verkörpert exemplarisch die Figur des antiken Sängers , dessen Vortrag sich auf beide Medientechnologien stützt :
+Auf der Grundlage schriftlich fixierter epischer Dichtung memoriert der Rhapsode die Inhalte seiner mündlichen und körperlichen Darbietung .
+Das Werk seines Vorgängers , des Aoiden , entbehrt in mykenischer Zeit ( 1600-1200 v. Chr.) noch jeglicher Schriftgrundlage .
+Der Aoide formt seine Geschichte im Akt des Singens .
+Da das gesprochene Wort flüchtig ist , mündet das Bedürfnis , die aoidischen Gesänge vor dem Vergessen zu bewahren , um 800 v. Chr.
+in die Entwicklung der phonetischen Alphabetschrift und die einsetzende Aufzeichnung der gesungenen Geschichten im Medium Schrift ( vgl. Powell 2002 : 186 ) .
+Lange Zeit bleibt dies die einzige Bestimmung der Schrift , die zunächst nur von einigen wenigen Schriftkundigen angewandt wird ( vgl. Powell 1991 : 233 ) .
+Zwar werden die aoidischen Überlieferungen durch die Entwicklung des griechischen Vokalalphabets dem Vergessen entzogen , doch geht deren schriftliche Fixierung auch mit einem Bedeutungsverlust der aoidischen Kunst einher .
+Nach ihrem endgültigen Niedergang im 5 . Jahrhundert v. Chr. ( vgl. Powell 2002 : 140 ) , dem Untergang der mykenischen Kultur und den Dunklen Jahrhunderten , treten die Rhapsoden im klassischen Griechenland die Nachfolge der Aoiden an .
+Ihre Profession ist ein direktes Resultat der neuen Medientechnologie .
+Obgleich Rhapsoden schriftlich fixierte Dichtung darbieten , unterliegt die Art und Weise ihrer narrativen Vermittlung den Prinzipien aoidischer Darstellung .
+Die formende Anordnung der Worte im aoidischen Gesang gestaltet sich derart kunstvoll , dass diese Art der erzählenden Vermittlung nach heutigem Verständnis als Dichtung aufgefasst wird .
+In der oralen Kultur des antiken Griechenlands haben Rhythmus , Reim und Formelcharakter der Geschichten jedoch keine ästhetische , sondern mnemonische Funktion ( vgl. Havelock 1963 : 166 ) .
+Die Vermittlung der aoidischen Geschichten folgt notwendigerweise bestimmten formalen Prinzipien , da dem Sänger außer seinem Gedächtnis keinerlei externe Speichermedien zur Verfügung stehen .
+Erforderlich ist eine gesprochene Sprache , die als erinnerbare und zugleich variable Form fungiert , um unterschiedlichste Inhalte zu bewahren und zu kommunizieren .
+Eric Havelock ( ebd . : 147 ) beschreibt das grundlegende Muster der oralen Mnemotechnik als „ variation within the same “ .
+Formgebende Prinzipien der mündlichen antiken Dichtung sind ein fester Sprachrhythmus , der Hexameter als metrisches Schema , sowie der Gebrauch von Sprachformeln .
+Der Wechsel von kurzen und langen Sprechsilben erzeugt einen regelmäßigen Rhythmus , der sowohl das Erlernen als auch die Wiedergabe oraler Dichtung begünstigt .
+Der epische Sänger memoriert Inhalte jedoch nicht Wort für Wort , weshalb wiederholt vorgetragene Geschichten desselben Inhalts in ihrem Wortlaut variieren ( vgl. Lord 1965 : 108 ) .
+Vielmehr erlernt und erinnert er eine zusammenhängende Gruppe von Wörtern , ganze Sätze und Verse , mit einem bestimmten thematischen Bezug .
+Infolgedessen verfügt der Sänger über ein Repertoire , welches ihm den Aufbau seiner Narration ermöglicht .
+Eine unter denselben metrischen Bedingungen regelmäßig zum Ausdruck derselben Idee verwendete Wortgruppe nennt der Philologe Milman Parry4 ( zit. n. Lord 1965 : 58 ) „ Formel “ ( „ formula “ ) .
+Resultat dieser der Erinnerung dienenden Gestaltungsprinzipien5 ist ein formelhafter Erzählstil , der innerhalb der oralen Kultur Griechenlands eine Kunstsprache , eine Art künstliche Oralität , begründet .
+Diese wird ausschließlich von den Sängern beherrscht , jedoch von allen Griechen verstanden ( vgl. Powell 2002 : 135 ) .
+Zur Zeit der Aoiden dient diese Kunstsprache neben dem Erinnern der Geschehensfolge im Akt der Darbietung und der Gestaltung eigener Geschichten auch dem Erlernen bereits zirkulierender Geschichten auf Grundlage des Mündlichen ( vgl. Powell 1991 : 224 ) .
+Zwar übernehmen die formalen Gestaltungsprinzipien später dieselben Funktionen für den Rhapsoden , jedoch kann dieser nunmehr auf schriftlich fixierte Dichtung als Lernvorlage zurückgreifen .
+Im Akt des Singens fallen erzählende Vermittlung und Erinnerung der epischen Inhalte zusammen .
+Dabei handelt es sich um einen reflexartigen Prozess , der fest an den Körper des Sängers gebunden ist .
+Die als Memorialtechnik fungierenden verbalen Strukturen materialisieren sich während der Performanz durch Artikulation und Phonation des Sängers in „ sound patterns “ ( Havelock 1986 : 71 ) mit charakteristischen prosodischen Eigenschaften .
+Diese begründen den Rhythmus der gesprochenen Worte .
+Des Weiteren begünstigen der Einsatz von Musikinstrumenten sowie die Körperbewegungen des Sängers sowohl den rhythmischen Eindruck der Darbietung als auch die reflexartige Erinnerung des Rhapsoden .
+So koordiniert etwa die Betätigung der Leier durch die Hand des Sängers die Bewegung seiner Sprechorgane ( vgl. Havelock 1963 : 149 ) und versetzt schließlich den gesamten Körper in harmonische Bewegung .
+In der Darbietung von Aoiden und Rhapsoden gehen das gesprochene Wort und die Musik somit eine machtvolle auditive Allianz ein , die durch den unmittelbaren Eindruck der Körperbewegung um visuelle Qualitäten ergänzt wird .
+Für das Publikum begründen die narrativen Vermittlungsstrukturen , das Hören als Wahrnehmung von Sprache und Musik verbunden mit dem Sehen der Körperbewegungen des Sängers , ein sinnliches Erlebnis , welches für das Wesen oraler Kulturen bezeichnend ist .
+Vor der Erfindung der Schrift ist das gesprochene , durch den Menschen geformte Wort in seiner Gegenwärtigkeit der dominierende Sinneseindruck .
+In The Presence of the Word ( 1967 ) betont Walter Ong die präsentische Qualität von „ Sound “ , dem natürlichen und ursprünglichen Medium des Wortes , als Ereignis :
+Mittels des gesprochenen Wortes werden Menschen ihrer Innerlichkeit gewahr und können sich im Bewusstsein ihrer Person auch anderen Menschen ganzheitlich darstellen .
+Das Erleben der eigenen Innerlichkeit in „ Sound “ bildet für Ong ( vgl. ebd. : 124f.) somit die Voraussetzung für die kommunikative Begegnung zwischen Menschen .
+Bedingt durch seine zeitlich und örtlich begrenzte Reichweite bindet das gesprochene Wort Individuen oraler Kulturen in enge Gemeinschaften ( vgl. ebd . : 124 ; 32012 : 68 ) .
+Mit der Einführung der Schrift , die in der Erfindung des Buchdrucks und der massenhaften Verbreitung schriftlicher Erzeugnisse ihre technische Vervollkommnung findet , verlagert sich die Bedeutung innerhalb der verschiedenen Sinneswahrnehmungen :
+„ As an intensification and extension of the visual function , the phonetic alphabet diminishes the role of the other senses of sound and touch and taste in any literate culture ” ( McLuhan 22011 : 120 ) .
+McLuhans ( 2008 : 44 ) metaphorische Formel „ Man was given an eye for an ear ” kondensiert diesen Gedanken .
+Anders als es die Radikalität dieser Aussage vermuten lässt , handelt es sich bei der Umstrukturierung der menschlichen Sinneswahrnehmung um einen Jahrhunderte währenden Prozess :
+Trotz der potenziellen Anwendungsvielfalt der Schrift bleibt die griechische Gesellschaft noch viele Jahrhunderte lang eine zutiefst mündlich geprägte7 .
+Erst in der Mitte des 4. Jahrhunderts v. Chr. ist die Alphabetisierung der Griechen auch institutionell abgeschlossen ( vgl. Robb 1994 : 253 ) , sodass diese als Mitglieder einer literalen Kultur bezeichnet werden können .
+In der literalen griechischen Gesellschaft ist das attische Drama8 die erste mündliche Kunstform , die vollständig im Medium Schrift konzipiert wird ( vgl. Ong 32012 : 145 ) .
+Ohne diese neue Medientechnologie wäre die komplexe Komposition griechischer Dramen kaum denkbar :
+Insbesondere die Aufteilung der Sprechrollen unter mehreren Darstellern verlangt nach einer koordinierenden Textgrundlage .
+9 Da der Autor sein Stück nach wie vor für eine mündliche Darstellung innerhalb einer oralen Gemeinschaft verfasst , prägen die formalen Charakteristika mündlicher Dichtung auch die dramatische Performanz .
+Das attische Drama steht darüber hinaus insofern in der Nachfolge des griechischen Rhapsoden , als es die auditiven und visuellen Qualitäten seiner Darstellung , Melodie und Rhythmus , beibehält und als Mehrpersonen-Medium sogar intensiviert .
+Mit Eric Havelock ( vgl. 1982 : 182 ) kann das Theater der griechischen Antike daher auch als intermediäre Kunst beschrieben werden , die die spezifischen Kräfte des mündlichen Vortrags bewahrt , gleichzeitig aber bedingt durch die Möglichkeiten der neuen Medientechnologie Schrift stärker reflexiv geprägt ist .
+Wenngleich die dramatische Performanz weiterhin den auditiven und visuellen Sinn anspricht , so lässt sich im Vergleich zur Darbietung des Rhapsoden eine stärkere Akzentuierung des Visuellen beobachten :
+Der Körper des Rhapsoden und die Bildlichkeit11 seiner sprachlichen Darstellung finden ihre dramatische Entsprechung in den Gesten gleich mehrerer Schauspielerkörper , die die Geschichte nicht erzählen , sondern in ihrer Verkörperung der Protagonisten , ausgestattet mit entsprechenden Gewändern und Masken , handelnd darstellen .
+Eine Aktualisierung mittels technischer Apparaturen erfährt die unmittelbare Audiovisualität der rhapsodischen und theatralen Darstellung Jahrtausende später in den elektronischen Medien Film und Fernsehen .
+Letztere vermitteln ihre Botschaften ebenfalls parallel auf zwei Wahrnehmungsebenen : auf der des Bildes sowie auf der des Tons .
+Obwohl technisch erzeugte und vermittelte Bilder und Töne kaum die Qualität der unmittelbar an den darstellenden Körper gebundenen sinnlichen Erfahrung mündlicher Kulturen erreichen , suchen sie diese nachzuahmen und noch zu übertreffen .
+Die technischen Möglichkeiten der Gegenwart schaffen die Voraussetzung für ungekannte Seh- und Höreindrücke , die in der wahrnehmbaren Realität jeder Entsprechung entbehren :
+Roboter mit übernatürlichen Fähigkeiten und synthetisch verzerrten Stimmen in ScienceFiction-Filmen beispielsweise .
+Audiovisuelle Bilder , obgleich zweidimensional , erzeugen aufgrund ihres Abbildens außerfilmischer Realität die Illusion eines dreidimensionalen Bildraumes .
+Sie zeigen jedoch nicht lediglich Reales im Sinne einer Abbildung .
+Vielmehr wird Reales in seiner zeitlichen und räumlichen Bewegung präsentiert , das Bild dadurch performativ ( vgl. Hickethier 32001 : 42 ) .
+Diese Eigenschaft teilen die elektronischen Medien Film und Fernsehen mit den Darbietungen des antiken Theaters :
+Theater- sowie Film- und Fernsehschauspieler imitieren eine Handlung , indem sie das Geschehen mittels Körperbewegungen zeigen .
+Der Autor spricht gewissermaßen durch die handelnden Figuren .
+Der Filmwissenschaftler David Bordwell ( 1985 : 3 ) bezeichnet diesen Modus des Erzählens als mimetische Narration :
+„ Mimetic theories conceive of narration as the presentation of a spectacle : a showing “ .
+Bordwell bezieht sich hierin auf die artistotelische Unterscheidung zwischen verschiedenen Modi der Imitation :
+dem Zeigen einer fiktiven Handlung durch verkörperte Charaktere einerseits und dem Erzählen einer Handlung durch einen Erzähler andererseits . 12
+Die ideale Verkörperung letzteren Verfahrens , der diegetischen Narration13 , ist der griechische Rhapsode :
+Seine Formulierungen evozieren das Geschehen in der Vorstellung der Zuhörenden ; seine Körperbewegungen imitieren lediglich den Rhythmus der gesprochenen Worte , haben vorrangig mnemonische Funktion , und dienen nicht der Handlungsdarstellung .
+Für das audiovisuelle Erzählen hingegen ist die Performativität des technischen Bildes so essentiell14 , dass Film und Fernsehen als Medien des „ bildhaften Erzählens “ ( Hickethier 32001 : 42 ) beschrieben werden können .
+Darüber hinaus bedienen sich auch Film und Fernsehen , ebenso das Theater , insofern des diegetischen Erzählens , als diese Medien nicht nur erzählen , indem sie zeigen , sie erzählen auch durch das Sprechen der Figuren über etwas , was sie nicht präsentieren .
+Nicht weniger bedeutend für die narrative Vermittlung durch Film und Fernsehen ist demnach der Ton und damit der Dreiklang von Sprache , Musik und Geräuschen .
+Ein Fehlen dieser akustischen Mittel stört den audiovisuellen Wahrnehmungsprozess und lässt ihn unvollständig erscheinen ( vgl. ebd. : 94 ) .
+Die Ära des Stummfilms und mit ihr die Frühzeit des Kinos münden in den zwanziger Jahren des 20. Jahrhunderts in die Entwicklung einer zufriedenstellenden Möglichkeit , Bild und Ton synchron aufzunehmen .
+Bereits in den Jahren zuvor wurden Filmvorführungen häufig musikalisch von Musikautomaten , Grammophonen , Klavierspielern oder ganzen Orchestern ( vgl. Müller 2003 : 90 ) begleitet .
+Aber erst mit der Einführung des Tonfilms konstituiert die Verbindung von Sprache , Musik und Geräuschen eine neben dem Bild wirkende und fortan unver zichtbare Wahrnehmungsebene .
+Beide Vermittlungsebenen können in unterschiedliche Beziehung mit je unterschiedlichen Effekten zueinander treten .
+Film und Fernsehen haben hierdurch vielfältige Narrationsmöglichkeiten und können gegenüber der mündlichen Mittelung von Geschichten sehr viel komplexere Handlungsstrukturen in Wort , Bild und Ton vermitteln .
+Nach der Jahrhunderte währenden Dominanz des geschrieben Wortes wird die neuerliche Betonung der auditiven Wahrnehmung durch die elektronischen Medien rückblickend als Wiederkehr des gesprochenen Wortes in der Gegenwart bezeichnet .
+Walter Ong nennt diesen Zustand in Orality and Literacy .
+The Technologizing of the Word ( 1982 : 3 ) in Abgrenzung zur primären Oralität schriftloser Kulturen „ sekundäre Oralität “ :
+„ The electronic age is also an age of ‚ secondary orality’ , the orality of telephones , radio , and television , which depends on writing and print for its existence ” .
+Zur Materialisierung des Wortes in den Medien Sprache und Schrift zur Zeit der Rhapsoden sowie des antiken Theaters tritt dessen technische Verkörperung in der medialen Gegenwart .
+Das sich mit der Erfindung der Schrift konstituierende Verhältnis von Mündlichkeit und Schriftlichkeit , Ohr und Auge , welches sich gegenwärtig im audiovisuellen Einklang von Bild und Ton manifestiert , rückt erst mit der Entwicklung der elektronischen Medien im 19. und 20. Jahrhundert in das Interesse kulturanthropologischer und medientheoretischer Debatten .
+Erst das Bewusstsein eines Kontrasts zwischen den neuen elektronischen Medien und den Printmedien , hervorgerufen durch die ungewohnte Qualität des Mündlichen in Hörfunk und Fernsehen , sensibilisiert gleichermaßen für den mediengeschichtlichen Übergang von einem Zustand ausschließlicher Oralität zur Literalität ( vgl. Ong 32012 : 2 ) von Kulturen .
+In diesem Sinn formuliert Ong15 ( ebd. ) : „ In this diachronic framework , past and present , Homer and television can illuminate one another ” .
+Primäre und sekundäre Oralität , konstatiert Ong ( vgl. ebd. : 134 ) , sind einander sowohl auffallend ähnlich als auch different 16 :
+Zwar sind orale Kulturen in ihren jeweiligen historischen Ausformungen durch einen starken Gemeinschaftssinn gekennzeichnet .
+In ihrer gegenwärtigen Ausprägung umfasst diese Gemeinschaft jedoch sehr viel mehr Menschen17 , da der Reichweite elektronisch vermittelter Mündlichkeit keine räumlichen und zeitlichen Grenzen gesetzt sind .
+Auch die Interaktion zwischen Erzähler und Zuhörer gestaltet sich , wie das nächste Kapitel zeigt , in der Rezeption des rhapsodischen Gesangs ähnlich wie in der Kino- und Fernsehrezeption – und doch anders .
+Das Zusammenwirken von auditiver und visueller Darstellungsebene im Rahmen der narrativen Vermittlung ist ein formales Charakteristikum , welches beiden untersuchten Medien , den griechischen Rhapsoden sowie Film und Fernsehen , gemeinsam ist :
+schreibt der Literaturwissenschaftler Harry Levin in seinem Geleitwort zu Albert Lords bedeutendem Werk The Singer of Tales ( 1960 ; dt. Der Sänger erzählt. Wie ein Epos entsteht , 1965 ) .
+Die formale Kontinuität zwischen den Medien der oralen Kultur Griechenlands und den audiovisuellen Medien der Gegenwart betrifft neben der medialen Darstellung die Struktur der jeweils narrativ vermittelten Inhalte .
+Im Folgenden rücken die Narrationsmuster von Mythos und Spielfilm in den Fokus der Untersuchung .
+Vor dem Hintergrund des Übergangs von der Oralität zur Literalität der griechischen Gesellschaft ist Homer neben dem Rhapsoden eine weitere emblematische Figur .
+Seine Dichtungen Ilias und Odyssee gelten als die frühesten Zeugnisse schriftlich fixierter Dichtung .
+Aristoteles ( vgl. Poet. : [ Kap. 3 ] ) exemplifiziert an ihnen seine Gattungsdefinition des antiken Epos als berichtende Nachahmung in Abgrenzung zum Drama .
+Epos im antiken Griechenland meint jedoch nicht Literatur in einem zeitgenössischen , von der Wortbedeutung abgeleiteten Verständnis , nämlich künstlerisches Schrifttum ( vgl. Moenninghoff 32007 : 445 ) .
+Vor ihrer kontinuierlichen Wiedergabe und Verbreitung in ihrer bis in die Gegenwart schriftlich überlieferten Form durch den rhapsodischen Sänger werden die homerischen Erzählungen in jahrhundertelanger Überlieferung mündlich tradiert .
+Geschichten werden gesungen und sprachlich derart geformt , dass sie während der Darbietung erinnert werden können .
+Über die Einbettung in die beschriebenen rhythmischen Gesetzmäßigkeiten hinaus weist die erzählte Geschichte interne Strukturelemente auf , die heute als ästhetische Strategien betrachtet werden , die sich aber ursprünglich ebenfalls nach mnemonischen Bedürfnissen formiert haben .
+Voraussetzung für das Memorieren von Geschichten im Akt der Imitation ist die emotionale Identifikation des Erzählers mit den vermittelten Inhalten .
+Sie bildet die Grundlage für die aktive Einbindung des Rhapsoden in das Wechselspiel von Einübung , Wiederholung und Darbietung von Geschichten .
+Letztere setzen sich daher aus Handlungen und Geschehnissen zusammen , die von bedeutenden Personen ausgeführt werden bzw.
+sich durch diese ereignen ( vgl. Havelock 1963 : 217 ) .
+Durch die mündliche Wiedergabe der Erlebnisse und aktiven Handlungen einer Figur wird es dem Sänger möglich , sich emotional mit dem Geschehen und den Figuren zu identifizieren .
+Es bedarf zudem bedeutender Charaktere , um Inhalte dauerhaft memorierbar zu machen :
+„ persons whose deeds are monumental , memorable and commonly public . [ … ] outsize figures , that is , heroic figures ” ( Ong 32012 : 69 ) .
+Die Taten des Helden18 konstituieren eine Kette von Ereignissen , deren Anfangs- und Endpunkt durch die Geburt und den Tod des Helden markiert sind ( vgl. Havelock 1963 : 171 ) .
+Diese Eckpfeiler begrenzen die Leben aller handelnden Figuren und umspannen daher einen Zeithorizont , in dem die berichteten Ereignisse verortet werden .
+Um die Geschehnisse während der Erzählung in der Erinnerung wieder erlebbar zu machen , muss neben der Zuordnung eines Ereignisses zu einer handelnden Person eine weitere Bedingung erfüllt sein .
+Diese betrifft die Abfolge der berichteten Ereignisse selbst :
+Erst deren Organisation im Kontext eines Verlaufszusammenhangs macht die Aussage zu einer narrativen und ihren Inhalt zu einer Geschichte19 .
+Die narrative Darstellung aufeinanderfolgender Ereignisse unterliegt ordnenden Strukturen , die über das Memorieren ( vgl.
+Havelock 1963 : 45 ) hinaus für die Wirkung der erzählten Geschichten relevant sind und die sich im Laufe der Jahrhunderte als Erzählkonventionen etabliert haben .
+Nach diesen Prinzipien formen sich die berichteten Geschehnisse nach dramatischen Gesichtspunkten zu einer in sich geschlossenen Handlung .
+In ihr spiegeln sich die Gliederung in Anfang , Mitte und Ende sowie die Relationen der Geschehnisse wider .
+Entsprechende Anforderungen an die epische Dichtung formuliert Aristoteles in der Poetik ( [ Kap. 23 ] ) :
+Mit Vergnügen sind Jammer ( Eleos ) und Schaudern ( Phobos ) gemeint , die als Wirkung vor allem dann eintreten , wenn Ereignisse unvorhergesehen und dennoch folgerichtig auseinander hervorgehen ( vgl. ebd. [ Kap. 9 ] ) .
+Dieses Ziel zu erreichen , ist Aufgabe des Dichters ( vgl. ebd. [ Kap. 14 ] ) :
+Er selektiert , ordnet und arrangiert die Geschehnisse überlieferter oder frei erfundener Stoffe in der Art , dass sie gemäß ihrer Wahrscheinlichkeit und Notwendigkeit aufeinanderfolgen .
+Wo dies nicht der Fall ist , spricht Aristoteles ( vgl. ebd. [ Kap. 9 ] ) von episodischen als den schlechtesten Handlungen .
+Aristoteles rühmt die Leistung Homers , der sich gehütet hat , in der Ilias den gesamten trojanischen Krieg darzustellen , obgleich dieser ein Anfang und ein Ende hat .
+Die Handlung wäre andernfalls zu umfangreich oder kompliziert ausgefallen ( vgl. ebd. [ Kap. 23 ] ) .
+Stattdessen führt Homer die wesentlichen Taten und Ereignisse20 , die ihrerseits jeweils in sich geschlossene , parataktisch nebeneinander stehende Episoden darstellen , zu einer einheitlichen Handlung zusammen ( vgl. ebd. [ Kap. 8 ] ; [ Kap. 26 ] ) .
+Letztere ist in ihrem Kern – es geht um Achilles Zorn – nicht länger als die einer Tragödie , durch die Ausgestaltung weiterer Ereignisse in zusätzlichen Episoden dennoch umfangreicher .
+Ebenso die Odyssee :
+„ Er [ Homer ] hat sich [ … ] einen einzigen Teil vorgenommen und die anderen Ereignisse in zahlreichen Episoden behandelt , wie im Schiffskatalog und in den übrigen Episoden , durch die er seine Dichtung auseinanderzieht “ ( ebd. [ Kap. 23 ] ; vgl. hierzu auch [ Kap. 17 ] ) . 21
+Die aristotelische Unterscheidung zwischen der zentralen Handlung der Ilias inklusive der sie konstituierenden Episoden einerseits und den zu sätzlichen Episoden als selbstständige Teile andererseits bei gleichzeitiger Lobpreisung der homerischen Epen als vollkommene „ Nachahmung einer einzigen Handlung “ ( ebd. [ Kap. 26 ] ) ist nur scheinbar ein Widerspruch :
+Obwohl Aristoteles seine Überlegungen stets durch das Prisma der dramatischen Handlung anstellt ( vgl. Andronikashvili 2009 : 76 ) , die in ihrem Umfang wesentlich kürzer ist und auf die Ausgestaltung von Episoden verzichtet ( vgl. Aristot. poet. [ Kap. 17 ] ) , betrachtet er für die epische Handlungsstruktur die Einheit der zentralen Handlung sowie der Episoden als konstitutiv .
+Die Anordnung der Ereignisse zu einer einheitlichen Handlung , die Handlungsstruktur , nennt Aristoteles Mythos ( µῦθος ) :
+„ Die Nachahmung von Handlung ist der Mythos . Ich verstehe hier unter Mythos die Zusammensetzung der Geschehnisse “ ( ebd. [ Kap. 6 ] ) .
+Die aristotelische Bestimmung des Mythos beinhaltet sowohl die Anordnung der Ereignisse im Akt der Konstruktion , der Dichtung , als auch die daraus resultierende Handlungseinheit im dichterischen Werk .
+Charakteristika des Mythos22 lassen sich aus den zuvor zitierten Anforderungen an die in Versen nachahmende Dichtung ableiten ( vgl. ebd. [ Kap. 23 ] ) :
+Der Mythos ist ein Ganzes , eine in sich geschlossene Handlung , die durch Anfang und Ende begrenzt wird .
+Zwischen diesen Konstanten entspricht die Abfolge der Ereignisse einem dramatischen Verlauf , der durch Peripetie und Wiedererkennung gekennzeichnet ist :
+Idealerweise fallen Peripetie und Wiedererkennung zusammen und bewirken dadurch Jammer und Schaudern ( vgl. ebd. [ Kap. 11 ] ) . 23
+Sie markieren im mittleren Teil des Mythos eine Wende , eine Zustandsänderung , die für die dramatische Spannung konstitutiv ist und das Ziel des Mythos definiert , nämlich den Umschlag von Glück in Unglück oder umgekehrt .
+Im Hinblick auf das Ziel der Handlung gehen alle Ereignisse folgerichtig auseinander hervor und stehen somit in einem logischen und kausalen Zusammen hang .
+Die strukturelle Einheit des Mythos ergibt sich aus aristotelischer Sicht demnach aus den konstitutiven Elementen Anfang , Mitte und Ende24 sowie einer Wende von einem Zustand in einen anderen .
+Insofern bildet das dichterische Werk , mit dessen Erzeugung der aristotelische Mythosbegriff eng verbunden ist ( vgl.
+Andronikashvili 2009 : 71 ) , eine abgeschlossene Einheit , einen fiktionalen Raum außerhalb der Welt , die es nachahmt .
+Die Nachahmung des Dichters betreffe laut Aristoteles ( Poet. [ Kap. 9 ] ) das Allgemeine , welches darin bestehe , „ daß ein Mensch von bestimmter Beschaffenheit nach der Wahrscheinlichkeit oder Notwendigkeit bestimmte Dinge sagt oder tut “ .
+Handlungen haben somit Modellcharakter .
+Letzterer lässt sich nicht nur aus der Geschichte extrahieren , sondern leitet bereits das dichterische Schaffen :
+Überlieferte und erfundene Stoffe soll der Dichter zunächst im Allgemeinen skizzieren und erst dann mit den Eigennamen der handelnden Charaktere befüllen und zu ihrer vollen Länge entwickeln ( vgl. ebd. [ Kap. 17 ] ) .
+Aristoteles exemplifiziert den ersten Schritt am Stoff der Odyssee :
+Obgleich Aristoteles inkonsequent hinsichtlich der Nennung von Eigennamen verfährt – indem Poseidon konkretisiert wird , Odysseus aber nicht – , deutet sich in seiner Beschreibung die dichterische Leistung der konkreten Ausformung von Stoffen und ihrer dramatischen Zuspitzung im Mythos25 an .
+Für diese Schritte bildet die Modellierung des Handlungsverlaufs , des Allgemeinen , das strukturelle Gerüst .
+Tatsächlich bedient sich Homer einer komplexen Erzählweise mit Parallelhandlungen ( z.B. die „ Telemachie “ ) , Einschüben und Rückblenden . 26
+So werden etwa die Abenteuer , die Odysseus auf seiner Irrfahrt von Troja in seine Heimat zu bestehen hat , erst im zentralen Teil des Epos durch Odysseus ’ eigene Schilderung erzählt , obwohl sie der Heimkehrererzählung zeitlich vorausgehen .
+In Entsprechung zu Aristoteles unterscheidet die strukturalistische Erzähltheorie zwischen zwei für die Erzählung konstitutiven Dimensionen : histoire und discours .
+Die erfundenen oder imitierten Geschehnisse ( nach Aristoteles ‚ Stoff’ ) werden in der Geschichte ( histoire ) zu einer Kette von Ereignissen ( nach Aristoteles ‚ Mythos ’ ) verknüpft und mit Charakteren sowie situativen Elementen verbunden .
+Das ‚ Was ’ der Geschichte materialisiert sich im ‚ Wie’ des Diskurses ( discours ) , der die Mittel beschreibt , durch die die Geschichte kommuniziert wird ( vgl. Kloepfer 42008 : 287 ) .
+An diese Unterscheidung anknüpfend , begreift Seymour Chatman ( 1978 : 19f.) ‚ Erzählung’ unter Berufung auf den französischen Strukturalisten Claude Bremond als eine unabhängige Struktur , die sich in verschiedenen Medien manifestieren kann : sowohl im Medium des Rhapsoden als auch in Film und Fernsehen .
+Im Hinblick auf die Odyssee lässt sich ausgehend vom aristotelischen Mythos oder der Chatmanschen Story zudem eine weitaus abstraktere Struktur27 identifizieren .
+Diese Struktur ist zyklisch und wird von dem amerikanischen Mythenforscher Joseph Campbell ( 32004 : 28 ) wie folgt beschrieben :
+Die in dieser schematischen Beschreibung der Heldenreise enthaltenen Schlüsselmomente Aufbruch ( departure ) , Initiation ( initiation ) und Rückkehr ( return ) sind der Kern dessen , was Campbell ( vgl. ebd. ) als Monomythos 28 identifiziert .
+Entsprechend der aristotelischen Handlungseinheit mit Anfang , Mitte und Ende handelt es sich auch bei dieser universalen Struktur um eine Triade :
+der Aufbruch des Helden aus seiner gewohnten Welt , die zu bestehenden Abenteuer während der Reise und seine Rückkehr .
+29 Aus der Analyse mythischer Geschichten aus der ganzen Welt schlussfolgert Campbell , dass die erzählten Geschichten stets diese Form haben . 30
+In The Hero with a Thousand Faces ( 1949 ) beschreibt er die Struktur des Monomythos als eine siebzehn Stadien umfassende Heldenreise .
+Die Anwendung dieser Grundstruktur auf Homers Odyssee ( vgl. Anhang A ) verdeutlicht ihre Variabilität :
+Weder müssen alle Phasen narrativ entwickelt sein – eine Vielzahl von Geschichten konzentriert sich laut Campbell ( vgl. ebd. : 228 ) auf die umfassende Darstellung von ein oder zwei Stationen der Reise – , noch müssen sie zwingend in der beschriebenen Reihenfolge auftreten .
+Episoden können außerdem miteinander verschmelzen oder in vielfacher Variation wiederkehren .
+Das zyklische Handlungsschema der Heldenreise ist das strukturelle Gerüst einer jeden Geschichte .
+Es ist universell , existiert unabhängig von Ort und Zeit und ermöglicht die umweltspezifische Ausgestaltung unter vielfältigen kulturellen und historischen Bedingungen .
+Campbell spricht deshalb von einem „ archetypal pattern ” ( ebd. : 36 ) mit „ archetypal stages “ ( ebd. : 355 ) .
+Für ihn sind Mythen nicht nur Manifestationen des Unbewussten , sondern kontrollierte und vorsätzliche Äußerungen geistiger Prinzipien , die im Laufe der Menschheitsgeschichte ebenso konstant geblieben sind wie die Form der menschlichen Psyche selbst ( vgl. ebd. : 239 ) .
+Mit dieser psychologischen Interpretation des Mythos und dem Begriff des Archetypus nimmt Campbell Bezug auf die Lehre des analytischen Psychologen Carl Gustav Jung .
+Jung ( vgl. 1995 : 14 ) bestimmt Archetypen in der ersten Hälfte des 20. Jahrhunderts als seit jeher vorhandene allgemeine Bilder , die Inhalt des kollektiven Unbewussten sind .
+Dieses ist im Gegensatz zum persönlichen Unbewussten „ in allen Menschen sich selbst identisch und bildet damit eine in jedermann vorhandene , allgemeine seelische Grundlage überpersönlicher Natur “ ( ebd. : 13f. ) .
+Inhalte und Verhaltensweisen entstammen nach Jung nicht der persönlichen Erfahrung und Erwerbung , sondern sind angeboren und daher allen Individuen gemeinsam .
+Als psychisches Konstrukt sind Archetypen lediglich formal als gegebene Möglichkeit einer Vorstellungsform bestimmt , insofern sie noch keiner bewussten Bearbeitung unterliegen .
+Inhaltlich greifbar wird der Archetypus erst durch seine Wahrnehmung , dadurch dass er mit bewusster , individueller Erfahrung ausgefüllt und dadurch gleichsam verändert wird ( vgl. ebd. : 95 ) .
+Ihren symbolischen Ausdruck finden die unbewussten Archetypen unter anderem in Träumen und Mythen , die als psychische Manifestationen das Wesen der Seele darstellen . 31
+In Erzählungen beständig wiederkehrende Personentypen ( Mutter , Narr ) betrachtet Jung demnach als Signifikanten eines seelischen Signifikats .
+Ein Archetyp im Sinne Jungs ist auch die von Campbell ausführlich beschriebene Figur des Helden , die , wie der Titel seines Buches suggeriert , lediglich in ihrer historischen und kulturellen Erscheinung mannigfaltig ist : „ Im Kern , könnte man sogar sagen , gibt es nur einen einzigen archetypischen mythischen Helden , dessen Leben in vielen Ländern von vielen , vielen Menschen nachgestaltet worden ist “ ( Campbell 1994 : 161 ) .
+Hieß der Held vor knapp dreitausend Jahren Odysseus oder Achilles , so nimmt er heute die Gestalt von Indiana Jones oder Harry Potter an .
+Für das zeitgenössische Erzählen in Film und Fernsehen erweist sich Campbells Mythenforschung in der Folgezeit als äußerst fruchtbar .
+Ausgehend von den Überlegungen Campbells und Jungs erarbeitet Christopher Vogler in Anlehnung an seine Tätigkeit in der Entwicklungsabteilung von „ The Walt Disney Company “ ein wenige Seiten umfassendes Handbuch für Filmautoren und -regisseure .
+A Practical Guide to The Hero with a Thousand Faces ( 1985 ) wird 1992 unter dem Titel The Writer's Journey :
+Mythic Structure for Storytellers and Screenwriters32 zu einer umfangreichen Veröffentlichung ausgearbeitet , die in der amerikanischen Filmszene hohen Rang und Einfluss genießt ( vgl. Schneider 2007 : 332 ) .
+Den Campbellschen Entwurf leicht modifizierend beschreibt Vogler ( vgl. 21998 : 54-75 ) die Dramaturgie der Heldenerzählung als eine zwölf Stadien umfassende Reise 33 , mit deren Hilfe sich eine Geschichte so konstruieren lässt , „ daß sie sich nahezu jeder Gegebenheit anpasst und obendrein noch dramatisch , unterhaltsam und psychologisch stimmig ist “ ( Vogler 21998 : 50 ) .
+Das Erfolgspotenzial des mythischen Narrationsmusters wurde insbesondere von der amerikanischen Filmindustrie erkannt und umgesetzt :
+Hollywood-Produktionen lassen sich weltweit vermarkten , da sich in den audiovisuell vermittelten Geschichten vertraute Formen und Symbole manifestieren , die in jeder Kultur latent vorhanden sind und mit denen sich die meisten Menschen identifizieren können ( vgl. hierzu Röll 1998 : 152 ; Görden / Meiser 1994 : 39 ) .
+Tatsächlich lässt sich das narrative Muster der Heldenreise in Filmen aller Genres und nicht nur in amerikanischen Produktionen identifizieren , wie eine exemplarische Analyse des Thrillers MATCH POINT ( GB / USA / L 2005 , Woody Allen ; vgl. Anhang B ) sowie des Dramas VINCENT WILL MEER ( D 2010 , Ralf Huettner ; vgl. Anhang C ) zeigt .
+Wie Campbell konzipiert auch Vogler sein Handlungsschema als einen zyklischen Dreischritt , Akt I-III , und folgt damit dem in der Drehbuchtheorie etablierten Paradigma des idealen Aufbaus der Filmhandlung .
+Die Drei-Akt-Struktur der Filmdramaturgie steht in der Tradition sowohl des aristotelischen Mythos als auch der klassizistischen Konzeption des geschlossenen Dramas :
+Die formalen Grundlagen der klassischen Tragödie wurden in der Neuzeit standardisiert und zu einer Norm erhoben .
+Aus der aristotelischen Poetik , „ dem Grundbuch der europäischen Dramentheorie “ ( Hofmann 2013 : 14 ) , wurde das geschlossene Drama abgeleitet , dessen Bauform mit fünf Akten34 Gustav Freytag in dem dramaturgischen Lehrbuch Die Technik des Dramas ( 1863 ) festschreibt .
+Die Drei-Akt-Struktur des Spielfilms stellt sich als eine komprimierte Form des Fünfakters mit Exposition , Verwicklung ( steigende Handlung mit Höhepunkt und Peripetie ) und Katastrophe bzw. Lösung dar ( vgl. Ryssel 2012 ) . 35
+Im Zeitalter der elektronischen Medien manifestiert sich die dramatische Stofforganisation in der Darstellung des Geschehens vor der Kamera .
+Dabei handelt es sich jedoch lediglich um eine Ebene , auf der Film und Fernsehen ihre narrativen Inhalte36 innerhalb des konstitutiven Rahmens Anfang , Mitte und Ende gestalten .
+Die narrative Vermittlung umfasst darüber hinaus die in die Kamera eingeschriebenen Formen des Erzählens ( Perspektive , Standpunkt ) sowie die Montage und den Schnitt des filmischen Materials .
+Audiovisuelles Erzählen meint demnach in Analogie zum mündlichen Erzählen die Erfindung und Gestaltung eines Geschehens durch den Erzähler bzw. durch die Zusammenarbeit von Drehbuchautor , Regisseur und Produzent .
+Auch wird die Handlungsstruktur eines Spielfilms nicht nur als Fabel oder Plot , sondern in Anlehnung an die aristotelische Definition auch als Mythos ( vgl. Hickethier 32001 : 114 ) bezeichnet .
+Die bestehende formale Homologie zwischen Rhapsoden sowie Film und Fernsehen operiert demnach auf zwei Ebenen :
+auf der Ebene des Mediums selbst und dessen Darstellungsmitteln sowie auf der Ebene der narrativ vermittelten Inhalte , die sich strukturell als ein geschlossenes Ganzes darstellen , innerhalb dessen die Geschehnisse in einer funktionalen Beziehung zueinander stehen .
+Die im Vorherigen vorgenommenen Bestimmungsversuche des vielschichtigen Mythosbegriffs 37 lassen sich in der Art zusammenführen , dass die Allgegenwart des Mythos in jeder Kultur und zu jeder Zeit deutlich wird .
+Die poetologische Bestimmung des Mythos als nachahmende Handlung geht zwar von der Prämisse der Schrift und der Forderung einer dramatischen Wirkung aus .
+Gültigkeit besitzt sie jedoch für jede Art von Geschichte , auch für die im Medium des gesprochenen Wortes konstruierte , insofern alle Narrationen über eine Handlung im Sinne eines bestimmten Arrangements des zugrunde liegenden Stoffes verfügen .
+Diese Betrachtungsweise macht ersichtlich , weshalb der Begriff ‚ Mythos ’ gemeinhin mit den Erzählungen des antiken Griechenlands assoziiert wird :
+Die frühesten Zusammenstellungen von Geschehnissen sind mündliche , im Gesang des Aoiden tradierte Mythen38 , die mit der Erfindung der griechischen Alphabetschrift erstmals schriftlich fixiert , dauerhaft erhalten und als Stoffvorlage nutzbar gemacht werden .
+Diese früheste inhaltliche Ausgestaltung einer Handlungsstruktur fungiert demnach als Bezugsgröße sowohl für die formale als auch für die inhaltliche Deutung des Mythos .
+Die formale Bestimmung des Mythos als Handlung erweist sich als äußerst fruchtbar , da sie auf zwei für den Nachweis der Kontinuität zwischen Rhapsoden sowie Film und Fernsehen wesentliche Aspekte verweist .
+Zunächst bildet die Handlung in ihrer jeweiligen inhaltlichen Ausgestaltung das strukturelle Gerüst der Geschichte :
+Mythos als Form organisiert den narrativen Inhalt zu einem in sich geschlossenen Ganzen , das von Rhapsoden sowie Film und Fernsehen narrativ vermittelt wird .
+Des Weiteren stellt der Mythos ein universales Grundmuster des Erzählens dar .
+Das Konzept des Monomythos rekurriert auf eine von Archetypen bevölkerte , biologisch vorprogrammierte Denkweise , ohne die kulturelle Geprägtheit konkret ausgestalteter Plots zu negieren .
+Hinsichtlich dieses Aspekts stellt sich der Mythos nicht nur als ein narratives Vermittlungssystem , sondern ebenfalls als ein narratives Erkenntnissystem ( vgl. Bleicher 1999 ) dar , welches durch die Struktur von Heldenreise und Archetypen organisiert ist und sich in verschiedenen Medien artikuliert .
+So unterschiedlich der Mythos definitorisch auch gefasst wird , in Bezug auf seinen Leistungswert und seine Funktion haben sich einander ähnelnde Konzepte herausgebildet .
+In ihnen wird der Mythos als ein Modell für das menschliche Verhalten und Denken in Auseinandersetzung mit der Umwelt aufgefasst ( vgl. hierzu Bartel 2004 : 16 , Görden / Meiser 1994 : 48 ) : Indem Menschen ihre Erfahrungen in bestimmte – narrative – Strukturen , in einen Zusammenhang aus konkreten Objekten und miteinander verbundenen Ereignissen einordnen , werden diese sinnhaft organisiert .
+Infolgedessen scheint die Annahme gerechtfertigt , dass sich die Formgleichheit von antiken Mythen und zeitgenössischen Spielfilmen aus einer funktionalen Notwendigkeit ihrer Vermittlung speist .
+Die Beantwortung der Frage , worin diese Notwendigkeit besteht , wird im folgenden Kapitel eingeleitet durch eine Analyse der Effekte , die die Vermittlung von Erzählungen durch Film und Fernsehen sowie Rhapsoden auf die Rezipienten hat .
+Die audiovisuellen Medien Film und Fernsehen aktualisieren in der narrativen Vermittlung ihrer Inhalte sowohl die Darstellungsweisen der rhapsodischen Darbietung als auch die Struktur mythischer Erzählungen .
+In der formalen Homologie zwischen den erzählenden Medien der Antike und der Gegenwart deutet sich insofern eine ebenfalls vergleichbare Wirkungsweise an , als die formalen Gestaltungsmittel des Mediums dessen Effekte auf den Rezipienten bedingen .
+Für die Frage nach den Wirkungen eines bestimmten Mediums sind unter anderem die mediale Darstellung und die Rezeptionssituation ( vgl. Lukesch 1996 : 24f. ) bedeutsame formale Charakteristika .
+Da bei der Rezeption audiovisuell vermittelter Inhalte die gleichen Wahrnehmungskanäle aktiviert werden wie während der rhapsodischen Darbietung , können vergleichbare Effekte von Rhapsoden sowie Film und Fernsehen auf den Rezipienten angenommen werden .
+Einem tiefgreifenden Wandel unterliegt hingegen der situative Kontext der Rezeption :
+Während in oralen Gesellschaften die Präsenz des Sängers und die des Publikums einander bedingen , lösen technische Entwicklungen den Rezeptionsvorgang aus seiner örtlichen und zeitlichen Gebundenheit an den Produktionsvorgang .
+Mit der Erfindung technischer Apparaturen zur Aufzeichnung von bewegten Bildern und von Tönen wird es nicht nur möglich , ästhetische Inhalte beliebig oft zu reproduzieren ( vgl.
+Benjamin 1939 ) , sondern auch Filmaufnahmen aus der ganzen Welt im Kino oder im heimischen Wohnzimmer etliche Jahre später zu rezipieren .
+Neben der formalen Umsetzung von Inhalten durch ein bestimmtes Medium sind auch die Inhalte selbst relevant für die Medienwirkung ( vgl. Schenk 2007 : 40 ) .
+Im Rahmen dieser Untersuchung gilt das den Inhalt betreffende Forschungsinteresse in Entsprechung zum vorangegangenen Kapitel jedoch lediglich der Struktur der vermittelten Inhalte .
+Die Frage nach der Medienwirkung gründet sich auf die Annahme , dass die Nutzung von Medien nachweisbare Effekte auf das Individuum hat .
+Wirkung in diesem Sinne meint die ursächliche , eindeutig identifizierbare und nachweisliche Veränderung , die von einem Objekt oder Subjekt auf ein anderes ausgeht ( vgl. Kübler 2010 : 18 ) . 39
+Über die Qualität der Wirkung sowie ihr Ausmaß herrscht hingegen kein wissenschaftlicher Konsens ( vgl. McQuail 62010 : 454 ) .
+Auch ist der eindeutige Nachweis von Medieneffekten in der Praxis problematisch , da die aussagekräftigsten Resultate gewöhnlich innerhalb spezifischer Versuchsreihen und somit unter höchst künstlichen Bedingungen erbracht werden ( vgl. Perse 2001 : 22 ) .
+Umfassende Erklärungen für die Wirkung von Medien stehen bislang aus .
+In den vergangenen Jahrzehnten verschob sich der Fokus des Untersuchungsinteresses von den Gefahren des Medienkonsums und seinen negativen Folgen hin zu den positiven Effekten des Medieneinflusses :
+Während in der Frühphase der Medienwirkungsforschung in der ersten Hälft des 20. Jahrhunderts das Medium und die Suche nach Kausalbeziehungen zwischen den Darstellungen in den Massenmedien und den Einstellungen der Zuschauer im Mittelpunkt stehen40 , rückt in den siebziger Jahren der Rezipient als aktiver Konstrukteur von Bedeutung im Prozess der Mediennutzung in den Vordergrund ( vgl. McQuail 62010 : 456-459 ) .
+Der rezipientenorientierte Ansatz in der Medienwirkungsforschung41 untersucht die kommunikationsrelevanten Motive der Mediennutzung ( vgl. Bonfadelli 2004 : 33 ) und ist eng verknüpft mit konstruktivistischen Überlegungen .
+Letztere beziehen sich sowohl auf das Medium als ein Wirklichkeit konstruierendes und vermittelndes als auch auf den Rezipienten , der sich die Medienwirklichkeit vor dem Hintergrund und in Wechselwirkung mit seiner subjektiv konstruierten Realität sinnhaft aneignet ( vgl. McQuail 62010 : 459 ) .
+Die sinnliche Erfassung und kognitive Verarbeitung von Medienbotschaften wird in der vorliegenden Arbeit in diesem Sinne begriffen als ein subjektiver , aktiver und konstruktiver Prozess .
+Die in die Medienrezeption involvierte „ psychologische Trias “ ( Trepte / Reinecke 2013 : 16 ) aus Emotion , Kognition und Verhalten spiegelt sich auch auf der Ebene der Medieneffekte wider. 42
+Die Medienwirkungsforschung unterscheidet entsprechend zwischen affektiven und kognitiven Effekten sowie Wirkungen auf der Ebene des Verhaltens ( vgl. McQuail 62010 : 467 ; Schenk 2007 : 41 ; Perse 2001 : 3 ) .
+Obgleich sich die psychologischen Aspekte des Erlebens und Verhaltens einzeln benennen und auf jeweils unterschiedliche Wirkungsdimensionen beziehen lassen , sind sie im Prozess der Mediennutzung doch unmittelbar aneinandergekoppelt .
+Wenn im Folgenden der Versuch unternommen wird , Rhapsoden sowie Film und Fernsehen im Hinblick auf ihre Effekte auf den Rezipienten zu erforschen , geht es weniger um die Abgrenzung und Darstellung unterschiedlicher Wirkungsebenen , als vielmehr um die Analyse des Zusammenspiels von Fühlen , Denken und Verhalten im Rahmen der Rezeption medialer Narrationen .
+In der Rezeption von Mythen und Spielfilmen , so die These , wirken die medialen sowie inhaltlichen Strukturen in der Art auf die Emotionen und die Kognition des Rezipienten , dass dieser neues Wissen erlangt und bereits vorhandenes Wissen bekräftigt oder modifiziert wird .
+Die Untersuchung der Gestalt des mündlich und audiovisuell vermittelten Wissens , dessen Relation zur Wirklichkeit des Rezipienten sowie der Prozess des Wissenserwerbs durch selbigen sind Gegenstand dieses Kapitels .
+Die Charakterisierung von Film und Fernsehen als Enzyklopädien wirft die Frage auf , inwiefern sich der traditionell auf Schrifterzeugnisse bezogene Gattungsbegriff auf die audiovisuellen Medien übertragen lässt .
+In der Literaturwissenschaft meint Enzyklopädie „ die Gattung von Werken der Wissensliteratur [ … ] , die die Gesamtheit des theoretischen und praktischen Wissensstoffs und / oder den Zusammenhang und die Anordnung des Wissens , seine Gliederung und Klassifikation enthält “ ( Meier 32007 : 192 ) .
+Die in dieser Definition enthaltenen Bedeutungskomponenten verweisen auf einen semantischen Wandel in der Begriffsgeschichte .
+Die definitorische Betonung des Zusammenhangs und der Anordnung von Wissen hat ihren Ursprung in der Etymologie des Wortes : In der griechischen Antike bedeutet enkýklios paideía ‚ Kreis der / kreisförmige Erziehung / Bildung’ .
+Das Bild des Kreises bezieht sich zunächst auf die Einheit der Bestandteile der chorischen Erziehung43 und wird erst im 19. Jahrhundert auf das im Kreisbild implizite Moment der Gesamtheit und damit auf die umfassende Darstellung des Wissens ausgeweitet ( vgl. Dierse 1977 : 2-6 ) .
+Die gegenwärtige , an ein schriftlich fixiertes und vermitteltes Wissen geknüpfte Bedeutung von ‚ Enzyklopädie’ gründet sich auf eine Form der Wissensvermittlung , die ursprünglich oraler Natur ist : Bis zur Mitte des 5. Jahrhunderts v. Chr. ist der Begriff enkýklios paideía eng mit dem griechischen Mousike , dem Dreiklang aus Rhythmus , Melodie und Sprache ( vgl. ebd. : 6 ; Havelock 1982 : 186 ; Murray / Wilson 2004 : 1 ) , verbunden .
+Mousike ist das Curriculum der griechischen Oberklasse ( vgl. Havelock 1990 : 80 ) und beinhaltet die mündliche Unterweisung junger Griechen in instrumenteller Musik , Rezitation und rhythmischer Bewegung .
+Zum Zwecke der musischen Bildung werden mündliche Dichtungen älterer Sänger memoriert und wiedergegeben ( vgl. Havelock 1982 : 14 ) , währenddessen die rhythmischen Memorialtechniken eingeübt und angewandt .
+Diese Unterrichtskomponenten verlieren erst mit der Durchsetzung der Schrift und der institutionellen Vermittlung der Lese- und Schreibfähigkeit an Bedeutung .
+Die durch das gesprochene Wort wirkenden Kräfte Rhythmus und Harmonie sind nach griechischem Verständnis die seelenformenden Kräfte schlechthin ( vgl. Jaeger 21936 : 18 ) , insofern die geistige Tätigkeit von zentraler Bedeutung für die Wirkung der Paideia ist ( siehe Kapitel 2.2 ) .
+Rhythmus und Melodie des gesprochenen Wortes sind nicht Inhalt und Ziel der griechischen Erziehung , sondern vielmehr deren Vehikel .
+Im Medium der mündlichen Dichtung manifestiert sich der eigentliche Gegenstand der Paideia : der griechische Mythos .
+Mythen exemplifizieren das Ideal griechischer Erziehung in Form von Geschichten und sind deshalb für die Ausbildung der Arete von vitaler Notwendigkeit .
+Der Begriff ‚ Arete ’ , die Vortrefflichkeit einer Person bezeichnend , ist seit Sokrates eng mit der Paideia verknüpft , die somit zum Inbegriff des idealen körperlichen und seelischen Geformtseins wird ( vgl. ebd . : 362 ) .
+In seinem Denken um die richtige Lebensführung44 bezeichnet Sokrates mit Arete das sittlich Gute , für dessen Hervorbringung allein die richtige Vorstellung genügt ( vgl. Plat. Men. : 97a - 98c ) .
+Verkörpert in den homerischen Epen , manifestiert sich die Arete des Helden in dessen Tapferkeit und Klugheit sowie seiner körperlichen Stärke und Anmut ( vgl. Jaeger 21936 : 27 ) .
+Diese Eigenschaften befähigen etwa Achill zu überragenden und ruhmreichen Taten im Trojanischen Krieg .
+Indem der epische Held verschiedenste Herausforderungen besteht und an diesen kontinuierlich wächst , erweist er sich letztendlich als ideale Verkörperung eines tugendhaften Lebens , wodurch ihm die Rolle des heroischen Vorbildes zuteil wird .
+„ So fällt die Geschichte der griechischen Bildung im Wesentlichen zusammen mit der sogenannten Literatur .
+Sie ist im ursprünglichen Sinne ihrer Schöpfer der Ausdruck der Selbstformung des griechischen Menschen “ , schreibt Werner Jaeger ( ebd . : 18 ; vgl. hierzu auch Havelock 1963 : 47 ) in seinem Standardwerk Paideia .
+Die Formung des griechischen Menschen ( 1934-1947 ) .
+Im griechischen Denken der Antike geht das Ästhetische der Dichtung mit dem Ethischen der Erziehung einher .
+Die homerischen Epen erklärt Jaeger ( vgl. ebd. : 73 ) aufgrund ihrer idealbildenden Qualität zur Wurzel der griechischen Bildung schlechthin .
+Diese These vertritt auch Eric Havelock ( vgl. 1963 : 87 ) .
+Platons Kritik an den poetischen Qualitäten der Erziehung in der Politeia als Ausgangspunkt seiner Betrachtung nehmend , untersucht der Philologe unter anderem die Form und den Inhalt des in den homerischen Epen bewahrten Wissens .
+Letzteres ist derart umfassend , dass Havelock ( 1963 : 27 ) die Ilias und die Odyssee als Enzyklopädien der griechischen Paideia bezeichnet : „ a sort of encyclopedia of ethics , politics , history and technology which the effective citizen was required to learn as the core of his educational equipment ” .
+In oralen Kulturen , die weder über in Gesetzen schriftlich fixierte Normen noch über Handbücher verfügen , sind sowohl das Wissen um moralische45 Gebote und Regeln des Zusammenlebens als auch Kenntnisse und Fertigkeiten der praktischen Lebensführung relevant .
+Wenn Homer beispielsweise im ersten Buch der Ilias ( vgl. Havelock 1963 : 81 ) ausführlich das Beladen , Ab- und Anlegen sowie Entladen eines Schiffes beschreibt , dient dieser Bericht nicht nur der narrativen Ausgestaltung zur Steigerung der Anschaulichkeit , sondern auch , und entscheidender , der Vermittlung praktischer Kenntnisse der Seemannskunst .
+Die richtige Vorstellung von einem Leben im Sinne der Arete wird in mündlichen Erzählungen nicht im Hinblick auf grundlegende Prinzipien oder dahinter stehende Ideen beschrieben .
+Narrationen als Enzyklopädien des sozialen Wissens zu begreifen , bedeutet nicht , dass Geschichten eine präzise Definition eines Wissensbereiches geben oder Verhaltensregeln formulieren .
+Wissen offenbart sich in ihnen vielmehr in der Schilderung bestimmter Situationen und der Interaktion von Figuren :
+Geschichten illustrieren sittliche Verhaltensweisen durch die Handlungen von Figuren ( vgl. Havelock 1986 : 77 ; Robinson / Hawpe 1986 : 124 ) und lediglich im Hinblick auf ihre Effekte im Kontext bestimmter Figurenkonstellationen .
+Havelock ( 1963 : 223 ) exemplifiziert dies am Beispiel der Ilias :
+„ We learn the importance of piety , or its reverse sacrilege , from what happens to Agamemnon and to the army in the opening of the Iliad . We are not treated to the notion , still less to the definition , of ‚ piety per se ’ . ”
+Mythen organisieren die tradierten Verhaltensmuster der Mitglieder einer Gemeinschaft narrativ , sodass sich im Handeln und in der Rede von Figuren die Normen und Werte der Gemeinschaft manifestieren ( vgl. ebd. : 77 ) .
+Demnach fungiert die narrative Darstellung des Handelns , der Haltung sowie der Rede von Figuren als situativ angemessenes im Kontrast zu einem unangemessenen Verhalten als Modell .
+An diesem orientieren sich junge Griechen , um eine Vorstellung darüber zu erlangen , welches Verhalten in der Gemeinschaft akzeptiert ist und welches nicht .
+Als Beispiel kann auch hier Achill herangezogen werden :
+Dessen Erziehung befähigt ihn , sich sowohl in einer Gruppe , gegenüber Agamemnon , einem gleichrangigen Gefährten oder einem Sklaven angemessen zu verhalten ( vgl Robb 1994 : 165 ) .
+Durch die Aneinanderreihung zahlreicher Episoden liefert das Epos vielfältige Beispiele für sittliche Verhaltensweisen in den unterschiedlichsten sozialen Situationen ( vgl. Havlock 1963 : 186 ) .
+Das innerhalb des erzählerischen Rahmens vermittelte Wissen umfasst demzufolge die Gesamtheit der Kenntnisse , über die ein Grieche verfügen muss , um erfolgreich mit der Gemeinschaft zu interagieren und sich hierdurch als ihr Mitglied zu erweisen .
+Dieses Wissen beinhaltet im Sinne der Arete die Kenntnis der in der Gruppe herrschenden Werte und Normen .
+Nach soziologischem Verständnis bezeichnen Werte bewusste oder unbewusste Vorstellungen des Gewünschten und Guten , die sich bei der Wahl zwischen Handlungsalternativen als Präferenz niederschlagen ( vgl. Friedrichs 42007 : 725 ) .
+Aus ihnen lassen sich Normen ableiten , die die Einhaltung des jeweiligen Wertes als das Richtige vorschreiben ( Kettner 2004 : 222 ) und die somit als Verhaltensregeln fungieren .
+Durch die narrative Darstellung handelnder Figuren definieren und veranschaulichen Mythen situationsbezogene Verhaltensregeln , die das Leben in der Gemeinschaft orientieren .
+Für das gemeinschaftliche Miteinander sind Mythen deshalb unabdinglich .
+Obwohl der Rhapsode als Träger und Übermittler der Paideia eine Sonderstellung innehat , ist Erziehung in der griechischen Antike ein gemeinschaftlicher Prozess ( vgl. Jaeger 21936 : 2 ) :
+Die Wertvorstellungen , nach denen Heranwachsende über den Umweg der epischen Dichtung geformt werden , wurden in der Gemeinschaft durch das gemeinschaftliche Zusammenleben entwickelt und sind daher für die Gemeinschaft konstitutiv .
+Die narrativ geformte Sprache repräsentiert dieses gemeinschaftliche Wissen , welches die kollektiven Erfahrungen und die aus ihnen abgeleiteten kollektiven Erwartungen , wie in der Gemeinschaft gehandelt werden soll , umfasst .
+Das im Vorhergehenden in Bezug auf die dichterische Sprache Dargelegte , formuliert der Sozialpsychologe George Herbert Mead ( vgl. 1973 : 187ff .) im Hinblick auf die Sprache als solche .
+Sprache begreift Mead als Symbol , welches innerhalb einer Gemeinschaft auf einen generellen Sinnzusammenhang verweist .
+Die sich im Symbol der Sprache manifestierenden Bedeutungen leiten ihm zufolge nicht nur das menschliche Handeln , sie konstituieren sich überhaupt erst durch die Interaktion von Menschen .
+Im Bemühen um eine Synthese zwischen Behavorismus , der den Menschen als auf seine Umwelt reagierendes soziales Wesen betrachtet , und Pragmatismus , eine Sozialphilosophie , die das Wesen des Menschen in seinem Handeln erkennt , begreift Mead Menschen als Wesen , die auf Reize in Form von Verhalten reagieren und somit wechselseitig aufeinander einwirken ( vgl. Abels 2010 : 73f .) .
+Auf äußere Reize , körperliche oder lautliche Gebärden , reagiert der Mensch in der Art , dass er , die Haltung des Anderen einnehmend , in Gedanken dessen Handlung als Reaktion auf die eigene Aktion antizipiert ( vgl. Mead 1973 : 300 ) .
+Diesen interaktiven Prozess wechselseitiger Verschränkung der eigenen mit der Perspektive anderer , bei dem die individuelle stets die soziale Perspektive involviert , nennt Mead ( ebd .) die Fähigkeit zur „ Übernahme der Rolle anderer “ .
+Sie lässt Reize zu Symbolen werden , zu Zeichen also , die auf den auf Erfahrungen basierenden Sinn von Dingen verweisen und auf die Menschen reagieren .
+Dass sie letzteres im Wissen um den Unterschied zwischen dem Ding und seiner Bedeutung tun , zeichnet die Menschen als denkende Wesen aus ( vgl. ebd. : 161ff.) .
+Üben Gebärden auf das ausführende Individuum die gleichen Effekte aus wie auf dasjenige , an das sie sich richten , handelt es sich um signifikante Symbole ( vgl. ebd. : 85 ) .
+In diesem Sinne stellt Sprache für Mead ein komplexes Symbolsystem dar , dem die Mitglieder einer Sprachgemeinschaft die gleiche Bedeutung beimessen , das bei ihnen die gleichen Reaktionen auslöst und das somit ihr Verhalten leitet .
+Die Bedeutung der durch den Menschen wahrnehmbaren Dinge , die als Symbole fungieren , ist jedoch keineswegs starr und auf Dauer festgelegt .
+Vielmehr unterliegen die in der sozialen Interaktion entstehenden oder aus ihr abgeleiteten Bedeutungen einem interpretativen Prozess , der sie modifiziert .
+Unter dieser Prämisse systematisiert Herbert Blumer , ein Schüler Meads , dessen Ansatz und gibt ihm den Titel Symbolischer Interaktionismus .
+Indem Individuen Dingen und Handlungen bestimmte Bedeutungen beimessen , so die theoretische Überlegung , definieren sie den Sinn der Situation .
+Da sie dies fortlaufend und in Reaktion auf die Interpretation der anderen tun , legen sie den Rahmen der gemeinsamen Situation kontinuierlich neu fest ( vgl. Abels 2010 : 94ff .) .
+Verdeutlichen lässt sich diese Überlegung im Hinblick auf die soziologische Diskussion des Normbegriffs ( vgl. Peters 2008 : 207 ) : Soziale Normen lassen sich zwar sprachlich formulieren , aber sie liegen nicht als objektive Regeln vor .
+Vielmehr sind sie Vorstellungen Handelnder , die die wechselseitige Interpretation von Handlungen leiten , die dabei aber ebenso je nach Kontext in ihrer Bedeutung aktualisiert werden .
+Die aufgezeigte narrative Darstellung lediglich der Effekte sittlich guten Handelns in den homerischen Epen illustriert diesen Umstand .
+Meads theoretische Verknüpfung von sozialem Handeln mit der Entstehung von geistiger Bedeutung eröffnet einen neuen Zugang zum komplexen Begriff des Wissens .
+Wissen erscheint nun nicht mehr als etwas außerhalb des Menschen Liegendes , das diesem lediglich vermittelt wird oder der Erkenntnis durch individuelle Wahrnehmungs- und Denkprozesse bedarf .
+Von der erkenntnistheoretischen Betrachtungsweise unterscheidet sich Meads Zugang insofern , als er den Menschen als Teil eines sozialen Zusammenhangs betrachtet .
+Erkenntnis und soziales Handeln sind für ihn eng miteinander verknüpft .
+Mead und der Symbolische Interaktionismus gelten damit innerhalb der Wissenssoziologie , deren zentrale These eben die Sozialität von Wissen und Erkennen ist ( vgl. Knoblauch 2005 : 14 ) , als Vorläufer des von Peter Berger und Thomas Luckmann begründeten Sozialkonstruktivismus .
+In The Social Construction of Reality ( 1966 ; dt. Die gesellschaftliche Konstruktion der Wirklichkeit , 1969 ) entwerfen Berger / Luckmann im Anschluss an Alfred Schütz , der seinerseits den Ansatz des Symbolischen Interaktionismus aufgreift ( vgl. Knoblauch 2005 : 138 ) , und unter von Mead beeinflussten sozialpsychologischen Voraussetzungen ( vgl. Berger / Luckmann 1969 : 18 ) eine Theorie , nach der Wirklichkeit nur in und durch gesellschaftliches Handeln besteht .
+In dieser Wirklichkeit kommt dem Wissen eine zentrale Rolle zu , denn es „ bildet die Bedeutungs- und Sinnstruktur , ohne die es keine menschliche Gesellschaft gäbe “ ( ebd. : 16 ) .
+Berger / Luckmann beziehen sich damit auf jenes „ Allerweltswissen “ ( ebd. ) , welches das menschliche Verhalten in der Alltagswelt reguliert ( vgl. ebd. : 21 ) . 46
+Wie Schütz vertreten Berger / Luckmann die Ansicht , dass der überwiegende Teil des Wissens im menschlichen Bewusstsein nicht durch eigene Erfahrungen begründet und demnach kein Erfahrungswissen ist , sondern von anderen Menschen vermittelt wird und deshalb sozial abgeleitet ist ( Knoblauch 2005 : 148 ) .
+Das gesellschaftlich entwickelte , vermittelte und bewahrte Wissen gerinnt für die Individuen einer Gemeinschaft zu der Wirklichkeit ( vgl. Berger / Luckmann 1969 : 3 ) , die als eine objektivierte , d. h. als eine durch die Anordnung der Objekte konstituierte , erscheint .
+Durch Objektivation , die Typisierung von Erfahrungen und Erwartungen in der menschlichen Interaktion , entsteht aus subjektiv sinnvollen Vorgängen eine intersubjektive Welt ( vgl. ebd. : 22 ) und mit ihr ein kollektiver Wissenshorizont .
+Das wichtigste Medium solcher Objektivationen ist auch für Berger / Luckmann ( vgl. ebd. : 41 ) die Sprache .
+Sprache vergegenständlicht – typisiert – Erfahrung , indem sie ihr Kategorien zuteilt , mittels derer sie nicht nur für das Individuum , sondern auch für seine Mitmenschen sinnhaft erscheint :
+„ Sie [ die Sprache ] wird so zugleich Fundament und Instrument eines kollektiven Wissensbestandes “ ( ebd . : 72f.) .
+Sprache hat dadurch institutionalen Charakter .
+„ Durch die bloße Tatsache ihres Vorhandenseins halten Institutionen menschliches Verhalten unter Kontrolle .
+Sie stellen Verhaltensmuster auf , welche es in eine Richtung lenken “ , schreiben Berger und Luckmann ( ebd . : 58 ) .
+Indem dieses Verhalten von den Individuen einer Gemeinschaft akzeptiert und fortlaufend in den Interaktionen des Alltags , die auf eben diesen von der Gesellschaft bereitgestellten Institutionen beruhen , bestätigt wird , verfestigt es sich zu sozialem Wissen , das permanent soziale Ordnung schafft .
+Die Gesellschaft stellt nun die objektive , geordnete Wirklichkeit dar , die im Denken und Handeln ihrer Mitglieder fortlaufend produziert wird .
+Als ‚ Wissen’ bezeichnen Berger / Luckmann ( ebd. : 75 ) also „ die objektivierte Sinnhaftigkeit institutionalen Handelns “ .
+Das wichtigste Medium zur Weitergabe des Wissens einer Gemeinschaft ist die Sprache ( vgl. ebd. : 73 ) .
+Jedoch erfolgt die Weitergabe nicht voraussetzungslos :
+Sie erfordert einen gesellschaftlichen Apparat , in dem einige Menschen zu Vermittlern , andere zu Empfängern des Wissens bestimmt sind ( vgl. ebd. : 75 ) .
+Der Charakter dieses Apparates und mit ihm die Prozeduren der Wissensvermittlung variieren je nach Gesellschaftsform .
+So liegt es nahe , in oralen Kulturen , die in räumlich voneinander getrennte und dadurch mehr oder weniger geschlossene Gemeinschaften zerfallen , fahrende Sänger mit der Weitergabe des Wissens zu betrauen .
+Während in den zwar vernetzten , aber in Bezug auf den zahlenmäßigen Umfang und die räumliche Ausdehnung viel weiter gefassten Gesellschaften des 20. und 21. Jahrhunderts ein Medium benötigt wird , welches die Reichweite von Film und Fernsehen hat .
+Insofern Wissen symbolisch vermittelt ist , stellt sich im Folgenden die Frage , in welche Beziehung das in den Kontext mündlich und audiovisuell vermittelter Geschichten eingebundene Wissen zur unmittelbaren Erfahrungswelt des Zuschauers und Hörers tritt .
+Wie die antiken Sänger vor mehr als 2500 Jahren haben die audiovisuellen Medien Film und Fernsehen in der Gegenwart die Aufgabe , Kenntnisse über alle Lebensbereiche ( vgl. Hickethier 1999 : 349 ) zu vermitteln .
+Dass Film und Fernsehen bilden , darüber herrscht in der Forschung weitestgehend Konsens ( vgl. Ball / Palmer / Millward 1986 : 130 ; Hartley 1999 : 7 ; Hoggart 1960 : 41 ; Hickethier 1992 : 84 ) .
+Auch im Programmauftrag der öffentlich-rechtlichen Sendeanstalten ist dieses Ziel festgeschrieben .
+In seinen Richtlinien für die Sendungen und Telemedienangebote vom 11. Juli 1963 in der Fassung aus dem Jahr 2009 formuliert das ZDF wie folgt :
+„ Die Angebote [ Programme und Telemedien ] sollen umfassend informieren , anregend unterhalten und zur Bildung beitragen . “
+Insbesondere in ausgewiesenen Wissenssendungen für Erwachsene wie TERRA X ( ZDF ) oder W WIE WISSEN ( ARD ) und WISSEN MACHT AH ! ( WDR ) für Kinder manifestiert sich der Bildungsauftrag öffentlich-rechtlicher Programme .
+Darüber hinaus verfolgt eine Vielzahl von Kindersendungen das Ziel der Wissensvermittlung sehr viel subtiler , etwa mittels spielerischer Elemente .
+Diese als Edutainment ( vgl. Hochschule der Medien o. J.) bezeichnete Strategie des unterhaltsamen Lernens verwirklicht beispielsweise die SESAMSTRAßE , der das ZDF in seiner Sendungsinformation den Titel „ Lernen mit Spaß für Kinder “ ( ZDF 2014 ) verleiht .
+An den Edutainmentprogrammen wird eine Entwicklung deutlich , die sich pessimistisch als Abnahme des audiovisuellen Bildungsangebots öffentlich-rechtlicher Rundfunkanstalten beschreiben lässt , der die kontinuierliche Zunahme des Unterhaltungsangebots komplementär gegenübersteht ( vgl. Hickethier 1988 : 5 ) .
+Allerdings bedeutet dies nicht zwangsläufig , dass das Fernsehen seinen Bildungsauftrag vernachlässigt .
+Bildung , sofern man darunter nicht nur den Erwerb des akademischen Wissenskanons , sondern die Ausbildung der für das Leben in einer Gemeinschaft notwendigen Kompetenzen versteht , findet zu einem Großteil gerade nicht in den ausgewiesenen Sendeformaten statt .
+Wissen über gesellschaftlich relevante Verhaltensmuster vermitteln gerade Filme mit fiktionalen Handlungen , die „ anregend unterhalten “ ( ZDF 2009 ) .
+Mit ihren Unterhaltungsangeboten verfolgen Film und Fernsehen einen „ heimlichen Lehrplan “ 47 , der in Analogie zur rhapsodischen Darbietung auf die Erziehung des Individuums zu einem Mitglied der Gesellschaft zielt .
+Die Vermittlung von Individuum und Gesellschaft ist Gegenstand und Ziel des lebenslangen Prozesses der Sozialisation ( vgl. Abels 2010 : 9 ) .
+Im Mittelpunkt des Interesses der Sozialisationsforschung stehen der soziale Lernprozess und die Frage , wie sich Individuen die Werte und Normen der Gemeinschaft aneignen , um als deren Mitglieder am sozialen Leben teilzuhaben .
+Bei George Herbert Mead verbinden sich das Individuelle und das Soziale im Begriff der Kommunikation – für Mead ( 1973 : 299 ) „ das Grundprinzip der gesellschaftlichen Organisation des Menschen “ .
+Diese zentrale Rolle fällt der Kommunikation zu , da die Erzeugung von Bedeutung und damit von Wissen aus der menschlichen Interaktion resultiert .
+Obwohl Mead diese Verbindung nicht explizit macht , erweist sich sein theoretischer Ansatz auch für das sozialwissenschaftliche Grundthema der Sozialisation als fruchtbar .
+Kommunikation bedingt die Entwicklung des Menschen als soziales Wesen insofern , als die in der Sprache zum Ausdruck kommenden kollektiven Vorstellungen die gegenseitige Anpassung der Individuen innerhalb einer gesellschaftlichen Handlung garantieren ( vgl. ebd . : 86 ) :
+Individuen lernen , wie sie sich in einer Gemeinschaft richtig verhalten , indem sie ihr Verhalten wechselseitig beobachten , die gesellschaftlichen Symbole , die hinter diesem Verhalten stehen , in gleicher Weise interpretieren und sich damit auf das für eine soziale Gruppe typische Verhalten beziehen .
+Indem in der Interaktion durch die Übernahme der Rolle des anderen dessen mögliche Reaktionen wechselseitig mitgedacht werden , unterliegt das situative Verhalten der sozialen Kontrolle :
+Sozialisation als Integration des Individuums in einen derart organisierten Verhaltensprozess stellt jedoch keinen unterdrückenden Zwang dar .
+Vielmehr funktioniert der Mechanismus der gesellschaftlichen Kontrolle gerade aufgrund der Beteiligung des Individuums als reflektierender Akteur ( vgl. ebd. : 301f.) :
+Während der Einzelne sein eigenes Verhalten sowie das des anderen in der Interaktion beobachtet , unterzieht er es sogleich einer an den „ verallgemeinerten gesellschaftlichen Haltungen “ ( ebd. : 307 ) orientierten Kritik .
+Unter „ verallgemeinerten gesellschaftlichen Haltungen “ versteht Mead Handlungsweisen , die allen Mitgliedern einer Gesellschaft gemeinsam sind , insofern diese auf bestimmte Situationen identisch reagieren .
+Solche überindividuellen Haltungen erlauben es dem Einzelnen , aus den beobachteten Reaktionen Schlüsse über ein in der Gesellschaft angemessenes Verhalten zu ziehen , das eigene Verhalten daran zu orientieren und die Reaktionen anderer entsprechend zu bewerten .
+Die generalisierten Haltungen der Gemeinschaft sowie die Fähigkeit zur Rollenübernahme48 erwirbt das Individuum im Prozess der Sozialisation durch die Orientierung am „ verallgemeinerten Anderen “ ( ebd. : 302 ) .
+Dieses Konstrukt beinhaltet die Summe aller Perspektiven in einem bestimmten Handlungszusammenhang .
+Im generalisierten Anderen kondensieren sich die kollektiven Vorstellungen , Haltungen , Erwartungen ( vgl. ebd. : 196 ) und somit auch die Normen und Werte einer Gesellschaft :
+Sozialisation vollzieht sich nach der Theorie Meads allgemein als Kommunikation zwischen dem Individuum und dem generalisierten Anderen und konkret als fortlaufende Interaktion zwischen Individuen mit bestimmten Erwartungen .
+Durch die Verwendung der sozialen Symbole , etwa der Sprache , integriert sich der Einzelne in die geregelte Gesellschaft ( vgl. Abels 2010 : 84 ) .
+Die theoretischen Überlegungen Meads finden Eingang in die Konzeption eines zwei Phasen umfassenden Sozialisationsprozesses durch Berger / Luckmann ( vgl. 1969 : 141 ) .
+Die Ausbildung der Fähigkeit zur Rollenübernahme bezeichnen sie als Primärsozialisation 49 : die Einführung eines Individuums in die objektive Welt einer Gesellschaft ( vgl. ebd. : 140f. ) .
+Ziel der Sozialisation ist die Aneignung der objektiven Wirklichkeit durch das Individuum oder , wie Berger / Luckmann ( ebd. : 139 ) es nennen , deren Internalisierung :
+„ das unmittelbare Erfassen und Auslegen eines objektiven Vorgangs oder Ereignisses , das Sinn zum Ausdruck bringt , eine Offenbarung subjektiver Vorgänge bei einem Anderen also , welche auf diese Weise für mich subjektiv sinnhaft werden “ .
+Internalisierung bildet die Grundlage sowohl für das Verstehen anderer Menschen als auch für das Erfassen der Welt als eine sinnhafte Wirklichkeit ( vgl. ebd. : 140 ) .
+Die Anpassung des Individuums an seine soziale Umgebung stellt sich in den skizzierten Theorien als ein natürlicher Prozess dar , den jedes Mitglied der Gesellschaft in der Kommunikation mit anderen Individuen durchläuft .
+Angesichts der den Medien zugeschriebenen Rolle , Wissen mitzuteilen ( vgl. Knoblauch 2005 : 325 ) , stellt sich die Frage , auf welche Weise die vermittelten Inhalte in den Sozialisationsprozess hineinwirken .
+In Bezug auf den vorliegenden Untersuchungsgegenstand – fiktionale rhapsodische sowie audiovisuelle Narrationen – betrifft diese Frage insbesondere auch die Interaktion des medialen Realitätsentwurfes mit der sozialen Wirklichkeit .
+Denn neben die objektiv geordnete Wirklichkeit der Alltagswelt tritt die mediale , narrative Wirklichkeit als eine weitere symbolische Ordnung .
+In ihr ist Wissen im Sinne Meads in Form von lautlichen und körperlichen Gebärden , dem menschlichen Verhalten , objektiviert .
+Das mediale Wissen ist für die Aneignung durch den Rezipienten in besonderem Maße zugänglich , da sich in den fiktionalen Darstellungen häufig die handlungsleitenden Themen der gesellschaftlichen Wirklichkeit widerspiegeln .
+Schon Aristoteles thematisiert das Verhältnis von künstlerischer und außerkünstlerischer Wirklichkeit mit dem Begriff der Mimesis :
+Dichtung definiert er ( vgl. Poet. [ Kap. 2 ] ) als Nachahmung menschlicher Handlungen .
+Im Kontext der sozialkonstruktivistischen Theorie Berger / Luckmanns , nach der Wirklichkeit nur in und durch menschliches Handeln existiert , müsste es entsprechend heißen , dass die narrativ erschaffene Welt einen weiteren Wirklichkeitsentwurf hervorbringt .
+Dichtung beschränkt sich für Aristoteles allerdings nicht auf das genaue Abbild dessen , was wirklich geschehen ist , dies entspräche vielmehr der Geschichtsschreibung .
+Der Dichter solle stattdessen darstellen , „ was geschehen könnte , d.h. das nach den Regeln der Wahrscheinlichkeit oder Notwendigkeit Mögliche “ ( ebd . [ Kap. 9 ] ) .
+Die Freude an der dichterischen Nachahmung der Wirklichkeit erscheint für Aristoteles eng verknüpft mit der menschlichen Lust am Lernen :
+Die narrative Darstellung von Dingen , die in der Realität unerträglich sind , wie etwa unansehnliche Tiere oder Leichen , bereitet deshalb Freude , weil die Menschen durch sie „ etwas lernen und zu erschließen suchen , was ein jedes sei “ ( ebd. [ Kap. 4 ] ) .
+Dinge , zu denen Menschen in der Wirklichkeit keinen Zugang haben , sei es aufgrund von mangelnden Möglichkeiten oder Unlust , werden in der Narration erfahrbar .
+Dichtung fungiert in aristotelischer Sicht somit als ein Mittel der Erkenntnis .
+Die Betrachtung von Medien als Instrumenten der Wirklichkeitskonstruktion tritt mit der zunehmenden Dominanz massenmedialer Inhalte im Alltag des 20. Jahrhunderts einerseits und der zunehmenden Komplexität der Gesellschaft andererseits in den Mittelpunkt kommunikations- und sozialwissenschaftlicher Forschungen .
+So befasst sich die Wissenssoziologie der siebziger Jahre zunehmend mit den kommunikativen Prozessen der Wissensvermittlung .
+Im Anschluss an die soziale Konstruktion der Wirklichkeit wendet sich etwa Luckmann der kommunikativen Konstruktion derselbigen zu .
+Unter Kommunikation versteht er zunächst jede Form der Informationsvermittlung .
+Erst wenn dieser auf Zeichen , beispielsweise der Sprache , basierende Prozess Teil von sozialen Handlungen ist , handelt es sich entsprechend um kommunikative Handlungen . 50
+In kommunikativem Handeln konstruiert sich nach Auffassung Luckmanns ( vgl. 2006 : 2225 ) gesellschaftliche Wirklichkeit .
+Auch der Umgang mit Medien , die Rezeption von Medieninhalten , lässt sich als kommunikatives Handeln begreifen .
+Es stellt sich jedoch die Frage , wie dieses sich konkret gestaltet , da zwar der Rezipient auf das Medium reagiert , etwa emotional , das Medium sich umgekehrt aber nicht auf das Verhalten des Rezipienten beziehen kann , da es über keinen Rückkanal verfügt .
+Im Rahmen der Rezeption mündlich oder audiovisuell vermittelter Geschichten meint kommunikatives Handeln daher nicht die wechselseitige Beobachtung und Reaktion von Medium und Rezipient mittels Zeichen , sondern die Beobachtung medialer menschlicher Interaktion durch den Rezipienten .
+Wie mit Aristoteles gezeigt wurde , erzählen Geschichten von miteinander interagierenden Menschen .
+Menschliche Handlungen werden entweder in der Vorstellung , wie im Falle mündlich vermittelter Geschichten , oder als audiovisuelle Darstellung durch den Zuschauer und Hörer beobachtbar .
+Da sich der Einzelne nicht selbst in der Interaktion beobachtet , sondern beobachtet , wie sich miteinander interagierende Individuen selbst beobachten , handelt es sich bei der Rezeption fiktionaler Geschichten gewissermaßen um eine Beobachtung zweiter Ordnung .
+Erst durch die Beobachtung , wie andere Menschen beobachten , handeln und kommunizieren , wird dem Individuum die Konstruiertheit seiner Wirklichkeit bewusst :
+Wirklichkeitsentwürfe variieren , da sie sich gemäß den biologischen , kognitiven und soziokulturellen Bedingungen der individuellen Lebensumwelt herausbilden ( vgl. Schmidt 1994 : 5 ) .
+Dementsprechend versteht sich der Konstruktivismus auch als eine Theorie der Beobachtung zweiter Ordnung ( vgl. ebd. ) .
+Für Niklas Luhmann , Vertreter des operativen Konstruktivismus , bedeutet Erkennen Beobachten und somit Unterscheiden 51 .
+In Die Realität der Massenmedien bestimmt Luhmann ( vgl. 42009 : 104 ) die Gewöhnung des Menschen an den Modus der Beobachtung zweiter Ordnung als eine wesentliche Aufgabe der Massenmedien und speziell des Programmbereiches Unterhaltung .
+Fiktionale Geschichten , die sämtliche Aspekte des menschlichen Lebens darzustellen vermögen , verleihen dem Rezipienten den Standpunkt eines uneingeschränkten Beobachters und gewähren ihm einen umfassenden Einblick in eine Variante einer narrativen Wirklichkeitskonstruktion .
+Dieser Einblick wiederum lässt deswegen individuelle Rückschlüsse auf die soziale Wirklichkeit zu , weil letztere durch die narrative Realität repräsentiert wird .
+Die fiktionalen Narrationen der Massenmedien bilden für Niklas Luhmann einen Realitätsaus- schnitt , in dem mit optischen und akustischen Mitteln eine zweite Welt konstituiert wird .
+In dieser Welt gilt eine eigene fiktionale Realität , die Luhmann mit der Welt des Spiels52 gleichsetzt .
+Gerade die Differenz von realer und fiktionaler Realität produziert den Unterhaltungswert von Unterhaltungskommunikation ( vgl. ebd. : 78f. ) .
+Gleichzeitig muss die dargebotene zweite Realität auf bereits vorhandenes Wissen des Rezipienten Bezug nehmen :
+Um aus den Narrationen Rückschlüsse auf die individuelle Wirklichkeit ziehen zu können , muss die fiktionale an die reale Realität anknüpfen .
+„ Unterhaltung hat insofern einen Verstärkungseffekt auf schon vorhandenes Wissen .
+Aber sie ist nicht , wie im Nachrichten- und Berichtsbereich , auf Belehrung ausgerichtet “ , schreibt Luhmann ( ebd. : 75 ) .
+Ihren „ heimlichen Lehrplan “ tarnen orale und audiovisuelle Erzählungen , indem sie dem Rezipienten in vergleichbarer Weise Vergnügen bereiten wie die Situation des Spiels53 .
+Unbewusst werden Zuschauer und Hörer dazu gebracht , sich selbst als Beobachter von Beobachtungen zu begreifen und ähnliche Einstellungen und Verhaltensweisen in sich selbst zu entdecken ( vgl. ebd. : 76 ) : „ Man lernt Beobachter beobachten und zwar im Hinblick auf die Art , wie sie auf Situationen reagieren , also : wie sie selber beobachten . “ ( ebd. : 78 ) .
+Somit bilden die medial angebotenen Verhaltensmodelle für den Rezipienten einen Orientierungsrahmen , in dem er sein eigenes Verhalten in dem Bewusstsein ausrichten kann , dass dieses gesellschaftlich akzeptiert ist .
+Geschichten ermöglichen und gewährleisten so die Selbstverortung des Individuums in der dargestellten Welt .
+Auch wird dieses sich hierdurch seiner eigenen Identität im Kontext der gesellschaftlichen Wirklichkeit gewahr :
+„ Unterhaltung re-imprägniert das , was man ohnehin ist “ ( ebd. : 75 ) .
+Es gibt keine Geschichte , die sich zur Illustration dieser These nicht als Beispiel anführen ließe ; ebenso wie umgekehrt keine Facette des menschlichen Verhaltens denkbar ist , die narrativ noch nicht inszeniert worden wäre .
+Dies betrifft so alltägliche Situationen wie das Verhalten in Liebesbeziehungen54 , aber auch aktuelle Zustände , die bedeutend für die Zukunft einer Gemeinschaft sind und zu welchen sich das Individuum positionieren muss .
+So ist etwa im Kontext der Debatte um die Zukunft Deutschlands als Immigrationsland das sogenannte Migrantenkino , Filme über und von Migranten , relevant .
+Filme wie 40 QM DEUTSCHLAND ( D 1985 , Tevfik Başer ) und IN THIS WORLD ( GB 2002 , Michael Winterbottom ) zeigen das Schicksal von Arbeitsmigranten und Flüchtlingen in einer Gesellschaft , die ihnen fremd ist und in der sie als Fremde gelten .
+Durch die erzählerische Gegenüberstellung von Fremden und Einheimischen stellen diese Narrationen eine Aufforderung an den Zuschauer dar , sich in einer der beiden Gruppen zu verorten .
+Zu der ihm unmittelbar zugewiesenen Rolle kann der Rezipient in Auseinandersetzung etwa mit den afghanischen Flüchtlingen Jamal und Enayat im Film IN THIS WORLD Stellung beziehen und eigene Denk- und Verhaltensweisen gegenüber der anderen Gruppe hinterfragen .
+Zwar ermöglichen Unterhaltungsangebote dem Zuschauer , Rückschlüsse auf die eigene Person vorzunehmen , dieser Effekt lässt sich laut Luhmann ( 42009 : 78 ) jedoch nicht mit dem Konzept der Analogiebildung und der Nachahmung erfassen : „ Man wird nicht zur Angleichung eigenen Verhaltens motiviert “ 55 .
+Da die psychologischen Effekte der Rezeption fiktionaler Narration zu komplex und individuell verschieden sind , um vorhersehbar zu sein , lässt Luhmann sie in seiner Theorie der massenmedialen Kommunikation außen vor .
+56 Dass mediale Unterhaltungsangebote Gelegenheiten zum Lernen bieten ( vgl. ebd. : 75 ) , ist dadurch nicht ausgeschlossen .
+Dies muss sogar der Fall sein , da nach Luhmann ( vgl. ebd. : 105 ) die Realität der Massenmedien – die Realität der Beobachtung zweiter Ordnung – die Wissensvorgaben ersetzt , die in früheren Gesellschaftsformen etwa durch Weise oder Priester bereitgestellt wurden .
+„ Was wir über unsere Gesellschaft , ja über die Welt , in der wir leben , wissen , wissen wir durch die Massenmedien “ , lautet Luhmanns ( ebd . : 9 ) programmatische Formel .
+In ihren Darstellungen machen Massenmedien die Gesamtheit des sozialen Wissens erfahrbar , welches sich der individuellen , unmittelbaren Erfahrung in der realen Wirklichkeit größtenteils entzieht .
+In der Aneignung medialer Wirklichkeitskonstruktionen durch den Rezipienten wirken dann mediale und reale Wirklichkeit derart ineinander , dass das medial Wahrgenommene einer Konsistenzprüfung mit der individuellen Wirklichkeitsannahme unterzogen wird ( vgl. ebd. : 83 ) und es hiernach im besten Fall Bedeutung im Leben des Rezipienten erlangt ( vgl. Keppler 2005 : 102f. ) . 57
+Die Luhmannsche Formel deutet eine Entwicklung an , die mit der funktionalen Differenzierung der Gesellschaft ihren Anfang nahm und die gegenwärtig durch die Komplexität derselbigen sowie die Individualisierung ihrer Mitglieder geprägt ist .
+Da die alltägliche Wirklichkeit von ihrer Kommunizierbarkeit abhängt , entsprechen elektronische Medien dem gegenüber antiken Gemeinschaften erhöhten Bedarf an sozialer Koordination , indem sie mit Hilfe technischer Mittel zur Überbrückung von Distanzen und zur Verteilung von Wissen beitragen ( vgl. Hejl 1994 : 58 ) .
+Darüber hinaus nehmen Medien im Alltag , zumindest der westlichen Gesellschaften , eine derart zentrale Rolle ein , dass sie als integraler Bestandteil desselbigen betrachtet werden müssen .
+Für die Realität der sozialen Verhältnisse sind Massenmedien konstitutiv .
+Die Wechselwirkung von sozialer und medialer Wirklichkeit wird demnach als eigenständiger Prozess der Wirklichkeitskonstruktion bestimmt ( vgl. Keppler 2005 : 95 ) .
+Nichts anderes meint eine mögliche Lesart des Luhmannschen Titels Die Realität der Massenmedien .
+Insofern in den vermittelten Geschichten das Wissen einer Gesellschaft beobachtbar ist , fungieren Medien als Instrumente der kommunikativen Verknüpfung zwischen Individuum und Gesellschaft .
+Medienrezeption als kommunikatives Handeln ist zugleich sinnvermittelnd und strukturbildend ( vgl. Knoblauch 2005 : 173 ) .
+Die aktive Aneignung des oral und audiovisuell vermittelten Wissens bewirkt in Abhängigkeit von der individuellen Entwicklungsphase des Rezipienten den Aufbau kognitiver Strukturen , etwa in der Primärsozialisation des Heranwachsenden , die Festigung kognitiver Strukturen im lebenslangen Prozess der Sozialisation oder auch die Modifikation kognitiver Muster durch gesellschaftliche Wandlungsprozesse .
+Fiktionale Geschichten eignen sich zur Beobachtung und Aneignung des sozialen Wissens in besonderem Maße , wie von Luhmann in Bezug auf den massenmedialen Programmbereich Unterhaltung illustriert .
+Die vermittelnde Form des innerhalb einer Gemeinschaft Wissbaren , „ ein Sammelsurium von Maximen , Moral , Sprichwortweisheit , Werten , Glauben [ … ] , dessen Integration eine beträchtliche geistige Kraft benötigt “ ( Berger / Luckmann 1969 : 70 ) , ist heute dieselbe wie zu Zeiten Homers .
+Begründen lässt sich dies mit der Wirkung , die sowohl auditive und visuelle Reize als auch Erzählstrukturen auf die Kognition haben .
+Dass das Unterhaltungserleben , welches die Medienrezeption begleitet , die Aneignung narrativer Wirklichkeiten begünstigt , wird im Folgenden dargelegt .
+„ Die Kunst hat in sich eine unbegrenzte Fähigkeit der geistigen Übertragung [ … ] . Nur sie besitzt gleichzeitig jene Allgemeingültigkeit und erlebnishaft unmittelbare Sinnfälligkeit , die die beiden wichtigsten Bedingungen der erzieherischen Wirkung sind “ , schreibt Werner Jaeger ( 21936 : 65 ) unter Würdigung der homerischen Epen .
+In dieser Fähigkeit übertrifft die Kunst nach Ansicht Jaegers ( vgl. ebd.) sogar das wirkliche Leben , welches sich zwar durch Sinnfälligkeit auszeichnet , dessen Erlebnisse jedoch der Allgemeingültigkeit entbehren .
+Dem Mythos hingegen wohnt etwas Allgemeingültiges inne ( vgl. ebd. : 70f.) :
+Als unerschöpflicher Vorrat an heroischen Vorbildern ist er die maßgebende Instanz für das menschliche Handeln .
+Die „ erlebnishaft unmittelbare Sinnfälligkeit “ ( ebd. : 65 ) von Narrationen ist längst nicht nur ein Produkt ihrer Form58 , sondern resultiert auch aus der Form ihrer Vermittlung .
+Menschliches Erleben , und somit auch die Medienrezeption als eine spezifische Art des Erlebens , involviert sowohl kognitive als auch emotionale Prozesse ( Trepte / Reinecke 2013 : 77 ) .
+Die Aneignung und kontinuierliche Festigung von Wissen durch die kognitive Wahrnehmung , Verarbeitung und Speicherung von Geschichten wird von der rhapsodischen und audiovisuellen Darstellung insofern begünstigt , als diese das sinnliche Erleben in den Mittelpunkt stellen .
+Aus der auditiven und visuellen Wahrnehmung der Stimme und des Körpers von Sänger und Schauspieler resultieren in Verbindung mit der Handlungsstruktur der verkörperten Geschichte emotionale Reaktionen aufseiten des Rezipienten .
+Befinden sich die hervorgerufenen Emotionen in Einklang mit den individuellen Zielen der Mediennutzung , etwa Stimmungsausgleich , Entspannung oder sozialer Kontakt , empfinden Rezipienten Vergnügen .
+Diesen Gefühlszustand , der starke Verbindungen zwischen emotionalen und kognitiven Prozessen herzustellen vermag , bestimmt die medienpsychologische Forschung als Unterhaltungserleben ( vgl. ebd. : 96 ) .
+Unterhaltung und Lernen schließen sich demnach keineswegs aus .
+Für den Erwerb geistiger und sozialer Kenntnisse ist die emotionale Einbindung des Lernenden in den Prozess der Aneignung wesentlich .
+Wird der Rezipient in einen positiven Gefühlszustand versetzt , wie dies von Narrationen intendiert wird , erfolgt die Aneignung der vermittelten Inhalte fast beiläufig , ohne dass sich der Rezipient dessen bewusst ist . 59
+Diese Art des Lernens hat demnach eine völlig andere Qualität als die bewusste Aneignung eines enzyklopädischen Wissenskanons , wie ihn etwa die Schulbildung vermittelt .
+In der oralen griechischen Kultur meint Lernen die ständige Abfolge von Einprägen , Wiederholen und Erinnern epischer Dichtung ( vgl. Havelock 1963 : 157 ) .
+Nicht nur der Rhapsode eignet sich im Rahmen seiner Ausbildung auf diese Weise den Inhalt seiner Darbietungen an .
+Alle Griechen durchlaufen diesen Prozess etwa im Kontext musikalischer Agone :
+Spiele , bei denen Rhapsoden gegeneinander antreten und beispielsweise Homerverse rezitieren ( vgl. Rachet 2002 : 245 ) .
+Solche Agone sind ein wesentlicher Bestandteil des öffentlichen Lebens im antiken Griechenland und häufig eingebettet in größere Feierlichkeiten wie etwa die Panathenäen , ein zu Ehren der Göttin Athene von den Athenern begangenes Fest ( vgl. ebd. : 224 ) .
+In der ausgelassenen und freudvollen Atmosphäre des Festes entfaltet die Dichtung ihre erzieherische Wirkung , indem sich das Publikum mit dem Inhalt und der Performanz der rhapsodischen Darbietung emotional identifiziert .
+Die Verschmelzung der Perspektive , der Gefühle und Einstellungen des Rezipienten mit denen des Rhapsoden , der sich seinerseits vollständig mit der Narration identifiziert , ist ein Produkt des emotionalen Involvements60 ( vgl. Havlock 1963 : 159 ) des Rezipienten in das Geschehen .
+Das Denken und Fühlen des Publikums geht vollständig in der rhapsodischen Darbietung auf .
+Die hohe Intensität der emotionalen und kognitiven Interaktion zwischen Medium und Rezipient beruht zum einen auf der medialen Darstellung – der rhythmischen Bewegung von Sängerkörper , musikalischer Begleitung und Stimme – und zum anderen auf der Form des Mythos .
+In der dramatischen Handlung reiht sich ein Ereignis an das andere .
+Das geistige Durchleben der ereignisreichen Handlung im Prozess des Erinnerns ruft zunächst entsprechende Körperreflexe des Rhapsoden hervor , die sich während der Darbietung auch auf das Publikum übertragen : „ The oral audience participated [ … ] by active participation in the language used .
+They clapped and danced and sang collectively , in response to the chanting of the singer ” ( ebd. : 78 ) .
+Die rhythmischen Körperbewegungen setzen das Unbewusste der menschlichen Psyche frei und entlasten das Bewusstsein somit von Spannungen , Sorgen und Ängsten .
+Havelock ( vgl. ebd . : 152 ) bezeichnet diesen Zustand als Hypnose .
+In ihm liegt das sinnliche Vergnügen begründet , ohne das der Mythos und damit die griechische Paideia wirkungslos sind , garantiert es doch die unmittelbare Akzeptanz ( vgl. ebd. : 157 ; Robb 1994 : 166f.) des enzyklopädischen Wissens durch das Publikum und damit die unreflektierte Nachahmung der narrativ vermittelten Verhaltensmuster .
+Im Gegensatz zu nachfolgenden und in der Gegenwart vorherrschenden Lernmethoden61 ist die moralische und praktische Unterweisung der Mitglieder oraler Gemeinschaften untrennbar mit deren persönlichen Neigungen und mit einem positiven Gefühlszustand , einem Unterhaltungserleben , verbunden :
+„ The pull between the pleasurable inclination to act in one way and the unpleasant duty to act in another way was relatively unknown ” ( Havlock 1963 : 158 ) .
+Doch schon Platon kritisiert die Verschränkung von Erziehung und Dichtung , und damit die sinnliche Erkenntnisform überhaupt , aufgrund des epischen Vermögens , die Gefühle und damit das Irrationale , Unbewusste , der menschlichen Seele anzusprechen ( vgl. ebd. : 26 ) .
+All jene Qualitäten der Vermittlung der griechischen Paideia , gegen die sich Platon wendet , verdichten sich in seiner Definition des Begriffs Mimesis in der Politeia :
+„ The term mimesis is chosen by Plato as the one most adequate to describe both re-enactment and also identification , and as one most applicable to the common psychology shared both by artist and by audience ” ( ebd. : 160 ) . Aristoteles hingegen misst nicht nur dem Mimetischen eine positive Bedeutung bei ( vgl. Kapitel 2.2 ) , auch betont er die entlastende Wirkung der Kunst :
+Die Handlung der Tragödie etwa soll so konstruiert sein , dass sie Jammer und Schaudern hervorruft und hierdurch „ eine Reinigung von derartigen Erregungszuständen bewirk [ t ] “ ( Aristot. poet. [ Kap. 6 ] ) .
+Aus der Erregung von Affekten und der anschließenden seelischen Reinigung ( Katharsis ) resultiert zum einen die Freude der Zuschauer an der tragischen Mimesis , zum anderen spricht Aristoteles diesen Kräften eine bildende Wirkung zu .
+Der Zusammenhang von Wirkungsabsicht und Affekterregung bleibt in der Geschichte der Dramentheorie von zentraler Bedeutung ( vgl. Schiewer 32007 : 7 ) .
+Insbesondere in der Aufklärung und der Klassik wird er unter Rückbesinnung auf die Antike aktualisiert .
+In dieser Zeit entwickelt sich das Theater zu einem Leitmedium der entstehenden bürgerlichen Gesellschaft .
+Theatertheoretiker und -praktiker des 18. Jahrhunderts rühmen das Theater als unverzichtbares Mittel zur Erziehung des Menschen ( vgl. Hentschel 2005 : 1 ) .
+Für Johann Christoph Gottsched , mit dem die Entwicklung des Theaters zu einer bürgerlichen Institution ihren Anfang nimmt , soll die dramatische Handlung jeweils einen moralischen Lehrsatz veranschaulichen ( vgl. Dörr 2009 : 8 ) .
+Dass „ das Theater die Schule der moralischen Welt sein soll “ ( Lessing 31978 : [ 2 . Stück ] ) ist auch der zentrale Gedanke von Lessings Theaterreform , die er in seinem periodisch erscheinenden Journal Hamburgische Dramaturgie ( 1767 / 68 ) formuliert .
+Wie Gottsched orientiert sich auch Lessing am antiken Vorbild der aristotelischen Poetik und interpretiert sie vor dem Hintergrund der Aufklärungsphilosophie ( vgl. Hentschel 2005 : 5 ) .
+Im Mittelpunkt seines Interesses steht die poetische Wirkungsästhetik , die bei der Ausübung der sozialen Funktion des Theaters zielführend sein soll ( vgl. ebd. : 4f .) .
+Erst im Gefühlserlebnis der Zuschauer erfüllt sich für Lessing die ethische und politische Funktion des Bühnengeschehens .
+Die aristotelischen Affekte Phobos und Eleos übersetzt Lessing mit Furcht und Mitleid . 62
+Im Mitleiden mit dem Schicksal der Charaktere und der Furcht des Rezipienten , von einem ähnlichen Schicksal ereilt zu werden , erfüllt sich für Lessing die Reinigung ( Katharsis ) des Menschen von seinen Leidenschaften und damit seine moralische Besserung ( vgl. Dörr 2009 : 10ff .) .
+Um diesen Zustand zu erreichen , sind Charaktere notwendig , mit denen sich der Zuschauer identifizieren kann .
+Die darstellenden Figuren müssen sich deshalb durch Eigenschaften auszeichnen , die dem Rezipienten aus seiner Alltagswelt bekannt sind .
+Lessing entwirft daher das Konzept der ‚ vermischten Charaktere ’ , die in ihrem sittlichen Verhalten nicht vollkommen sind und dadurch der Lebenswelt des Zuschauers nahe stehen ( vgl. Hentschel 2005 : 5 ) :
+„ diese Vermischung muß sich in jedem dramatischen Gemälde von Sitten finden , weil es zugestanden ist , daß das Drama vornehmlich das wirkliche Leben abbilden soll “ ( Lessing 31978 : [ 92 . Stück ] ) .
+Gegen Ende des 18. Jahrhunderts legitimiert auch Friedrich Schiller das Theater als Träger von Religion und Gesetz in einer Rede vor der Kurfürstlichen Deutschen Gesellschaft .
+In der daraufhin erscheinenden Abhandlung Die Schaubühne als eine moralische Anstalt betrachtet ( 1802 ) betont Schiller unter Bezugnahme auf die Bedeutung des Theaters im antiken Griechenland auch das Vermögen der Bühne , den Nationalgeist eines Volkes zu formen .
+Nur die Schaubühne kann „ die Ähnlichkeit und Übereinstimmung seiner [ des Volkes ] Meinungen und Neigungen “ ( Schiller 1906 : 60 ) bewirken , „ weil sie das ganze Gebiet des menschlichen Wissens durchwandert , alle Situationen des Lebens erschöpft und in alle Winkel des Herzens hinunter leuchtet ; weil sie alle Stände und Klassen in sich vereinigt und den gebahntesten Weg zum Verstand und zum Herzen hat “ ( ebd. ) .
+In der beschriebenen Wirkung der Bühne auf Verstand und Herz deutet sich an , dass der moralisch erziehende Effekt im schillerschen Denken einhergeht mit einer Gefühlsregung .
+Unterhaltung und Erziehung gehen im Theater eine Allianz ein :
+Die rhapsodische Darbietung und das Theater stehen somit in einer wirkungsästhetischen Tradition , die sich in der medialen Gegenwart in den Audiovisionen von Film und Fernsehen fortsetzt .
+Lessing stellt die handelnden Charaktere in den Mittelpunkt seiner Überlegungen zur Affekterregung im Drama und verweist damit auf einen Zusammenhang , der in Versuchen , die Effekte von Medienangeboten zu beschreiben , von zentraler Bedeutung ist .
+Wie mit den Vertretern des Sozialkonstruktivismus gezeigt wurde , ist die individuelle  Aneignung symbolisch vermittelten Wissens in einen personalen Interaktions- und Kommunikationszusammenhang eingebettet .
+Der Darstellung handelnder Personen kommt in der Narration daher eine besondere Bedeutung zu .
+Obgleich die sinnliche Wahrnehmung der Körperlichkeit des Handelnden durch die technische Vermittlung stark beeinträchtigt wird , verstärkt die „ Parzellierung des ganzheitlichen Ausdrucks “ ( Hickethier 32001 : 171 ) die Intensität des Darstellens :
+Ausdrücke des Schauspielerkörpers , etwa ein von Tränen überströmtes Gesicht oder die vor Wut geballte Faust , wirken in der Großaufnahme unmittelbar und intensivieren die Wahrnehmung des Geschehens .
+Ebenso wie die mediale Inszenierung beeinflusst auch die Figurengestaltung die Intensität der Interaktion zwischen Rezipient und Medienfigur .
+Nur wenn letztere einen kohärenten Charakter erkennen lässt , werden ihre Handlungen für den Zuschauer nachvollziehbar .
+Die Glaubwürdigkeit der Medienfigur entscheidet darüber , ob der Rezipient gewillt ist , an ihrem Schicksal teilzuhaben .
+Beispielsweise wird es dem Zuschauer leicht gemacht , Vincents ( vgl. VINCENT WILL MEER , D 2010 , Ralf Huettner ) Erkrankung , seine durch sie bedingten Tics und ausfallenden Verhaltensweisen nachzuvollziehen , da das Spiel dieser Figur auch und vielleicht vor allem dann überzeugt , wenn der Zuschauer selbst nicht vom Tourette-Syndrom betroffen ist .
+Obgleich dieser selbst keine persönliche Erfahrung mit der Erkrankung haben mag , sich vielleicht kaum etwas unter ihr vorstellen kann und Betroffene im alltäglichen Leben möglicherweise meiden würde , entspricht Vincents Verhalten womöglich der Vorstellung , die der Rezipient sich mittels anderer Quellen von Menschen mit Tourette-Syndrom gemacht hat , und überzeugt durch seine Konsistenz .
+Entwickelt der Zuschauer oder Hörer affektive Anteilnahme mit den Protagonisten fiktionaler Narrationen , verschmelzen die Perspektiven , sodass sich der Rezipient für einen begrenzten Zeitraum in verringertem Maße selbst und als eigenständigen sozialen Akteur wahrnimmt ( vgl. Trepte / Reinecke 2013 : 102 ) . 63
+Die temporäre Übernahme der Eigenschaften und Gefühle der medialen Figur im Prozess der Identifikation lässt den Rezipienten auch deren Werte und Verhaltensweisen , ihre Art der Weltsicht , entdecken und bewerten .
+Das durch die charakterliche Vielfalt der handelnden Figuren entworfene „ Tableau verschiedener Verhaltensdimensionen “ ( Hickethier 32001 : 128 ) bietet vielfältige Anreize für die Reflexion eigener Handlungsentwürfe .
+64 Hierfür besonders anregend ist die Gegenüberstellung von angemessenem und normwidrigem Verhalten , die vor allem in Kriminalfilmen , etwa aus der Fernsehreihe TATORT , deutlich ausgeprägt ist .
+Indem eine Tat von der Polizei zu einem Normverstoß der Täter erklärt wird , geben Kriminalgeschichten Auskunft über die Werteauffassung einer Gesellschaft .
+Sie zeigen auf , welche Art des Verhaltens der geltenden Ordnung zuwiderläuft .
+Auch in dem Fall , dass der Zuschauer die Motive des Verbrechers nachvollziehen kann und an seinem Schicksal Anteil nimmt , wird ihm dadurch , dass der Täter am Ende gefasst und sein Verbrechen durch die Polizei geahndet wird , suggeriert , dass das Bestreben , regelwidrig zu handeln , nicht lohnenswert ist .
+Während die emotionale Totalidentifikation mit einem heroischen Vorbild für die Beziehung zwischen dem Rhapsoden und der griechischen Gemeinschaft prägend ist , stellen audiovisuelle Medienfiguren lediglich Identifikationsangebote dar :
+In der medialen Gegenwart ist der Modus des Beobachtens vorherrschend .
+Wie mit Luhmann gezeigt wurde , nimmt sich das Individuum in der Rezeption von Unterhaltungsangeboten als Beobachter von Beobachtungen und demnach vorwiegend als einen von der Medienfigur getrennten sozialen Akteur wahr .
+Insofern die Medienrezeption aber ein kommunikatives Handeln darstellt , kann in ihr die Illusion einer wechselseitig aufeinander bezogenen Reaktion zwischen Zuschauer und Figur entstehen .
+Etwa wenn sich in dem Film LA VIE D ’ ADÈLE ( F / B / E 2013 , Abdellatif Kechiche ) Emma von ihrer Freundin Adèle trennt , weil diese sie aus Einsamkeit betrogen hat .
+In diesem Moment kann die Perspektive des Zuschauers so stark mit der Adèles verschmolzen und der Eindruck einer direkten Interaktion mit Emma so stark sein , dass der Zuschauer ebenso in Tränen ausbricht wie die Medienfigur Adèle .
+Seit Donald Horton und Richard Wohl ( Mass Communication and Para-social Interaction , 1956 ) wird diese Art der Auseinandersetzung mit einer Medienfigur als parasoziale Interaktion bezeichnet .
+Ausgehend von ihrer Beobachtung , dass Moderatoren von Fernsehnachrichten die Illusion eines Face-to-Face-Kontaktes vermitteln , übertragen sie das Konzept der sozialen Interaktion auf die Mediensituation ( vgl. Trepte / Reinecke 2013 : 98 ) .
+Dem liegt die Annahme zugrunde , dass mediale Figuren , Personae genannt , in der Wahrnehmung ähnliche kognitive und emotionale Prozesse auslösen , wie die personale Interaktion ( vgl. Hartmann / Schramm / Klimmt 2004 : 26 ) . 65
+Die Adressierung des Rezipienten durch die Personae erfolgt entweder direkt , mit einer Mitteilungsabsicht wie im Falle eines Nachrichtensprechers , oder aber indirekt in der Beobachtung interagierender Personae durch den Zuschauer .
+In letzterem Fall gründet sich die Adressierung auf implizite Handlungsaufforderungen , die den interagierenden Medienfiguren insofern inhärent sind , als sich ihr Handeln immer an ein Publikum richtet ( vgl. ebd. : 39 ) . 66
+Indem der Zuschauer das Kommunikationsangebot annimmt , löst er sich aus seiner Beobachterposition und reagiert auf das mediale Angebot in Form parasozialer Interaktionen .
+Diese beinhalten nach der Konzeptualisierung von Hartmann / Schramm / Klimmt ( ebd. : 30 ) affektive ( ausgelöste Emotionen ) , konative ( beobachtbare Verhaltensäußerungen ) sowie perzeptiv-kognitive ( Aspekte der Wahrnehmung und des Denkens ) Prozesse .
+Letztere stellen eine Beziehung zwischen Personae und Rezipient her sowie infolgedessen einen unbewussten Vergleich zwischen dem beobachteten Verhalten der Medienperson und den Fähigkeiten und Eigenschaften , dem Selbst ( bild ) , des Rezipienten ( vgl. ebd. : 33 ) .
+Selbstbilder können durch die in der Narration erfolgreich oder nicht erfolgreich handelnden Personae entweder bestätigt oder erschüttert werden .
+Auch die Verwicklung des Rezipienten in ihm bisher unbekannte Verhaltensweisen und somit die Generierung neuen sozialen Wissens ist denkbar .
+Aus der Beziehung zu Medienpersonen können Muster67 erwachsen , in denen Selbstbild , Personae und situatives Interaktionsschema derart verschmelzen , dass sie das künftige Handeln des Zuschauers in alltäglichen Situationen beeinflussen . Medienpersonen können somit , wie etwa Claudia Wegener ( vgl. 2007 : 197 ) hinsichtlich der Medienrezeption Jugendlicher bemerkt , regelrecht zu Sozialisationsagenten werden .
+Ein Beispiel stellt der international erfolgreiche Spielfilm HIGH SCHOOL MUSICAL ( USA 2006 , Kenny Ortega ) dar , der zweimal mit derselben Besetzung fortgesetzt wurde ( vgl. HIGH SCHOOL MUSICAL 2 , USA 2007 ; HIGH SCHOOL MUSICAL 3 : SENIOR YEAR , USA 2008 ) .
+Während die ersten beiden Teile in Deutschland erstmals im Disney Channel ausgestrahlt wurden , wurde der dritte Teil für das Kino produziert .
+In Deutschland belegt er unter den erfolgreichsten Kinofilmen des Jahres 2008 Platz 15 ( vgl. InsideKino 2012 ) .
+Im Mittelpunkt der Filmhandlung stehen Troy Bolton , Kapitän des Basketballteams Wildcats der East High School , und die Musterschülerin Gabriella Montez .
+Während eines Karaoke Singens entdecken beide ihre Leidenschaft für den Gesang sowie füreinander und bewerben sich daraufhin für die Hauptrolle des alljährlich stattfindenden Schulmusicals .
+Gesangseinlagen und Tanzperformances sind wesentliche Elemente des Films und seiner Fortsetzungen .
+Wie bei einer Serie erleben die jugendlichen Zuschauer die Entwicklung der Protagonisten über einen langen Zeitraum hinweg .
+Gegenstand des letzten Teils ist schließlich das Abschlussjahr von Troy und Gabriella .
+Thematisiert wird in diesem Zusammenhang die Frage nach der richtigen Studienwahl , die sich auch der jugendliche Zuschauer einmal stellen wird .
+Letzterer lernt anhand der Interaktion der handelnden Figuren , dass Entscheidungen , die die persönliche Zukunft beeinflussen , nicht voraussetzungslos sind , sondern im Spannungsfeld zwischen den persönlichen Neigungen und den Erwartungen der Gesellschaft erfolgen .
+So ist Troy , für den aus Sicht seines Vaters nur das Basketballstipendium der University of Albuquerque in Frage kommt , zwischen den Erwartungen seiner Familie , seiner Leidenschaft sowohl für den Sport als auch für das Musical sowie seiner Freundin Gabriella , die in Stanford studieren wird , hin- und hergerissen .
+Letztendlich entscheidet sich Troy , in Berkeley zu studieren , wo er nicht nur Basketball , sondern auch Theater spielen kann und wo er nur eine Autostunde vom Studienort seiner Freundin entfernt sein wird .
+Für den Rezipienten hält der Film folglich die Botschaft bereit , dass man sich nicht zwangsläufig für das eine und gegen das andere entscheiden muss , sondern mit Hilfe von Kompromissen eine Lösung finden kann , die sowohl den gesellschaftlichen Erwartungen als auch den persönlichen Ansprüchen gerecht wird .
+Darüber hinaus exemplifiziert HIGH SCHOOL MUSICAL 3 : SENIOR YEAR viele weitere Verhaltensdimensionen , die das Erwachsenwerden markieren und dem Zuschauer als Anknüpfungspunkt dienen können .
+Etwa wenn Troys bester Freund Chad ihm gegenüber äußert „ Das weiß man doch , dass man nicht mit seiner High School-Freundin zusammen bleibt “ ( 01:19:40 ) , Troy aber bewusst ist , dass Gabriella ihm so viel bedeutet , dass er sich entgegen des gesellschaftlichen Konsens für ein Studium in ihrer Nähe und die Fortführung der Beziehung entscheidet .
+Nachdem der Zuschauer nach zwei Vorgängerfilmen bereits eine Beziehung zur Personae Troy aufgebaut hat , kann deren Handeln ihm in einer vergleichbaren realen Situation durchaus als Vorbild dienen .
+Die Übertragung der Prämissen des Sozialkonstruktivismus auf die mediale Rezeptionssituation untermauert die Annahme , dass das von einem Unterhaltungserleben begleitete Hören von Geschichten und Sehen von Spielfilmen als leiblich-sinnliche , affektive sowie pragmatische Erfahrung begriffen werden kann .
+Es handelt sich bei dieser Art der Rezeption um einen aktiven Prozess sowohl der Wissenserzeugung als auch der Bestätigung oder Revision bereits vorhandener Verhaltensweisen .
+In diesen theoretischen Kontext fügt sich auch die Sozial-kognitive Lerntheorie Albert Banduras .
+Auch für Banduras Theorie ist die Annahme grundlegend , dass Wissen nicht aus der direkten Erfahrung , etwa aus der Interaktion mit Familienmitgliedern , Freunden oder Lehrern , hervorgehen muss , sondern dank der kognitiven Fähigkeiten des Menschen auch in der Beobachtung des Verhaltens anderer erworben werden kann :
+Auch symbolisch , etwa sprachlich oder audiovisuell , repräsentierte Interaktionen anderer fungieren demnach als Modell69 für individuelle Handlungsentwürfe .
+Durch kognitive Modellierungsprozesse können Individuen die aus den beobachteten Verhaltensweisen abstrahierten Verhaltensregeln verinnerlichen ( vgl. Bandura 1971 : 6 ) .
+Ob aus den erlernten , in der Kognition symbolisch repräsentierten Handlungsmodellen tatsächlich manifestes Verhalten resultiert , hängt in der Folge davon ab , welche Konsequenzen das beobachtete Verhalten für das Modell hat ( vgl. ebd. : 8 ) : Positive Reaktionen seitens der beobachteten Handlungspartner motivieren dazu , erlerntes Verhalten in der Realität umzusetzen , während negativ sanktioniertes Verhalten dessen Ausführung hemmt .
+Gelangt der Rezipient zu einer positiven gedanklichen Stellungnahme hinsichtlich der Gerechtfertigtheit sowie Erwünschtheit des beobachteten Verhaltens und tritt ein der beobachteten Situation ähnelnder Umstand ein , wird die wirkliche Ausführung des Verhaltens wahrscheinlich .
+Ist letzteres auch in der Realität erfolgreich , führt dies wiederum zu seiner Verstärkung , die die wiederholte Ausübung motiviert und die langfristige Speicherung des Verhaltensmusters bewirkt .
+Aufgrund der langen Zeitdauer , die Menschen in der westlichen Welt Fernsehen schauend verbringen , misst Bandura ( vgl. ebd. : 10 ) insbesondere den symbolischen Repräsentationen der Massenmedien eine einflussreiche Rolle hinsichtlich der Formung von Verhaltensweisen und Einstellungen bei .
+Der Psychologe formuliert diesen Gedanken in seiner Jahrzehnte später erscheinenden Abhandlung Social Cognitive Theory of Mass Communication ( 2001 ) , in der er das Prinzip des Modelllernens auf die Medienwirkung überträgt .
+Bandura betont auch hier den wesentlichen Unterschied zwischen dem Erwerb und der konkreten Ausführung erlernten Wissens und bestimmt Massenmedien dementsprechend einerseits als Lehrer , andererseits als ein bestimmtes Verhalten stimulierende Motivatoren ( vgl. Bandura 32009 : 113 ) .
+Die Effekte massenmedialer Kommunikation resümiert Bandura wie folgt : “ In sum , modeling influences serve diverse functions – as tutors , motivators , inhibitors , disinhibitors , moral engagers and disengagers , social prompters , emotion arousers , and shapers of values and public conceptions of reality ” ( ebd. : 108 ) .
+Die Befunde Banduras belegen , dass Medien eine wichtige Sozialisationsinstanz70 darstellen .
+In der Rezeption von Spielfilmen , ebenso wie im Hören von Geschichten , erfolgt Lernen im Kontext eines positiven Gefühlszustandes inzidentell ( vgl. Lukesch 1996 : 55ff .) .
+Sinnliche Wahrnehmung und Kognition gehen in der Rezeption mündlicher und audiovisueller Narrationen eine machtvolle Allianz ein .
+Diese vermag es , soziales Verhalten zu imprägnieren und fortlaufend zu re-imprägnieren .
+Der Einzelne wird somit befähigt , soziale Situationen richtig zu lesen , im Hinblick auf ihre impliziten Normen zu verstehen und angemessen zu reagieren .
+Mit dem Effekt der „ Behavioral Literacy “ ( Wittrock 2005 ) erbringen Film und Fernsehen sowie Rhapsoden eine wesentliche Funktion für die Gesellschaft , nämlich die Integration des Individuums in die soziale Wirklichkeit unter Erarbeitung seiner persönlichen Identität .
+Die Sozialisation des Einzelnen als eine lebenslange Notwendigkeit findet zwar im Hier und Jetzt statt , zugleich ist ihr eine historische Perspektive eingeschrieben :
+Da sich der Kontext des sozialen Handelns kontinuierlich ändert und Wissensbestände in der menschlichen Interaktion fortlaufend aktualisiert werden , unterliegen die Verhaltensregeln einem ständigen Wandel .
+Die Werte und Normen westlicher Gesellschaften des 18. Jahrhunderts besitzen in der Gegenwart keine Gültigkeit mehr , gleichwohl haben sich aus ihnen die aktuellen gesellschaftlichen Regeln entwickelt , sodass sie ein bedeutender Teil der gesellschaftlichen und individuellen Identität sind .
+Historische Spielfilme wie BARRY LYNDON ( GB 1975 , Stanley Kubrick ) und Epen wie die Ilias halten historisches Wissen präsent und machen es der individuellen Erfahrung zugänglich .
+Die Leistung von Film und Fernsehen sowie der antiken Rhapsoden , tradiertes Wissen zu vermitteln , speist sich aus ihrer Speicherkapazität , deren Untersuchung sich im Folgenden anschließt .
+Die formale und infolgedessen wirkungsästhetische Homologie von Rhapsoden , Film und Fernsehen liegt in der gemeinsamen Funktion dieser Medien begründet , soziales Wissen zu speichern und zu vermitteln .
+Medien sind Instrumente , die Bedeutung in Form von auditiven und visuellen Narrationen codieren , um sie als Sinnangebote verfügbar zu machen .
+Gewährleistet wird hierdurch die Teilhabe des Einzelnen an einem kollektiven Wissen , welches die aktuellen sozialen Verhaltensdimensionen beinhaltet und sich darüber hinaus auch „ auf die Erinnerung an eine gemeinsam bewohnte Vergangenheit stützt “ ( Assmann 1992 : 17 ) .
+Da diese Vergangenheit nicht persönlich erfahrbar ist , konstituieren Medien mit der Vielzahl und Vielfältigkeit ihrer Narrationen eine wesentliche Quelle für die historische Verortung der Gesellschaft .
+Medien fungieren , dies wird im folgenden Kapitel ausführlich betrachtet , als Träger des kollektiven Gedächtnisses .
+Für dieses narrativ strukturierte Gedächtnis stellt der Mythos eine sinnstiftende Grundform bereit .
+Symbolische Objektivationen wie die Sprache binden den Einzelnen an einen gemeinsamen Handlungsraum mit bestimmten Regeln und schaffen hierdurch Vertrauen .
+Die für die Kohärenz der sozialen Wirklichkeit notwendige Weitergabe dieser Regeln begründet das Wissen um eine geteilte Vergangenheit , welches wiederum Erinnerung stiftet .
+Beide Aspekte , sowohl die Sozial- als auch die Zeitdimension , die „ in einen fortschreitenden Gegenwartshorizont Bilder und Geschichten einer anderen Zeit einschließt [ … ] , fundieren Zugehörigkeit oder Identität , ermöglichen dem Einzelnen , ‚ wir ’ sagen zu können “ ( ebd. : 16 ) .
+Sie konstituieren die Kultur71 einer Gruppe von Menschen .
+Eine Kultur zeichnet sich für Jan Assmann durch ihre konnektive Struktur aus , deren charakteristische Grundprinzipien die Vergegenwärtigung und Wiederholung von Handlungen sind ( vgl. ebd. : 17 ) .
+Einzelne Handlungen ordnen sich hierdurch zu wiedererkennbaren Mustern , die als Wesenszüge einer Kultur beschreibbar werden .
+Den Zusammenhang von Erinnerung , Identität und Traditionsbildung erforscht Assmann in Das kulturelle Gedächtnis .
+Schrift , Erinnerung und politische Identität in frühen Hochkulturen ( 1992 ) .
+Den mit der Erfindung der Schrift einsetzenden mediengeschichtlichen Umbruch bestimmt er als einen kulturellen Übergang von der Dominanz der Wiederholung kultureller Überlieferung hin zur Dominanz ihrer Vergegenwärtigung :
+Da Wissen in oralen Kulturen in Form mündlicher Narrationen weitergeben wird , müssen die entsprechenden Geschichten beständig vorgetragen werden .
+Die Schrift hingegen erlaubt die dauerhafte Fixierung sozialen Wissens , wodurch dessen kontinuierliches Durchleben in der Identifikation hinfällig wird .
+Mit dem Entstehen dieser neuen konnektiven Struktur wandelt sich die Art und Weise , in der sich die Gemeinschaft an ihre Gegenwart und Vergangenheit bindet :
+Erfolgt dies im Rahmen mündlicher Überlieferungen durch Nachahmung und Bewahrung , so setzt mit Einführung der Schrift der Modus der Auslegung und Erinnerung ein ( vgl. ebd. : 18 ) .
+Die mentale Vergegenwärtigung der Vergangenheit wandelt sich hierdurch zu einem interpretativen Akt , weshalb die kulturelle Identität72 des Einzelnen nunmehr von individuellen Voraussetzungen beeinflusst ist .
+Da verschiedene Medientechnologien unterschiedliche Formen der Kommunikation und der Wahrnehmung erzeugen , übt die Medienevolution Einfluss auf die Wissensorganisation aus ( vgl. Holl 2003 : 183 ) .
+Wie mit den Vertretern des Sozialkonstruktivismus gezeigt wurde , entsteht Wissen in der Interaktion , wobei die menschliche Fähigkeit , Sinneswahrnehmungen zu speichern und wieder in das Bewusstsein zu rufen , eine Grundvoraussetzung für diesen Vorgang ist .
+Bewusstsein und individuelles Gedächtnis wiederum bilden sich erst in sozialem Handeln und damit in Abhängigkeit von der Gemeinschaft .
+Der französische Soziologe Maurice Halbwachs , in seinem Wirken beeinflusst von Émile Durkheim , Henri Bergson , Marcel Mauss und Carl Gustav Jung , stellt zu Beginn des 19. Jahrhunderts als erster Forscher die These der sozialen Bedingtheit des individuellen Gedächtnisses auf .
+Ausgangspunkt für die Entwicklung seiner Theorie einer „ mémoire collective “ bildet die Abhandlung Les cadres sociaux de la mémoire ( 1925 ) .
+Halbwachs beruft sich für den Nachweis der sozialen Geprägtheit individueller Erinnerung auf das Konzept der „ sozialen Rahmen “ 73 .
+Sozial vorgegebene Rahmen der Bedeutsamkeit organisieren menschliche Wahrnehmung und konstituieren sowie stabilisieren die Erinnerung des Einzelnen :
+„ il n ' y a pas de mémoire possible en dehors des cadres dont les hommes vivant en société se servent pour fixer et retrouver leurs souvenirs “ ( Halbwachs 1994 : 79 ) .
+Insofern Erinnern die Sinngebung für Erfahrungen in einem durch die Gesellschaft definierten Rahmen meint , muss das sich konstituierende Gedächtnis ein überindividuelles , kollektives sein :
+Demnach ist die Gegenwart der individuellen Erinnerung ebenso wie die wirkliche Gegenwart eine soziale Konstruktion einer bedeutsamen Welt des Erlebens und Handelns .
+„ Ces souvenirs [ … ] ce sont , en même temps , des modèles , des exemples , et comme des enseignements .
+En eux s ' exprime l ' attitude générale du groupe ; ils ne reproduisent pas seulement son histoire , mais ils définissent sa nature , ses qualités et ses faiblesses “ , schreibt Halbwachs ( 1994 : 151 ) und verweist damit auf die identitätsstiftenden Effekte der kollektiven Gedächtnisinhalte .
+Das Gedächtnis als ein soziales Konstrukt entfaltet sich in der menschlichen Interaktion , in der Teilhabe an kommunikativen Prozessen .
+Bricht die Kommunikation ab oder ändern sich die Bezugsrahmen der kommunizierten Wirklichkeit , ist laut Halbwachs ( vgl. 1925 : 279 ) Vergessen die Folge .
+Den Begriff der „ mémoire collective “ weitet Halbwachs damit auf den Bereich der kulturellen Überlieferung und Traditionsbildung aus .
+Diese Phänomene verbinden sich in der Terminologie Jan und Aleida Assmanns im Begriff des kulturellen Gedächtnisses . 74
+Während sich das kollektive Gedächtnis in nicht intendierter Weise , etwa in kommunikativen Praktiken oder der Architektur , niederschlägt ( vgl. Welzer 2001 : 12 ) , realisiert sich das kulturelle Gedächtnis intentional ( vgl. Assmann 1992 : 24 ) , etwa in eigens geschaffenen Institutionen .
+Denn obgleich Kulturen ebenso wie Individuen ihr Gedächtnis in der Interaktion aufbauen und die Notwendigkeit der generationenübergreifenden Weitergabe kollektiven Sinns besteht , entbehrt das Gruppengedächtnis einer neuronalen Basis ( vgl. ebd. : 89 ) .
+Um dauerhaft gespeichert und von Generation zu Generation überliefert zu werden , müssen die Objektivationen intersubjektiver Erfahrungsablagerungen mit Hilfe eines Zeichensystems vollzogen werden .
+Dieses ermöglicht es , die Objektivationen gemeinsamer Erfahrungen zu wiederholen ( vgl. Berger / Luckmann 1969 : 72 ) . 75
+Grundlegend für die gesellschaftliche Erfahrungsablagerung ist zunächst das Zeichensystem Sprache .
+Nach Berger / Luckmann ( vgl. ebd. : 72f .) ist sie Medium und konstitutives Moment von Wissen und Gedächtnis .
+Auch unter den von Aleida Assmann in Erinnerungsräume .
+Formen und Wandlungen des kulturellen Gedächtnisses ( 1999 ) benannten „ Gedächtnismedien “ ( ebd. : 20 ) rangiert die Sprache bzw.
+die Schrift unter den wichtigsten Fundamenten und Instrumenten des kollektiven Gedächtnisses .
+Als „ materielle Stütze “ ( ebd.) gewährleistet die Schrift die Speicherung kollektiven Wissens sowie dessen Vermittlung in der Interaktion mit dem Gedächtnis des Einzelnen .
+Zeichensysteme sichern somit die Wiedererkennbarkeit und Kontinuität einer Kultur ( vgl. Assmann 1994 : 114f .) .
+In ihrer Funktion als Träger des kollektiven Gedächtnisses entscheiden die technischen Möglichkeiten von Gedächtnismedien darüber , was und wie erinnert wird .
+Der medientechnische Wandel bedingt die Verfasstheit des kollektiven Gedächtnisses .
+Folgerichtig definiert die Theorie Jan und Aleida Assmanns eine Kultur als den „ historisch veränderliche [ n ] Zusammenhang von Kommunikation , Gedächtnis und Medien “ ( ebd. : 114 ) .
+Bei Assmanns löst der Gedächtnisbegriff , ein komplexes Handlungs- und Institutionengefüge bezeichnend , das Konzept der Tradition ab .
+Ihre in den Kulturwissenschaften äußerst wirkmächtige Theoriebildung zum Verhältnis von Gedächtnis und Gesellschaft kann insofern auch als Medientheorie bzw. Medienanthropologie ( vgl. Erll 2008 : 3 ) gelesen werden .
+Ihre sinnliche Konkretisierung erfahren kollektive Gedächtnisinhalte nicht nur in der Sprache , sondern auch in Bildern und Körpern .
+Die Analyse der formalen Homologie von Rhapsoden sowie Film und Fernsehen hat gezeigt , dass sowohl die antiken Sänger als auch die audiovisuellen Medien dieses Repertoire externer Speichermedien in ihrer Darstellung vereinen .
+Jedoch tun sie dies unter medientechnologisch völlig anderen Voraussetzungen .
+In Kulturen primärer Oralität ist das kulturelle Gedächtnis ein im doppelten Sinne lebendiges :
+Zunächst ist es an einen lebenden Organismus , den Sänger , gebunden , dessen individuelles Gedächtnis das kollektive Wissen organisiert .
+Die Multimedialität der Wissensvermittlung , eine Inszenierung von Stimme , musikalischen Klängen , Mimik und Gestik , ist ein direktes Resultat der rhapsodischen Verkörperung der griechischen Tradition .
+In der „ lebendigen Inszenierung des sozialen Gedächtnisses “ ( Assmann 1994 : 133 ) reproduziert sich die kulturelle Identität der Gemeinschaft .
+Des Weiteren speist sich das Wissen um die gemeinsame kulturelle Identität aus einer Erinnerung , die lebendig ist , die lediglich bewahrt , was für die Gegenwart relevant ist : „ It [ the living memory ] prefers to remodel rather than discard .
+New information and new experience are continually grafted on to inherited models ” ( Havelock 1963 : 122 ) .
+Das zeitlich Spezifische wandelt sich kontinuierlich zum Typischen der Gegenwart .
+Ein historisches Zeitbewusstsein ist folglich unmöglich ( vgl. ebd.) .
+Während es in oralen Kulturen kein Wissen und kein Gedächtnis außerhalb menschlicher Körper gibt , wird es mit der Erfindung der Schrift möglich , kollektives Wissen auf materiale Träger auszulagern und den Einzelnen von der Aufgabe der Bewahrung des Gruppengedächtnisses zu entlasten .
+Zwar ist der antike Sänger im Übergang von der Mündlichkeit zur Schriftlichkeit weiterhin damit beauftragt , soziale Werte und Normen zu vermitteln .
+Mit der Entwicklung des griechischen Alphabets besteht jedoch erstmals die Möglichkeit , Wissen abzulagern und kontinuierlich neues Wissen zu schaffen , ohne bestehendes Wissen dadurch zu modifizieren .
+So bildet sich neben dem beständig in der Interaktion aktualisierten Wissen ein Gedächtnis heraus , das weitaus komplexer ist , als dass es im Bewusstsein des Einzelnen präsent sein könnte .
+Es lässt sich schlicht mehr schriftlich aufzeichnen , als die menschliche Psyche erinnern kann .
+Für dieses Gedächtnis , welches über den in einer bestimmten Epoche tradierten und kommunizierten Sinn hinausgeht , prägen Jan und Aleida Assmann ( vgl. 1994 : 122 ) in Abgrenzung zum kulturellen Funktionsgedächtnis den Begriff des kulturellen Speichergedächtnisses .
+Dessen Bewahrung ist nicht die Aufgabe einzelner Subjekte , sondern die ganzer Institutionen , etwa von Archiven und Bibliotheken .
+Das sich in vielfältigen Zeichen manifestierende Funktionsgedächtnis hingegen repräsentiert als „ gleichmäßig ausgeleuchteter Erinnerungsraum “ ( Assmann 1999 : 408 ) die Gesamtheit des orientierenden Erfahrungswissens , welches an die nächste Generation weitergegeben werden soll .
+76 Die homerischen Epen begründen demnach gewissermaßen die Herausbildung des Speichergedächtnisses der westlichen Kultur .
+Havelock ( 1982 : 167 ) betrachtet sie als das früheste Schriftzeugnis einer bis dahin mündlich überlieferten Tradition :
+Ihre identitätsstiftende Funktion entfalten die mündlich vorgetragenen Epen Homers in der archaischen griechischen Gesellschaft :
+Die in der Ilias kodifizierten Erinnerungen an die mykenische Zeit fundieren eine gemeinsame Vergangenheit , die es den Griechen erlaubt , sich ungeachtet sowohl ihrer unterschiedlichen Stämme und Stände als auch des kulturellen und gesellschaftlichen Bruchs zwischen Vergangenheit und Gegenwart als Einheit zu begreifen .
+Als zentrales Erinnerungsmoment für die Integration auf Grundlage der Ilias identifiziert Assmann ( vgl. 1992 : 273 ) die Geschichte einer Koalition gegen den gemeinsamen Feind Persien .
+Mit dem Entstehen literaler Gesellschaften verlagert sich die „ enzyklopädische Verantwortung “ ( Havelock 1990 : 16 ) des Rhapsoden nach und nach auf gleich mehrere Institutionen :
+Soziale Normen und Werte werden in Gesetzestexten kodifiziert und in religiösen Praktiken vermittelt .
+Im Laufe der Jahrhunderte begründen und legitimieren insbesondere Religionen langfristig kulturellen Sinn und erweisen sich für die individuelle Identitätssuche als richtungsweisend ( vgl. Reichertz 2007 : 161 ) .
+In den zunehmend säkularisierten Gesellschaften der westlichen Welt wird die Bedeutung von Religionen gegenwärtig jedoch zugunsten massenmedialer Sinnstifter wie Film und Fernsehen zurückgedrängt .
+77 Audiovisuelle Medien fundieren das Gedächtnis einer Gesellschaft in einer den antiken Rhapsoden vergleichbaren Art , indem sie in ihren auditiven und visuellen Darstellungsweisen die materiellen Speichermöglichkeiten kollektiven Sinns aktualisieren :
+Das verkörperte Wissen ist zwar nicht länger unmittelbar durch den Sänger wahrnehmbar , jedoch gewährleistet das elektronische Bild eine vergleichbare Qualität der sinnlichen Wahrnehmung der Schauspielerkörper ( vgl. Kap. 1.1 ; Kap. 3.3 ) .
+Das kollektive Gedächtnis konstituiert sich in der Interaktion des Mediennutzers mit den medialen Botschaften .
+Zwar stellen audiovisuelle Massenmedien lediglich einen von vielen möglichen Zugängen zum Gedächtnis einer Gesellschaft dar .
+Aufgrund ihrer Omnipräsenz im Alltag des Einzelnen und ihres umfangreichen Angebots handelt es sich aber um die einfachste , bei Spielfilmen sogar von einem Unterhaltungserleben begleitete , Art der individuellen Teilhabe an der Erfahrungswelt einer Gesellschaft .
+Zudem stehen die sinnlichen Qualitäten audiovisueller Zeichen der unmittelbaren Erfahrungswelt des Zuschauers ungleich näher als etwa schriftliche oder architektonische Gedächtnisträger .
+Insofern die von Film und Fernsehen präsentierte fiktive Realität soziales Wissen verfügbar macht und dieses Wissen als authentische Wirklichkeits- und Vergangenheitsversion aufgefasst wird , prägen mediale Darstellungen auch die individuelle Erfahrung historischer Ereignisse , also die Erinnerung .
+Dies betrifft insbesondere Erinnerungen an eine historische Vergangenheit , die nicht Gegenstand der persönlichen Erfahrung ist .
+In Erinnerungsfilmen haben sie zurzeit Hochkonjunktur :
+Kulturelle Erinnerung identifiziert Astrid Erll ( vgl. 2008 : 1 ) als Leitthema des Films ; zugleich ist der Film das Leitmedium der Erinnerungskultur .
+Für den amerikanischen Bildungswissenschaftler Sam Wineburg ( vgl. 2001 : 181 ) deutet einiges darauf hin , dass etwa das Geschichtsbild von Schülern nicht durch die Schule , sondern zunehmend durch die Massenmedien vermittelt wird .
+Er beruft sich unter anderem auf das Beispiel eines Schülers , namentlich John , in dessen Erinnerung der Vietnamkrieg zu einer filmisch vermittelten Vergangenheit gerinnt , in der sich Fiktion und Fakten mischen , die für John aber eine historische Tatsache darstellt .
+Doch auch wenn die historische Vergangenheit eine selbst erfahrene ist , ist Erinnerung nicht ein bloßes Abbild dieser , sondern selbst eine Form der Wirklichkeitskonstruktion .
+Erinnern verfährt Aleida Assmann ( 1999 : 29 ) zufolge grundsätzlich rekonstruktiv , denn „ es geht stets von der Gegenwart aus , und damit kommt es unweigerlich zu einer Verschiebung , Verformung , Entstellung , Umwertung , Erneuerung des Erinnerten zum Zeitpunkt seiner Rückrufung “ .
+Die individuellen Erinnerungen sind perspektivisch und existieren nicht isoliert ( vgl. Assmann 2001 : 117 ) .
+Auch die Bilder und Handlungsdarstellungen audiovisueller Medien formen die Erinnerung aufgrund ihrer Allgegenwart unweigerlich mit .
+Das Beispiel des Schülers John hat gezeigt , dass mediale Bilder als getreues Abbild der realen Wirklichkeit rezipiert werden , obgleich sie historische Inhalte nach ästhetischen Gesichtspunkten transformieren .
+78 Medien fungieren nicht als neutrale Träger des kollektiven Gedächtnisses .
+Aus konstruktivistischer Sicht müssen sie vielmehr als Erzeuger von Wirklichkeit betrachtet werden :
+Indem sie den Rahmen des Erinnerns bereitstellen , wirken Medien als eine „ gedächtnisbildende Macht “ ( Erll 2005 : 142 ) .
+Die kollektive Geprägtheit des individuellen Gedächtnisses versteht Astrid Erll ( vgl. ebd. : 140 ) entsprechend als eine inhärent mediale Geprägtheit .
+Die besondere Leistung audiovisueller Massenmedien besteht darin , den Wissenshorizont einer Kultur beständig zu aktualisieren .
+Neue Film- und Fernsehnarrationen sind häufig in der Gegenwart verortet und stets das Produkt in der Gegenwart lebender Individuen .
+Sie erweitern den Bestand des kollektiven Gedächtnisses kontinuierlich und halten den Einzelnen damit stets „ auf dem Laufenden “ .
+Den Lernprozess der Verhaltensmodellierung begreift Hickethier ( 1999 : 351 ) entsprechend als eine Flexibilisierung der Wahrnehmung :
+ „ Das Fernsehen macht die eingefahrenen kulturellen Sehgewohnheiten , die kulturellen Wertsetzungen und Sichtweisen auf Welt flexibel , d.h. veränderbar im Sinne der langfristigen Umstrukturierung von Gesellschaft .
+ “ Die Bereitschaft zu einer flexiblen Wahrnehmung erzeugt das Fernsehen strukturell , indem es in seinen Darstellungen Muster variiert und die Bereitwilligkeit schult , sich auf Neues einzulassen und anzupassen : In ihrer Funktion als „ Modernisierungsagenturen “ ( ebd. : 349 ) betreiben Film und Fernsehen nicht nur die Anpassung an neue Verhaltensmuster , die mit gesellschaftlichen Wandlungsprozessen notwendig werden .
+Im Gegensatz zu den Sängern mündlicher Überlieferungen hält das Fernsehen auch die „ altmodischen “ Verhaltensformen präsent und gewährleistet hierdurch , dass alle Generationen kontinuierlich in den Rezeptionszusammenhang integriert werden .
+Indem Film und Fernsehen ebenso wie Rhapsoden die relevanten Inhalte des Funktionsgedächtnisses beständig erneuen , erweisen sie sich als sehr viel funktionaler als eine gedruckte Enzyklopädie .
+Im Gegensatz zu dieser wie auch zu den antiken Sängern halten audiovisuelle Medien aufgrund ihrer unbegrenzten Speicherkapazität zugleich ältere Produktionen als historische Vergangenheitserinnerung präsent .
+Gleichwohl lässt sich die Metapher der Enzyklopädie in Beziehung zu der Funktion von Rhapsoden , Film und Fernsehen setzen , das kollektive Gedächtnis zu tragen und zu vermitteln :
+Die Gesamtheit der Mythen und Spielfilme fundiert als Enzyklopädie des sozialen Verhaltens die Gesamtheit des kulturellen Wissensbestandes und sichert somit die kulturelle Identität einer Gemeinschaft .
+Film und Fernsehen sind in der Gegenwart ebenso wenig willkürliche Trägermedien wie die Rhapsoden des antiken Griechenlands .
+Sie erweisen sich als ausgezeichnete Bewahrer der Tradition einer Kulturgemeinschaft , da sie einen geeigneten Sinnrahmen bereitstellen , in dem Erfahrungen organisiert und als Erinnerungen dauerhaft bewahrt werden ( vgl. Halbwachs 1994 : 79 ) .
+Den ältesten und nach wie vor wirkmächtigsten sozial vorgegebenen Rahmen der Bedeutsamkeit stiften Narrationen .
+Rhapsoden sowie Film und Fernsehen als deren Vermittler beziehen ihr Sinnpotenzial aus der Struktur von Erzählungen .
+Der griechische Mythos scheint die sinnstiftende Grundform von Erfahrung und Erinnerung darzustellen .
+Dies gilt es im Folgenden zu ergründen .
+Erinnerungen sind flüchtig , labil und bedürfen , da sie darüber hinaus fragmentarisch und ungeformt sind , einer Struktur , die sie konserviert .
+Zwar unterliegen auch stabilisierte Erinnerungen einem beständigen Wandel , da sich deren Bewertung und Bedeutung für das Individuum mit der Zeit verändern .
+Doch schützt die Formgebung gegen das Vergessen :
+„ Der Akt des Speicherns “ , schreibt Aleida Assmann ( 1999 : 29 ) , „ geschieht gegen die Zeit und das Vergessen , deren Wirkungen mit Hilfe bestimmter Techniken außer Kraft gesetzt werden “ .
+Eine solche Technik , die zugleich grundlegendste und , ihrer langen Tradition nach zu urteilen , effektivste , ist die der Erzählung .
+Der Zusammenhang zwischen Erzählen und Erinnern , Gedächtnis und Identität ist ein in der Kulturwissenschaft und Psychologie vielfach erforschtes Phänomen ( vgl. Sommer 2009 : 230 ; Schmidt 1993 : 391 ) .
+Wesentlich auch für diese Denkfigur ist die Annahme , dass Bedeutung ein Konstrukt menschlicher Wahrnehmung ist .
+Erst der Gebrauch der Sprache und insbesondere die Erzeugung von Erzählungen verleihen dem unstrukturierten menschlichen Erleben Sinn und eine kommunizierbare Form .
+Letztere schafft die Grundlage dafür , sich an dieses Erleben erinnern zu können ( vgl. Nünning , V . 2013 : 148 ) .
+Mit der sinn- , wirklichkeits- und identitätserzeugenden Kraft des Erzählens befasst sich die narrative Psychologie .
+Die in den achtziger Jahren eingeleitete methodische Spezifizierung auf narrative Aspekte psychologischer Forschung dokumentiert der Sammelband Narrative Psychology .
+The Storied Nature of Human Conduct ( 1986 ) von Theodore Sarbin .
+Unabhängig vom jeweiligen Forschungsgebiet , resümiert der amerikanische Psychologe ( Sarbin 1986 : xviii ) einleitend , treffe folgende Erkenntnis hinsichtlich der Darstellung des Selbst auf alle versammelten Studien zu :
+„ lives are presented as narratives , and the form and content of the narratives are fashioned not only by ‚ facts ’ but by the purpose , biases , interests , and moral posture of the storyteller ” .
+Identität konstituiert sich nach Auffassung narrativer Psychologen als eine konstruierte Selbsterzählung , die den eigenen Handlungen und Lebenserfahrungen Bedeutung zu verleihen vermag ( vgl. Nünning , A . 2013 : 28 ) .
+Die narrative Codierung von Erfahrung im individuellen und kollektiven Gedächtnis betrifft zwei Ebenen :
+Zum einen ist das menschliche Erleben , die Wahrnehmung und Interpretation eines Geschehens als Produkt gesellschaftlicher Konstruktionen , bereits von narrativen Mustern vorgeprägt .
+Kulturen stellen ein Repertoire narrativer Plots zur Verfügung ( vgl. ebd. : 36 ) , die innerhalb kognitiver Prozesse die Wahrnehmung strukturieren und in der Funktion eines Selektions- und Schematisierungsapparats darüber entscheiden , welche Wahrnehmungen überhaupt in das Bewusstsein gelangen ( vgl. Erll 2005 : 110f .) .
+Damit dienen kulturspezifische Erzählmuster der kognitiven Bearbeitung und psychischen Integration von Kontingenz ( vgl. Straub 1998 : 142 ) .
+Zum anderen bildet sich handlungsleitendes Wissen – Lebenserfahrung als Gesamtheit der Erlebnisse eines Individuums – in der Erinnerung , die ihrerseits wiederum narrativ verfährt .
+Donald Polkinghorne ( 1998 : 23 ) spricht deshalb von narrativem Wissen , welches sich als „ eine reflexive Explikation der pränarrativen Qualität unreflektierter Erfahrung “ darstellt .
+Durch die kognitive Integration vergangener Ereignisse in eine Narrationsstruktur konstruiert sich die Bedeutung der individuellen Lebensgeschichte in der Erinnerung .
+Insofern Erzählungen zugleich als Fundament und Träger von Bedeutung fungieren , stellt sich die Frage , weshalb gerade Narrationen für die Sinnstiftung prädestiniert sind .
+Polkinghorne ( vgl. ebd. : 16 ) definiert die Erzählung als eine Art der kognitiven Strukturierung , die das narrative Gestaltungsvermögen nutzt , um Handlungen und Geschehnisse zu temporalen Ganzheiten zu formen .
+Die narrative Strukturierung von Erfahrung bedient sich sozial konstruierter , kultureller Plots , durch welche Erlebnisse in ein einheitliches Gefüge aus benennbaren Objekten und aufeinanderfolgenden Ereignissen integriert werden ( vgl. ebd. : 17 ) .
+Sowohl das Moment der zeitlichen Verknüpfung als auch die Interdependenz der narrativen Elemente innerhalb eines fest umrissenen Rahmens verleihen Handlungen und Ereignissen Bedeutung .
+In solcher Weise narrativ strukturierte Erfahrungen79 erscheinen sinnhaft organisiert und kohärent , wodurch sie für das handelnde Individuum erklär- und verstehbar werden .
+Erzählungen erweisen sich somit als ein Medium der Erkenntnis .
+Ihre Relevanz erschöpft sich jedoch nicht in der individuellen Sinnstiftung .
+Kulturelle Erzählmuster schaffen auch die Grundlage dafür , dass individuelle Erfahrungen innerhalb einer Gemeinschaft kommunizierbar sind .
+Albrecht Lehmann ( vgl. 2007 : 9 ) zufolge , der sich dem Erzählen im Rahmen einer kulturwissenschaftlichen Bewusstseinsanalyse nähert , lassen sich Erfahrungen nicht anders als erzählend vermitteln .
+Dem kognitionspsychologischen Konzept des Skripts vergleichbar , das die standardisierte zeitliche Abfolge von Ereignissen und Handlungen bezeichnet ( vgl. Schenk 2007 : 281 ) , bestimmen kulturell geprägte narrative Muster die sinnhafte Abfolge von Ereignisschilderungen .
+Durch sie lassen sich Erfahrungen in kulturell anschlussfähiger Weise vermitteln ( vgl. Nünning , A . 2013 : 37 ) .
+Erzählen folgt somit einer sinnstiftenden Struktur , die an der Konstruktion von sozialem Wissen mitwirkt .
+Die im Vorhergehenden beleuchteten Effekte der Narration ( vgl. Kapitel 2 ) erklären die funktionale Bedeutung dieses „ universelle [ n ] Modus der Strukturierung [ … ] von Kommunikation und Handeln “ ( Neumann 2005 : 34 ) für die Fundierung und Vermittlung des sozialen Gedächtnisses mittels variierender Trägermedien .
+Umgekehrt indizieren die Universalität und Allgegenwart von Geschichten , ob durch Worte oder Bilderfolgen geschaffen , deren fundamentale Notwendigkeit für den Einzelnen und die Gesellschaft .
+„ Geschichten sind nie Ursache einer Erfahrung , sondern deren Abbildung .
+Es gibt keine wahren Geschichten , dennoch ein Verlangen nach Geschichten , weil Erfahrung , die sich nicht abbildet , kaum auszuhalten ist .
+“ Diese Worte Max Frischs ( 1975 : 126 ) , von Uwe Johnson neben anderen Frisch-Zitaten unter dem Titel Stichworte zusammengetragen , verweisen auf ein vielfach betrachtetes Phänomen ( vgl. Nünning , A. 2013 : 32 ; Straub 2013 , 77 ; Lehmann 2007 : 43 ) , wonach das Erzählen von Geschichten ein anthropologisches Grundbedürfnis des Menschen ist .
+Sowohl Erfahrungen machen als auch Geschichten erzählen sind Universalien menschlichen Handelns .
+80 Die enge Beziehung zwischen dem Entwurf einer historischen Zeitperspektive und dem Erzählen von Geschichten hervorhebend , bestimmt Jürgen Straub ( 2013 : 89 ) die Erzählung als eine „ überaus bedeutende Artikulationsform [ Herv. i. Orig. ] des Menschen “ , die auch dessen Lebensform charakterisiert .
+Für die Gattung Mensch , die sich in Geschichten artikuliert und im Erzählen ihre Interpretation der Welt formuliert , prägt der Erzählforscher Kurt Ranke in den sechziger Jahren den Begriff homo narrans ( vgl. Lehmann 2007 : 9 ) .
+Auf die anthropologische Qualität von Geschichten beruft sich auch Hans Blumenberg in seiner Studie Arbeit am Mythos ( 1979 ) .
+In Blumenbergs Konzeption formieren sich Geschichten gegen eine Wirklichkeit , die vom Menschen nicht mehr als eine ganzheitliche , in ihrer Bedeutung unmittelbar wahrnehmbare erfahren wird .
+Der von Blumenberg ( 51990 : 9 ) als „ Absolutismus der Wirklichkeit “ bezeichnete urgeschichtliche Zustand korrespondiert mit einer Phase im Prozess der Bewusstseinsevolution , in der die Existenz des Menschen vollständig in der Welt aufgeht :
+Noch sind Mensch und Natur undifferenziert ; das Bewusstsein , welches sich erst entwickelt , dämmert in einem traum- und erkenntnislosen Zustand ( vgl. Heuermann 1994 : 62 ) .
+Mit der Bewusstwerdung seiner eigenen Existenz beginnt der Mensch schließlich , sich als von der Welt getrennt wahrzunehmen .
+Die nunmehr notwendig gewordene Beherrschung der Wirklichkeit birgt für die menschliche Psyche , die mit dem Verlust strikter Bedeutungen konfrontiert ist und sich gegen die Welt als Natur und deren Unmenschlichkeit wappnen muss ( vgl. ebd : 63 ) , ein ungekanntes Unbehagen .
+Um für den Menschen ertragbar zu sein , muss diese Angst fortwährend zu Furcht rationalisiert werden ( vgl. Blumenberg 51990 : 11 ) .
+Dies leisten nach Blumenberg ( vgl. ebd. : 11 ) nicht Erfahrung und Erkenntnis , sondern Geschichten .
+Sie setzen dem Absolutismus der Wirklichkeit Namen für das Unbekannte und Bedeutsamkeit entgegen .
+Bedeutsamkeit schafft Distanz zur Unheimlichkeit der Wirklichkeit ( vgl. ebd. : 132 ) , indem sie der als fremd , willkürlich und indifferent empfundenen Welt Selbstverständlichkeit und Vertrautheit entgegensetzt ( vgl. ebd. : 78 ) .
+Bedeutsamkeit entsteht durch verschiedene Mittel , unter denen die Kreisschlüssigkeit und Wiederkehr des Gleichen , von Blumenberg ( vgl. ebd. 86f.) exemplifiziert an der Odyssee , die für das Weltvertrauen grundlegenden sind :
+Sie verweisen auf die Zuverlässigkeit aller Lebenswege ( vgl. ebd. : 97 ) .
+Der Mythos stellt für Blumenberg die Verarbeitungsform von Wirklichkeit schlechthin dar , weshalb die Antithese von Mythos und Logos für sein Denken hinfällig ist :
+„ Der Mythos selbst ist ein Stück hochkarätiger Arbeit des Logos “ ( ebd. : 18 ) .
+Als ein Mittel der Strukturierung von Raum und Zeit – in ihrer Indifferenz für das menschliche Bewusstsein unerträglich – repräsentiert der Mythos „ eine Welt von Geschichten , die den Standpunkt des Hörers in der Zeit derart lokalisiert , daß auf ihn zu der Fundus des Ungeheuerlichen und Unerträglichen abnimmt “ ( ebd. : 131 ) .
+Dem Absolutismus der Wirklichkeit setzt der Mythos die Prägnanz und anschauliche Ganzheit von Wörtern und Geschichten entgegen .
+Sich auf seine anthropologischen Qualitäten der Selbsterhaltung und Weltfestigkeit berufend , begreift Blumenberg ( ebd. : 186 ) den Mythos als die „ ‚ Form überhaupt ’ der Bestimmung des Unbestimmten “ .
+Der menschliche Bedarf an Geschichten ist in der Gegenwart ungebrochen .
+Angesichts der Komplexität und Dynamik der sozialen Wirklichkeit konstatieren Forscher mehrheitlich eine „ Mythenrenaissance “ ( Bartel 2004 : 15 ; Simonis 2004 : 9 ; Krüger / Stillmark 2013 : 10 ) in der Moderne .
+Es bleibt jedoch quantitativ zu belegen , dass Phasen gesellschaftlicher Umbrüche mit einer signifikant stärkeren Präsenz mythischer Wiederholungen einhergehen .
+Im Sinne Blumenbergs erwiese sich ein entsprechender Befund bereits deshalb als unerheblich , weil der Mythos ohnehin ein Phänomen kontinuierlicher Rezeption ist .
+Voraussetzung für die von Blumenberg beispielhaft nachvollzogene fortwährende Rezeption antiker Mythen ist sowohl die Beständigkeit ihres narrativen Kerns als auch die ausgeprägte Variationsfähigkeit von Mythen :
+„ ihre Beständigkeit ergibt den Reiz , sie auch in bildnerischer oder ritueller Darstellung wiederzuerkennen , ihre Veränderbarkeit den Reiz der Erprobung neuer und eigener Mittel der Darbietung “ ( 51990 : 40 ) .
+In den formalen Kennzeichen , die Blumenberg dem Mythos attestiert – eine variable , nur in der Handlungsstruktur festgelegte Erzählung , die dem Schema der zyklischen Wiederkehr folgt ( vgl. Blumenberg 1971 :
+48-51 ) – spiegelt sich insofern der aristotelische Mythosbegriff wider , als dieser ebenfalls eine bestimmte , in sich geschlossene Abfolge von Ereignissen bezeichnet .
+Seine formale Konstanz garantiert die uneingeschränkte Ausbreitung des Mythos in Raum und Zeit ; sie lässt ihn „ als erratischen Einschluß noch in Traditionszusammenhängen heterogener Art auftreten “ ( 51990 : 165 ) :
+Für die formale Konstanz des Mythos gibt Blumenberg unter der Prämisse der Unerfindbarkeit des Mythos ( vgl. 51990 : 165 ) zwei Erklärungen :
+Die Stabilität der mythischen Form kann ihren Ursprung in der Integration archetypischer Erfahrungen und Vorstellungen haben ( vgl. ebd. : 166f. ) , aus der die unmittelbare und überindividuelle Vertrautheit von Mythen hervorgeht 81 .
+Eine andere Begründung fokussiert die mündliche Überlieferung von Geschichten vor Homer und Hesiod , die gemeinhin als Urheber mythischer Grundmuster gelten .
+Entgegen dieser Annahme begreift Blumenberg ( 1971 : 28 ) den Mythos als „ immer schon in Rezeption übergegangen “ .
+Bereits die erstmals schriftlich fixierte , als Bezugsgröße geltende Form des Mythos ist das Resultat eines langen Selektionsprozesses , in dessen Verlauf die rezipierten Inhalte aoidischer Gesänge kontinuierlich optimiert wurden .
+Ergebnis dieses „ Darwinismus der Verbalität “ ( Blumenberg 51990 : 176 ) ist ein tradierter Bestand mythischer Muster , die Blumenberg ( ebd. : 165 ) als „ Mythologeme “ bezeichnet .
+Mythologeme als Formen früher Sinnfindung lassen sich nicht durch die Mittel der Phantasie nachahmen .
+Ihre Variabilität macht dies auch nicht erforderlich .
+Insofern Bedeutsamkeit ein Resultat und kein angelegter Vorrat ist , bewährt sich der Mythos unter wechselnden Belangen :
+„ Mythen bedeuten nicht ‚ immer schon ’ , als was sie ausgelegt und wozu sie verarbeitet werden “ , schreibt Blumenberg ( 1971 : 66 ) , „ sondern reichern dies an aus den Konfigurationen , in die sie eingehen oder in die sie einbezogen werden .
+“ Das sinnstiftende Potenzial von Erzählungen variiert demnach hinsichtlich der kontextuellen Bedingungen ihrer Rezeption :
+Für die antiken Griechen ist die Ilias nicht nur ein unverzichtbarer Fundus an Werten und Normen – der zentrale Streit zwischen Achill und Agamemnon kreist um die Themen Ehre , Macht und den Gegensatz von Eigennutz und Gemeinwohl – , sie ermöglicht es ihnen auch , sich als Einheit zu begreifen .
+Hingegen ist der Trojamythos in der Gegenwart vorrangig eine historische Darstellung .
+Bedeutung kann er in der individuellen Rezeption erlangen , etwa wenn der Zorn des Achill mit persönlichen Erfahrungen , wie der Auseinandersetzung mit Mitmenschen , konfrontiert wird .
+Der Mythos begründet hierdurch ein spezifisches Verständnis von Welt .
+Er verkörpert ein sich kontinuierlich wandelndes Bild der sozialen Wirklichkeit , das den Einzelnen orientiert und integriert .
+Mythen lassen sich mit Hülk ( 2006 : 7 ) folglich konzipieren als „ Matrix eines subjektiven wie kollektiven , sich stets erweiternden , komplexer werdenden Gedächtnisses aus Bildern und Narrationen “ .
+Die Bedeutung der narrativ abgelagerten Erinnerungsfiguren kann unter wechselnden historischen Vorzeichen abgerufen werden , wodurch sie jeweils neu konstruiert werden und dabei „ ihre Gültigkeit wie Sprengkraft aus der Spannung von Tradition und Innovation , Kontext und Präsenz “ ( ebd.) beziehen .
+Handelt es sich in urgeschichtlicher und archaischer Zeit um ein der Mnemotechnik dienendes Gestaltungsprinzip , welches aus einer anthropologischen und sozialen Notwendigkeit hervorgeht , ist der Mythos nunmehr eingebettet in ästhetische Zusammenhänge .
+Letztere scheinen seine ursprüngliche Funktion zwar weitestgehend zu verstellen und dem Bewusstsein zu entziehen .
+Das im Selektionsprozess des mündlichen Vortrags „ gehärtete Grundmuster “ ( 51990 : 166 ) des Mythos fungiert jedoch nach wie vor als universale Codierungs- und Organisationsform der Inhalte des kollektiven Gedächtnisses .
+Insofern das kollektive Gedächtnis von verschiedenen Medien getragen und vermittelt wird , findet auch die Form des Mythos in ihnen ihren jeweils spezifischen Ausdruck .
+Die zu Beginn nachgewiesene formale Homologie zwischen antiken Mythen und Spielfilmen ( vgl. Kapitel 1.2 ) wird hierdurch erklärbar :
+Der Mythos ist als ältestes , jahrhundertelang optimiertes und bewährtes Erzählmuster die sinnstiftende Organisationsform schlechthin des kollektiven Gedächtnisses .
+Er variiert lediglich in Bezug auf seine inhaltliche Ausgestaltung sowie seinen medialen Ausdruck .
+Entsprechendes konstatiert Havelock ( 1982 : 279 ) ausgehend vom antiken Theater – ebenfalls unter Berufung auf die Metapher der Matrix :
+„ Greek drama is a disguised corpus of oral wisdom contained within a narrative matrix , the mythos which preserves it ” .
+In der Gegenwart entfaltet der Mythos als Form seine Wirkung mittels neuer technischer Möglichkeiten .
+Die audiovisuellen Darstellungen von Film und Fernsehen sind die mächtigsten Vermittler mythischer Formen :
+Indem die elektronischen Medien Wirklichkeit in Bild und Ton narrativ strukturieren , reduzieren sie sie zugleich in ihrer Komplexität und geben ihr insofern einen Sinn , als in der Struktur des Mythos ein entsprechendes Sinnpotenzial bereits angelegt ist .
+Die narrative Handlungsstruktur verknüpft zusammenhangslose Ereignisse zu Kausalitäten , die Ordnung stiften und Welt dadurch strukturieren und vereinfachen , dass sie gewichten und bewerten ( vgl. Hickethier 1999 : 348 ) .
+Die Rezeption des vertrauten mythischen Grundmusters , das sich zur Strukturierung und Kommunikation von Erfahrung im Leben des Einzelnen bewährt hat , bereitet Sicherheit und Lust , zwei Empfindungen , denen sich der Mensch nicht entziehen kann .
