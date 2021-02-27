@@ -2,6 +2,12 @@
 
 Every noteable change is logged here.
 
+## v0.2.0
+
+### Feature
+
+* add abbreviations list (19d7d66a6824)
+
 ## v0.1.0
 
 ### Feature
