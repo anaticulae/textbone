@@ -11,6 +11,7 @@ import argparse
 import os
 import re
 
+import nltk.tokenize
 import utila
 
 DESCRIPTION = """\
@@ -27,7 +28,7 @@ def main():
     for path in paths:
         utila.log(path)
         content = utila.file_read(path)
-        content = replace(content)
+        content = modern(content)
         utila.file_replace(path, content)
 
 
@@ -72,6 +73,16 @@ def replace(content: str) -> str:
     lines = lines + ['']
     content = utila.NEWLINE.join(lines)
     return content
+
+
+def modern(content: str) -> str:
+    collected = []
+    for sentence in nltk.tokenize.sent_tokenize(content, language='german'):
+        raw = nltk.tokenize.word_tokenize(sentence, language='german')
+        line = ' '.join(raw)
+        collected.append(line)
+    result = utila.NEWLINE.join(collected)
+    return result
 
 
 def sources() -> list:
