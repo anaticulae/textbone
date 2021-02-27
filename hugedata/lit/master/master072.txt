@@ -182,8 +182,7 @@ Ursachen dafür seien unter anderem die technischen Möglichkeiten und der züge
 Der Untertitel seines erstmals im Jahr 2000 veröffentlichten Buches lautet entsprechend „ The Death of Privacy in the 21st Century “ .
 Auch Susan Barnes zieht einige Jahre später in ihrem Artikel „ A privacy paradox :
 Social networking in the United States ” das Konzept der Privatheit in Zweifel :
-“ In an age of digital media , do we really have any privacy ?
-” 84 fragt sie darin .
+“ In an age of digital media , do we really have any privacy ? ” 84 fragt sie darin .
 Facebook-Gründer und -CEO Mark Zuckerberg geht bereits davon aus , dass Privatheit keine soziale Norm mehr sei :
 " People have really gotten comfortable not only sharing more information and different kinds , but more openly and with more people " 85 , sagte Zuckerberg bei der Zeremonie zur Verleihung der Crunchie Awards im Januar 2010 .
 Seiner Ansicht nach führt mehr Transparenz und Offenheit zu einer toleranteren und besseren Welt . 86
@@ -460,8 +459,7 @@ Es gibt keine gegenseitigen Erwartungen , die das Handeln bestimmen könnten , d
 Und darin liegt nach White die Antriebskraft für den Aufbau von Identitäten :
 “ Identities spring up out of efforts at control in turbulent context “ 178 .
 Sie entstehen aus den Versuchen , Unsicherheit zu kontrollieren , indem sie danach streben , einen festen Standpunkt ( Footing ) inmitten einer kontingenten Umwelt zu finden . 179
-Boris Holzer schreibt :
-„ Identität wird damit beobachtbar als der Ausdruck eines Bedürfnisses nach sozialer Verortung ( social footing ) “ 180 .
+Boris Holzer schreibt : „ Identität wird damit beobachtbar als der Ausdruck eines Bedürfnisses nach sozialer Verortung ( social footing ) “ 180 .
 Das Bedürfnis nach Kontrolle darf jedoch nicht als Machtstreben missverstanden werden – vielmehr handelt es sich um existenziell wichtige Vorgänge für die Identitätsbildung .
 Kontrolle ist , nach White , das Basis-Moment in sozialen Netzwerken und beschreibt das Verlangen , mehr oder weniger feste Bindungen zu schaffen und damit Halt und eine bestimmte Position im sozialen Umfeld von anderen Identitäten zu finden .
 So lassen sich Unsicherheit und Kontingenz in der sozialen Umwelt reduzieren .
@@ -496,8 +494,7 @@ Ties verketten sich folglich miteinander , sodass es zu Verbindungen über die d
 Außerdem können sie vielfältige Dimensionen aufweisen , wenn z.B. eine Beziehung zwischen Arbeitskollegen existiert , die gleichzeitig auch Freunde sind . 202
 Identitäten koppeln sich durch Ties an andere Identitäten , sie lösen sich aber auch ständig wieder von diesen; White spricht in diesem Zusammenhang von „ Coupling “ und „ Decoupling “  . 203
 Ties lassen sich durch einen bestimmten Kontext in einer Story konkretisieren .
-White schreibt :
-„ A story is a tie placed in context “ 204 .
+White schreibt : „ A story is a tie placed in context “ 204 .
 Stories entstehen demnach in konkreten Netzwerk-Verbindungen und ermöglichen es , die Beziehungen zwischen den Identitäten zu unterscheiden und zu charakterisieren , z.B. als Bekanntschaft , Freundschaft oder Intimbeziehung .
 Durch sie wird Identität erzählt oder anders ausgedrückt : dargestellt .
 Stories gelten dabei immer als gemeinsame Produktionen und sind nicht das kreative Ergebnis von Einzelnen .
@@ -583,10 +580,9 @@ Ein Blog beispielsweise , der im Internet große Popularität erreicht hat , kan
 Ein Blog ist allgemein zugänglich , sodass im Falle großer Beliebtheit viele , für den Blogger Unbekannte , darauf zugreifen .
 Interaktion mit all den Lesern ist dann nicht mehr möglich .
 Dies trifft jedoch , statistisch gesehen , nur auf etwa ein Fünftel der Blogs zu , denn sobald die Nutzer Wahlfreiheit aus einer Vielfalt haben , herrscht Ungleichheit und es kommt zu einer Power-Law-Verteilung ( 80-20-Regel ) . 217
-Demnach lässt sich näherungsweise annehmen , dass 20% aller Blogs 80% der Leserschaft für sich beanspruchen .
+Demnach lässt sich näherungsweise annehmen , dass 20 % aller Blogs 80 % der Leserschaft für sich beanspruchen .
 Die Mehrheit der Blogs bleibt daher unpopulär und ermöglicht weiterhin Interaktion.
-Der vorangegangene Abschnitt zeigt :
-Die Interaktionssysteme in den sozialen Medien können recht groß werden .
+Der vorangegangene Abschnitt zeigt : Die Interaktionssysteme in den sozialen Medien können recht groß werden .
 Von Grenzfällen einmal abgesehen , bleiben die Adressaten also bestimmbar .
 Gerade bei den viel beachteten Social Network Sites können die Kontakte benannt werden , denn sie müssen bewusst ausgewählt werden .
 Auch wenn die sozialen Online-Netzwerke eine beachtliche Größe erreichen können , sind sie ihrem Wesen nach dennoch Auswahl , denn sie können nicht ins Unendliche anwachsen .
@@ -695,7 +691,7 @@ Jemand weiß sich beobachtet , kann jedoch keine Adressaten bestimmen .
 Es können keine konkreten Personen identifiziert werden , sodass sich keine gegenseitigen Erwartungen ausbilden können .
 Diese entstehen erst gegenüber einer definierten Anzahl von bestimmbaren Interaktionsteilnehmern und schaffen dann den notwendigen Rahmen für angemessenes Verhalten .
 Individuen brauchen definierte Kontexte , um sinnvoll handeln zu können .
-Ansätze völliger Transparenz nach dem Motto ‚Ich habe ja nichts zu verbergen‘, stehen dieser verhaltensnotwendigen Funktion von abgesteckten Kontexten entgegen . 234
+Ansätze völliger Transparenz nach dem Motto ‚ Ich habe ja nichts zu verbergen ‘ , stehen dieser verhaltensnotwendigen Funktion von abgesteckten Kontexten entgegen . 234
 Würde es sich in den sozialen Medien also gänzlich um Öffentlichkeit handeln , wäre aus dieser Perspektive nicht mit Interaktion , Selbstdarstellung und dadurch auch nicht mit Räumen der Identitätsbildung zu rechnen .
 Das Social Web ist jedoch gerade dadurch charakterisiert , dass es Interaktionsbeziehungen ermöglicht bzw. einfordert .
 Es gibt daher konkrete Adressaten , an die sich der einzelne Nutzer wenden kann :
@@ -709,20 +705,18 @@ Facebook beispielsweise bietet dafür mittlerweile eine Reihe von Funktionen an 
 Die Nutzer können also steuern , wem sie was mitteilen wollen .
 Es lässt sich daher nicht sagen , dass eine Entprivatisierung eingesetzt habe oder das Private durch die sozialen Medien generell öffentlich gemacht werde .
 Vielmehr gibt es gerade auf den viel beachteten Social Network Sites Funktionen , die eine Eingrenzung der Interaktionskontexte erlauben und damit die Kontrolle über den Adressatenkreis ermöglichen .
-Anders ausgedrückt :
-Es gibt Einstellungen , mit denen Privatheit geschaffen werden kann .
+Anders ausgedrückt : Es gibt Einstellungen , mit denen Privatheit geschaffen werden kann .
 Die Social Network Site Google+ z.B. ist so konzipiert , dass Informationen selektiv geteilt und konsumiert werden können .
 Der Nutzer kann dafür individuelle Kreise ( Circles ) einrichten , um seine verschiedenen Kontakte zu organisieren und gezielt auszuwählen , wem er welche Informationen mitteilen möchte .
 Die Kreise können nicht nur nach Beziehungsgrad der Kontakte gruppiert werden , sondern auch durch ein bestimmtes Thema organisiert werden , das dann einen Rahmen für die Kommunikation vorgibt ( z.B. Kochen , Motorräder etc.) .235 Google+ ermöglicht also sehr spezifische Einstellungen , die den Adressatenkreis individuell bestimmbar machen .
 Auch Facebook bietet dem Nutzer die Funktion an , selektive Unterlisten aus seiner Kontaktliste zu erstellen .
-Laut einer empirischen Erhebung des Branchenverbands BITCOM ( Oktober 2013 ) zur Nutzung sozialer Online-Netzwerke in Deutschland hat sich allerdings gezeigt , dass nur 28% der Social-Network-Nutzer „ Listen oder Circles zur Eingrenzung der Sichtbarkeit von Posts “ 236 verwenden .
+Laut einer empirischen Erhebung des Branchenverbands BITCOM ( Oktober 2013 ) zur Nutzung sozialer Online-Netzwerke in Deutschland hat sich allerdings gezeigt , dass nur 28 % der Social-Network-Nutzer „ Listen oder Circles zur Eingrenzung der Sichtbarkeit von Posts “ 236 verwenden .
 Hier ist jedoch zu beachten , dass es bei der zugehörigen Frage im Rahmen der Studie nicht um die Nutzung von Kommunikationskanälen im Sinne der Kontextbegrenzung ging , sondern generell um die Abfrage genutzter Funktionen ( wie z.B. auch das Nutzen von Social Games oder Apps ) .
 Möglicherweise liegt darin ein Grund für den relativ geringen Prozentsatz .
 Allerdings zeichnet sich empirisch auch ab , dass die Nutzer offenbar andere Wege bevorzugen , um für sich abgrenzbare Kontexte zu bilden , z.B. über private Nachrichten , die Chat-Kommunikation oder geschlossene Gruppen . 237
 Eingrenzende Faktoren sind für die Nutzer also wichtig .
-Die bereits zitierte BITCOMStudie bestätigt :
-91% der Nutzer sozialer Online-Netzwerke ist es eher wichtig bis sehr wichtig , die Sichtbarkeit ihrer Daten für bestimmte Personengruppen definieren zu können .
-87% der Nutzer legen z.B. Wert darauf , ihre Pinnwand nur für bestimmte Personen verfügbar zu machen; eine deutliche Mehrheit äußerte außerdem , dass es ihnen wichtig sei , ihr Profil als nicht auffindbar einstellen zu können ( 83% ) . 238
+Die bereits zitierte BITCOMStudie bestätigt : 91 % der Nutzer sozialer Online-Netzwerke ist es eher wichtig bis sehr wichtig , die Sichtbarkeit ihrer Daten für bestimmte Personengruppen definieren zu können .
+87 % der Nutzer legen z.B. Wert darauf , ihre Pinnwand nur für bestimmte Personen verfügbar zu machen; eine deutliche Mehrheit äußerte außerdem , dass es ihnen wichtig sei , ihr Profil als nicht auffindbar einstellen zu können ( 83 % ) . 238
 Den Nutzern geht es jedoch nicht nur darum , wer bestimmte Inhalte sehen darf .
 Sie haben differenziertere Kriterien , nach denen sie die Empfänger auswählen .
 Neben den Sorgen um die Privatsphäre geht es auch um die Relevanz des Inhalts ( ist er interessant ?) und um soziale Normen . 239
@@ -741,7 +735,7 @@ Dementsprechend gaben Nutzer , die ihre Profile öffentlich zugänglich machten 
 Die meisten Nutzer stellen Inhalte jedoch nicht öffentlich , sondern nur bestimmten Freunden zur Verfügung . 242
 Verschiedene Studien haben in diesem Zusammenhang gezeigt , dass das Bedürfnis nach Privatheit vorhanden ist .
 Die Nutzer sind besorgt um ihre Privatsphäre und neigen dazu , ihre Profile stärker zu schützen , das heißt entsprechende Privatsphäreeinstellungen vorzunehmen . 243
-Die bereits angeführte BITCOM-Erhebung ergab , dass sich 82% aller Befragten mit den PrivatsphäreEinstellungen ihres Accounts beschäftigen – bei den Jugendlichen und jungen Erwachsenen zwischen 14 und 29 Jahren liegt dieser Wert sogar bei 90% – und insgesamt großen Wert auf die Verwaltung ihrer persönlichen Daten legen 244 .
+Die bereits angeführte BITCOM-Erhebung ergab , dass sich 82 % aller Befragten mit den PrivatsphäreEinstellungen ihres Accounts beschäftigen – bei den Jugendlichen und jungen Erwachsenen zwischen 14 und 29 Jahren liegt dieser Wert sogar bei 90 % – und insgesamt großen Wert auf die Verwaltung ihrer persönlichen Daten legen 244 .
 Die Studie resümiert daher als Trend , dass die Nutzer „ sehr bewusst mit ihrer Privatsphäre um [ gehen ] “ 245 .
 Entgegen mancher Vermutungen , befassen sich gerade auch die jüngeren Nutzer mit der Privatheitsthematik , Informationskontrolle und Privatsphäre sind ihnen wichtig . 246
 Hier schließt sich die zentrale Frage an , die dem Privacy Paradox zu Grunde liegt :

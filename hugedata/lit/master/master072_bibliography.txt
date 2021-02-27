@@ -59,7 +59,7 @@ LUHMANN , Niklas ( 2005a ) : Soziologische Aufklärung 2. Aufsätze zur Theorie 
 LUHMANN , Niklas ( 2005b ) : Soziologische Aufklärung 5. Konstruktivistische Perspektiven. 3. Auflage. Wiesbaden : VS Verlag für Sozialwissenschaften .
 MARWICK , Alice E. / boyd , danah ( 2011 ) : I tweet honestly , I tweet passionately : Twitter users , context collapse , and the imagined audience. In : New Media & Society 13 ( 1 ) ( 2011 ) , S. 114 - 133 .
 MÜNKER , Stefan ( 2009 ) : Emergenz digitaler Öffentlichkeiten. Die Sozialen Medien im Web 2.0. Frankfurt a.M. : Suhrkamp .
-O’REILLY , Tim ( 2007 ) : What is Web 2.0 : Design Pattern and Business Models for the Next Generation of Software. MPRA Paper Nr. 4580 ( communications & strategies , 65 ) , S. 17 - 37 .
+O ’REILLY , Tim ( 2007 ) : What is Web 2.0 : Design Pattern and Business Models for the Next Generation of Software. MPRA Paper Nr. 4580 ( communications & strategies , 65 ) , S. 17 - 37 .
 OXFORD Dictionaries ( 2014 ) : Oxford Dictionaries Word of the Year 2013. http://blog.oxforddictionaries.com/press-releases/oxford-dictionaries-word-of-theyear-2013/ ( Stand : 15.7.2014 ) .
 PALEN , Leysia / Dourish , Paul ( 2003 ) : Unpacking “ Privacy ” for a Networked World. In : Proc. CHI 2003 , S. 129 - 136 .
 RANDOW , Gero von ( 19.1.2007 ) : Leben im Netz. http://www.zeit.de/2007/04/01-Lebenim-Netz ( Stand : 15.7.2014 ) .

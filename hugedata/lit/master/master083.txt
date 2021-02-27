@@ -1,22 +1,22 @@
-‚Soziale Bewegung‘ – dieser Begriff.eschreibt ein Gebilde , das analytisch schwer zu fassen ist .
+‚ Soziale Bewegung ‘ – dieser Begriff.eschreibt ein Gebilde , das analytisch schwer zu fassen ist .
 Van de Donk u.a. ( 2004b : 3 ) beschreiben soziale Bewegungen als „ fuzzy and fluid phenomena often without clear boundaries “ , und fügen hinzu :
-„ In sum , a social movement is a ‚moving target’ , difficult to observe .
+„ In sum , a social movement is a ‚ moving target ’ , difficult to observe .
 ” Dennoch soll im Folgenden der Versuch einer Definition vorgenommen werden .
-Der Begriff.Protest‘ wird häufig gleichgesetzt mit dem der ‚sozialen Bewegung‘ .
-Schlägt man im „ Lexikon der Politikwissenschaft “ den Begriff.Protest / Protestbewegung‘ nach , wird man verwiesen auf den Artikel ‚soziale Bewegungen‘ .
+Der Begriff.Protest ‘ wird häufig gleichgesetzt mit dem der ‚ sozialen Bewegung ‘ .
+Schlägt man im „ Lexikon der Politikwissenschaft “ den Begriff.Protest / Protestbewegung ‘ nach , wird man verwiesen auf den Artikel ‚ soziale Bewegungen ‘ .
 Dessen Autor Rucht beschreibt sie als „ auf gewisse Dauer gestellte Versuche von netzwerkförmig verbundenen Gruppen und Organisationen , sozialen Wandel durch Protest herbeizuführen , zu verhindern oder rückgängig zu machen .
 “ Laut Rucht besitzen soziale Bewegungen „ eine organisatorische Basis und können auch Parteien und Interessengruppen einschließen .
 “ Sie unterscheiden sich von Organisationen jedoch dadurch , dass sie keine „ verbindliche [ n ] Kriterien zur Regelung von Mitgliedschaft , interner Kompetenzaufteilung und Entscheidungsfindung “ aufweisen ( Rucht 2005 , 902 f. ) .
 Er greift Neidhardts ( 1985 : 197 ) Definition sozialer Bewegungen als „ Netzwerke von Netzwerken “ auf , die seiner Einschätzung nach eine „ komplex gegliederte , dezentrale und allenfalls begrenzt hierarchische “ Struktur aufweisen ( Schmitt-Beck 1998 : 473 ) .
 Diese Netzwerke reichten von „ informellen Alltagsgruppen bis zu formalisierten Bewegungsorganisationen “ ( ebd. ) .
-Besonders die ‚neuen sozialen Bewegungen‘ zeichnen sich durch eine solche Struktur aus .
+Besonders die ‚ neuen sozialen Bewegungen ‘ zeichnen sich durch eine solche Struktur aus .
 Diese Bezeichnung beschreibt – in Abgrenzung zur Arbeiterbewegung – jene Bewegungen , die sich seit den 60er Jahren herausgebildet haben , u.a. die Friedens- , Umwelt- , Frauen- und Anti-Atomkraft-Bewegung ( Rucht 2005 : 903 ff. )
-Wenn im Folgenden von ‚sozialen Bewegungen‘ die Rede ist , sind damit diese ‚neuen‘ sozialen Bewegungen gemeint .
+Wenn im Folgenden von ‚ sozialen Bewegungen ‘ die Rede ist , sind damit diese ‚ neuen ‘ sozialen Bewegungen gemeint .
 Soziale Bewegungen , darauf verweisen auch andere Autoren ( van de Donk u.a. 2004b : 3 ; Luhmann 1998 : 850 ) , sind keine Organisationen – können aber , wie Rucht und Schmitt-Beck feststellen , Organisationen einschließen .
 Diese Feststellung wird hier betont , da in der Forschungsliteratur häufig verschiedene Protestakteure und ihre Aktionen nebeneinandergestellt werden , ohne auf die deutlichen Unterschiede zwischen diesen Akteuren einzugehen ( Wall 2003 : 34 ) .
 Etablierte und professionell agierende Nichtregierungsorganisationen ( NGOs ) wie Greenpeace haben völlig andere Möglichkeiten der Protestkommunikation als informelle Zusammenschlüsse von Protestierenden .
 Dieser Unterschied darf bei einer Betrachtung von Protestkommunikation nicht aus dem Blick geraten .
-Zugleich sind derartige Organisationen auf den ‚Protest von der Straße‘ angewiesen – ihr Einfluss basiert auf der Voraussetzung , dass zahlreiche Menschen gegebenenfalls bereit sind , für ein bestimmtes Anliegen zu protestieren ( Luhmann 2009 : 850 ) .
+Zugleich sind derartige Organisationen auf den ‚ Protest von der Straße ‘ angewiesen – ihr Einfluss basiert auf der Voraussetzung , dass zahlreiche Menschen gegebenenfalls bereit sind , für ein bestimmtes Anliegen zu protestieren ( Luhmann 2009 : 850 ) .
 Die professionelle Protestkommunikation etablierter Akteure soll in dieser Arbeit ausdrücklich zur Sprache kommen .
 Zwar bezieht sich die Hoffnung auf verbesserte Partizipationsmöglichkeiten für Bürger durch die neuen Medien vor allem auf informelle Protestbewegungen , die aufgrund geringer eigener Ressourcen und einer lockeren Struktur stärker auf die neuen Kommunikationstechnologien angewiesen sind als NGOs .
 Allerdings bieten NGOs wertvolle Hinweise für eine Analyse der Möglichkeiten von Protestkommunikation , gerade in Zusammenarbeit mit den Massenmedien , die sie zum Teil bereits seit Jahrzehnten professionell pflegen .
@@ -50,7 +50,7 @@ Systeme sind operativ geschlossen und umweltoffen zugleich .
 Oder anders :
 Weil Systeme operativ geschlossen agieren , können sie sich für die Umwelt öffnen .
 Indem das System eine Grenze zur Umwelt und damit einen Bereich festlegt , innerhalb dessen es nach eigenen Regeln operieren kann , ist es in der Lage , „ Irritationen “ aus der Umwelt zu verarbeiten .
-Das System selbst legt fest , ‚wie viel Umwelt‘ es an sich heranlässt :
+Das System selbst legt fest , ‚ wie viel Umwelt ‘ es an sich heranlässt :
 Bestimmten Ereignissen in der Umwelt schreibt es einen Informationswert zu ; diese Informationen kann es dann systemintern verarbeiten ( Baraldi u.a. 1999 : 32 ; Berghaus 2011 : 59 ) .
 Dieser Vorgang erfolgt mithilfe von binärer Codierung und Programmierung .
 Der Binärcode reduziert Kommunikationen auf einen bestimmten Wert und seinen Gegenwert – er trifft eine Unterscheidung , die das System als Information verarbeiten kann ( Baraldi u.a. 1999 : 35 ) .
@@ -87,7 +87,7 @@ Funktionssysteme machen ihre „ Funktion zum unverwechselbaren Bezugspunkt der 
 Der Binärcode spezifiziert die Funktion eines Systems – er ermöglicht die Autopoiesis des Systems , indem er zu jedem Wert einen Gegenwert liefert , mit dem das System seine eigenen Kommunikationen ausmachen und sich von der Umwelt unterscheiden kann ( Luhmann 1998 : 749 ; Luhmann 2009 : 28 ) .
 Programme legen die Bedingungen für die Anwendung des Codes fest ( Luhmann 1998 : 750 ) .
 Auf diese Weise bilden Funktionssysteme ihre spezifische Operationsweise – sie sind in der Lage , ihre Autopoiesis von der Umwelt abzugrenzen und zu unterscheiden , welche Kommunikationen zum System gehören und welche nicht ( ebd. : 748 ) .
-Ein Funktionssystem ist spezialisiert auf ‚seine‘ Funktion , deren Erfüllung zugleich im Dienst der gesamten Gesellschaft stattfindet ( Luhmann 1998 : 746 ) .
+Ein Funktionssystem ist spezialisiert auf ‚ seine ‘ Funktion , deren Erfüllung zugleich im Dienst der gesamten Gesellschaft stattfindet ( Luhmann 1998 : 746 ) .
 Die Zuständigkeit für bestimmte Probleme , von denen die ganze Gesellschaft betroffen ist , liegt also auf der Ebene der einzelnen Teilsysteme .
 Das politische System beispielsweise ist dafür zuständig , Entscheidungen zu treffen , die gesamtgesellschaftlich bindend sind ( Hellmann 1996 : 36 ff. ) .
 Jedes Funktionssystem kann auf dem erforderlichen Niveau nur seine spezifische Funktion erfüllen und verlässt sich darauf , dass die übrigen gesellschaftsrelevanten Funktionen von den anderen Funktionssystemen übernommen werden .
@@ -130,7 +130,7 @@ Funktion meint die Ausdifferenzierung von Systemen , die für ein bestimmtes Pro
 Inklusion hingegen bezieht sich auf die „ Rollenspezifität “ ( Hellmann 1996 : 53 ) , nach der sich richten muss , wer an funktionaler Differenzierung , also der Gesellschaft , teilnehmen möchte .
 Dem Individuum werden Rollen zugeschrieben , die notwendig sind zur Anpassung an die Funktionsspezifität der Systeme .
 Problematisch ist dies , weil das Individuum dabei von seinen „ Primärbindungen “ ( Hellmann 1996 : 54 ) getrennt wird , denn die funktionsspezifische Inklusion unterscheidet prinzipiell nicht nach Faktoren wie dem Alter , der Persönlichkeit oder der sozialen Herkunft eines Menschen :
-Entscheidend sind „ Leistung und Nutzenmaximierung “ , nicht „ die sich aus dem Rollengesamt ergebende ‚Qualität‘ der Person “ ( Luhmann 1998 : 739 ) .
+Entscheidend sind „ Leistung und Nutzenmaximierung “ , nicht „ die sich aus dem Rollengesamt ergebende ‚ Qualität ‘ der Person “ ( Luhmann 1998 : 739 ) .
 Dies wiederum führt dazu , dass das moderne Individuum sein Leben weitgehend selbstbestimmt gestalten kann ( oder muss ) .
 Es sieht sich einer nahezu unbegrenzten Auswahl an Möglichkeiten gegenüber , die allerdings zu einer Überforderung führen kann , da ihm – beispielsweise durch die fehlende Kontrolle der Familie oder der Kirche – identitätsstiftende Kategorien fehlen ( Hellmann 1996 : 54 ff. ) .
 Luhmann ( 1992 : 202 ) spricht auch von „ Identitätssorge “ .
@@ -172,7 +172,7 @@ Für dieses Milieu stellt die Unterscheidung zwischen Leistungs- und Publikumsro
 Angehörige dieses Milieus wollen selbstbestimmt leben und sich aktiv in gesellschaftliche Prozesse einbringen – ein Anspruch , dem die passive Publikumsrolle nicht gerecht wird ( Hellmann 1996 : 159 ) .
 Protest ist eine Möglichkeit , die starre Aufteilung zwischen Leistungs- und Publikumsrollen aufzubrechen und mehr Beteiligungsmöglichkeiten einzufordern ( Hellmann 1996 : 65 ff. ) .
 Dabei stellt bereits der Akt des Protestierens eine Loslösung von der passiven Publikumsrolle ( z.B. des Wählers ) dar ; die Pro testierenden werden aktiv , sie handeln , und kommen so ihrem Bedürfnis nach einer autonomen , individuellen Lebensgestaltung nach ( Hellmann 1996 : 211 f. ) .
-Einschränkend muss an dieser Stelle darauf hingewiesen werden , dass nicht alle sozialen Bewegungen sich aus Menschen zusammensetzen , die diesem eher ‚linken‘ Selbstverwirklichungsmilieu zuzuordnen sind .
+Einschränkend muss an dieser Stelle darauf hingewiesen werden , dass nicht alle sozialen Bewegungen sich aus Menschen zusammensetzen , die diesem eher ‚ linken ‘ Selbstverwirklichungsmilieu zuzuordnen sind .
 Gegenbeispiele sind die konservative Tea Party oder rechtsradikale Gruppierungen .
 Das Spektrum an Bewegungen lässt sich schwer auf das von Hellmann beschriebene Milieu reduzieren .
 Dennoch bieten Hellmanns Annahmen wertvolle Hinweise darauf , dass die Funktionen sozialer Bewegungen nicht auf die instrumentelle Ebene beschränkt werden sollten .
@@ -188,9 +188,9 @@ Sie lassen sich jedoch als autopoietische Systeme verstehen .
 Diese Annahme wird möglich , wenn man davon ausgeht , dass es sich bei sozialen Bewegungen in der Regel um Protestbewegungen handelt .
 Über den Protest begeben sich soziale Bewegungen in Distanz zur Gesellschaft , und zwar , indem sie aus ihrer Umwelt bestimmte Themen beziehen und mit diesen kommunikativ auf eine spezifische Weise verfahren .
 Dadurch entwickelt sich eine spezielle Form der Protestkommunikation , die sich von anderen Kommunikationen unterscheidet ( Hellmann / Luhmann 1996 : 174 ff. ) .
-Die Form ‚Protest‘ ist in ihrer Funktion den binären Codes der Funktionssysteme vergleichbar – auch hier gibt es zwei Seiten :
+Die Form ‚ Protest ‘ ist in ihrer Funktion den binären Codes der Funktionssysteme vergleichbar – auch hier gibt es zwei Seiten :
 „ die Protestierenden auf der einen Seite und das , wogegen protestiert wird ( einschließlich die , gegen die protestiert wird ) , auf der anderen “ ( Luhmann 1998 : 854 f. ) .
-Im Gegensatz zu den Binärcodes der Funktionssysteme dient die Seite ‚kein Protest‘ jedoch nicht der Reflexion des Protests ( Hellmann / Luhmann 1996 : 177 ) .
+Im Gegensatz zu den Binärcodes der Funktionssysteme dient die Seite ‚ kein Protest ‘ jedoch nicht der Reflexion des Protests ( Hellmann / Luhmann 1996 : 177 ) .
 Damit tut sich das folgende , „ mit dieser Form nicht zu überwindende Problem “ ( Luhmann 1998 : 855 ) auf :
 Diese Feststellung ist zentral für den Zusammenhang dieser Arbeit und wird an späterer Stelle nochmals aufgegriffen werden .
 Die autopoietische Schließung findet statt über das Thema des Protests , beispielsweise die Ablehnung von Atomkraft oder die Forderung nach mehr sozialer Gerechtigkeit :
@@ -212,7 +212,7 @@ Dies ist eine Form gesellschaftlicher Differenzierung – allerdings betrifft si
 Gewisse Funktionssysteme können jedoch Zentren ausbilden ; dies ist vor allem im politischen System der Fall .
 Dort bilden soziale Bewegungen die Peripherie , die gegen den Staat – das Zentrum – protestiert und zugleich Forderungen an ihn stellt .
 Ohne diese Differenz wäre politischer Protest überflüssig , „ denn es gäbe dann keine soziale ( sondern nur noch eine sachliche oder zeitliche ) Grenze zwischen Desiderat und Erfüllung “ ( ebd ) .
-Protestbewegungen machen nicht nur ‚die anderen‘ ( z.B. das Wirtschaftssystem ) für Probleme verantwortlich .
+Protestbewegungen machen nicht nur ‚ die anderen ‘ ( z.B. das Wirtschaftssystem ) für Probleme verantwortlich .
 Sie handeln auch unter der Prämisse , dass andere ( v.a. das politische System ) ihre Forderungen umsetzen ( Baringhorst 1998 : 328 ) .
 Soziale Bewegungen sind Teil des politischen Systems , aber sie sind keine Organisation – dazu ist die Teilnahme an ihnen zu unverbindlich und unberechenbar ( Luhmann 1998 : 850 f. ) .
 Anders als andere Akteure des politischen Systems , beispielsweise politische Parteien oder Verbände , besitzen soziale Bewegungen nur sehr begrenzte Mittel , um ihre Überzeugungen durchzusetzen :
@@ -222,7 +222,7 @@ Soziale Bewegungen hingegen haben weder einen institutionalisierten Platz im pol
 Ihnen bleibt meist nur die Option , eine bedeutende Anzahl an Menschen für ihr Anliegen zu gewinnen .
 Dazu brauchen sie die Öffentlichkeit , sie müssen ihre Themen zur öffentlichen Meinung machen ( Rucht 1994 : 347 f. ) .
 Luhmann ( 2009 : 126 ) definiert Öffentlichkeit „ als gesellschaftsinterne Umwelt der gesellschaftlichen Teilsysteme , also aller Interaktionen und Organisationen , aber auch der gesellschaftlichen Funktionssysteme und der sozialen Bewegungen .
-“ Systeme können ihre Grenzen nicht übertreten , sie können aber wahrnehmen , dass es ein ‚Außen‘ gibt , das sie beobachtet .
+“ Systeme können ihre Grenzen nicht übertreten , sie können aber wahrnehmen , dass es ein ‚ Außen ‘ gibt , das sie beobachtet .
 Diese Beobachtungen können sie wiederum beobachten und gegebenenfalls – wenn Irritationen entstehen – ihre Handlungen darauf ausrichten .
 Vor diesem Hintergrund bezeichnet Luhmann Öffentlichkeit auch als „ Reflexionsmedium “ ( 2009 : 127 ) .
 Repräsentiert wird die Öffentlichkeit von den Massenmedien ( Luhmann 2009 : 125 ff. ; Berghaus 2011 : 260 ff. ) – diese erstellen „ Realitätskonstruktionen “ ( Luhmann 2009 : 128 ) , die für alle Teilsysteme und alle Menschen gelten ( ebd. : 128 ) .
@@ -314,10 +314,10 @@ Luhmann ( 2009 : 37 ) unterscheidet zwischen drei Programmbereichen :
 Nachrichten und Berichte , Werbung und Unterhaltung .
 Der Code Information / Nichtinformation ist grundlegend für die Unterscheidungen aller drei Programmbereiche ; allerdings wen den sie unterschiedliche Kriterien an , um zu entscheiden , was als Information gilt und was nicht .
 Im Rahmen dieser Arbeit ist vor allem der erste Programmbereich entscheidend : Nachrichten und Berichte .
-Der Begriff.Nachrichten‘ beschreibt die tagesaktuelle Berichterstattung .
+Der Begriff.Nachrichten ‘ beschreibt die tagesaktuelle Berichterstattung .
 Berichte hingegen haben keinen so starken Zwang zur Aktualität ; sie betten die Nachrichten in einen Kontext und versorgen das Publikum mit zusätzlichen Informationen ( Luhmann 2009 : 52 ) .
 Das gemeinsame Merkmal von Nachrichten und Berichten ist , dass sie den Anspruch erheben , wahr zu sein .
-Dieser Anspruch muss natürlich vor dem Hintergrund gesehen werden , dass kein System ‚die eine Wahrheit abbilden‘ kann , Konstruktionen von Realität sind unvermeidlich .
+Dieser Anspruch muss natürlich vor dem Hintergrund gesehen werden , dass kein System ‚ die eine Wahrheit abbilden ‘ kann , Konstruktionen von Realität sind unvermeidlich .
 Dennoch können diese Konstruktionen einen Wahrheitsanspruch erheben , wenn sie ihre Informationen aus dem „ realen Weltpotential “ ( Berghaus 2011 : 207 ) selegieren .
 Es liegt im Interesse des Programmbereichs Nachrichten und Berichte , dass die verbreiteten Informationen wahr sind , denn sonst würde dieser Bereich seine Daseinsberechtigung verlieren ( Luhmann 2009 : 41 ) .
 Innerhalb dieses wahren „ Weltpotentials “ entscheiden die Massenmedien jedoch nach eigenen Kriterien und können so nur ihre eigene Realität vermitteln .
@@ -384,9 +384,9 @@ Schmitt-Beck ( ebd. : 478 ) geht davon aus , dass soziale Bewegungen zu diesem Z
 “ Mit Blick auf die Massenmedien hat bereits vor einiger Zeit eine Professionalisierung von Protestkommunikation stattgefunden ( Steiner / Jarren 2009 : 254 ) .
 Schon die Studentenbewegung der 1960er Jahre plante ihren Protest in der Absicht , von den Massenmedien wahrgenommen zu werden ( Baringhorst 1998 : 328 ) .
 Dies ist bis heute üblich und schlägt sich in den Kommunikationsstrategien der Protestbewegungen nieder .
-Protestbewegungen müssen die Öffentlichkeit , aber auch ihre ‚Gegner‘ dazu bringen , ihre Definition einer bestimmten Sachlage zu übernehmen .
+Protestbewegungen müssen die Öffentlichkeit , aber auch ihre ‚ Gegner ‘ dazu bringen , ihre Definition einer bestimmten Sachlage zu übernehmen .
 Dieser Umstand wurde bereits mit Luhmann angesprochen , der das Fehlen der „ anderen Seite der Protestform “ ( 1998 : 855 ) problematisiert :
-Wie kann man die Menschen auf der Seite des ‚NichtProtests‘ dazu bewegen , sich auf die Situation einzulassen ?
+Wie kann man die Menschen auf der Seite des ‚ NichtProtests ‘ dazu bewegen , sich auf die Situation einzulassen ?
 Luhmanns Antwort :
 Wie diese auf die Massenmedien ausgerichtete „ alarmierende Kommunikation “ aussieht , soll im Folgenden untersucht werden .
 In der Forschungsliteratur zum Thema Protestkommunikation besteht Uneinigkeit darüber , was der Kommunikationsbegriff.bdeckt .
@@ -413,7 +413,7 @@ Der von Protestbewegungen angestrebte Konflikt entsteht also bereits mit der Kon
 Damit hat die Protestkommunikation bereits eine Situationsdeutung entwickelt , die sie ihrem Umfeld anbieten kann – sie hat einen Frame geschaffen .
 Das Konzept des Framing geht auf die Frage zurück , wie Menschen ihre Wahrnehmung von Ereignissen und Erfahrungen organisieren .
 Es beschreibt einen kognitiven Prozess , bei dem der Mensch Informationen so verarbeitet , dass sie ihm sinnvoll erscheinen ( Wall 2003 : 35 ) .
-Goffman ( 1977 : 19 ) beschreibt den Begriff des ‚Frame‘ ( in der deutschen Übersetzung : ‚Rahmen‘ ) wie folgt : Frames bieten einen „ Verständigungshintergrund “ ( ebd. 32 ) ; sie vermitteln , was von einer Situation erinnert werden sollte und was vergessen werden kann ( Luhmann 2009 : 131 f. ) .
+Goffman ( 1977 : 19 ) beschreibt den Begriff des ‚ Frame ‘ ( in der deutschen Übersetzung : ‚ Rahmen ‘ ) wie folgt : Frames bieten einen „ Verständigungshintergrund “ ( ebd. 32 ) ; sie vermitteln , was von einer Situation erinnert werden sollte und was vergessen werden kann ( Luhmann 2009 : 131 f. ) .
 Der Framingbegriff.st zentral für das Verständnis von Protestkommunikation , denn er bietet Aufschluss darüber , wie diese Kommunikation gestaltet wird .
 Er wurde insbesondere von Snow und Benford im Zusammenhang mit sozialen Bewegungen erforscht .
 Protestbewegungen liegen „ collective action frames “ zugrunde , die Snow und Benford ( 2000 : 615 ) wie folgt definieren :
@@ -453,7 +453,7 @@ Wie Baringhorst ( 1998 : 333 ) feststellt , ist Protestkommunikation zudem häuf
 „ Dominierende Strategien der Protestkommunikation sind weniger rational argumentierende als emotional aufgeladene Angst- , Wut- und Schuldkommunikationen . “
 Auch hier zeigt sich das Konfliktpotenzial von Protestkommunikation .
 Eine weitere Kommunikationsstrategie , die den Konfliktcharakter von Protest deutlich offenbart , sind Pseudoereignisse wie Demonstrationen , Menschenketten , Kundgebungen , Sitzblockaden , Märsche , etc. – die „ wichtigste und typischste “ ( Schmitt-Beck 1998 : 478 ) Strategie von Protestbewegungen .
-Die Bezeichnung gibt an , dass es sich um keine ‚echten‘ Ereignisse handelt , sondern lediglich um Inszenierungen , die darauf ausgerichtet sind , die Aufmerksamkeit der Massenmedien zu erregen ( Pfetsch 1998 : 713 ) .
+Die Bezeichnung gibt an , dass es sich um keine ‚ echten ‘ Ereignisse handelt , sondern lediglich um Inszenierungen , die darauf ausgerichtet sind , die Aufmerksamkeit der Massenmedien zu erregen ( Pfetsch 1998 : 713 ) .
 Pseudoereignisse inszenieren den Konflikt als Handlung :
 Indem Menschen Plätze besetzen oder sich der Polizei entgegenstellen , benutzen sie ihre Körper , um ihrem Widerspruch gegen einen Sachverhalt Ausdruck zu verleihen .
 Dies ist nicht zuletzt für die Massenmedien aus dem Grund reizvoll , da der Konflikt in diesen Situationen visuell eindeutig erfasst werden kann : auf der einen Seite die Protestierenden , auf der anderen die Polizei als Repräsentant der Staatsgewalt , mit Atommüll beladene Züge oder Baumaschinen , die jahrhundertealte Bäume fällen sollen .
@@ -480,7 +480,7 @@ Dies geschieht in der Regel mit Hilfe zweier Framing-Strategien :
 Letzteres meint die Einbettung eines Themas in einen größeren Wertezusammenhang – diese Strategie wird an späterer Stelle näher erläutert .
 Die zweite Strategie ist „ die Herstellung eines lebensweltlichen Bezugs zwischen dem Problem und den alltäglichen Erfahrungen der Bürger “ ( Gerhards / Neidhardt 1990 : 40 ) .
 Seine Dringlichkeit erhält das von den Bewegungen ausgemachte Problem , indem seine negativen Konsequenzen für den Einzelnen hervorgehoben werden .
-Teilweise wird dabei bewusst ‚Angst gemacht‘ ( Baringhorst 1998 : 331 ) .
+Teilweise wird dabei bewusst ‚ Angst gemacht ‘ ( Baringhorst 1998 : 331 ) .
 Der lokale Bezug kann dabei gegeben sein , wie im Fall der Proteste gegen das Bauprojekt Stuttgart 21 , die sich u.a. an der Abholzung der Bäume des angrenzenden Schlossgartens entzündeten .
 Die Gegner dieses Projekts fürchten zudem Beeinträchtigungen des Klimas und der Mineralwasserquellen sowie finanzielle Konsequenzen für die Bürger der Stadt ( Initiative Leben in Stuttgart ) .
 Auch internationale Themen können auf einen persönlichen oder lokalen Bezug hin konkretisiert werden , beispielsweise wenn plausibel gemacht werden kann , dass bestimmte Vorfälle auch in der lokalen Umgebung möglich wären .
@@ -505,26 +505,26 @@ Je deutlicher sich ein bestimmter Sachverhalt von diesen Werten abhebt , desto g
 Auch hier bietet die Campact-Petition gegen das TTIP-Abkommen ein Beispiel :
 Mit dem Appell stellen die Initiatoren dieser Aktion nicht nur einen konkreten Bezug zur Lebenswelt der Menschen her ; ihnen gelingt mit Aussagen wie „ TTIP höhlt Demokratie und Rechtsstaat aus “ oder „ TTIP untergräbt die Freiheit “ ( Campact : Stoppt TTIP !) auch die „ Abstraktion “ , indem sie TTIP als Bedrohung für allgemein geteilte Werte darstellen .
 Häufig werden Protestthemen auch mit dem Wert der Menschenrechte verknüpft – beispielsweise wenn es um die Lage von Flüchtlingen geht .
-So sieht das Netzwerk mit dem Namen ‚kein mensch ist illegal‘ seine Aufgabe darin „ Geflüchtete in ihrem Kampf um Menschenrechte und Menschenwürde “ ( kein mensch ist illegal : Über uns ) zu unterstützen .
+So sieht das Netzwerk mit dem Namen ‚ kein mensch ist illegal ‘ seine Aufgabe darin „ Geflüchtete in ihrem Kampf um Menschenrechte und Menschenwürde “ ( kein mensch ist illegal : Über uns ) zu unterstützen .
 Gelingt es einer Bewegung , ihre Themen nachhaltig an diese Werte zu knüpfen , stehen ihre Gegner automatisch auf der Seite jener , die gegen diese Werte verstoßen oder sich nicht für ihren Schutz einsetzen .
 Diese Verfehlungen können sodann moralisch angeprangert werden .
 Moralische Bewertungen Der Skandalisierung von Normverstößen folgen moralische Bewertungen über Personen – mit dem Code der Moral unterscheiden die Massenmedien zwischen gutem und bösem Handeln .
 So auch Protestkommunikation :
-Zur Framing-Strategie sozialer Bewegungen gehört es , wie Baringhorst ( 1998 : 332 ) mit Bezug auf Snow und Benford feststellt , Täter und Opfer zu benennen – ein solche Unterscheidung in ‚gut‘ und ‚böse‘ ist für Massenmedien und Publikum besser greifbar als eine komplexe Auseinandersetzungen mit den Ursachen eines Problems .
+Zur Framing-Strategie sozialer Bewegungen gehört es , wie Baringhorst ( 1998 : 332 ) mit Bezug auf Snow und Benford feststellt , Täter und Opfer zu benennen – ein solche Unterscheidung in ‚ gut ‘ und ‚ böse ‘ ist für Massenmedien und Publikum besser greifbar als eine komplexe Auseinandersetzungen mit den Ursachen eines Problems .
 Luhmann ( 1998 : 763 ) nimmt an , dass undifferenzierte Schuldzuweisungen eine der wichtigsten Strategien sind , um komplexe Zusammenhänge zu vereinfachen .
 Protestierende empfinden sich selbst als Opfer oder sie identifizieren sich mit einer bestimmten Opfergruppe .
 Die Täter – als Verursacher des Problems , als ihre ( mehr oder weniger direkten ) Unterstützer oder als untätige Verantwortliche – befinden sich auf der anderen und damit der moralisch fragwürdigen Seite des Protests .
 Der Slogan der Occupy-Wall-Street-Bewegung „ We are the 99 percent “ soll Solidarität unter den „ 99 Prozent “ der Bevölkerung der USA schaffen – gegen das eine Prozent der Vermögenden und Einflussreichen , die aus Sicht der Aktivisten von der sozialen Ungleichheit des Landes profitieren und diese weiter verschärfen .
 Die Greenpeace-Aktivisten wiederum inszenieren gezielt das „ David-Goliath-Klischee “ ( Schießl 1995 : 37 ) , um die Verfehlungen mächtiger Konzerne anzuprangern ( Baringhorst 1998 : 336 ) .
-Für den Erfolg von Protestkommunikation ist zugleich entscheidend , ob es den Protestierenden gelingt , in der Öffentlichkeit als ‚die Guten‘ wahrgenommen zu werden und – wie oben erwähnt – einen allgemeingültigen Wert für sich zu vereinnahmen .
+Für den Erfolg von Protestkommunikation ist zugleich entscheidend , ob es den Protestierenden gelingt , in der Öffentlichkeit als ‚ die Guten ‘ wahrgenommen zu werden und – wie oben erwähnt – einen allgemeingültigen Wert für sich zu vereinnahmen .
 Wer möchte schon als Gegner der Friedensbewegung gelten ? ( Gerhards / Neidhardt 1990 : 43 .)
 Zudem müssen Protestakteure ihre Vertrauenswürdigkeit unter Beweis stellen , indem sie zeigen , dass sie im Sinne der Allgemeinheit handeln und nicht , um sich persönlich zu bereichern ( ebd ) .
-Nicht selten spielt die Codierung ‚gut – böse‘ eine entscheidende Rolle bei den Protesten selbst ; vor allem dann , wenn friedliche Protestanten Opfer von unverhältnismäßigen Gewaltanwendungen von Seiten der Polizei werden .
+Nicht selten spielt die Codierung ‚ gut – böse ‘ eine entscheidende Rolle bei den Protesten selbst ; vor allem dann , wenn friedliche Protestanten Opfer von unverhältnismäßigen Gewaltanwendungen von Seiten der Polizei werden .
 Eine derartige Eskalation führt häufig zu einer verstärkten Unterstützung der sozialen Bewegungen durch die Öffentlichkeit ( Schmitt-Beck 1998 : 479 ) – dies beweist u.a. das Beispiel der GreenpeaceAktion gegen ‚ Brent Spar ’ .
 Für große Aufmerksamkeit sorgte auch das aggressive Vorgehen der Polizisten gegen Schüler und ältere Menschen , die gegen das Projekt Stuttgart 21 protestierten ( s. z.B. : Bild.de 2010 ) .
 Generell lässt sich festhalten , dass derartige Vorfälle den Protestakteuren eher nützen als schaden und ihnen Sympathien einbringen .
 Dementsprechend ist es durchaus möglich , dass bestimmte Aktivisten derartige Eskalationen gezielt provozieren .
-Personen Die Reduktion eines komplexen Sachverhalts auf ‚die‘ eine Handlung oder handelnde Person durch die Massenmedien stellt eine Vereinfachung dar , die auch in der Protestkommunikation Anwendung findet .
+Personen Die Reduktion eines komplexen Sachverhalts auf ‚ die ‘ eine Handlung oder handelnde Person durch die Massenmedien stellt eine Vereinfachung dar , die auch in der Protestkommunikation Anwendung findet .
 Einzelne Personen ( oder vermeintlich homogene Gruppen ) werden zu Tätern bzw. Verantwortlichen stilisiert .
 Ziel ist es , Personen zu benennen , die die kritisierte Lage verschuldet haben – diese Rolle kommt im Falle der Occupy-Bewegung den Vermögenden des Landes zu – und / oder jene , die verantwortlich für die Lösung dieses Problems sind .
 In einem sozialstaatlichen System wird diese Verantwortlichkeit für gewöhnlich den Politikern zugeschrieben ( Gerhards / Neidhardt 1990 : 42 ) .
@@ -565,14 +565,14 @@ Protest hat nicht nur den Zweck , das politische System aufzuschrecken .
 Er erfüllt auch einen Selbstzweck :
 Den Protestierenden verschafft er ein besonderes Erlebnis .
 Außergewöhnliche Protestaktionen knüpfen an den Lebensstil einer jungen Generation an , die Spaß haben und sich persönlich entfalten möchte .
-Zum Symbol der oben angesprochenen Studentenproteste wurde eine Verfremdung des Logos der Zigarettenmarke Lucky Strike in ‚Lucky Streik‘ – dieser Streik sollte offensichtlich Spaß machen ( Frogier de Ponlevoy 2007 ) .
+Zum Symbol der oben angesprochenen Studentenproteste wurde eine Verfremdung des Logos der Zigarettenmarke Lucky Strike in ‚ Lucky Streik ‘ – dieser Streik sollte offensichtlich Spaß machen ( Frogier de Ponlevoy 2007 ) .
 Bei der Silent Climate Parade , die in verschiedenen deutschen Städten stattfindet , tragen die Demonstranten Kopfhörer und tanzen zu ihrer eigenen Musik durch die Stadt ( climateparade.org : News ) .
 In Amsterdam protestierten im September 1500 Menschen mit einer Tomatenschlacht gegen das russische Importverbot für westliche Agrarerzeugnisse ( welt.de 2014 ) .
 Diese expressive Komponente von Protest ist nicht zu unterschätzen – wie sich zeigen wird , spielt sie auch eine wichtige Rolle im Rahmen der internetbasierten Protestkommunikation .
 Beispiele wie die erfolgreiche Brent-Spar-Kampagne von Greenpeace zeigen , dass Protestkommunikation und –aktionen durchaus eine große Resonanz erzeugen können .
 Mit ihrem Protest machen Bewegungen auf jene Probleme aufmerksam , die von dem politischen System nicht erkannt oder gar ignoriert werden .
 Manchmal gelingt es den Protestbewegungen sogar , Politik und Wirtschaft so sehr in Bedrängnis zu bringen , dass diesen nichts anderes übrig bleibt , als den Forderungen der Protestierenden nachzukommen .
-Soziale Bewegungen kommt auf diese Weise die wichtige Rolle zu , ‚blinde Flecken‘ der Politik sichtbar zu machen .
+Soziale Bewegungen kommt auf diese Weise die wichtige Rolle zu , ‚ blinde Flecken ‘ der Politik sichtbar zu machen .
 Allerdings wird immer wieder hinterfragt , inwiefern ein nicht demokratisch gewählter Akteur berechtigt ist , Entscheidungen des politischen Systems zu erzwingen ( Baringhorst 1998 : 338 ff. ) .
 Zudem – und dies ist relevant für den vorliegenden Zusammenhang – stellt sich die Frage , inwiefern die Mittel der Protestkommunikation tatsächlich ihrem Anliegen gerecht werden können .
 Protestbewegungen nehmen eine Sonderstellung innerhalb des gesellschaftlichen Systems ein :
@@ -605,7 +605,7 @@ Vor dem Hintergrund der strukturellen Kopplung zwischen Protestbewegungen und Ma
 Die obige Analyse hat beispielhaft anhand einiger Protestakteure und -aktionen gezeigt , dass Protestkommunikation häufig auf die Funktionsweisen der Massenmedien ausgerichtet ist – ein Vorgehen , das sich für beide Seiten als äußert fruchtbar erweisen kann .
 Zugleich gibt es zahlreiche Kritikpunkte , die dieser Zusammenarbeit entgegengebracht werden können und die teilweise erklären , weshalb es für soziale Bewegungen im Sinne des titelgebenden Zitats dieser Arbeit erstrebenswert ist , selbst „ zu den Medien zu werden “ .
 In der Analyse der Parallelen zwischen der Logik der Massenmedien und Protestkommunikation sind mit Occupy oder Campact auch solche Bewegungen oder Organisationen zur Sprache gekommen , die sich stark auf digitale Technologien stützen .
-Dies zeigt , dass Kommunikationsstrategien – Frames sowie Protestformen wie Demonstrationen – , die sich in Hinblick auf die Wahrnehmung durch die Massenmedien bewährt haben , auch durch den Medienwandel nicht ‚ausgestorben‘ sind .
+Dies zeigt , dass Kommunikationsstrategien – Frames sowie Protestformen wie Demonstrationen – , die sich in Hinblick auf die Wahrnehmung durch die Massenmedien bewährt haben , auch durch den Medienwandel nicht ‚ ausgestorben ‘ sind .
 Denn Massenmedien sind nach wie vor von zentraler Bedeutung für Protestbewegungen , auch für solche , die stärker mit digitalen Medien arbeiten .
 In Rahmen einer Analyse von Webseiten von Anti-Corporate-Campaigns im deutschsprachigen Raum stellt Baringhorst ( 2009 : 628 ) fest :
 „ Offline-Aktivitäten bilden noch immer die zentrale Voraussetzung für die Erwähnung netzgestützter Kampagnen in den Massenmedien . “
@@ -613,11 +613,11 @@ Vor diesem Hintergrund überrascht es nicht , dass ein Mix aus Online- und Offli
 So ist es möglich , dass potenziell Interessierte über das Internet für Straßendemonstrationen mobilisiert werden oder Protestgruppen sowohl Beiträge für ihre eigenen Webseiten als auch Pressemitteilungen für die Massenmedien veröffentlichen .
 Zugleich ist zu beobachten , dass viele der klassischen Protestformen wie Sit-Ins oder Petitionen auf das Internet übertragen wurden .
 Auch wenn Protestgruppen das Internet für ihre Kommunikationen einsetzen – viele Formen der Protestkommunikation sind noch der Logik der ‚ Offline-Welt ‘ verhaftet .
-Dennoch wird hier davon ausgegangen , dass im Zusammenhang mit Internettechnologien Veränderungen oder Tendenzen zu einer ‚neuen‘ Form von Protestkommunikation zu beobachten sind .
+Dennoch wird hier davon ausgegangen , dass im Zusammenhang mit Internettechnologien Veränderungen oder Tendenzen zu einer ‚ neuen ‘ Form von Protestkommunikation zu beobachten sind .
 Die Vielzahl der Publikationen zu der Frage nach dem Verhältnis zwischen sozialen Bewegungen und dem Internet belegt das große Forschungsinteresse an diesem Thema .
 Erklären lässt sich dieses Interesse zum Teil mit der Hoffnung , die dem Internet als demokratisierendem und partizipatorischem Medium entgegengebracht wird .
 In diesem Kontext rücken soziale Bewegungen in den Vordergrund , denn sie bilden ein System , innerhalb dessen Bürger sich aktiv in politische Prozesse einmischen können .
-Ihnen wird zugetraut , ein Gegengewicht zu den Strukturen des etablierten Politikbetriebs zu bilden und sich ‚von unten‘ für die Anliegen der Menschen einzusetzen .
+Ihnen wird zugetraut , ein Gegengewicht zu den Strukturen des etablierten Politikbetriebs zu bilden und sich ‚ von unten ‘ für die Anliegen der Menschen einzusetzen .
 Wie Cammearts u.a. ( 2013 : 3 ) beklagen , bleibt es in der Forschungsliteratur jedoch häufig bei einer Betrachtung dieser neuen Möglichkeiten , die das Internet sozialen Bewegungen bietet – seltener geht es dabei um den Themenbereich Kommunikation .
 Um zu verstehen , wie soziale Bewegungen das Internet nutzen und welche Veränderungen diese Nutzung nach sich ziehen kann , ist es allerdings wichtig , sich mit der Frage zu beschäftigen , wie soziale Bewegungen dieses Medium für ihre Kommunikation einsetzen .
 Protestbewegungen brauchen Medien , um die Öffentlichkeit auf ihre Sache aufmerksam zu machen .
@@ -627,7 +627,7 @@ Das Internet ist ein „ weltweiter Verbund von Computernetzwerken , an den Mill
 Diese Dezentralität ergibt sich aus dem Kontext der Entwicklung des ARPAnet in den 1960er Jahren – durch seine dezentrale Struktur sollte es auch im Falle eines Ausfalls einzelner Elemente aufrechtzuerhalten sein .
 Umgangssprachlich wird das Internet mit dem World Wide Web gleichgesetzt .
 Vielmehr ist es jedoch so , dass das Internet die technische Infrastruktur für Mediendienste wie das World Wide Web , aber auch für EMail oder Chat bereitstellt ( ebd. ) .
-Der Begriff.World Wide Web‘ beschreibt ein System von über Hyperlinks miteinander verknüpften Webseiten , in die verschiedene digitale Inhalte wie Text , Bild und Video eingebettet werden können ( Schweiger 2013b : 379 ) .
+Der Begriff.World Wide Web ‘ beschreibt ein System von über Hyperlinks miteinander verknüpften Webseiten , in die verschiedene digitale Inhalte wie Text , Bild und Video eingebettet werden können ( Schweiger 2013b : 379 ) .
 Jüngere Entwicklungen in diesem Bereich werden mit den Schlagworten Web 2.0 , Social Media oder Social Web beschrieben .
 Das Web 2.0 zeichnet sich durch seine interaktiven Nutzungsmöglichkeiten aus .
 Bekannte Formate des Web 2.0 sind SocialNetworking-Webseiten wie Facebook oder Twitter , das Videoportal YouTube , Blogs oder Podcasts ( Neuberger 2013 : 368 ) .
@@ -683,7 +683,7 @@ Traditionelle soziale Bewegungen , beispielsweise die Arbeiterbewegung , gingen 
 Die neuen sozialen Bewegungen hingegen zeichnen sich in der Regel durch eine heterogene Anhängerschaft aus , die eher lose miteinander verbunden ist , deren Ideen sich aber über nationale Grenzen hinweg ausbreiten ( ebd. ) .
 Während bei den traditionellen Bewegungen die Werte „ unity , centralization , formality and strong leadership “ im Vordergrund stehen , richten neue soziale Bewegungen ihre Aktivitäten an Konzepten wie „ diversity , decentralisation , informality and grassroot democracy “ ( ebd. ) aus – dies gilt auch für die neuen sozialen Bewegungen des Internetzeitalters .
 Mit diesen Bewegungen hat es darüber hinaus einen weiteren Wandel der internen Strukturen gegeben :
-Im Gegensatz zu ihren Vorgängern , den neuen sozialen Bewegungen , definieren sich die ‚neuen‘ neuen sozialen Bewegungen selten über Führungspersönlichkeiten und eine gemeinsame Ideologie , sondern über „ more personal and fluid forms of association “ ( Bennett 2004 : 127 ) .
+Im Gegensatz zu ihren Vorgängern , den neuen sozialen Bewegungen , definieren sich die ‚ neuen ‘ neuen sozialen Bewegungen selten über Führungspersönlichkeiten und eine gemeinsame Ideologie , sondern über „ more personal and fluid forms of association “ ( Bennett 2004 : 127 ) .
 Den Grund für diesen Wandel sieht Bennett in der Art und Weise , wie in der gegenwärtigen Gesellschaftsform Identität organisiert wird :
 Zuvor wurde bereits gesagt , dass das Individuum der funktional differenzierten Gesellschaft aus seinen „ Primärbindungen “ herausfällt und von „ Identitätssorge “ bedroht ist .
 Die Identität eines Menschen wird , wie Bennett sagt , zu einem Projekt , das sich in der Adaption bestimmter Lebensstile ausdrückt :
@@ -696,7 +696,7 @@ Auch Castells ( 2003 : 141 ) geht davon aus , dass Protest im Zeitalter des Inte
 Dieser Umstand ist der wesentliche Kritikpunkt in Gladwells vielbeachtetem Artikel „ Small change . Why the revolution will not be tweeted “ ( 2010 ) .
 Laut Gladwell sind diese „ weak ties “ ( Granovetter 1973 ) , die durch das Internet möglich werden , keine stabile Grundlage für die Bildung einer sozialen Bewegung .
 Mit Bezug auf die Bürgerrechtsbewegung in den USA geht er davon aus , dass Personen nur dann das notwendige Engagement für Proteste entwickeln , wenn die Protestgruppe auf strong ties basiert .
-Diese Annahme lässt jedoch außer Acht , dass es gerade die weak ties sind , auf deren Grundlage sich Informationen optimal weiterverbreiten lassen – bei einer Verbreitung in auf strong ties basierenden Gruppen würden diese Informationen dort ‚stecken bleiben‘ , wo die engen Bindungen aufhören .
+Diese Annahme lässt jedoch außer Acht , dass es gerade die weak ties sind , auf deren Grundlage sich Informationen optimal weiterverbreiten lassen – bei einer Verbreitung in auf strong ties basierenden Gruppen würden diese Informationen dort ‚ stecken bleiben ‘ , wo die engen Bindungen aufhören .
 Diese Beobachtung lässt sich auf die Botschaften von Protestgruppen übertragen ( Lehrer 2010 ) .
 Die obigen Ausführungen haben zudem gezeigt , dass diese lockeren Netzwerke den Lebensweisen spätmoderner Gesellschaften entsprechen – das Internet ist das passende Kommunikationsmittel der jüngeren neuen sozialen Bewegungen , bei denen es weniger darum geht , bestimmten Personen oder Ideologien zu folgen , sondern entsprechend den persönlichen Identitätskonzepten und Neigungen Netzwerke mit Gleichgesinnten zu bilden und die „ Erzählung der eigenen Identität “ an die Kommunikation dieser Netzwerke anzuknüpfen .
 Die Konsequenzen , die sich auf diese Weise für die Kommunikation sozialer Bewegungen ergeben , werden später genauer beleuchtet .
@@ -725,7 +725,7 @@ Online-Petitionen , E-Mail-Bomben , Virtuelle Sit-Ins , Protestwebseiten und alt
 Hier greifen zahlreiche Menschen zugleich auf Informationen von einer bestimmten Webseite zu mit dem Ziel , sie abstürzen zu lassen ( ebd. 241 f. ) .
 Culture Jamming zielt in der Regel auf Werbung ab :
 Logos und Slogans von Unternehmen werden so verfremdet , dass die eigentliche Botschaft verändert wird – meist mit dem Ziel , das jeweilige Produkt zu kritisieren ( ebd. 243 ) .
-Der Begriff.Hacktivism‘ beschreibt Aktionen , bei denen Online-Protest darauf basiert , dass sich die Aktivisten in fremde Computersysteme einhacken .
+Der Begriff.Hacktivism ‘ beschreibt Aktionen , bei denen Online-Protest darauf basiert , dass sich die Aktivisten in fremde Computersysteme einhacken .
 Dazu gehören beispielsweise der Einsatz von Viren oder andere Attacken auf Server ( ebd. 244 ) .
 Wie auch bei Aktionen , die offline stattfinden , gibt es bei allen genannten Aktivitäten Vor- und Nachteile , die hier nicht im Einzelnen erörtert werden können .
 Exemplarisch sei auf den häufig formulierten Einwand verwiesen , dass Aktionen wie das EPetitioning aufgrund ihres geringen Einsatzes von Seiten der Protestierenden kaum ernst genommen würden .
@@ -741,7 +741,7 @@ Selbiges gilt für Petitionen und alternative Medien .
 Die Bezeichnung „ virtuelle Sit-Ins “ verrät bereits , dass dies nur eine virtuelle Variante einer politischen Protestaktion der nicht-virtuellen Welt ist .
 Auch Protestwebseiten sind , wenn sie die Potenziale des Internets nicht ausschöpfen , kaum mehr als ein digital verfügbares Flugblatt .
 Schönberger ( 2004 : 77 ff. ) warnt vor einer bloßen Übertragung von Offline-Aktionen in den digitalen Bereich , da auf diese Weise das „ soziale Potenzial netzbasierter Kommunikation “ ( ebd. 10 ) nicht ausreichend genutzt werde .
-Die Geschichte der Medientechnik habe gezeigt , dass Übertragungen von Praktiken von einem ‚alten‘ zu einem ‚neuen‘ Medium für Letzteres langfristig wenig relevant war .
+Die Geschichte der Medientechnik habe gezeigt , dass Übertragungen von Praktiken von einem ‚ alten ‘ zu einem ‚ neuen ‘ Medium für Letzteres langfristig wenig relevant war .
 Für eine sinnvolle Nutzung der digitalen Technologien sei daher entscheidend , „ dem soziotechnischen Potenzial der IKT7 adäquate Nutzungsweisen zu entwickeln und zu fördern “ ( Schönberger 2004 : 10 ) .
 Oben wurde gesagt , dass die Potenziale des Internets zu mehr Partizipation der Bürger in den Möglichkeiten zur Information und interaktiven Kommunikation liegen .
 Wie machen soziale Bewegungen von diesen Möglichkeiten Gebrauch ?
@@ -769,14 +769,14 @@ Das Internet ist ein interaktives Medium .
 Zwar gibt es auch hier massenmediale Angebote , beispielsweise die Online-Ausgaben von Printzeitungen oder Fernsehprogrammen , bei denen eine direkte Interaktion mit dem Publikum nicht erforderlich ist – auch wenn Rückmeldungen von Seiten der Leser deutlich vereinfacht werden , unter anderem durch die Kommentarfunktion von Artikeln .
 Doch online gibt es weitaus mehr Angebote als die der etablierten Medienhäuser .
 Die Funktionsweise der Angebote des Web 2.0 basiert darauf , dass Nutzer aktiv auf Medienangebote reagieren und selbst Beiträge oder Videos erstellen und hochladen .
-Social-Media-Plattformen wie YouTube , Facebook oder Twitter leben allein davon , dass seine Nutzer Medieninhalte ‚liken‘ oder kommentieren , mit anderen teilen und eigenständig hinzufügen .
+Social-Media-Plattformen wie YouTube , Facebook oder Twitter leben allein davon , dass seine Nutzer Medieninhalte ‚ liken ‘ oder kommentieren , mit anderen teilen und eigenständig hinzufügen .
 Mit relativ geringem Aufwand ist es auch möglich , ein eigenes Blog zu betreiben und die eigenen Gedanken öffentlich zugänglich zu machen .
 Ein Vorgang , der vor der Verfügbarkeit digitaler Technologien nur durch großen Aufwand möglich war , beispielsweise durch das Drucken eigener Zeitungen .
 Die Kontaktunterbrechung , die für die Massenmedien konstitutiv ist , kann durch das Internet überwunden werden .
-Natürlich benötigt es dazu bestimmte Kompetenzen ; man muss wissen , wie man einen Beitrag ‚postet‘ oder wie man einen Hashtag einsetzt .
+Natürlich benötigt es dazu bestimmte Kompetenzen ; man muss wissen , wie man einen Beitrag ‚ postet ‘ oder wie man einen Hashtag einsetzt .
 Dennoch ist die Hürde , in den öffentlichen Diskurs einzutreten , durch das Internet deutlich gesunken .
 Für die Anhänger oder Sympathisanten von Protestbewegungen bedeutet dies , dass sie aktiv an Protestkommunikation teilhaben können .
-Sie können ihre Meinung zu politischen Themen bei Twitter oder auf der Webseite einer Organisation oder Bewegung äußern , können sich über Facebook mit anderen Aktivisten oder Sympathisanten vernetzen , können bei YouTube Videos von Demonstrationen hochladen und kommentieren oder einen Protestslogan ‚teilen‘ .
+Sie können ihre Meinung zu politischen Themen bei Twitter oder auf der Webseite einer Organisation oder Bewegung äußern , können sich über Facebook mit anderen Aktivisten oder Sympathisanten vernetzen , können bei YouTube Videos von Demonstrationen hochladen und kommentieren oder einen Protestslogan ‚ teilen ‘ .
 Den Gruppierungen und Organisationen innerhalb von Protestbewegungen oder –kampagnen kommt dabei die Aufgabe zu , Interaktivität zu ermöglichen und Mitstreiter zu ermutigen , aktiv zu werden .
 Dabei kann es deutliche Unterschiede zwischen unterschiedlichen Gruppierungen geben , sogar innerhalb einer Bewegung .
 Nicht selten wird kritisiert , dass Protestgruppen den Besuchern ihrer Webseiten nicht oder nur in sehr eingeschränktem Rahmen die Möglichkeit zur Interaktivität bieten ( Baringhorst 2009 : 625 ; Schönberger 86 ff. ; Rucht 2013 : 260 ) – dies zeigt , dass der Gedanke von gleichberechtigter Kommunikation innerhalb sozialer Bewegungen nicht immer konsequent im Internet praktiziert wird .
@@ -795,7 +795,7 @@ Die „ globale Vernetzung von unten “ ( Mischerikow 2009 : 126 ) ist dementsp
 Indymedia ist ein Beispiel dafür , wie das interaktive Potenzial digitaler Technologien genutzt werden kann .
 Es bietet den Bürgern nicht nur den Zugang zu Informationen abseits der Massenmedien , es ermutigt sie auch , selbst aktiv zu werden – indem sie sich mit anderen vernetzen und vor allem , indem sie selbst zu Medienproduzenten werden .
 Dies meint der Slogan :
-„ Don’t hate the media , become the media “ .
+„ Don ’t hate the media , become the media “ .
 Bisher konnte gezeigt werden , dass sich sozialen Bewegungen durch das Internet zahlreiche neue Kommunikationsmöglichkeiten eröffnen – auch wenn diese Potenziale häufig ungenutzt bleiben , etwa da , wo lediglich Offline-Protestformen für das Internet adaptiert werden .
 Indymedia hingegen ist ein Beispiel für eine Internetplattform , die die spezifischen Potenziale des Internets , also seine Möglichkeiten zur Interaktivität , ausschöpft .
 Nicht zur Sprache gekommen ist im Zusammenhang mit digitalen Medien bisher eine für Protestkommunikation zentrale Strategie : das Framing .
@@ -824,7 +824,7 @@ Oben wurde bereits auf die Auswirkungen der gesellschaftlichen Individualisierun
 Die junge Generation ist geprägt von einem Verständnis politischer Teilhabe , das nicht oder nur schwer mit einer Mitgliedschaft in einer Partei , Gewerkschaft oder einer ähnlichen etablierten politischen Organisation zu vereinbaren ist .
 Politisches Engagement wird als individuelle Angelegenheit verstanden , die Ausdruck von persönlichen Lebensentwürfen , Empfindungen und Ansichten ist .
 So nimmt auch Luhmann ( 2006 : 201 ) an :
-Diese paradoxe Form des ‚Zusammenseins‘ ist möglich in losen , auf weak ties basierenden Netzwerken .
+Diese paradoxe Form des ‚ Zusammenseins ‘ ist möglich in losen , auf weak ties basierenden Netzwerken .
 Diese hat es auch schon vor der Verbreitung des Internets gegeben ,
 doch erst mit dem Internet erhalten diese Netzwerkstrukturen ihre vollständige mediale Entsprechung :
 Die technische Grundlage des Internets ist die weltweite Vernetzung von Computern , was wiederum erst die Online-Vernetzung der Menschen ermöglicht ( Bleicher 2010 : 9 ) .
@@ -856,7 +856,7 @@ Der Schwerpunkt der Protestkommunikation ( ebd. 756 ) liegt auf den collective a
 Diese Frames benennen das Problem sowie Verantwortliche , einen Plan und Gründe , aus denen sich die Menschen den Protesten anschließen sollten ( Snow / Benford 2000 : 615 ff. ) .
 Als Beispiel für collective action framing nennen Bennett und Segerberg eine Protestkoalition eher radikaler Gruppen , die sich für Proteste anlässlich des Treffens der G20 in London 2009 unter dem Namen ‚ G20 Meltdown ‘ gebildet hat .
 G20 Meltdown macht die Gruppe der Banker und die G20 als Stellvertreter des Kapitalismus verantwortlich für eine globale wirtschaftliche , politische und ökologische Krise und fordert eine Abkehr vom Kapitalismus .
-Der von dieser Koalition organisierte Protestmarsch unter dem Namen ‚Storm the Banks‘ wurde angeführt von Reitern , den ‚Horsemen of the Apocalypse‘ , mit deren Hilfe die Stadt ‚zurückerobert‘ werden sollte ( Bennett / Segerberg 2011 : 779 ) .
+Der von dieser Koalition organisierte Protestmarsch unter dem Namen ‚ Storm the Banks ‘ wurde angeführt von Reitern , den ‚ Horsemen of the Apocalypse ‘ , mit deren Hilfe die Stadt ‚ zurückerobert ‘ werden sollte ( Bennett / Segerberg 2011 : 779 ) .
 Die Gruppe sprach auf ihrer Webseite ausdrücklich Menschen an , die unter den Folgen der Finanzkrise leiden :
 „ Lost your home ? Lost your job ? Lost your savings or your pension ? This party is for you ! “ ( zit. n. Bennett , Segeberg 2011 : 780 , Hervorhebung im Original .) 9
 Die klare Zuschreibung von Verantwortlichkeit , der Protestmarsch als Spektakel , die Inszenierung eines Konflikts – dieser Protest weist einige von den zuvor beschriebenen , auf die Massenmedien ausgerichteten Kommunikationsstrategien auf.
@@ -878,13 +878,13 @@ Diese NGOs hatten einen deutlichen Anteil an der Mobilisierung der Protestteilne
 Ebenso zurückhaltend waren die Organisationen damit , das Zustandekommen der Proteste als eigene Leistung zu kennzeichnen .
 Stattdessen setzte die Protestkoalition auf „ easy-to-personalize action themes “ und digitale Medien ( ebd. 2012 : 742 ) .
 Hier zeigt sich ein deutlicher Gegensatz zu den konventionelleren Protestakteuren , für die oben mit Baringhorst ( 1998 : 333 ) festgestellt wurde , dass ihre Kommunikation darauf ausgerichtet sein sollte , dass bestimmte Protestaktionen oder botschaften ausdrücklich ihnen ‚ gehören ‘ .
-Bereits der Name ‚Put People First‘ formuliert den Frame der Kampagne :
+Bereits der Name ‚ Put People First ‘ formuliert den Frame der Kampagne :
 An erster Stelle stehen die Menschen und ihre Anliegen .
 Auch diese Koalition kritisiert ein „ financial model that has created an economy fuelled by ever-increasing debt , both financial and environmental “ ( Put People First ) ; auf der Webseite findet sich ein Katalog an recht detaillierten Forderungen u.a. nach der Schaffung von Arbeitsplätzen im Umweltsektor und einer Demokratisierung der Strukturen der Weltbank ( Put People First : About Us ) .
 Die Protestanliegen sich also durchaus klar formuliert , jedoch weniger dogmatisch als die von G20 Meltdown ; sie erfordern von den Mitstreitern der Proteste nicht , sich der Überzeugung anzuschließen , dass das Wirtschaftssystem als Ganzes abgelehnt werden sollte .
-Viel deutlicher als die Problemdiagnose und die Forderungen steht jedoch die Botschaft ‚Put People First‘ im Vordergrund – Bennett und Segerberg ( 2011 : 9 f. ) konnten nachweisen , dass dies die häufigste Wortgruppe auf der Webseite der Protestkoalition ist .
+Viel deutlicher als die Problemdiagnose und die Forderungen steht jedoch die Botschaft ‚ Put People First ‘ im Vordergrund – Bennett und Segerberg ( 2011 : 9 f. ) konnten nachweisen , dass dies die häufigste Wortgruppe auf der Webseite der Protestkoalition ist .
 Dieser Frame erlaubt eine Protestteilnahme aus vielfältigen persönlichen Gründen – im Gegensatz zu G20 Meltdown , wo vor allem jene Menschen angesprochen werden , die konkret von Problemen wie Arbeitslosigkeit oder Geldverlust betroffen sind .
-So ist durchaus denkbar , dass einige der Protestteilnehmer wenig Interesse an mehr Arbeitsplätzen im Umweltbereich haben – ihre persönlichen Anliegen können sie dennoch in dem Frame ‚Put People First‘ unterbringen .
+So ist durchaus denkbar , dass einige der Protestteilnehmer wenig Interesse an mehr Arbeitsplätzen im Umweltbereich haben – ihre persönlichen Anliegen können sie dennoch in dem Frame ‚ Put People First ‘ unterbringen .
 Diese Personalisierung spiegelt sich auch in der Gestaltung der Webseite von PPF .
 Die Seite ist nicht etwa auf die politischen Forderungen der einzelnen Organisatoren ausgelegt , sondern bietet eine Vielzahl an „ social technologies “ ( Bennett , Segeberg 2012 : 745 ) , die interaktive Kommunikation ermöglichen .
 Das hervorstechendste Beispiel für diese Möglichkeiten ist die Aufforderung : „ Send Your Own Message to the G20 “ .
@@ -909,7 +909,7 @@ Mithilfe einer derartigen digitalen Kommunikation verschwimmen die Grenzen zwisc
 Die private Lebensgeschichte , von Hand geschrieben und abfotografiert im heimischen Schlafzimmer , kann über das Internet eine breite Öffentlichkeit erreichen und zum Sinnbild einer Bewegung werden .
 So kann das Individuum Teil einer Bewegung sein , ohne zuvor die formalisierte Aufnahme einer Organisation durchlaufen oder mit anderen Menschen auf der Straße demonstriert zu haben – die Hürden , die für die Teilnahme erforderlich sind , verringern sich enorm .
 Dieses Blog gibt den Menschen zudem die Gelegenheit , ihre persönliche Geschichte ausführlich zu erzählen – unterstrichen wird die Individualität ihrer Botschaften dadurch , dass sie meist von Hand geschrieben und dass die Verfasser häufig selbst zu sehen sind .
-Natürlich liest nicht jeder Besucher des Blogs sämtliche , aktuell15 231 Beiträge – es ist dennoch davon auszugehen , dass die Personen , die auf diesem Blog erscheinen , deutlicher als Individuen in Erscheinung treten als Teilnehmer einer Demonstration , über die in den Massenmedien berichtet wird – dort sind sie vor allem ‚die Demonstranten‘ , eine kollektive Gruppe mit kollektiven Ansichten .
+Natürlich liest nicht jeder Besucher des Blogs sämtliche , aktuell15 231 Beiträge – es ist dennoch davon auszugehen , dass die Personen , die auf diesem Blog erscheinen , deutlicher als Individuen in Erscheinung treten als Teilnehmer einer Demonstration , über die in den Massenmedien berichtet wird – dort sind sie vor allem ‚ die Demonstranten ‘ , eine kollektive Gruppe mit kollektiven Ansichten .
 Ohne digitale Technologien wäre eine solche individualisierte Darstellung wohl kaum möglich .
 Die personal action frames „ Put People First “ und „ We are the 99 percent “ können recht einfach angeeignet und auf das eigene Leben übertragen werden – ideologische Voraussetzungen oder gute Kenntnisse der Sachlage sind nicht nötig .
 Dementsprechend einladend sind die Frames , sie mit dem Umfeld zu teilen .
@@ -918,8 +918,8 @@ Verbreitung finden .
 Diese Verbreitung findet statt durch die persönliche Aneignung eines meme , das in Netzwerken geteilt , von anderen aufgegriffen und wiederum in personalisierter Form weiterverbreitet wird ( Bennett / Segerberg 2012 : 745 ) .
 Mit der zunehmenden Nutzung der interaktiven Möglichkeiten digitaler Medien ist es üblich geworden , persönliche Inhalte online zu teilen – eine ideale Voraussetzung für die Verbreitung von memes .
 Die hier beschriebenen Online-Auftritte von Protestbewegungen setzen bewusst auf diesen Mechanismus :
-Die PPF-Webseite ermuntert ihre Besucher dazu , die Inhalte der Seite in anderen sozialen Medien zu verbreiten , ebenso wie die persönlichen Gedanken , die sie mit dem Frame ‚Put People First‘ verbinden .
-Das Tumblr-Blog erlaubt es , die Beiträge zum Thema „ We are the 99 percent “ zu kommentieren , zu ‚liken‘ oder zu teilen – und natürlich , mit der eigenen Geschichte oder Meinung zu diesem Blog beizutragen .
+Die PPF-Webseite ermuntert ihre Besucher dazu , die Inhalte der Seite in anderen sozialen Medien zu verbreiten , ebenso wie die persönlichen Gedanken , die sie mit dem Frame ‚ Put People First ‘ verbinden .
+Das Tumblr-Blog erlaubt es , die Beiträge zum Thema „ We are the 99 percent “ zu kommentieren , zu ‚ liken ‘ oder zu teilen – und natürlich , mit der eigenen Geschichte oder Meinung zu diesem Blog beizutragen .
 Dieser interaktive Vorgang des Teilens ist zentral für die Funktionsweise des Social Web sowie für die logic of connective action :
 Ein Gedanke , ein Frame wandert als Slogan , Foto , Video , persönliche Geschichte , Hashtag oder Lied durch das Internet ; was mit ihm geschieht , wie er ausgelegt wird , ist Sache derer , die ihn sich aneignen – ideologische oder strategische Vorgaben von Organisationen oder Gruppierungen treten in den Hintergrund .
 Der große Erfolg der PPF-Kampagne ist nicht allein dem Frame und der Webseite zu verdanken – er ist auch darauf zurückzuführen , dass etablierte NGOs an der Organisation der Proteste mitgewirkt haben .
@@ -944,7 +944,7 @@ Zahlreiche soziale Bewegungen stützen sich nicht nur auf das eine oder andere M
 Ihre Protestkommunikation ist ein Mix aus Kooperationen mit Massenmedien und der dazugehörigen Inszenierung von Pseudoereignissen , Online-Kommunikation und weiteren Kommunikationsstrategien .
 Bennett und Segerberg stufen beispielsweise PPF in dieser Hinsicht als hybrid ein :
 Es sind etablierte NGOs , die hinter dem Aufruf zu den Demonstrationen stehen und die organisatorischen Voraussetzungen für sie schaffen .
-Diese Organisationen geben jedoch keine starren collective action frames vor , sondern bieten mit ‚Put People First‘ einen Frame an , der individuell zugänglich ist und einfach über persönliche soziale Netzwerke und die PPFWebseite verbreitet werden kann .
+Diese Organisationen geben jedoch keine starren collective action frames vor , sondern bieten mit ‚ Put People First ‘ einen Frame an , der individuell zugänglich ist und einfach über persönliche soziale Netzwerke und die PPFWebseite verbreitet werden kann .
 Diese Proteste weisen sowohl Merkmale von connective als auch collective action auf ( Bennett / Segerberg 2012 : 755 ff. ) .
 Die connective action kann große Bedeutung für Bewegungen haben – sie allein macht jedoch noch keine soziale Bewegung aus ( Bennett / Segerberg 2012 : 745 ) .
 Allerdings kann connective action zahlreiche Menschen für collective actions wie Demonstrationen mobilisieren und möglicherweise neue Gruppen an Protestierenden erschließen , nämlich solche , die sich nicht von hierarchisch aufgebauten Organisationen angesprochen fühlen und abgeschreckt werden von den Erfordernissen , die collective action mit sich bringt – für diese Gruppen kann die unverbindliche Vernetzung über persönliche Gedanken ein Einstieg in politisches Engagement sein .
@@ -963,13 +963,13 @@ Uneingeschränkte Euphorie über die Unabhängigkeit von den Massenmedien ist al
 Geht es darum , eine breite Öffentlichkeit zu erreichen , nehmen die Massenmedien nach wie vor eine zentrale Stellung ein .
 Der Erfolg von Protestkommunikation im Internet scheint bisher noch daran gemessen zu werden , inwiefern diese Resonanz bei den Massenmedien erzeugt .
 Baringhorst ( 2009 : 626 ) verweist mit Bezug auf die Untersuchung der Webseiten von Anti-Corporate-Campaigns darauf , dass auf jeder dieser Webseiten Verweise auf die Resonanz der Protestaktionen in den Massenmedien zu finden waren .
-In der Literatur zum Thema ‚soziale Bewegungen und Internet‘ wird häufig auf Fälle verwiesen , in denen Protestaktionen sich zunächst im Internet verbreiteten – und dann von den Massenmedien aufgegriffen wurden .
+In der Literatur zum Thema ‚ soziale Bewegungen und Internet ‘ wird häufig auf Fälle verwiesen , in denen Protestaktionen sich zunächst im Internet verbreiteten – und dann von den Massenmedien aufgegriffen wurden .
 Ein solcher , häufig zitierter Fall ist die Aktion des Culture Jammers Jonah Peretti .
-Dieser bestellte im Rahmen einer Kundenaktion des Sportartikelherstellers Nike , bei der man einen Schuh mit einem persönlichen Aufdruck kreieren konnte , einen Schuh mit der Aufschrift ‚sweatshop‘ .
+Dieser bestellte im Rahmen einer Kundenaktion des Sportartikelherstellers Nike , bei der man einen Schuh mit einem persönlichen Aufdruck kreieren konnte , einen Schuh mit der Aufschrift ‚ sweatshop ‘ .
 Nikes Weigerung , diesem Wunsch nachzukommen , führte zu einem EMailwechsel zwischen Peretti und dem Unternehmen , den Peretti an seine Freunde weiterleitete .
 Der Schriftwechsel fand daraufhin eine so starke Verbreitung , dass die Massenmedien darüber berichteten ( s.u.a. Bennett 2004 : 142 ; Rucht 2013 : 259 ) .
 Derartige Beispiele werden häufig als Beleg dafür angeführt , dass die Massenmedien nicht mehr das alleinige Informationsmonopol besitzen und Protestgruppen daher nicht mehr so stark auf diese angewiesen seien ; durch das Internet allein könnten Protestaktionen einen massiven Zuspruch erhalten .
-Dass zugleich betont wird , dass diese Botschaften es schließlich doch in die Massenmedien ‚schaffen‘ , ist ein Widerspruch in sich – er offenbart , dass die Massenmedien nach wie vor als die zentrale Instanz betrachtet werden , wenn es darum geht , die Öffentlichkeit zu informieren .
+Dass zugleich betont wird , dass diese Botschaften es schließlich doch in die Massenmedien ‚ schaffen ‘ , ist ein Widerspruch in sich – er offenbart , dass die Massenmedien nach wie vor als die zentrale Instanz betrachtet werden , wenn es darum geht , die Öffentlichkeit zu informieren .
 Problematisch ist dieser Fokus auf die Massenmedien , weil mit der Nutzung digitaler Technologien eine neue Form von Protestkommunikation möglich geworden ist : die der connective action .
 Die Occupy-Bewegung in den USA wurde häufig dafür kritisiert , kein klares Thema zu haben , keine eindeutigen Positionen zu formulieren – auch die Teilnehmer der Occupy-Proteste sind sich dessen bewusst ( Blumenkranz , u.a. 2011 : 13 ff. ) .
 Dieser Umstand ist erstens damit zu erklären , dass die Occupy-Bewegung sich dem Ideal horizontaler Kommunikation verschrieben hat , bei der verschiedenste Perspektiven zugelassen werden sollen .
@@ -979,5 +979,5 @@ Die Massenmedien hingegen erwarten klare Positionen und Ansprechpartner , die di
 Wie wenig die Massenmedien in der Lage sind , sich auf diese Vielfalt an Perspektiven einzulassen , belegt das folgende , von Bennett und Segerberg angeführte Beispiel . 16
 Dieses bezieht sich auf die G20-Proteste in Pittsburgh , bei denen eine Vielzahl an politischen Botschaften kommuniziert wurde .
 Bennett und Segerberg beschreiben , wie die im Fernsehen ausgestrahlte Comedy-Nachrichtensendung „ The Daily Show “ auf diese Proteste reagierte :
-Solange Massenmedien bedeutsam für soziale Bewegungen bleiben , wird das , was oben als connective action beschrieben wurde , also das Nebeneinander zahlreicher individueller und flexibler Kommunikationen , höchstens als Vorstufe zur ‚tatsächlichen‘ Protestkommunikation , der collective action angesehen werden , die mit Sprechern und eindeutigen Botschaften dem System der Massenmedien jene Kommunikationen liefert , die es verarbeiten kann .
+Solange Massenmedien bedeutsam für soziale Bewegungen bleiben , wird das , was oben als connective action beschrieben wurde , also das Nebeneinander zahlreicher individueller und flexibler Kommunikationen , höchstens als Vorstufe zur ‚ tatsächlichen ‘ Protestkommunikation , der collective action angesehen werden , die mit Sprechern und eindeutigen Botschaften dem System der Massenmedien jene Kommunikationen liefert , die es verarbeiten kann .
 Dass es dennoch Proteste wie die in Pittsburgh gibt , dass die Occupy-Bewegung sich bemüht , das allzu deutliche Hervortreten einzelner Führungspersönlichkeiten und einzelner Forderungen zu vermeiden , auch wenn es auf diese Weise schwieriger wird , die massenmedialen Selektoren zu passieren – all dies zeugt möglicherweise von einem gewachsenen Selbstbewusstsein , das in Kauf nimmt , nicht optimal in den Massenmedien vertreten zu sein , wenn dadurch an den eigenen Überzeugungen der flachen Hierarchien und konsequenten Vernetzung festgehalten werden kann .

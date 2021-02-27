@@ -100,7 +100,7 @@ Film und Fernsehen haben hierdurch vielfältige Narrationsmöglichkeiten und kö
 Nach der Jahrhunderte währenden Dominanz des geschrieben Wortes wird die neuerliche Betonung der auditiven Wahrnehmung durch die elektronischen Medien rückblickend als Wiederkehr des gesprochenen Wortes in der Gegenwart bezeichnet .
 Walter Ong nennt diesen Zustand in Orality and Literacy .
 The Technologizing of the Word ( 1982 : 3 ) in Abgrenzung zur primären Oralität schriftloser Kulturen „ sekundäre Oralität “ :
-„ The electronic age is also an age of ‚ secondary orality’ , the orality of telephones , radio , and television , which depends on writing and print for its existence ” .
+„ The electronic age is also an age of ‚ secondary orality ’ , the orality of telephones , radio , and television , which depends on writing and print for its existence ” .
 Zur Materialisierung des Wortes in den Medien Sprache und Schrift zur Zeit der Rhapsoden sowie des antiken Theaters tritt dessen technische Verkörperung in der medialen Gegenwart .
 Das sich mit der Erfindung der Schrift konstituierende Verhältnis von Mündlichkeit und Schriftlichkeit , Ohr und Auge , welches sich gegenwärtig im audiovisuellen Einklang von Bild und Ton manifestiert , rückt erst mit der Entwicklung der elektronischen Medien im 19. und 20. Jahrhundert in das Interesse kulturanthropologischer und medientheoretischer Debatten .
 Erst das Bewusstsein eines Kontrasts zwischen den neuen elektronischen Medien und den Printmedien , hervorgerufen durch die ungewohnte Qualität des Mündlichen in Hörfunk und Fernsehen , sensibilisiert gleichermaßen für den mediengeschichtlichen Übergang von einem Zustand ausschließlicher Oralität zur Literalität ( vgl. Ong 32012 : 2 ) von Kulturen .
@@ -171,9 +171,9 @@ Für diese Schritte bildet die Modellierung des Handlungsverlaufs , des Allgemei
 Tatsächlich bedient sich Homer einer komplexen Erzählweise mit Parallelhandlungen ( z.B. die „ Telemachie “ ) , Einschüben und Rückblenden . 26
 So werden etwa die Abenteuer , die Odysseus auf seiner Irrfahrt von Troja in seine Heimat zu bestehen hat , erst im zentralen Teil des Epos durch Odysseus ’ eigene Schilderung erzählt , obwohl sie der Heimkehrererzählung zeitlich vorausgehen .
 In Entsprechung zu Aristoteles unterscheidet die strukturalistische Erzähltheorie zwischen zwei für die Erzählung konstitutiven Dimensionen : histoire und discours .
-Die erfundenen oder imitierten Geschehnisse ( nach Aristoteles ‚ Stoff’ ) werden in der Geschichte ( histoire ) zu einer Kette von Ereignissen ( nach Aristoteles ‚ Mythos ’ ) verknüpft und mit Charakteren sowie situativen Elementen verbunden .
-Das ‚ Was ’ der Geschichte materialisiert sich im ‚ Wie’ des Diskurses ( discours ) , der die Mittel beschreibt , durch die die Geschichte kommuniziert wird ( vgl. Kloepfer 42008 : 287 ) .
-An diese Unterscheidung anknüpfend , begreift Seymour Chatman ( 1978 : 19 f. ) ‚ Erzählung’ unter Berufung auf den französischen Strukturalisten Claude Bremond als eine unabhängige Struktur , die sich in verschiedenen Medien manifestieren kann : sowohl im Medium des Rhapsoden als auch in Film und Fernsehen .
+Die erfundenen oder imitierten Geschehnisse ( nach Aristoteles ‚ Stoff ’ ) werden in der Geschichte ( histoire ) zu einer Kette von Ereignissen ( nach Aristoteles ‚ Mythos ’ ) verknüpft und mit Charakteren sowie situativen Elementen verbunden .
+Das ‚ Was ’ der Geschichte materialisiert sich im ‚ Wie ’ des Diskurses ( discours ) , der die Mittel beschreibt , durch die die Geschichte kommuniziert wird ( vgl. Kloepfer 42008 : 287 ) .
+An diese Unterscheidung anknüpfend , begreift Seymour Chatman ( 1978 : 19 f. ) ‚ Erzählung ’ unter Berufung auf den französischen Strukturalisten Claude Bremond als eine unabhängige Struktur , die sich in verschiedenen Medien manifestieren kann : sowohl im Medium des Rhapsoden als auch in Film und Fernsehen .
 Im Hinblick auf die Odyssee lässt sich ausgehend vom aristotelischen Mythos oder der Chatmanschen Story zudem eine weitaus abstraktere Struktur27 identifizieren .
 Diese Struktur ist zyklisch und wird von dem amerikanischen Mythenforscher Joseph Campbell ( 32004 : 28 ) wie folgt beschrieben :
 Die in dieser schematischen Beschreibung der Heldenreise enthaltenen Schlüsselmomente Aufbruch ( departure ) , Initiation ( initiation ) und Rückkehr ( return ) sind der Kern dessen , was Campbell ( vgl. ebd. ) als Monomythos 28 identifiziert .
@@ -263,9 +263,9 @@ Die Untersuchung der Gestalt des mündlich und audiovisuell vermittelten Wissens
 Die Charakterisierung von Film und Fernsehen als Enzyklopädien wirft die Frage auf , inwiefern sich der traditionell auf Schrifterzeugnisse bezogene Gattungsbegriff auf die audiovisuellen Medien übertragen lässt .
 In der Literaturwissenschaft meint Enzyklopädie „ die Gattung von Werken der Wissensliteratur [ … ] , die die Gesamtheit des theoretischen und praktischen Wissensstoffs und / oder den Zusammenhang und die Anordnung des Wissens , seine Gliederung und Klassifikation enthält “ ( Meier 32007 : 192 ) .
 Die in dieser Definition enthaltenen Bedeutungskomponenten verweisen auf einen semantischen Wandel in der Begriffsgeschichte .
-Die definitorische Betonung des Zusammenhangs und der Anordnung von Wissen hat ihren Ursprung in der Etymologie des Wortes : In der griechischen Antike bedeutet enkýklios paideía ‚ Kreis der / kreisförmige Erziehung / Bildung’ .
+Die definitorische Betonung des Zusammenhangs und der Anordnung von Wissen hat ihren Ursprung in der Etymologie des Wortes : In der griechischen Antike bedeutet enkýklios paideía ‚ Kreis der / kreisförmige Erziehung / Bildung ’ .
 Das Bild des Kreises bezieht sich zunächst auf die Einheit der Bestandteile der chorischen Erziehung43 und wird erst im 19. Jahrhundert auf das im Kreisbild implizite Moment der Gesamtheit und damit auf die umfassende Darstellung des Wissens ausgeweitet ( vgl. Dierse 1977 : 2-6 ) .
-Die gegenwärtige , an ein schriftlich fixiertes und vermitteltes Wissen geknüpfte Bedeutung von ‚ Enzyklopädie’ gründet sich auf eine Form der Wissensvermittlung , die ursprünglich oraler Natur ist : Bis zur Mitte des 5. Jahrhunderts v. Chr. ist der Begriff enkýklios paideía eng mit dem griechischen Mousike , dem Dreiklang aus Rhythmus , Melodie und Sprache ( vgl. ebd. : 6 ; Havelock 1982 : 186 ; Murray / Wilson 2004 : 1 ) , verbunden .
+Die gegenwärtige , an ein schriftlich fixiertes und vermitteltes Wissen geknüpfte Bedeutung von ‚ Enzyklopädie ’ gründet sich auf eine Form der Wissensvermittlung , die ursprünglich oraler Natur ist : Bis zur Mitte des 5. Jahrhunderts v. Chr. ist der Begriff enkýklios paideía eng mit dem griechischen Mousike , dem Dreiklang aus Rhythmus , Melodie und Sprache ( vgl. ebd. : 6 ; Havelock 1982 : 186 ; Murray / Wilson 2004 : 1 ) , verbunden .
 Mousike ist das Curriculum der griechischen Oberklasse ( vgl. Havelock 1990 : 80 ) und beinhaltet die mündliche Unterweisung junger Griechen in instrumenteller Musik , Rezitation und rhythmischer Bewegung .
 Zum Zwecke der musischen Bildung werden mündliche Dichtungen älterer Sänger memoriert und wiedergegeben ( vgl. Havelock 1982 : 14 ) , währenddessen die rhythmischen Memorialtechniken eingeübt und angewandt .
 Diese Unterrichtskomponenten verlieren erst mit der Durchsetzung der Schrift und der institutionellen Vermittlung der Lese- und Schreibfähigkeit an Bedeutung .
@@ -309,10 +309,10 @@ Für das gemeinschaftliche Miteinander sind Mythen deshalb unabdinglich .
 Obwohl der Rhapsode als Träger und Übermittler der Paideia eine Sonderstellung innehat , ist Erziehung in der griechischen Antike ein gemeinschaftlicher Prozess ( vgl. Jaeger 21936 : 2 ) :
 Die Wertvorstellungen , nach denen Heranwachsende über den Umweg der epischen Dichtung geformt werden , wurden in der Gemeinschaft durch das gemeinschaftliche Zusammenleben entwickelt und sind daher für die Gemeinschaft konstitutiv .
 Die narrativ geformte Sprache repräsentiert dieses gemeinschaftliche Wissen , welches die kollektiven Erfahrungen und die aus ihnen abgeleiteten kollektiven Erwartungen , wie in der Gemeinschaft gehandelt werden soll , umfasst .
-Das im Vorhergehenden in Bezug auf die dichterische Sprache Dargelegte , formuliert der Sozialpsychologe George Herbert Mead ( vgl. 1973 : 187ff .) im Hinblick auf die Sprache als solche .
+Das im Vorhergehenden in Bezug auf die dichterische Sprache Dargelegte , formuliert der Sozialpsychologe George Herbert Mead ( vgl. 1973 : 187 ff .) im Hinblick auf die Sprache als solche .
 Sprache begreift Mead als Symbol , welches innerhalb einer Gemeinschaft auf einen generellen Sinnzusammenhang verweist .
 Die sich im Symbol der Sprache manifestierenden Bedeutungen leiten ihm zufolge nicht nur das menschliche Handeln , sie konstituieren sich überhaupt erst durch die Interaktion von Menschen .
-Im Bemühen um eine Synthese zwischen Behavorismus , der den Menschen als auf seine Umwelt reagierendes soziales Wesen betrachtet , und Pragmatismus , eine Sozialphilosophie , die das Wesen des Menschen in seinem Handeln erkennt , begreift Mead Menschen als Wesen , die auf Reize in Form von Verhalten reagieren und somit wechselseitig aufeinander einwirken ( vgl. Abels 2010 : 73f .) .
+Im Bemühen um eine Synthese zwischen Behavorismus , der den Menschen als auf seine Umwelt reagierendes soziales Wesen betrachtet , und Pragmatismus , eine Sozialphilosophie , die das Wesen des Menschen in seinem Handeln erkennt , begreift Mead Menschen als Wesen , die auf Reize in Form von Verhalten reagieren und somit wechselseitig aufeinander einwirken ( vgl. Abels 2010 : 73 f.) .
 Auf äußere Reize , körperliche oder lautliche Gebärden , reagiert der Mensch in der Art , dass er , die Haltung des Anderen einnehmend , in Gedanken dessen Handlung als Reaktion auf die eigene Aktion antizipiert ( vgl. Mead 1973 : 300 ) .
 Diesen interaktiven Prozess wechselseitiger Verschränkung der eigenen mit der Perspektive anderer , bei dem die individuelle stets die soziale Perspektive involviert , nennt Mead ( ebd. ) die Fähigkeit zur „ Übernahme der Rolle anderer “ .
 Sie lässt Reize zu Symbolen werden , zu Zeichen also , die auf den auf Erfahrungen basierenden Sinn von Dingen verweisen und auf die Menschen reagieren .
@@ -323,7 +323,7 @@ Die Bedeutung der durch den Menschen wahrnehmbaren Dinge , die als Symbole fungi
 Vielmehr unterliegen die in der sozialen Interaktion entstehenden oder aus ihr abgeleiteten Bedeutungen einem interpretativen Prozess , der sie modifiziert .
 Unter dieser Prämisse systematisiert Herbert Blumer , ein Schüler Meads , dessen Ansatz und gibt ihm den Titel Symbolischer Interaktionismus .
 Indem Individuen Dingen und Handlungen bestimmte Bedeutungen beimessen , so die theoretische Überlegung , definieren sie den Sinn der Situation .
-Da sie dies fortlaufend und in Reaktion auf die Interpretation der anderen tun , legen sie den Rahmen der gemeinsamen Situation kontinuierlich neu fest ( vgl. Abels 2010 : 94ff .) .
+Da sie dies fortlaufend und in Reaktion auf die Interpretation der anderen tun , legen sie den Rahmen der gemeinsamen Situation kontinuierlich neu fest ( vgl. Abels 2010 : 94 ff .) .
 Verdeutlichen lässt sich diese Überlegung im Hinblick auf die soziologische Diskussion des Normbegriffs ( vgl. Peters 2008 : 207 ) : Soziale Normen lassen sich zwar sprachlich formulieren , aber sie liegen nicht als objektive Regeln vor .
 Vielmehr sind sie Vorstellungen Handelnder , die die wechselseitige Interpretation von Handlungen leiten , die dabei aber ebenso je nach Kontext in ihrer Bedeutung aktualisiert werden .
 Die aufgezeigte narrative Darstellung lediglich der Effekte sittlich guten Handelns in den homerischen Epen illustriert diesen Umstand .
@@ -346,7 +346,7 @@ Sprache hat dadurch institutionalen Charakter .
 Sie stellen Verhaltensmuster auf , welche es in eine Richtung lenken “ , schreiben Berger und Luckmann ( ebd. : 58 ) .
 Indem dieses Verhalten von den Individuen einer Gemeinschaft akzeptiert und fortlaufend in den Interaktionen des Alltags , die auf eben diesen von der Gesellschaft bereitgestellten Institutionen beruhen , bestätigt wird , verfestigt es sich zu sozialem Wissen , das permanent soziale Ordnung schafft .
 Die Gesellschaft stellt nun die objektive , geordnete Wirklichkeit dar , die im Denken und Handeln ihrer Mitglieder fortlaufend produziert wird .
-Als ‚ Wissen’ bezeichnen Berger / Luckmann ( ebd. : 75 ) also „ die objektivierte Sinnhaftigkeit institutionalen Handelns “ .
+Als ‚ Wissen ’ bezeichnen Berger / Luckmann ( ebd. : 75 ) also „ die objektivierte Sinnhaftigkeit institutionalen Handelns “ .
 Das wichtigste Medium zur Weitergabe des Wissens einer Gemeinschaft ist die Sprache ( vgl. ebd. : 73 ) .
 Jedoch erfolgt die Weitergabe nicht voraussetzungslos :
 Sie erfordert einen gesellschaftlichen Apparat , in dem einige Menschen zu Vermittlern , andere zu Empfängern des Wissens bestimmt sind ( vgl. ebd. : 75 ) .
@@ -506,10 +506,10 @@ Theatertheoretiker und -praktiker des 18. Jahrhunderts rühmen das Theater als u
 Für Johann Christoph Gottsched , mit dem die Entwicklung des Theaters zu einer bürgerlichen Institution ihren Anfang nimmt , soll die dramatische Handlung jeweils einen moralischen Lehrsatz veranschaulichen ( vgl. Dörr 2009 : 8 ) .
 Dass „ das Theater die Schule der moralischen Welt sein soll “ ( Lessing 31978 : [ 2 . Stück ] ) ist auch der zentrale Gedanke von Lessings Theaterreform , die er in seinem periodisch erscheinenden Journal Hamburgische Dramaturgie ( 1767 / 68 ) formuliert .
 Wie Gottsched orientiert sich auch Lessing am antiken Vorbild der aristotelischen Poetik und interpretiert sie vor dem Hintergrund der Aufklärungsphilosophie ( vgl. Hentschel 2005 : 5 ) .
-Im Mittelpunkt seines Interesses steht die poetische Wirkungsästhetik , die bei der Ausübung der sozialen Funktion des Theaters zielführend sein soll ( vgl. ebd. : 4f .) .
+Im Mittelpunkt seines Interesses steht die poetische Wirkungsästhetik , die bei der Ausübung der sozialen Funktion des Theaters zielführend sein soll ( vgl. ebd. : 4 f. ) .
 Erst im Gefühlserlebnis der Zuschauer erfüllt sich für Lessing die ethische und politische Funktion des Bühnengeschehens .
 Die aristotelischen Affekte Phobos und Eleos übersetzt Lessing mit Furcht und Mitleid . 62
-Im Mitleiden mit dem Schicksal der Charaktere und der Furcht des Rezipienten , von einem ähnlichen Schicksal ereilt zu werden , erfüllt sich für Lessing die Reinigung ( Katharsis ) des Menschen von seinen Leidenschaften und damit seine moralische Besserung ( vgl. Dörr 2009 : 10ff .) .
+Im Mitleiden mit dem Schicksal der Charaktere und der Furcht des Rezipienten , von einem ähnlichen Schicksal ereilt zu werden , erfüllt sich für Lessing die Reinigung ( Katharsis ) des Menschen von seinen Leidenschaften und damit seine moralische Besserung ( vgl. Dörr 2009 : 10 ff .) .
 Um diesen Zustand zu erreichen , sind Charaktere notwendig , mit denen sich der Zuschauer identifizieren kann .
 Die darstellenden Figuren müssen sich deshalb durch Eigenschaften auszeichnen , die dem Rezipienten aus seiner Alltagswelt bekannt sind .
 Lessing entwirft daher das Konzept der ‚ vermischten Charaktere ’ , die in ihrem sittlichen Verhalten nicht vollkommen sind und dadurch der Lebenswelt des Zuschauers nahe stehen ( vgl. Hentschel 2005 : 5 ) :
@@ -584,7 +584,7 @@ Der Psychologe formuliert diesen Gedanken in seiner Jahrzehnte später erscheine
 Bandura betont auch hier den wesentlichen Unterschied zwischen dem Erwerb und der konkreten Ausführung erlernten Wissens und bestimmt Massenmedien dementsprechend einerseits als Lehrer , andererseits als ein bestimmtes Verhalten stimulierende Motivatoren ( vgl. Bandura 32009 : 113 ) .
 Die Effekte massenmedialer Kommunikation resümiert Bandura wie folgt : “ In sum , modeling influences serve diverse functions – as tutors , motivators , inhibitors , disinhibitors , moral engagers and disengagers , social prompters , emotion arousers , and shapers of values and public conceptions of reality ” ( ebd. : 108 ) .
 Die Befunde Banduras belegen , dass Medien eine wichtige Sozialisationsinstanz70 darstellen .
-In der Rezeption von Spielfilmen , ebenso wie im Hören von Geschichten , erfolgt Lernen im Kontext eines positiven Gefühlszustandes inzidentell ( vgl. Lukesch 1996 : 55ff .) .
+In der Rezeption von Spielfilmen , ebenso wie im Hören von Geschichten , erfolgt Lernen im Kontext eines positiven Gefühlszustandes inzidentell ( vgl. Lukesch 1996 : 55 ff .) .
 Sinnliche Wahrnehmung und Kognition gehen in der Rezeption mündlicher und audiovisueller Narrationen eine machtvolle Allianz ein .
 Diese vermag es , soziales Verhalten zu imprägnieren und fortlaufend zu re-imprägnieren .
 Der Einzelne wird somit befähigt , soziale Situationen richtig zu lesen , im Hinblick auf ihre impliziten Normen zu verstehen und angemessen zu reagieren .
@@ -635,12 +635,12 @@ Denn obgleich Kulturen ebenso wie Individuen ihr Gedächtnis in der Interaktion 
 Um dauerhaft gespeichert und von Generation zu Generation überliefert zu werden , müssen die Objektivationen intersubjektiver Erfahrungsablagerungen mit Hilfe eines Zeichensystems vollzogen werden .
 Dieses ermöglicht es , die Objektivationen gemeinsamer Erfahrungen zu wiederholen ( vgl. Berger / Luckmann 1969 : 72 ) . 75
 Grundlegend für die gesellschaftliche Erfahrungsablagerung ist zunächst das Zeichensystem Sprache .
-Nach Berger / Luckmann ( vgl. ebd. : 72f .) ist sie Medium und konstitutives Moment von Wissen und Gedächtnis .
+Nach Berger / Luckmann ( vgl. ebd. : 72 f. ) ist sie Medium und konstitutives Moment von Wissen und Gedächtnis .
 Auch unter den von Aleida Assmann in Erinnerungsräume .
 Formen und Wandlungen des kulturellen Gedächtnisses ( 1999 ) benannten „ Gedächtnismedien “ ( ebd. : 20 ) rangiert die Sprache bzw.
 die Schrift unter den wichtigsten Fundamenten und Instrumenten des kollektiven Gedächtnisses .
 Als „ materielle Stütze “ ( ebd. ) gewährleistet die Schrift die Speicherung kollektiven Wissens sowie dessen Vermittlung in der Interaktion mit dem Gedächtnis des Einzelnen .
-Zeichensysteme sichern somit die Wiedererkennbarkeit und Kontinuität einer Kultur ( vgl. Assmann 1994 : 114f .) .
+Zeichensysteme sichern somit die Wiedererkennbarkeit und Kontinuität einer Kultur ( vgl. Assmann 1994 : 114 f.) .
 In ihrer Funktion als Träger des kollektiven Gedächtnisses entscheiden die technischen Möglichkeiten von Gedächtnismedien darüber , was und wie erinnert wird .
 Der medientechnische Wandel bedingt die Verfasstheit des kollektiven Gedächtnisses .
 Folgerichtig definiert die Theorie Jan und Aleida Assmanns eine Kultur als den „ historisch veränderliche [ n ] Zusammenhang von Kommunikation , Gedächtnis und Medien “ ( ebd. : 114 ) .
@@ -729,7 +729,7 @@ Unabhängig vom jeweiligen Forschungsgebiet , resümiert der amerikanische Psych
 Identität konstituiert sich nach Auffassung narrativer Psychologen als eine konstruierte Selbsterzählung , die den eigenen Handlungen und Lebenserfahrungen Bedeutung zu verleihen vermag ( vgl. Nünning , A . 2013 : 28 ) .
 Die narrative Codierung von Erfahrung im individuellen und kollektiven Gedächtnis betrifft zwei Ebenen :
 Zum einen ist das menschliche Erleben , die Wahrnehmung und Interpretation eines Geschehens als Produkt gesellschaftlicher Konstruktionen , bereits von narrativen Mustern vorgeprägt .
-Kulturen stellen ein Repertoire narrativer Plots zur Verfügung ( vgl. ebd. : 36 ) , die innerhalb kognitiver Prozesse die Wahrnehmung strukturieren und in der Funktion eines Selektions- und Schematisierungsapparats darüber entscheiden , welche Wahrnehmungen überhaupt in das Bewusstsein gelangen ( vgl. Erll 2005 : 110f .) .
+Kulturen stellen ein Repertoire narrativer Plots zur Verfügung ( vgl. ebd. : 36 ) , die innerhalb kognitiver Prozesse die Wahrnehmung strukturieren und in der Funktion eines Selektions- und Schematisierungsapparats darüber entscheiden , welche Wahrnehmungen überhaupt in das Bewusstsein gelangen ( vgl. Erll 2005 : 110 f. ) .
 Damit dienen kulturspezifische Erzählmuster der kognitiven Bearbeitung und psychischen Integration von Kontingenz ( vgl. Straub 1998 : 142 ) .
 Zum anderen bildet sich handlungsleitendes Wissen – Lebenserfahrung als Gesamtheit der Erlebnisse eines Individuums – in der Erinnerung , die ihrerseits wiederum narrativ verfährt .
 Donald Polkinghorne ( 1998 : 23 ) spricht deshalb von narrativem Wissen , welches sich als „ eine reflexive Explikation der pränarrativen Qualität unreflektierter Erfahrung “ darstellt .
