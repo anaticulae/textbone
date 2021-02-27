@@ -1,6 +1,6 @@
 Abb. 20 und 21 zeigen die Art der Anreise im Panoramapark nach Geschlechtern differenziert .
 Abbildungen 18 und 19 zeigen die Art der Anreise in der Innenstadt nach Geschlechtern differenziert.
-Als Erhebungsmethode wurde die persönliche Befragung vor Ort mit Hilfe eines standardisierten Fragebogens ( siehe Punkt 3.2. : Fragebogen , Abb. 3 und Abb. 4) Punkt 6.4.1.3 an folgenden Wochentagen ausgewählt :
+Als Erhebungsmethode wurde die persönliche Befragung vor Ort mit Hilfe eines standardisierten Fragebogens ( siehe Punkt 3.2. : Fragebogen , Abb. 3 und Abb. 4 ) Punkt 6.4.1.3 an folgenden Wochentagen ausgewählt :
 Als Paradebeispiel gilt die Plattform Wikipedia , deren Artikel von Nutzern selbst verfasst bzw. verändert werden .
 Auch der SPIEGEL beschreibt eine ähnliche Situation :
 Auf der Frontseite des Heftes titelt das Blatt entsprechend :
@@ -39,7 +39,7 @@ Nach heutiger Auffassung interagieren beide Systeme nicht nur miteinander , dies
 Partizipation und Kooperation sind wichtige Charakteristika des Web 2.0 – je mehr Nutzer beteiligt sind , desto besser wird der Dienst.
 Privatheit beinhaltet also den Aspekt der Zugangskontrolle seitens des Individuums .
 Rössler beschreibt etwas Privates folgendermaßen :
-Sie stehen daher in konflikthafter Interaktion mit etablierten Akteu- ren – Institutionen und Organisationen – aus dem politisch-administrativen System (Hervorhe- bung im Original ) .
+Sie stehen daher in konflikthafter Interaktion mit etablierten Akteu- ren – Institutionen und Organisationen – aus dem politisch-administrativen System ( Hervorhe- bung im Original ) .
 So ist der hohe KFZ-Anteil ein Zeichen dafür , dass die Erreichbarkeit mit dem Auto sehr gut ist und auch große Gratisstellplätze vorhanden sind .
 So kam es zu einem Boom , der die Auswirkungen von Emotionen auf kognitive Prozesse , angefangen bei Entscheidungsfindung bis hin zu Gedächtnis , in zahlreichen Studien untersuchte Phelps ( 2006 ) .
 Tab. 3 :
@@ -52,8 +52,8 @@ Vgl. parameter Seite 10.
 Viele Philosophen und Psychologen ließen sich von der Beziehung zwischen Denken und Fühlen faszinieren .
 Will man das Phänomen ‚ Protest ‘ angemessen erfassen , so gilt es zu untersuchen , wie er kommuniziert wird .
 Zusätzliche Anfor­derungen an die Betriebsstrategie ergeben sich aus den Abgas- und Geräuschemissionen und dem Schwingungskomfort [ RNB12 , S. 62 ff ] .
-Zwischensubjekteffekte (Geschlecht, Versuchsleiter, Sequenz, Durchgang) ergaben keine signifikanten Unterschiede, weder einzeln noch in Interaktionen ( p>,05 ) .
-[…] Als „ Heraus- forderer “  machen sie Anliegen geltend , die im Prozess der politischen Willensbildung systema- tisch ausgeblendet werden.
+Zwischensubjekteffekte ( Geschlecht, Versuchsleiter, Sequenz, Durchgang ) ergaben keine signifikanten Unterschiede, weder einzeln noch in Interaktionen ( p>,05 ) .
+[ … ] Als „ Heraus- forderer “  machen sie Anliegen geltend , die im Prozess der politischen Willensbildung systema- tisch ausgeblendet werden.
 ‚ Soziale Bewegung ‘ – dieser Begriff beschreibt ein Gebilde , das analytisch schwer zu fassen ist .
 “ pattern but delivers token of length 1 cause the single char .
 „ Der Begriff Industrie 4.0 steht für die vierte industrielle Revolution , eine neue Stufe der Organisation und Steuerung der gesamten Wertschöpfungskette über den Lebenszyklus von Produkten .

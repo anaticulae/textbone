@@ -6,11 +6,11 @@ Der Begriff.Protest‘ wird häufig gleichgesetzt mit dem der ‚sozialen Bewegu
 Schlägt man im „ Lexikon der Politikwissenschaft “ den Begriff.Protest / Protestbewegung‘ nach , wird man verwiesen auf den Artikel ‚soziale Bewegungen‘ .
 Dessen Autor Rucht beschreibt sie als „ auf gewisse Dauer gestellte Versuche von netzwerkförmig verbundenen Gruppen und Organisationen , sozialen Wandel durch Protest herbeizuführen , zu verhindern oder rückgängig zu machen .
 “ Laut Rucht besitzen soziale Bewegungen „ eine organisatorische Basis und können auch Parteien und Interessengruppen einschließen .
-“ Sie unterscheiden sich von Organisationen jedoch dadurch , dass sie keine „ verbindliche [ n ] Kriterien zur Regelung von Mitgliedschaft , interner Kompetenzaufteilung und Entscheidungsfindung “ aufweisen ( Rucht 2005 , 902 f.) .
+“ Sie unterscheiden sich von Organisationen jedoch dadurch , dass sie keine „ verbindliche [ n ] Kriterien zur Regelung von Mitgliedschaft , interner Kompetenzaufteilung und Entscheidungsfindung “ aufweisen ( Rucht 2005 , 902 f. ) .
 Er greift Neidhardts ( 1985 : 197 ) Definition sozialer Bewegungen als „ Netzwerke von Netzwerken “ auf , die seiner Einschätzung nach eine „ komplex gegliederte , dezentrale und allenfalls begrenzt hierarchische “ Struktur aufweisen ( Schmitt-Beck 1998 : 473 ) .
-Diese Netzwerke reichten von „ informellen Alltagsgruppen bis zu formalisierten Bewegungsorganisationen “ ( ebd .) .
+Diese Netzwerke reichten von „ informellen Alltagsgruppen bis zu formalisierten Bewegungsorganisationen “ ( ebd. ) .
 Besonders die ‚neuen sozialen Bewegungen‘ zeichnen sich durch eine solche Struktur aus .
-Diese Bezeichnung beschreibt – in Abgrenzung zur Arbeiterbewegung – jene Bewegungen , die sich seit den 60er Jahren herausgebildet haben , u.a. die Friedens- , Umwelt- , Frauen- und Anti-Atomkraft-Bewegung ( Rucht 2005 : 903 ff.)
+Diese Bezeichnung beschreibt – in Abgrenzung zur Arbeiterbewegung – jene Bewegungen , die sich seit den 60er Jahren herausgebildet haben , u.a. die Friedens- , Umwelt- , Frauen- und Anti-Atomkraft-Bewegung ( Rucht 2005 : 903 ff. )
 Wenn im Folgenden von ‚sozialen Bewegungen‘ die Rede ist , sind damit diese ‚neuen‘ sozialen Bewegungen gemeint .
 Soziale Bewegungen , darauf verweisen auch andere Autoren ( van de Donk u.a. 2004b : 3 ; Luhmann 1998 : 850 ) , sind keine Organisationen – können aber , wie Rucht und Schmitt-Beck feststellen , Organisationen einschließen .
 Diese Feststellung wird hier betont , da in der Forschungsliteratur häufig verschiedene Protestakteure und ihre Aktionen nebeneinandergestellt werden , ohne auf die deutlichen Unterschiede zwischen diesen Akteuren einzugehen ( Wall 2003 : 34 ) .
@@ -26,19 +26,19 @@ So werden auch Kampagnen als Beispiel für die Kommunikation von Protest zur Spr
 Nach dieser einleitenden Definition soll das Phänomen ‚ soziale Bewegung ‘ aus der Perspektive von Luhmanns Systemtheorie näher beleuchtet werden .
 Dies erfordert zunächst eine Einführung in diese Theorie .
 Luhmanns Ausgangspunkt ist die Differenz von System und Umwelt ( Luhmann 1984 : 242 ) .
-Sein Interesse gilt nicht dem System als Objekt , sondern er legt den Fokus auf die Stelle , an der es sich von seiner Umwelt unterscheidet ( Luhmann 1998 : 60 ff.) .
-Diese Unterscheidung ist die Form des Systems ( ebd . : 79 ) .
+Sein Interesse gilt nicht dem System als Objekt , sondern er legt den Fokus auf die Stelle , an der es sich von seiner Umwelt unterscheidet ( Luhmann 1998 : 60 ff. ) .
+Diese Unterscheidung ist die Form des Systems ( ebd. : 79 ) .
 Umwelt ist zur Herausbildung eines Systems notwendig :
 Es entsteht dann , wenn durch seine spezifische Operationsweise eine Grenze definiert wird , die es von seiner Umwelt unterscheidet .
 Nur innerhalb dieser Grenze kann das System operieren ( Baraldi u.a. 1999 : 195 ) .
 Die Differenz zwischen System und Umwelt verläuft systemrelativ , d.h. Umwelt ist immer die Umwelt aus der Perspektive eines bestimmten Systems ( Luhmann 1984 : 244 ) .
-Luhmann betont jedoch , dass Umwelt und System gleichwertig sind : „ [ B ] eides ist das , was es ist , nur im Bezug auf das jeweils andere “ ( ebd.) .
+Luhmann betont jedoch , dass Umwelt und System gleichwertig sind : „ [ B ] eides ist das , was es ist , nur im Bezug auf das jeweils andere “ ( ebd. ) .
 Die Differenz von System und Umwelt ist also jene durch systemeigene Operationen festgelegte Grenze , die das System von seiner Umwelt unterscheidet .
 Zugleich tritt diese Differenz ein zweites Mal auf , nämlich dann , wenn das System diese Differenz beobachtet .
 Mit der Beobachtung kopiert es die System-Umwelt-Differenz in sich hinein und verwendet sie als Maßstab für seine Operationen .
 In Anlehnung an George Spencer Brown bezeichnet Luhmann diesen Prozess als „ re-entry “ ( Luhmann 1998 : 45 ) .
 Die Unterscheidung , die das System bei dieser Beobachtung trifft , ist die zwischen Selbstreferenz und Fremdreferenz – es unterscheidet zwischen sich selbst und seiner Umwelt .
-Diese Unterscheidung findet intern statt , sie ist systemspezifisch ( Luhmann 2009 : 19 ff. ; Berghaus 43 ff.) .
+Diese Unterscheidung findet intern statt , sie ist systemspezifisch ( Luhmann 2009 : 19 ff. ; Berghaus 43 ff. ) .
 Weist ein System eine einzigartige Operationsweise auf , handelt es sich um ein autopoietisches System ( Baraldi u.a. 1999 : 29 ) .
 Der Begriff. Autopoiesis ‘ geht zurück auf den Biologen Humberto Maturana , der ihn entwickelte , um die Organisation von Organismen zu beschreiben .
 Er setzt sich zusammen aus ‚ auto ‘ ( selbst ) und ‚ poiein ‘ ( schaffen , organisieren , produzieren ; Berghaus 2011 : 51 ) und meint den Umstand , dass ein System jedes Element , aus dem es besteht , selbstständig ( re ) produziert .
@@ -69,7 +69,7 @@ Zentral für Luhmanns Theorie ebenso wie für die vorliegende Arbeit sind sozial
 Soziale Systeme sind autopoietisch geschlossen und selbstreferentiell ( Baraldi u.a. 1999 : 176 ) .
 Die spezifische Operationsweise sozialer Systeme ( im Gegensatz zu psychischen und biologischen Systemen ) ist Kommunikation ; überall da , wo kommuniziert wird , handelt es sich um ein soziales System ( Berghaus 2011 : 63 ) .
 Luhmann unterscheidet zwischen drei sozialen Systemen :
-Interaktionen , Organisationen und Gesellschaft , wobei Interaktionen und Organisationen Teilsysteme der Gesellschaft sind ( Luhmann 1984 : 16 ; Berghaus 2011 : 62f.) .
+Interaktionen , Organisationen und Gesellschaft , wobei Interaktionen und Organisationen Teilsysteme der Gesellschaft sind ( Luhmann 1984 : 16 ; Berghaus 2011 : 62 f. ) .
 Das „ komplexeste , dauerhafteste und umfassendste “ ( Berghaus 2011 : 62 ) soziale System ist das Gesellschaftssystem .
 Gesellschaft besteht dementsprechend aus Kommunikation , nicht aus Menschen ( Luhmann 1998 : 744 ) ; das menschliche Bewusstseinssystem ist Voraussetzung für soziale Systeme , aber nicht deren Bestandteil ( Berghaus 2011 : 67 ) .
 Die Ausführungen haben gezeigt , dass soziale Systeme autonom und ausschließlich aufgrund systemspezifischer Verfahren operieren .
@@ -91,11 +91,11 @@ Ein Funktionssystem ist spezialisiert auf ‚seine‘ Funktion , deren Erfüllun
 Die Zuständigkeit für bestimmte Probleme , von denen die ganze Gesellschaft betroffen ist , liegt also auf der Ebene der einzelnen Teilsysteme .
 Das politische System beispielsweise ist dafür zuständig , Entscheidungen zu treffen , die gesamtgesellschaftlich bindend sind ( Hellmann 1996 : 36 ff. ) .
 Jedes Funktionssystem kann auf dem erforderlichen Niveau nur seine spezifische Funktion erfüllen und verlässt sich darauf , dass die übrigen gesellschaftsrelevanten Funktionen von den anderen Funktionssystemen übernommen werden .
-Ein Funktionssystem kann nicht für ein anderes einspringen – fällt ein System aus , gibt es keinen Ersatz ( Luhmann 1998 : 753 ; 762f. ; Hellmann 1996 : 42 ) .
+Ein Funktionssystem kann nicht für ein anderes einspringen – fällt ein System aus , gibt es keinen Ersatz ( Luhmann 1998 : 753 ; 762 f. ; Hellmann 1996 : 42 ) .
 Funktionssysteme operieren aufgrund ihrer operativen Geschlossenheit autonom .
 Ihre Operationen richten sich an ihrer spezifischen Funktion aus .
 Durch diese Spezialisierung sind sie höchst komplex und leistungsfähig .
-Zugleich zeigen sie sich jedoch indifferent gegenüber allem , das aus ihrem Funktionsbereich herausfällt ( Hellmann 1996 : 39 ff.) .
+Zugleich zeigen sie sich jedoch indifferent gegenüber allem , das aus ihrem Funktionsbereich herausfällt ( Hellmann 1996 : 39 ff. ) .
 Dies betrifft auch die Folgen funktionaler Differenzierung :
 Die Operationsweise der Funktionssysteme führt dazu , dass „ die Funktionsfolgenabschätzung strukturell vernachlässigt wird , was wiederum schwerwiegende Funktionsprobleme zur Folge haben kann “ ( Hellmann 1996 : 41 ) .
 Die funktionale Differenzierung birgt verschiedene Risiken .
@@ -106,7 +106,7 @@ Die Mechanismen eines bestimmten Systems sind eine Möglichkeit der Reduktion vo
 „ Komplexität [ … ] heißt Selektionszwang , Selektionszwang heißt Kontingenz , und Kontingenz heißt Risiko “ ( Luhmann 1984 : 47 ) .
 Folgeprobleme sind also unvermeidbar ( Hellmann 1996 : 43 ) .
 Zudem produzieren die Funktionssysteme selbst Folgeprobleme .
-Hellmann ( 1996 : 44 ff.) unterscheidet zwischen vier verschiedenen Arten dieser von Funktionssystemen erzeugten Probleme : 1 .
+Hellmann ( 1996 : 44 ff. ) unterscheidet zwischen vier verschiedenen Arten dieser von Funktionssystemen erzeugten Probleme : 1 .
 Probleme , die den Funktionssystemen bekannt sind , ihnen aber nicht als beachtenswert erscheinen und darum ignoriert werden .
 Dazu gehören Umweltverschmutzung durch Industrieanlagen oder Armut .
 Probleme , die zwar als Folgeprobleme eines Funktionssystems ausgemacht wurden , deren Bearbeitung jedoch auf andere Systeme ausgelagert wird .
@@ -120,7 +120,7 @@ So kann eine Entscheidung des politischen Systems große Probleme nach sich zieh
 Die Gleichgültigkeit der Funktionssysteme gegenüber allem , das aus ihrem Operationsschema herausfällt , stellt ein großes Risiko für die moderne Gesellschaft dar und lässt den Schluss zu , dass „ die moderne , funktional differenzierte Gesellschaft ebenso leistungsfähig wie überfordert erscheint angesichts ihres primären Differenzierungsprinzips “ ( Hellmann 1996 : 53 ) .
 Diese Gesellschaftsform weist ein weiteres Problem auf :
 Durch die funktionale Differenzierung zergliedert sich die Gesellschaft in autonome Teilbereiche .
-Es gibt keine übergreifende Instanz mehr , die gesellschaftliche Einheit repräsentieren kann ( Hellmann 1996 : 51 f.) .
+Es gibt keine übergreifende Instanz mehr , die gesellschaftliche Einheit repräsentieren kann ( Hellmann 1996 : 51 f. ) .
 Die einzelnen Systeme beanspruchen zwar für sich , eine Beschreibung der Gesellschaft zu geben – dies können sie aber nur aus ihrer jeweiligen Perspektive leisten .
 Dementsprechend gibt es viele nebeneinander bestehende Deutungen der Gesellschaft , aber eben keine übergeordnete Instanz , die eine einheitliche Abbildung der gesamten Gesellschaft vorlegen kann .
 Hellmann ( 1996 : 53 ) folgert daraus , dass „ die moderne Gesellschaft sich selbst gefährdet und zugleich unfähig ist , darauf einheitlich zu reagieren , vielleicht sogar unfähig , überhaupt adäquat darauf zu reagieren [ … ] “
@@ -141,18 +141,18 @@ Das moderne Individuum , das einerseits von einem Versprechen auf zahlreiche Leb
 Diese Diskrepanz zwischen gefühlten Möglichkeiten und tatsächlichen Chancen auf individuelle gesellschaftliche Teilhabe ist eine Folge funktionaler Differenzierung .
 Ein weiterer Effekt dieser Unterscheidung zwischen Leistungs- und Publikumsrollen ist der folgende :
 Leistungsträger der Gesellschaft treffen Entscheidungen , die für andere zu einer Gefahr werden können .
-Träger von Publikumsrollen müssen ertragen , dass sie Gefahren ausgesetzt sind , die sie selbst nicht zu verantworten haben ( Hellmann 1996 : 57 f.) .
+Träger von Publikumsrollen müssen ertragen , dass sie Gefahren ausgesetzt sind , die sie selbst nicht zu verantworten haben ( Hellmann 1996 : 57 f. ) .
 Eine Möglichkeit , sich gegen diese Situation zu wehren , ist politischer Protest .
 An die oben beschriebenen Folgeprobleme funktionaler Differenzierung schließt sich die Funktionsbestimmung neuer sozialer Bewegungen an .
-Hellmann ( 1996 : 60 ff.) geht davon aus , dass sich die neuen sozialen Bewegungen funktional auf diese Folgeprobleme funktionaler Differenzierung beziehen .
+Hellmann ( 1996 : 60 ff. ) geht davon aus , dass sich die neuen sozialen Bewegungen funktional auf diese Folgeprobleme funktionaler Differenzierung beziehen .
 Entsprechend gibt es verschiedene Aspekte , an denen die Funktionsbestimmung neuer sozialer Bewegungen ansetzen kann :
 An der Indifferenz sozialer Systeme gegenüber selbsterzeugten Folgeproblemen , an der fehlenden einheitlichen Repräsentation der Gesellschaft sowie an den Folgen der Unterscheidung zwischen Funktion und Inklusion .
 Soziale Bewegungen weisen auf Probleme hin , die von den verantwortlichen Systemen nicht erkannt oder gezielt beiseite gedrängt werden :
-Soziale Bewegungen erzeugen Aufmerksamkeit für jene Risiken und Probleme , die Folgeprobleme von Funktionssystemen sind , gegenüber denen sich die Funktionssysteme jedoch indifferent zeigen ( Hellmann 1996 : 61 f.) .
+Soziale Bewegungen erzeugen Aufmerksamkeit für jene Risiken und Probleme , die Folgeprobleme von Funktionssystemen sind , gegenüber denen sich die Funktionssysteme jedoch indifferent zeigen ( Hellmann 1996 : 61 f. ) .
 Luhmann ( 1996 : 159 ) spricht in Bezug auf Protestbewegungen auch von einem „ Frühwarneffekt “ .
 Was Luhmann als „ Schuldzuweisungen “ bezeichnet , ist eine Reaktion auf funktionale Differenzierung :
 Wenn die Bearbeitung von gesamtgesellschaftlich relevanten Problemen in einzelne Teilsysteme ausgelagert wird , dann bedeutet dies , dass die Teilnehmer dieser Gesellschaft damit leben müssen , in hohem Maße abhängig zu sein von Entscheidungen , die sie nicht selbst getroffen haben – und damit auch Risiken ausgesetzt sind , die sie nicht zu verantworten haben :
-„ Dieser Unterschied [ … ] prägt das Problembewusstsein moderner Gesellschaft mehr als alles andere [ … ] “ ( Hellmann 1996 : 48 f.) .
+„ Dieser Unterschied [ … ] prägt das Problembewusstsein moderner Gesellschaft mehr als alles andere [ … ] “ ( Hellmann 1996 : 48 f. ) .
 Eine solche „ Schuldzuweisung “ richtet sich an jene , die verantwortlich sind für Entscheidungen , die als negativ empfunden werden , beispielsweise an ein Wirtschaftssystem , dessen Verfahrenslogik hohe Arbeitslosenzahlen nach sich zieht .
 Protest richtet sich für gewöhnlich zudem an das politische System , dem die Verantwortung zugeschrieben wird , diese Probleme zu lösen .
 Wie oben beschrieben , gibt es innerhalb der modernen Gesellschaft keine übergreifende Instanz , die die Gesellschaft als Ganzes beschreiben kann .
@@ -163,33 +163,33 @@ Sie erlauben es sich , die internen Perspektiven der Funktionssysteme außer Ach
 Hellmann unterscheidet im Rahmen der Funktionsbestimmung neuer sozialer Bewegungen zwischen einer instrumentellen und einer expressiven Funktion .
 In seiner instrumentellen Funktion macht Protest auf gesamtgesellschaftlich relevante Probleme aufmerksam , die von den Funktionssystemen unbeachtet bleiben .
 Die expressive Funktion neuer sozialer Bewegungen bezieht sich auf die Protestierenden selbst .
-Protest dient auch einem Selbstzweck ( Hellmann 1996 : 125 ff.) .
+Protest dient auch einem Selbstzweck ( Hellmann 1996 : 125 ff. ) .
 Zuvor wurden bereits die Effekte funktionaler Gesellschaft auf den Menschen beschrieben .
-Da der spätmoderne Mensch aufgrund funktionaler Differenzierung aus seinen ursprünglichen Bindungen herausgerissen wird , ist er stets auf der Suche nach „ neuen Formen der Vergemeinschaftung “ ( Hellmann 1996 : 65 ) und „ Identitätsbildung “ ( ebd . : 66 ) – beides findet er in sozialen Bewegungen durch das Protestieren gegen einen spezifischen Gegner .
+Da der spätmoderne Mensch aufgrund funktionaler Differenzierung aus seinen ursprünglichen Bindungen herausgerissen wird , ist er stets auf der Suche nach „ neuen Formen der Vergemeinschaftung “ ( Hellmann 1996 : 65 ) und „ Identitätsbildung “ ( ebd. : 66 ) – beides findet er in sozialen Bewegungen durch das Protestieren gegen einen spezifischen Gegner .
 Identitätsbildung geschieht heute nicht mehr auf Grundlage der „ Primärbindungen “ , sondern durch eine Orientierung an Lebensstilen ( Baringhorst 1998 : 336 f. ; Bennett 2004 : 126 ) .
-Hellmann ( 1996 : 145 ff.) nimmt an , dass Anhänger neuer sozialer Bewegungen in der Regel einem bestimmten Milieu angehören , das sich auszeichnet durch einen hohen Bildungsrad , der Abkehr von materiellen Werten und der Betonung eines Lebensstils , bei dem es vorrangig um Selbstverwirklichung geht – dem „ Selbstverwirklichungsmilieu “ ( ebd. : 147 ) .
+Hellmann ( 1996 : 145 ff. ) nimmt an , dass Anhänger neuer sozialer Bewegungen in der Regel einem bestimmten Milieu angehören , das sich auszeichnet durch einen hohen Bildungsrad , der Abkehr von materiellen Werten und der Betonung eines Lebensstils , bei dem es vorrangig um Selbstverwirklichung geht – dem „ Selbstverwirklichungsmilieu “ ( ebd. : 147 ) .
 Für dieses Milieu stellt die Unterscheidung zwischen Leistungs- und Publikumsrollen ein besonderes Problem dar , legt es doch großen Wert auf eine individuelle Lebensführung .
 Angehörige dieses Milieus wollen selbstbestimmt leben und sich aktiv in gesellschaftliche Prozesse einbringen – ein Anspruch , dem die passive Publikumsrolle nicht gerecht wird ( Hellmann 1996 : 159 ) .
-Protest ist eine Möglichkeit , die starre Aufteilung zwischen Leistungs- und Publikumsrollen aufzubrechen und mehr Beteiligungsmöglichkeiten einzufordern ( Hellmann 1996 : 65 ff.) .
-Dabei stellt bereits der Akt des Protestierens eine Loslösung von der passiven Publikumsrolle ( z.B. des Wählers ) dar ; die Pro testierenden werden aktiv , sie handeln , und kommen so ihrem Bedürfnis nach einer autonomen , individuellen Lebensgestaltung nach ( Hellmann 1996 : 211 f.) .
+Protest ist eine Möglichkeit , die starre Aufteilung zwischen Leistungs- und Publikumsrollen aufzubrechen und mehr Beteiligungsmöglichkeiten einzufordern ( Hellmann 1996 : 65 ff. ) .
+Dabei stellt bereits der Akt des Protestierens eine Loslösung von der passiven Publikumsrolle ( z.B. des Wählers ) dar ; die Pro testierenden werden aktiv , sie handeln , und kommen so ihrem Bedürfnis nach einer autonomen , individuellen Lebensgestaltung nach ( Hellmann 1996 : 211 f. ) .
 Einschränkend muss an dieser Stelle darauf hingewiesen werden , dass nicht alle sozialen Bewegungen sich aus Menschen zusammensetzen , die diesem eher ‚linken‘ Selbstverwirklichungsmilieu zuzuordnen sind .
 Gegenbeispiele sind die konservative Tea Party oder rechtsradikale Gruppierungen .
 Das Spektrum an Bewegungen lässt sich schwer auf das von Hellmann beschriebene Milieu reduzieren .
 Dennoch bieten Hellmanns Annahmen wertvolle Hinweise darauf , dass die Funktionen sozialer Bewegungen nicht auf die instrumentelle Ebene beschränkt werden sollten .
 So kann man annehmen , dass die genannten Aspekte – der Wunsch nach Vergemeinschaftung , die Suche nach Identität , das Bedürfnis zu Handeln – prinzipiell für jeden Protestierenden eine Motivation darstellen können , unabhängig von der politischen Verortung des Protests .
 Die obigen Ausführungen bieten verschiedene Ansätze für eine Funktionsbestimmung neuer sozialer Bewegungen aus der Perspektive der Systemtheorie .
-Hellmann ( 1996 : 75 ff.) schließt daran den Versuch an , den „ Systemstatus “ der neuen sozialen Bewegungen zu ermitteln , indem er verschiedene Vorschläge zur Bestimmung neuer sozialer Bewegungen als System diskutiert .
+Hellmann ( 1996 : 75 ff. ) schließt daran den Versuch an , den „ Systemstatus “ der neuen sozialen Bewegungen zu ermitteln , indem er verschiedene Vorschläge zur Bestimmung neuer sozialer Bewegungen als System diskutiert .
 Dies gelingt nach eigener Aussage nur zum Teil .
-So wurde versucht , Angst bzw. Mobilisierung als spezifische Operationsweise sozialer Bewegungen zu definieren ( Hellmann 1996 : 78 ff.) .
-Auch wenn die autopoietische Geschlossenheit hier deutlich wird ( Angst erzeugt Angst , nur durch Mobilisierung entsteht Mobilisierung ) , lässt sich anzweifeln , dass Angst und Mobilisierung Phänomene darstellen , die spezifisch für soziale Bewegungen sind und daher jeweils als ihre distinkte Operationsweise angesehen werden können ( Hellmann 1996 : 80 ff.) .
-Aufschlussreicher ist in diesem Zusammenhang die Bestimmung von Protest als autopoietisches System , wie Luhmann sie vorgenommen hat ( Luhmann 1998 : 860 ff. ; Hellmann / Luhmann 1996 : 176 ff.) .
+So wurde versucht , Angst bzw. Mobilisierung als spezifische Operationsweise sozialer Bewegungen zu definieren ( Hellmann 1996 : 78 ff. ) .
+Auch wenn die autopoietische Geschlossenheit hier deutlich wird ( Angst erzeugt Angst , nur durch Mobilisierung entsteht Mobilisierung ) , lässt sich anzweifeln , dass Angst und Mobilisierung Phänomene darstellen , die spezifisch für soziale Bewegungen sind und daher jeweils als ihre distinkte Operationsweise angesehen werden können ( Hellmann 1996 : 80 ff. ) .
+Aufschlussreicher ist in diesem Zusammenhang die Bestimmung von Protest als autopoietisches System , wie Luhmann sie vorgenommen hat ( Luhmann 1998 : 860 ff. ; Hellmann / Luhmann 1996 : 176 ff. ) .
 Soziale Bewegungen sind keine Funktionssysteme , da sie nicht funktional differenziert sind ( Hellmann 1996 : 86 ) .
 Sie lassen sich jedoch als autopoietische Systeme verstehen .
 Diese Annahme wird möglich , wenn man davon ausgeht , dass es sich bei sozialen Bewegungen in der Regel um Protestbewegungen handelt .
 Über den Protest begeben sich soziale Bewegungen in Distanz zur Gesellschaft , und zwar , indem sie aus ihrer Umwelt bestimmte Themen beziehen und mit diesen kommunikativ auf eine spezifische Weise verfahren .
-Dadurch entwickelt sich eine spezielle Form der Protestkommunikation , die sich von anderen Kommunikationen unterscheidet ( Hellmann / Luhmann 1996 : 174 ff.) .
+Dadurch entwickelt sich eine spezielle Form der Protestkommunikation , die sich von anderen Kommunikationen unterscheidet ( Hellmann / Luhmann 1996 : 174 ff. ) .
 Die Form ‚Protest‘ ist in ihrer Funktion den binären Codes der Funktionssysteme vergleichbar – auch hier gibt es zwei Seiten :
-„ die Protestierenden auf der einen Seite und das , wogegen protestiert wird ( einschließlich die , gegen die protestiert wird ) , auf der anderen “ ( Luhmann 1998 : 854 f.) .
+„ die Protestierenden auf der einen Seite und das , wogegen protestiert wird ( einschließlich die , gegen die protestiert wird ) , auf der anderen “ ( Luhmann 1998 : 854 f. ) .
 Im Gegensatz zu den Binärcodes der Funktionssysteme dient die Seite ‚kein Protest‘ jedoch nicht der Reflexion des Protests ( Hellmann / Luhmann 1996 : 177 ) .
 Damit tut sich das folgende , „ mit dieser Form nicht zu überwindende Problem “ ( Luhmann 1998 : 855 ) auf :
 Diese Feststellung ist zentral für den Zusammenhang dieser Arbeit und wird an späterer Stelle nochmals aufgegriffen werden .
@@ -214,32 +214,32 @@ Dort bilden soziale Bewegungen die Peripherie , die gegen den Staat – das Zent
 Ohne diese Differenz wäre politischer Protest überflüssig , „ denn es gäbe dann keine soziale ( sondern nur noch eine sachliche oder zeitliche ) Grenze zwischen Desiderat und Erfüllung “ ( ebd ) .
 Protestbewegungen machen nicht nur ‚die anderen‘ ( z.B. das Wirtschaftssystem ) für Probleme verantwortlich .
 Sie handeln auch unter der Prämisse , dass andere ( v.a. das politische System ) ihre Forderungen umsetzen ( Baringhorst 1998 : 328 ) .
-Soziale Bewegungen sind Teil des politischen Systems , aber sie sind keine Organisation – dazu ist die Teilnahme an ihnen zu unverbindlich und unberechenbar ( Luhmann 1998 : 850 f.) .
+Soziale Bewegungen sind Teil des politischen Systems , aber sie sind keine Organisation – dazu ist die Teilnahme an ihnen zu unverbindlich und unberechenbar ( Luhmann 1998 : 850 f. ) .
 Anders als andere Akteure des politischen Systems , beispielsweise politische Parteien oder Verbände , besitzen soziale Bewegungen nur sehr begrenzte Mittel , um ihre Überzeugungen durchzusetzen :
 Mitglieder von Parteien werden durch Wahlen legitimiert , bestimmte Ämter auszuüben und in dieser Funktion an politischen Entscheidungen teilzuhaben .
 Etablierte politische Organisationen wie z.B. Verbände pflegen häufig den direkten Kontakt zu Politikern und haben verschiedene Möglichkeiten , die Politik unter Druck zu setzen , beispielsweise durch die Androhung , die Kooperation zu verweigern .
 Soziale Bewegungen hingegen haben weder einen institutionalisierten Platz im politischen System , noch die finanziellen und personellen Ressourcen , im großen Stil Einfluss auszuüben .
 Ihnen bleibt meist nur die Option , eine bedeutende Anzahl an Menschen für ihr Anliegen zu gewinnen .
-Dazu brauchen sie die Öffentlichkeit , sie müssen ihre Themen zur öffentlichen Meinung machen ( Rucht 1994 : 347 f.) .
+Dazu brauchen sie die Öffentlichkeit , sie müssen ihre Themen zur öffentlichen Meinung machen ( Rucht 1994 : 347 f. ) .
 Luhmann ( 2009 : 126 ) definiert Öffentlichkeit „ als gesellschaftsinterne Umwelt der gesellschaftlichen Teilsysteme , also aller Interaktionen und Organisationen , aber auch der gesellschaftlichen Funktionssysteme und der sozialen Bewegungen .
 “ Systeme können ihre Grenzen nicht übertreten , sie können aber wahrnehmen , dass es ein ‚Außen‘ gibt , das sie beobachtet .
 Diese Beobachtungen können sie wiederum beobachten und gegebenenfalls – wenn Irritationen entstehen – ihre Handlungen darauf ausrichten .
 Vor diesem Hintergrund bezeichnet Luhmann Öffentlichkeit auch als „ Reflexionsmedium “ ( 2009 : 127 ) .
-Repräsentiert wird die Öffentlichkeit von den Massenmedien ( Luhmann 2009 : 125 ff. ; Berghaus 2011 : 260 ff.) – diese erstellen „ Realitätskonstruktionen “ ( Luhmann 2009 : 128 ) , die für alle Teilsysteme und alle Menschen gelten ( ebd. : 128 ) .
-Auf diese Weise dienen die Massenmedien der Gesellschaft als „ Gedächtnis “ ( ebd . : 83 ) ; ihre Funktion ist es , die Gesellschaft mit Wissen zu versorgen , das die Basis für sämtliche Kommunikationen darstellt .
+Repräsentiert wird die Öffentlichkeit von den Massenmedien ( Luhmann 2009 : 125 ff. ; Berghaus 2011 : 260 ff. ) – diese erstellen „ Realitätskonstruktionen “ ( Luhmann 2009 : 128 ) , die für alle Teilsysteme und alle Menschen gelten ( ebd. : 128 ) .
+Auf diese Weise dienen die Massenmedien der Gesellschaft als „ Gedächtnis “ ( ebd. : 83 ) ; ihre Funktion ist es , die Gesellschaft mit Wissen zu versorgen , das die Basis für sämtliche Kommunikationen darstellt .
 So ist es möglich , „ daß man bei jeder Kommunikation bestimmte Realitätsannahmen als bekannt voraussetzen kann , ohne sie eigens in die Kommunikation einführen und begründen zu müssen “ ( Luhmann 2009 : 83 , s.a. Berghaus 2011 : 246 ) .
 Die oben genannte Definition von Öffentlichkeit wendet Luhmann auch auf die einzelnen Funktionssysteme an .
 So ist öffentliche Meinung „ Öffentlichkeit aus Sicht des poli tischen Systems “ ( Berghaus 2011 : 262 ) .
 Öffentliche Meinung ist – wie Öffentlichkeit – ein Medium , das seine Form durch die Massenmedien erhält ( Berghaus 2011 : 263 ) .
 Massenmedien und öffentliche Meinung sind dementsprechend eng miteinander verbunden .
 Luhmann ( 2009 : 128 ) geht davon aus , dass erst durch die Erfindung der Druckpresse die Idee „ einer öffentlichen Meinung als Letztinstanz der Beurteilung politischer Angelegenheiten “ entstanden ist .
-Diese Beurteilungen allein sind keine politischen Entscheidungen ; damit diese getroffen werden können , wird die öffentliche Meinung in das politische System „ hineincopiert “ ( ebd .) – natürlich , um daraus politischen Nutzen zu ziehen ( ebd ) .
+Diese Beurteilungen allein sind keine politischen Entscheidungen ; damit diese getroffen werden können , wird die öffentliche Meinung in das politische System „ hineincopiert “ ( ebd. ) – natürlich , um daraus politischen Nutzen zu ziehen ( ebd ) .
 Es wurde bereits gesagt , dass Protestkommunikation sich vor allem an das politische System richtet .
 Damit Protestbewegungen Entscheidungen von Politikern erzwingen können , bemühen sie sich , die öffentliche Meinung zu ihren Gunsten zu beeinflussen .
 Die Massenmedien bilden die öffentliche Meinung ab , was wiederum von den politischen Teilsystemen beobachtet wird .
 Je nach Sachlage kommt es dort zu Irritationen .
-Wenn die Parteien systematisch Themen ignorieren , die in der öffentlichen Meinung vertreten sind , kann sich dies im Verhalten der Wähler niederschlagen ( Rucht 1994 : 48 ; Baringhorst 1998 : 328 ; Luhmann 1998 : 766 f.) – die Politik ist gezwungen zu reagieren .
-Um Systeme zu erreichen , muss also zunächst die Öffentlichkeit erreicht werden , die wiederum öffentliche Meinung für das politische System bereitstellt ( Gerhards / Neidhardt 1990 : 48 f.) .
+Wenn die Parteien systematisch Themen ignorieren , die in der öffentlichen Meinung vertreten sind , kann sich dies im Verhalten der Wähler niederschlagen ( Rucht 1994 : 48 ; Baringhorst 1998 : 328 ; Luhmann 1998 : 766 f. ) – die Politik ist gezwungen zu reagieren .
+Um Systeme zu erreichen , muss also zunächst die Öffentlichkeit erreicht werden , die wiederum öffentliche Meinung für das politische System bereitstellt ( Gerhards / Neidhardt 1990 : 48 f. ) .
 Was als öffentliche Meinung gilt , wird festgelegt durch die Massenmedien – und , „ mit mehr oder weniger starken Auswirkungen “ durch soziale Bewegungen ( Luhmann 2009 : 1128 ) .
 Protestkommunikation ist also durchaus in der Lage , öffentliche Meinung zu beeinflussen .
 Zugleich bescheinigt Luhmann ( 1998 : 855 ) sozialen Bewegungen ein „ heimliches Bündnis “ mit den Massenmedien ( Berghaus 2011 : 264 ) .
@@ -253,7 +253,7 @@ Sind diese Aussagen bezüglich des Verhältnisses von Öffentlichkeit und Massen
 Mit dem Aufkommen und der allgemeinen Verbreitung des Internets ändern sich auch die Zugangsvoraussetzungen der Bürger zum öffentlichen Diskurs .
 Informationen werden nun nicht mehr ausschließlich von den Massenmedien bereitgestellt ; auch im Internet können die Bürger sich informieren und selbst zu Produzenten und Diskussionsteilnehmern werden .
 Die Enquete-Kommission „ Internet und digitale Gesellschaft “ hält in ihrem Bericht aus dem Jahr 2013 fest :
-Diese „ Netzöffentlichkeit “ nehme gegenüber den etablierten Massenmedien sowie politischen Parteien und Organisationen eine „ dezidiert kritisch [ e ] “ Haltung ein ( ebd .) – diese Form der Öffentlichkeit betrachtet sich offenbar als ein Gegenpol zu den Massenmedien .
+Diese „ Netzöffentlichkeit “ nehme gegenüber den etablierten Massenmedien sowie politischen Parteien und Organisationen eine „ dezidiert kritisch [ e ] “ Haltung ein ( ebd. ) – diese Form der Öffentlichkeit betrachtet sich offenbar als ein Gegenpol zu den Massenmedien .
 Dennoch lässt sich nicht bestreiten , dass die Massenmedien nach wie vor eine zentrale Position in der Repräsentation von Öffentlichkeit einnehmen – dies liegt nicht zuletzt daran , dass die etablierten Medien mit ihren digitalen Angeboten im Internet äußerst präsent sind .
 Die Massenmedien seien auch hier die Agenda-Setter , weil professioneller Journalismus generell bevorzugt werde ( Enquete-Kommission 2013 : 93 ) .
 Dies gilt laut Rucht ( 2004 : 30 ) auch für die ‚ Offline-Welt ‘ :
@@ -284,18 +284,18 @@ Die Massenmedien brauchen Rezipienten , die Menschen möchten informiert werden 
 Dabei können die Medienanbieter nur ( mit Unterstützung von Quoten und Verkaufszahlen ) vermuten , was das Publikum imstande und Willens ist , durch die Medien aufzunehmen .
 Dieser Unsicherheit begegnen die Massenmedien , indem sie sich systematisch organisieren :
 Medieninhalte werden in Form von Programmen oder Genres standardisiert , zugleich werden die Angebote ausdifferenziert .
-Was in den Massenmedien zu finden ist , ist nicht individuell auf die Personen abgestimmt , das Angebot ist vereinheitlicht ( Berghaus 2011 : 193 ff.) .
+Was in den Massenmedien zu finden ist , ist nicht individuell auf die Personen abgestimmt , das Angebot ist vereinheitlicht ( Berghaus 2011 : 193 ff. ) .
 Auf diese Weise haben sich die Massenmedien zu einem operativ geschlossenen System entwickelt , das sich ausschließlich an der systemspezifischen Unterscheidung von Selbstreferenz und Fremdreferenz orientiert und nicht an der Interaktion mit der Umwelt ( Luhmann 2009 : 26 f. ) .
 Luhmanns Schrift über das Massenmediensystem trägt den Titel „ Die Realität der Massenmedien “ .
 Dies meint zum einen die reale Existenz der Massenmedien – die Realität erster Ordnung .
 Gleichzeitig spielt der Titel an auf die systemspezifische Realität , die von den Massenmedien konstruiert wird , die Realität zweiter Ordnung .
-Dabei ist die grundlegende Frage , wie Massenmedien diese Realität konstruieren ( hier und im Folgenden : Berghaus 2011 : 195 ff.) .
+Dabei ist die grundlegende Frage , wie Massenmedien diese Realität konstruieren ( hier und im Folgenden : Berghaus 2011 : 195 ff. ) .
 Dass sie dies tun , steht laut Luhmann außer Frage .
 Im Sinne des operativen Konstruktivismus geht er davon aus , dass eine Umwelt existiert , allerdings als Horizont , der unerreichbar bleibt .
 Realität kann daher nur innerhalb des Systems als vom System konstruierte Realität auftreten ( Luhmann 2009 : 15 ) .
 Wie alle Systeme erlangen die Massenmedien Erkenntnis , indem sie zwischen Selbstreferenz und Fremdreferenz unterscheiden .
 Diese Unterscheidung existiert in der Umwelt nicht , sondern nur innerhalb des Systems – da die Massenmedien jedoch auf dieser Grundlage operieren , konstruieren sie so ihre eigene Realität .
-Der häufig geäußerte Vorwurf , Massenmedien verzerrten die Realität , ist irreführend , denn er geht davon aus , dass es die eine für Menschen objektiv greifbare Realität gibt ( Luhmann 2009 : 14 ff.) .
+Der häufig geäußerte Vorwurf , Massenmedien verzerrten die Realität , ist irreführend , denn er geht davon aus , dass es die eine für Menschen objektiv greifbare Realität gibt ( Luhmann 2009 : 14 ff. ) .
 Vielmehr stellt sich die Frage , welche systemspezifischen Unterscheidungen den Realitätskonstruktionen der Massenmedien zugrunde liegen .
 Die fundamentale Unterscheidung der Massenmedien ist ihr Code , ihr Kriterium dafür , „ wie die Differenz von System und Umwelt produziert und laufend reproduziert wird “ ( Luhmann 2009 : 27 ) .
 Der Code des Massenmediensystems ist Information / Nichtinformation .
@@ -327,7 +327,7 @@ Der Code Information / Nichtinformation beinhaltet zudem den paradoxen Effekt , 
 Zweifel an der Medienberichterstattung sind also unvermeidbar ( Luhmann 2009 : 57 ; Berghaus 2011 : 210 ) .
 Zusätzlich zur Unterscheidung wahr / unwahr werden für die Selektion von Informationen für diesen Programmbereich spezifische Kriterien angelegt .
 Es wurde bereits gesagt , dass durch die Kontaktunterbrechung zu den Rezipienten „ Überschüsse “ in der Kommunikation entstehen , denen die Massenmedien begegnen , indem sie sich selbst Begrenzungen schaffen – und zwar in Form von Kriterien , anhand derer sie entscheiden , was eine Information ist und was nicht .
-Luhmann benennt mit den „ Selektoren “ zehn dieser Kriterien für die Auswahl von Informationen , die für Nachrichten und Berichte relevant sind ( im Folgenden : Luhmann 2009 : 42 ff. ; Berghaus 2011 : 211 ff.) :
+Luhmann benennt mit den „ Selektoren “ zehn dieser Kriterien für die Auswahl von Informationen , die für Nachrichten und Berichte relevant sind ( im Folgenden : Luhmann 2009 : 42 ff. ; Berghaus 2011 : 211 ff. ) :
 Neuigkeiten Dieser Selektor nimmt im Wesentlichen die folgenden vorweg :
 Innerhalb eines dem Publikum bekannten Kontextes sind solche Informationen für die Medien Neuigkeiten , die „ mit bestehenden Erwartungen brechen oder einen offen gehaltenen Raum begrenzter Möglichkeiten [ … ] determinieren “ ( Luhmann 2009 : 42 ) .
 Neuigkeiten können als Typen auftreten ( z.B. Umweltkatastrophen ) , als zeitlich begrenzte Ereignisse ( z.B. Affäre um Politiker ) oder in Serie , wie beispielsweise beim Sport .
@@ -380,7 +380,7 @@ Laut Luhmann ( 1998 : 862 ) ist diese Kopplung so eng , dass sie langfristig zu 
 Dennoch ist diese strukturelle Kopplung keine völlig gleichberechtigte ; die Massenmedien würden auch ohne die Existenz von Protestbewegungen ausreichend Material aus ihrer Umwelt filtern können , das sich zu Medieninhalten verarbeiten lässt .
 Soziale Bewegungen hingegen sind auf die Massenmedien angewiesen , wenn sie die Öffentlichkeit erreichen wollen ( Schmitt-Beck 1998 : 477 ) ; sie leben mit der Gefahr , für die Massenmedien uninteressant zu werden .
 Um sich die Unterstützung der Massenmedien zu sichern , muss Protestkommunikation der Logik des Massenmediensystems entgegenkommen .
-Schmitt-Beck ( ebd . : 478 ) geht davon aus , dass soziale Bewegungen zu diesem Zweck „ Nachrichtenfaktoren gezielt herstellen .
+Schmitt-Beck ( ebd. : 478 ) geht davon aus , dass soziale Bewegungen zu diesem Zweck „ Nachrichtenfaktoren gezielt herstellen .
 “ Mit Blick auf die Massenmedien hat bereits vor einiger Zeit eine Professionalisierung von Protestkommunikation stattgefunden ( Steiner / Jarren 2009 : 254 ) .
 Schon die Studentenbewegung der 1960er Jahre plante ihren Protest in der Absicht , von den Massenmedien wahrgenommen zu werden ( Baringhorst 1998 : 328 ) .
 Dies ist bis heute üblich und schlägt sich in den Kommunikationsstrategien der Protestbewegungen nieder .
@@ -390,14 +390,14 @@ Wie kann man die Menschen auf der Seite des ‚NichtProtests‘ dazu bewegen , s
 Luhmanns Antwort :
 Wie diese auf die Massenmedien ausgerichtete „ alarmierende Kommunikation “ aussieht , soll im Folgenden untersucht werden .
 In der Forschungsliteratur zum Thema Protestkommunikation besteht Uneinigkeit darüber , was der Kommunikationsbegriff.bdeckt .
-Unter Stichwörtern wie „ media and communication practices “ ( Cammearts u.a. 2013 : 3 ) , „ communication tactics and frames “ ( Wall 2003 : 33 ) , „ action repertoires” ( van Laer / van Elst 2010 ) , „ tactical repertoires “ ( Taylor / van Dyke 2007 ) und weiteren Bezeichnungen werden Verfahren untersucht , die allesamt als Kommunikation von Bewegungen gelten können .
+Unter Stichwörtern wie „ media and communication practices “ ( Cammearts u.a. 2013 : 3 ) , „ communication tactics and frames “ ( Wall 2003 : 33 ) , „ action repertoires ” ( van Laer / van Elst 2010 ) , „ tactical repertoires “ ( Taylor / van Dyke 2007 ) und weiteren Bezeichnungen werden Verfahren untersucht , die allesamt als Kommunikation von Bewegungen gelten können .
 Insgesamt werden hierbei jedoch unterschiedliche Ebenen angesprochen , die zusammengenommen die Gesamtheit der Kommunikation einer Protestbewegung ausmachen .
 Zunächst ist zu unterscheiden zwischen interner und externer Kommunikation ( Schönberger 2004 : 10 ) :
 Interne Kommunikation meint alle Prozesse , die zwischen Mitgliedern einer Bewegung stattfinden ( Koordination von Aktionen , Mobilisierung der Mitglieder , Bereitstellung von Informationen , etc .) .
 Relevant für die Untersuchung des Verhältnisses zwischen Protestbewegungen und Massenmedien ist die externe Kommunikation , also jene Kommunikationen , die sich an die Öffentlichkeit richten und damit an potenzielle Unterstützer , Gegner und Entscheidungsträger .
 Externe Kommunikationsstrategien lassen sich wiederum grob in folgende Ebenen aufteilen :
 Zum einen hat Protestkommunikation eine inhaltliche Ebene .
-Dazu gehören das Thema des Protests , die Frames , mit denen die Bewegung arbeitet und weitere Diskursstrategien ( Kavada 2013 : 81 ; Baringhorst 1998 : 330 ff.) .
+Dazu gehören das Thema des Protests , die Frames , mit denen die Bewegung arbeitet und weitere Diskursstrategien ( Kavada 2013 : 81 ; Baringhorst 1998 : 330 ff. ) .
 Diese Inhalte vermitteln Protestakteure mit bestimmten Aktionen :
 Demonstrationen , Sit-Ins , Petitionen , Märsche , Pressekonferenzen , Blockaden , Streiks , Straßenperformances , Lichterketten , Culture Jamming usw. sowie in Form von Slogans , Symbolen und Logos ( Baringhorst 1998 ) .
 Der Umgang von Protestakteuren mit den Massenmedien , also die Strategie , mit den Massenmedien zusammenzuarbeiten oder nicht , soll hier als Medienstrategie bezeichnet werden .
@@ -417,13 +417,13 @@ Goffman ( 1977 : 19 ) beschreibt den Begriff des ‚Frame‘ ( in der deutschen 
 Der Framingbegriff.st zentral für das Verständnis von Protestkommunikation , denn er bietet Aufschluss darüber , wie diese Kommunikation gestaltet wird .
 Er wurde insbesondere von Snow und Benford im Zusammenhang mit sozialen Bewegungen erforscht .
 Protestbewegungen liegen „ collective action frames “ zugrunde , die Snow und Benford ( 2000 : 615 ) wie folgt definieren :
-Dementsprechend unterscheiden Snow und Benford ( 2000 : 615 ff.) hinsichtlich ihrer Funktion zwischen drei Arten von Framing :
+Dementsprechend unterscheiden Snow und Benford ( 2000 : 615 ff. ) hinsichtlich ihrer Funktion zwischen drei Arten von Framing :
 Im Rahmen des „ diagnostic framing “ wird ein Sachverhalt als entscheidendes Problem identifiziert .
 Schuldige und Verantwortliche werden ausgemacht .
 Das „ prognostic framing “ schlägt eine Lösung für dieses Problem vor beziehungsweise formuliert den Plan für weiteres Vorgehen .
 Es gibt an , was getan werden muss .
 Mit dem „ motivational framing “ sollen potenzielle Protestanhänger mobilisiert werden , indem die Gründe für die Teilnahme an Protesten genannt werden .
-Das Mobilisierungspotenzial von Frames hängt von verschiedenen Faktoren ab , die im Folgenden kurz dargestellt werden ( Snow / Benford 1992 : 140 ; Snow / Benford 2000 : 619 ff. ; Gerhards / Neidhardt 1990 : 39 ff. ; Baringhorst 1998 : 330 ff.) :
+Das Mobilisierungspotenzial von Frames hängt von verschiedenen Faktoren ab , die im Folgenden kurz dargestellt werden ( Snow / Benford 1992 : 140 ; Snow / Benford 2000 : 619 ff. ; Gerhards / Neidhardt 1990 : 39 ff. ; Baringhorst 1998 : 330 ff. ) :
 Zum einen sollten die Annahmen , auf die ein Frame sich bezieht , einen realen Bezug aufweisen – sie sollten nachweisbar sein .
 Wichtig ist auch die Glaubwürdigkeit jener , die einen Frame verwenden ; dazu gehört die Annahme , dass Protestbewegungen vor allem dann Unterstützung erfahren , wenn der von ihnen formulierte Frame zu ihrem Verhalten und ihren Aktionen passt .
 Frames haben weiterhin ein hohes Mobilisierungspotenzial , wenn sie einen Bezug zur Lebenswelt sowie zu den Überzeugungen und Werten der potenziellen Protestanhänger aufweisen – diese Aspekte sollen im weiteren Verlauf dieser Arbeit vertieft werden .
@@ -434,7 +434,7 @@ Rucht ( 2001 : 9 ) fasst die Framing-Strategie von sozialen Bewegungen wie folgt
 Dies gelingt , wie Luhmann feststellt , über die Massenmedien .
 Zugleich geben Frames den Massenmedien bei der Interpretation eines Sachverhalts Orientierung ( Wall 2003 : 35 ) .
 Soziale Bewegungen können nicht beeinflussen , ob bzw. in welcher Form die Massenmedien ihre Frames aufgreifen ; mit öffentlichen Aktionen gehen sie immer auch das Risiko ein , dass die Massenmedien negativ über sie berichten .
-Indem soziale Bewegungen ihre Aktionen und ihre Frames auf die Logik des Massenmediensystems abstimmen , verbessern sich jedoch ihre Chancen darauf , dass die von ihnen gewünschten Botschaften ihren Platz in der Berichterstattung finden ( SchmittBeck 1998 : 477 ff.) .
+Indem soziale Bewegungen ihre Aktionen und ihre Frames auf die Logik des Massenmediensystems abstimmen , verbessern sich jedoch ihre Chancen darauf , dass die von ihnen gewünschten Botschaften ihren Platz in der Berichterstattung finden ( SchmittBeck 1998 : 477 ff. ) .
 Laut Baringhorst ( 1998 : 333 ) ist es für jene Protestakteure , die sich in dem Konkurrenzkampf um öffentliche Aufmerksamkeit durchsetzen wollen , wichtig , ihre Botschaften eng an die eigene Organisation oder Gruppe zu knüpfen ; es soll deutlich werden , wem ein öffentliches Problem sowie dessen Lösungsvorschlag ‚ gehört ‘ .
 Dies gelingt durch eine klare Framingstrategie , die beispielsweise die bisherigen Erfolge der Gruppe und deren Glaubwürdigkeit hervorhebt .
 Die bereits angesprochenen , für Protestkommunikation üblichen Frames offenbaren eine deutliche Nähe zu den von Luhmann angeführten Selektoren :
@@ -448,7 +448,7 @@ Dies geschieht beispielsweise durch sogenannte Pseudoereignisse .
 Konflikte Laut Steiner und Jarren ( 2009 : 254 ) haben soziale Bewegungen aufgrund ihrer Form , dem Protest , bereits „ von Natur aus “ eine Nähe zu den Selektionskriterien der Medien .
 Das Ziel von Protestkommunikation ist „ die Thematisierung von Widerspruch , Konflikt und Ablehnung “ ( Baringhorst 1998 : 327 ) .
 Bewegungen bedienen sich unterschiedlicher Strategien , um Ablehnung und Konflikte zu kommunizieren .
-Eine davon ist eine konfliktgeladene Sprache – Slogans wie „ We kick the ass of the ruling class” ( Occupy Wall Street ) signalisieren – wenn auch im übertragenen Sinn – Kampfbereitschaft gegenüber einem bestimmten Gegner .
+Eine davon ist eine konfliktgeladene Sprache – Slogans wie „ We kick the ass of the ruling class ” ( Occupy Wall Street ) signalisieren – wenn auch im übertragenen Sinn – Kampfbereitschaft gegenüber einem bestimmten Gegner .
 Wie Baringhorst ( 1998 : 333 ) feststellt , ist Protestkommunikation zudem häufig sehr emotional :
 „ Dominierende Strategien der Protestkommunikation sind weniger rational argumentierende als emotional aufgeladene Angst- , Wut- und Schuldkommunikationen . “
 Auch hier zeigt sich das Konfliktpotenzial von Protestkommunikation .
@@ -466,7 +466,7 @@ Shell erleidet durch diese Aktion einen beträchtlichen Imageschaden , während 
 Das Beispiel zeigt , welch immense Auswirkungen Proteste haben können , wenn sie erfolgreich die Selektionsfilter der Massenmedien passieren .
 Es zeigt aber auch , dass die Medien eine Art von Spektakel bevorzugen , die ressourcenschwache Protestakteure kaum in der Lage sind zu inszenieren .
 Quantitäten Weniger spektakulär sind Daten und Zahlen , dennoch haben sie einen hohen Informationswert .
-Laut Wall ( 2003 : 39 ff.) , die die Protestkommunikation während der Ministerkonferenz der World Trade Organisation 1999 in Seattle untersuchte , sind es vor allem etablierte Protestakteure wie NGOs , die u.a. in Form von Pressekonferenzen die Medien gezielt mit professionell aufbereiteten Informationen und empirischen Daten versorgen .
+Laut Wall ( 2003 : 39 ff. ) , die die Protestkommunikation während der Ministerkonferenz der World Trade Organisation 1999 in Seattle untersuchte , sind es vor allem etablierte Protestakteure wie NGOs , die u.a. in Form von Pressekonferenzen die Medien gezielt mit professionell aufbereiteten Informationen und empirischen Daten versorgen .
 Diese dienen u.a. der empirischen Absicherung des von diesen Gruppen formulierten Frames .
 Auch wenn diese Form der Protestkommunikation sich deutlich von den oben beschriebenen Strategien unterscheidet :
 Sie wird bewusst den Mechanismen des Massenmediensystems angepasst .
@@ -476,7 +476,7 @@ Lokaler Bezug Menschen interessieren sich für Ereignisse in ihrer unmittelbaren
 Hier setzt auch Protestkommunikation an .
 Ihre Aufgabe ist es , dem Publikum bezüglich des problematisierten Sachverhalts Orientierung zu bieten .
 Dies geschieht in der Regel mit Hilfe zweier Framing-Strategien :
-„ Konkretisierung “ und „ Abstraktion “ ( Gerhards / Neidhardt 1990 : 40 f. ; s.a. Snow / Benford 1992 : 141 f. und 2000 : 621 ff.) .
+„ Konkretisierung “ und „ Abstraktion “ ( Gerhards / Neidhardt 1990 : 40 f. ; s.a. Snow / Benford 1992 : 141 f. und 2000 : 621 ff. ) .
 Letzteres meint die Einbettung eines Themas in einen größeren Wertezusammenhang – diese Strategie wird an späterer Stelle näher erläutert .
 Die zweite Strategie ist „ die Herstellung eines lebensweltlichen Bezugs zwischen dem Problem und den alltäglichen Erfahrungen der Bürger “ ( Gerhards / Neidhardt 1990 : 40 ) .
 Seine Dringlichkeit erhält das von den Bewegungen ausgemachte Problem , indem seine negativen Konsequenzen für den Einzelnen hervorgehoben werden .
@@ -532,7 +532,7 @@ Dabei wird suggeriert , dass ein Politiker allein verantwortlich ist für eine b
 So stehen einzelne Politiker häufig im Zentrum bestimmter Proteste .
 Ein Beispiel hier für ist George W. Bush :
 Proteste gegen den Irakkrieg wurden von Seiten der Protestierenden als Proteste gegen den ehemaligen US-Präsidenten verstanden – davon zeugen Plakate mit Aussagen wie „ Lasst Bush fallen statt Bomben “ ( zit. n. Spiegel Online 2004 ) .
-Dass die Massenmedien diese Zuspitzung übernommen haben , zeigt die Überschrift des hier zitierten Artikels , in der von „ Bushs Irak-Krieg “ ( ebd .) die Rede ist .
+Dass die Massenmedien diese Zuspitzung übernommen haben , zeigt die Überschrift des hier zitierten Artikels , in der von „ Bushs Irak-Krieg “ ( ebd. ) die Rede ist .
 Der Fokus der Massenmedien auf Einzelpersonen kann für eine Bewegung auch insofern von Bedeutung sein , als es den Vertretern der Massenmedien entgegenkommt , einen bestimmten Ansprechpartner bzw. einen Repräsentanten der Bewegung kontaktieren zu können .
 Für Protestbewegungen kann es daher von Vorteil sein , Sprecher zu ernennen , an die sich die Journalisten wenden können ( Rucht 2013 : 262 ) .
 Dies erfordert allerdings einen gewissen Grad an Professionalisierung und hierarchischem Aufbau .
@@ -573,7 +573,7 @@ Beispiele wie die erfolgreiche Brent-Spar-Kampagne von Greenpeace zeigen , dass 
 Mit ihrem Protest machen Bewegungen auf jene Probleme aufmerksam , die von dem politischen System nicht erkannt oder gar ignoriert werden .
 Manchmal gelingt es den Protestbewegungen sogar , Politik und Wirtschaft so sehr in Bedrängnis zu bringen , dass diesen nichts anderes übrig bleibt , als den Forderungen der Protestierenden nachzukommen .
 Soziale Bewegungen kommt auf diese Weise die wichtige Rolle zu , ‚blinde Flecken‘ der Politik sichtbar zu machen .
-Allerdings wird immer wieder hinterfragt , inwiefern ein nicht demokratisch gewählter Akteur berechtigt ist , Entscheidungen des politischen Systems zu erzwingen ( Baringhorst 1998 : 338 ff.) .
+Allerdings wird immer wieder hinterfragt , inwiefern ein nicht demokratisch gewählter Akteur berechtigt ist , Entscheidungen des politischen Systems zu erzwingen ( Baringhorst 1998 : 338 ff. ) .
 Zudem – und dies ist relevant für den vorliegenden Zusammenhang – stellt sich die Frage , inwiefern die Mittel der Protestkommunikation tatsächlich ihrem Anliegen gerecht werden können .
 Protestbewegungen nehmen eine Sonderstellung innerhalb des gesellschaftlichen Systems ein :
 Sie ziehen innerhalb der Gesellschaft eine Grenze zu ihr und sind so in der Lage , sie quasi von außen zu beobachten .
@@ -688,7 +688,7 @@ Den Grund für diesen Wandel sieht Bennett in der Art und Weise , wie in der geg
 Zuvor wurde bereits gesagt , dass das Individuum der funktional differenzierten Gesellschaft aus seinen „ Primärbindungen “ herausfällt und von „ Identitätssorge “ bedroht ist .
 Die Identität eines Menschen wird , wie Bennett sagt , zu einem Projekt , das sich in der Adaption bestimmter Lebensstile ausdrückt :
 Das Individuum bastelt sich seine Identität als Erzählung zurecht .
-Diese „ personal identity narratives” bilden schließlich auch die Grundlage für die politischen Bindungen der Individuen .
+Diese „ personal identity narratives ” bilden schließlich auch die Grundlage für die politischen Bindungen der Individuen .
 Verbindliche Mitgliedschaften in Parteien oder anderen Organisationen werden zunehmend unattraktiv für die jüngere Generation – politisches Engagement wird individualisiert und drückt sich aus als „ an expression of personal hopes , lifestyles and grievances “ ( Bennett / Segerberg 2012 : 743 ) .
 Weniger als in etablierten Organisationen findet dieses individualisierte Politikverständnis seinen Ausdruck im Rahmen von „ electronically managed affinity networks “ ( 2004 : 127 ) , die laut Bennett ein grundlegendes Element politischer Organisation sind ( 2004 : ebd. ) .
 Diese relativ unverbindliche Form der Vernetzung ermögliche es den Menschen , an mehr und unterschiedlicheren politischen Gemeinschaften teilzunehmen als in der nichtvirtuellen Welt ( Bennett 2004 : 127 ) .
@@ -712,7 +712,7 @@ Zudem sind diese Informationen weltweit abrufbar und können stets aktualisiert 
 Der Umstand , dass Inhalte im Internet relativ einfach zu erstellen und abzurufen sind , hat eine Reihe von Konsequenzen für die Internetnutzung von Protestbewegungen .
 Diese sollen im Folgenden vorgestellt werden .
 Zunächst sollen dabei einige OnlineProtestformen zur Sprache kommen .
-Van Laer und van Aelst ( 2010 : 232 ff.) ordnen das „ new digitalised action repertoire “ ( 2010 : 232 ) sozialer Bewegungen in einer Typologie entlang der Kriterien : „ Internetsupported “ und „ Internet-based “ an .
+Van Laer und van Aelst ( 2010 : 232 ff. ) ordnen das „ new digitalised action repertoire “ ( 2010 : 232 ) sozialer Bewegungen in einer Typologie entlang der Kriterien : „ Internetsupported “ und „ Internet-based “ an .
 Diese Bereiche unterscheiden sie nochmals hinsichtlich des Grades an Engagement ( „ high “ und „ low threshold “ ) .
 „ Internet-supported “ beschreibt traditionelle Formen von Protest , deren Organisation durch das Internet erleichtert wird .
 „ Internet-based “ hingegen meint Aktionen , die erst durch das Internet möglich werden ( ebd. 233 ) .
@@ -722,7 +722,7 @@ Auf digitalen Technologien basierende Aktionen sind ( ebenfalls mit aufsteigende
 Online-Petitionen , E-Mail-Bomben , Virtuelle Sit-Ins , Protestwebseiten und alternative Medien ( wie Indymedia ) , Culture Jamming und Hacktivism .
 ‚ E-Mail-Bombing ‘ beschreibt einen Vorgang , bei dem auf einen Schlag zahlreiche EMails an einen Empfänger geschickt werden , um dessen Server lahmzulegen .
 Ähnlich funktionieren virtuelle Sit-Ins :
-Hier greifen zahlreiche Menschen zugleich auf Informationen von einer bestimmten Webseite zu mit dem Ziel , sie abstürzen zu lassen ( ebd. 241 f.) .
+Hier greifen zahlreiche Menschen zugleich auf Informationen von einer bestimmten Webseite zu mit dem Ziel , sie abstürzen zu lassen ( ebd. 241 f. ) .
 Culture Jamming zielt in der Regel auf Werbung ab :
 Logos und Slogans von Unternehmen werden so verfremdet , dass die eigentliche Botschaft verändert wird – meist mit dem Ziel , das jeweilige Produkt zu kritisieren ( ebd. 243 ) .
 Der Begriff.Hacktivism‘ beschreibt Aktionen , bei denen Online-Protest darauf basiert , dass sich die Aktivisten in fremde Computersysteme einhacken .
@@ -740,7 +740,7 @@ Im Falle des Culture Jamming räumen sie dies selbst ein , fügen aber an , dass
 Selbiges gilt für Petitionen und alternative Medien .
 Die Bezeichnung „ virtuelle Sit-Ins “ verrät bereits , dass dies nur eine virtuelle Variante einer politischen Protestaktion der nicht-virtuellen Welt ist .
 Auch Protestwebseiten sind , wenn sie die Potenziale des Internets nicht ausschöpfen , kaum mehr als ein digital verfügbares Flugblatt .
-Schönberger ( 2004 : 77 ff.) warnt vor einer bloßen Übertragung von Offline-Aktionen in den digitalen Bereich , da auf diese Weise das „ soziale Potenzial netzbasierter Kommunikation “ ( ebd. 10 ) nicht ausreichend genutzt werde .
+Schönberger ( 2004 : 77 ff. ) warnt vor einer bloßen Übertragung von Offline-Aktionen in den digitalen Bereich , da auf diese Weise das „ soziale Potenzial netzbasierter Kommunikation “ ( ebd. 10 ) nicht ausreichend genutzt werde .
 Die Geschichte der Medientechnik habe gezeigt , dass Übertragungen von Praktiken von einem ‚alten‘ zu einem ‚neuen‘ Medium für Letzteres langfristig wenig relevant war .
 Für eine sinnvolle Nutzung der digitalen Technologien sei daher entscheidend , „ dem soziotechnischen Potenzial der IKT7 adäquate Nutzungsweisen zu entwickeln und zu fördern “ ( Schönberger 2004 : 10 ) .
 Oben wurde gesagt , dass die Potenziale des Internets zu mehr Partizipation der Bürger in den Möglichkeiten zur Information und interaktiven Kommunikation liegen .
@@ -750,7 +750,7 @@ Es ermöglicht einen ‚ free flow of information ‘ ; Informationen können si
 Im Kampf um die Deutungshoheit einer Situation sind Informationen ein wesentliches taktisches Mittel , um die Öffentlichkeit von der eigenen Perspektive zu überzeugen .
 Im Internet können Protestbewegungen auch jene Informationen verbreiten , die von den Massenmedien nicht aufgegriffen ( van de Donk u.a. 2004b : 19 ) oder die bewusst unter Verschluss gehalten werden ( Schönberger 2004 : 16 f. ) .
 Vor allem NGOs setzen gezielt auf diese Strategie der Informierung , ebenso wie das Netzwerk Attac , das sich selbst als „ Bildungsbewegung “ ( Attac : Bildungsangebot ) bezeichnet .
-Ein wesentlicher Teil der Kommunikationsstrategie von Attac basiert darauf , den Menschen Informationen zu bieten , zu denen sie sonst keinen Zugang hätten ( Schönberger 2004 : 20 ff.) .
+Ein wesentlicher Teil der Kommunikationsstrategie von Attac basiert darauf , den Menschen Informationen zu bieten , zu denen sie sonst keinen Zugang hätten ( Schönberger 2004 : 20 ff. ) .
 Internetauftritte von Protestgruppen werden auf diese Weise zu alternativen Medien , die Informationen und Perspektiven bieten , die in den Massenmedien unberücksichtigt bleiben .
 Die obigen Ausführungen haben das Verhältnis zwischen sozialen Bewegungen und neuen Medien sowie die Möglichkeiten dieser Medien für die Kommunikation sozialer Bewegungen beleuchtet .
 Damit ist aber noch nicht beschrieben , worin sich das Internet signifikant von den Massenmedien unterscheidet .
@@ -853,7 +853,7 @@ Laut Bennett und Segerberg ( 2012 : 762 ) lassen sich wesentliche Elemente aktue
 Zur Klärung dieses Begriffs ist eine Gegenüberstellung mit dem der collective action hilfreich , der bereits in Bezug auf die Framingstrategien von sozialen Bewegungen erläutert wurde .
 Die Teilhabe an collective action erfordert für gewöhnlich den Anschluss an eine etablierte Protestgruppe und deren Ideologie ( ebd. 746 ) .
 Der Schwerpunkt der Protestkommunikation ( ebd. 756 ) liegt auf den collective action frames – mit Snow und Benford wurde bereits gesagt , dass es sich dabei um einen Prozess handelt , bei dem Anhänger sozialer Bewegungen sich auf einen gemeinsamen Frame festlegen , innerhalb dessen sich die Protestkommunikation zu einem bestimmten Thema bewegt .
-Diese Frames benennen das Problem sowie Verantwortliche , einen Plan und Gründe , aus denen sich die Menschen den Protesten anschließen sollten ( Snow / Benford 2000 : 615 ff.) .
+Diese Frames benennen das Problem sowie Verantwortliche , einen Plan und Gründe , aus denen sich die Menschen den Protesten anschließen sollten ( Snow / Benford 2000 : 615 ff. ) .
 Als Beispiel für collective action framing nennen Bennett und Segerberg eine Protestkoalition eher radikaler Gruppen , die sich für Proteste anlässlich des Treffens der G20 in London 2009 unter dem Namen ‚ G20 Meltdown ‘ gebildet hat .
 G20 Meltdown macht die Gruppe der Banker und die G20 als Stellvertreter des Kapitalismus verantwortlich für eine globale wirtschaftliche , politische und ökologische Krise und fordert eine Abkehr vom Kapitalismus .
 Der von dieser Koalition organisierte Protestmarsch unter dem Namen ‚Storm the Banks‘ wurde angeführt von Reitern , den ‚Horsemen of the Apocalypse‘ , mit deren Hilfe die Stadt ‚zurückerobert‘ werden sollte ( Bennett / Segerberg 2011 : 779 ) .
@@ -882,7 +882,7 @@ Bereits der Name ‚Put People First‘ formuliert den Frame der Kampagne :
 An erster Stelle stehen die Menschen und ihre Anliegen .
 Auch diese Koalition kritisiert ein „ financial model that has created an economy fuelled by ever-increasing debt , both financial and environmental “ ( Put People First ) ; auf der Webseite findet sich ein Katalog an recht detaillierten Forderungen u.a. nach der Schaffung von Arbeitsplätzen im Umweltsektor und einer Demokratisierung der Strukturen der Weltbank ( Put People First : About Us ) .
 Die Protestanliegen sich also durchaus klar formuliert , jedoch weniger dogmatisch als die von G20 Meltdown ; sie erfordern von den Mitstreitern der Proteste nicht , sich der Überzeugung anzuschließen , dass das Wirtschaftssystem als Ganzes abgelehnt werden sollte .
-Viel deutlicher als die Problemdiagnose und die Forderungen steht jedoch die Botschaft ‚Put People First‘ im Vordergrund – Bennett und Segerberg ( 2011 : 9 f.) konnten nachweisen , dass dies die häufigste Wortgruppe auf der Webseite der Protestkoalition ist .
+Viel deutlicher als die Problemdiagnose und die Forderungen steht jedoch die Botschaft ‚Put People First‘ im Vordergrund – Bennett und Segerberg ( 2011 : 9 f. ) konnten nachweisen , dass dies die häufigste Wortgruppe auf der Webseite der Protestkoalition ist .
 Dieser Frame erlaubt eine Protestteilnahme aus vielfältigen persönlichen Gründen – im Gegensatz zu G20 Meltdown , wo vor allem jene Menschen angesprochen werden , die konkret von Problemen wie Arbeitslosigkeit oder Geldverlust betroffen sind .
 So ist durchaus denkbar , dass einige der Protestteilnehmer wenig Interesse an mehr Arbeitsplätzen im Umweltbereich haben – ihre persönlichen Anliegen können sie dennoch in dem Frame ‚Put People First‘ unterbringen .
 Diese Personalisierung spiegelt sich auch in der Gestaltung der Webseite von PPF .
@@ -945,7 +945,7 @@ Ihre Protestkommunikation ist ein Mix aus Kooperationen mit Massenmedien und der
 Bennett und Segerberg stufen beispielsweise PPF in dieser Hinsicht als hybrid ein :
 Es sind etablierte NGOs , die hinter dem Aufruf zu den Demonstrationen stehen und die organisatorischen Voraussetzungen für sie schaffen .
 Diese Organisationen geben jedoch keine starren collective action frames vor , sondern bieten mit ‚Put People First‘ einen Frame an , der individuell zugänglich ist und einfach über persönliche soziale Netzwerke und die PPFWebseite verbreitet werden kann .
-Diese Proteste weisen sowohl Merkmale von connective als auch collective action auf ( Bennett / Segerberg 2012 : 755 ff.) .
+Diese Proteste weisen sowohl Merkmale von connective als auch collective action auf ( Bennett / Segerberg 2012 : 755 ff. ) .
 Die connective action kann große Bedeutung für Bewegungen haben – sie allein macht jedoch noch keine soziale Bewegung aus ( Bennett / Segerberg 2012 : 745 ) .
 Allerdings kann connective action zahlreiche Menschen für collective actions wie Demonstrationen mobilisieren und möglicherweise neue Gruppen an Protestierenden erschließen , nämlich solche , die sich nicht von hierarchisch aufgebauten Organisationen angesprochen fühlen und abgeschreckt werden von den Erfordernissen , die collective action mit sich bringt – für diese Gruppen kann die unverbindliche Vernetzung über persönliche Gedanken ein Einstieg in politisches Engagement sein .
 Die Vorteile , die die neuen Medien mit sich bringen , verändern das Verhältnis von Protestbewegungen und Massenmedien .

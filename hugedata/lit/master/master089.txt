@@ -33,7 +33,7 @@ Die formende Anordnung der Worte im aoidischen Gesang gestaltet sich derart kuns
 In der oralen Kultur des antiken Griechenlands haben Rhythmus , Reim und Formelcharakter der Geschichten jedoch keine ästhetische , sondern mnemonische Funktion ( vgl. Havelock 1963 : 166 ) .
 Die Vermittlung der aoidischen Geschichten folgt notwendigerweise bestimmten formalen Prinzipien , da dem Sänger außer seinem Gedächtnis keinerlei externe Speichermedien zur Verfügung stehen .
 Erforderlich ist eine gesprochene Sprache , die als erinnerbare und zugleich variable Form fungiert , um unterschiedlichste Inhalte zu bewahren und zu kommunizieren .
-Eric Havelock ( ebd . : 147 ) beschreibt das grundlegende Muster der oralen Mnemotechnik als „ variation within the same “ .
+Eric Havelock ( ebd. : 147 ) beschreibt das grundlegende Muster der oralen Mnemotechnik als „ variation within the same “ .
 Formgebende Prinzipien der mündlichen antiken Dichtung sind ein fester Sprachrhythmus , der Hexameter als metrisches Schema , sowie der Gebrauch von Sprachformeln .
 Der Wechsel von kurzen und langen Sprechsilben erzeugt einen regelmäßigen Rhythmus , der sowohl das Erlernen als auch die Wiedergabe oraler Dichtung begünstigt .
 Der epische Sänger memoriert Inhalte jedoch nicht Wort für Wort , weshalb wiederholt vorgetragene Geschichten desselben Inhalts in ihrem Wortlaut variieren ( vgl. Lord 1965 : 108 ) .
@@ -55,8 +55,8 @@ Für das Publikum begründen die narrativen Vermittlungsstrukturen , das Hören 
 Vor der Erfindung der Schrift ist das gesprochene , durch den Menschen geformte Wort in seiner Gegenwärtigkeit der dominierende Sinneseindruck .
 In The Presence of the Word ( 1967 ) betont Walter Ong die präsentische Qualität von „ Sound “ , dem natürlichen und ursprünglichen Medium des Wortes , als Ereignis :
 Mittels des gesprochenen Wortes werden Menschen ihrer Innerlichkeit gewahr und können sich im Bewusstsein ihrer Person auch anderen Menschen ganzheitlich darstellen .
-Das Erleben der eigenen Innerlichkeit in „ Sound “ bildet für Ong ( vgl. ebd. : 124f.) somit die Voraussetzung für die kommunikative Begegnung zwischen Menschen .
-Bedingt durch seine zeitlich und örtlich begrenzte Reichweite bindet das gesprochene Wort Individuen oraler Kulturen in enge Gemeinschaften ( vgl. ebd . : 124 ; 32012 : 68 ) .
+Das Erleben der eigenen Innerlichkeit in „ Sound “ bildet für Ong ( vgl. ebd. : 124 f. ) somit die Voraussetzung für die kommunikative Begegnung zwischen Menschen .
+Bedingt durch seine zeitlich und örtlich begrenzte Reichweite bindet das gesprochene Wort Individuen oraler Kulturen in enge Gemeinschaften ( vgl. ebd. : 124 ; 32012 : 68 ) .
 Mit der Einführung der Schrift , die in der Erfindung des Buchdrucks und der massenhaften Verbreitung schriftlicher Erzeugnisse ihre technische Vervollkommnung findet , verlagert sich die Bedeutung innerhalb der verschiedenen Sinneswahrnehmungen :
 „ As an intensification and extension of the visual function , the phonetic alphabet diminishes the role of the other senses of sound and touch and taste in any literate culture ” ( McLuhan 22011 : 120 ) .
 McLuhans ( 2008 : 44 ) metaphorische Formel „ Man was given an eye for an ear ” kondensiert diesen Gedanken .
@@ -173,7 +173,7 @@ So werden etwa die Abenteuer , die Odysseus auf seiner Irrfahrt von Troja in sei
 In Entsprechung zu Aristoteles unterscheidet die strukturalistische Erzähltheorie zwischen zwei für die Erzählung konstitutiven Dimensionen : histoire und discours .
 Die erfundenen oder imitierten Geschehnisse ( nach Aristoteles ‚ Stoff’ ) werden in der Geschichte ( histoire ) zu einer Kette von Ereignissen ( nach Aristoteles ‚ Mythos ’ ) verknüpft und mit Charakteren sowie situativen Elementen verbunden .
 Das ‚ Was ’ der Geschichte materialisiert sich im ‚ Wie’ des Diskurses ( discours ) , der die Mittel beschreibt , durch die die Geschichte kommuniziert wird ( vgl. Kloepfer 42008 : 287 ) .
-An diese Unterscheidung anknüpfend , begreift Seymour Chatman ( 1978 : 19f.) ‚ Erzählung’ unter Berufung auf den französischen Strukturalisten Claude Bremond als eine unabhängige Struktur , die sich in verschiedenen Medien manifestieren kann : sowohl im Medium des Rhapsoden als auch in Film und Fernsehen .
+An diese Unterscheidung anknüpfend , begreift Seymour Chatman ( 1978 : 19 f. ) ‚ Erzählung’ unter Berufung auf den französischen Strukturalisten Claude Bremond als eine unabhängige Struktur , die sich in verschiedenen Medien manifestieren kann : sowohl im Medium des Rhapsoden als auch in Film und Fernsehen .
 Im Hinblick auf die Odyssee lässt sich ausgehend vom aristotelischen Mythos oder der Chatmanschen Story zudem eine weitaus abstraktere Struktur27 identifizieren .
 Diese Struktur ist zyklisch und wird von dem amerikanischen Mythenforscher Joseph Campbell ( 32004 : 28 ) wie folgt beschrieben :
 Die in dieser schematischen Beschreibung der Heldenreise enthaltenen Schlüsselmomente Aufbruch ( departure ) , Initiation ( initiation ) und Rückkehr ( return ) sind der Kern dessen , was Campbell ( vgl. ebd. ) als Monomythos 28 identifiziert .
@@ -190,7 +190,7 @@ Campbell spricht deshalb von einem „ archetypal pattern ” ( ebd. : 36 ) mit 
 Für ihn sind Mythen nicht nur Manifestationen des Unbewussten , sondern kontrollierte und vorsätzliche Äußerungen geistiger Prinzipien , die im Laufe der Menschheitsgeschichte ebenso konstant geblieben sind wie die Form der menschlichen Psyche selbst ( vgl. ebd. : 239 ) .
 Mit dieser psychologischen Interpretation des Mythos und dem Begriff des Archetypus nimmt Campbell Bezug auf die Lehre des analytischen Psychologen Carl Gustav Jung .
 Jung ( vgl. 1995 : 14 ) bestimmt Archetypen in der ersten Hälfte des 20. Jahrhunderts als seit jeher vorhandene allgemeine Bilder , die Inhalt des kollektiven Unbewussten sind .
-Dieses ist im Gegensatz zum persönlichen Unbewussten „ in allen Menschen sich selbst identisch und bildet damit eine in jedermann vorhandene , allgemeine seelische Grundlage überpersönlicher Natur “ ( ebd. : 13f. ) .
+Dieses ist im Gegensatz zum persönlichen Unbewussten „ in allen Menschen sich selbst identisch und bildet damit eine in jedermann vorhandene , allgemeine seelische Grundlage überpersönlicher Natur “ ( ebd. : 13 f. ) .
 Inhalte und Verhaltensweisen entstammen nach Jung nicht der persönlichen Erfahrung und Erwerbung , sondern sind angeboren und daher allen Individuen gemeinsam .
 Als psychisches Konstrukt sind Archetypen lediglich formal als gegebene Möglichkeit einer Vorstellungsform bestimmt , insofern sie noch keiner bewussten Bearbeitung unterliegen .
 Inhaltlich greifbar wird der Archetypus erst durch seine Wahrnehmung , dadurch dass er mit bewusster , individueller Erfahrung ausgefüllt und dadurch gleichsam verändert wird ( vgl. ebd. : 95 ) .
@@ -236,7 +236,7 @@ Infolgedessen scheint die Annahme gerechtfertigt , dass sich die Formgleichheit 
 Die Beantwortung der Frage , worin diese Notwendigkeit besteht , wird im folgenden Kapitel eingeleitet durch eine Analyse der Effekte , die die Vermittlung von Erzählungen durch Film und Fernsehen sowie Rhapsoden auf die Rezipienten hat .
 Die audiovisuellen Medien Film und Fernsehen aktualisieren in der narrativen Vermittlung ihrer Inhalte sowohl die Darstellungsweisen der rhapsodischen Darbietung als auch die Struktur mythischer Erzählungen .
 In der formalen Homologie zwischen den erzählenden Medien der Antike und der Gegenwart deutet sich insofern eine ebenfalls vergleichbare Wirkungsweise an , als die formalen Gestaltungsmittel des Mediums dessen Effekte auf den Rezipienten bedingen .
-Für die Frage nach den Wirkungen eines bestimmten Mediums sind unter anderem die mediale Darstellung und die Rezeptionssituation ( vgl. Lukesch 1996 : 24f. ) bedeutsame formale Charakteristika .
+Für die Frage nach den Wirkungen eines bestimmten Mediums sind unter anderem die mediale Darstellung und die Rezeptionssituation ( vgl. Lukesch 1996 : 24 f. ) bedeutsame formale Charakteristika .
 Da bei der Rezeption audiovisuell vermittelter Inhalte die gleichen Wahrnehmungskanäle aktiviert werden wie während der rhapsodischen Darbietung , können vergleichbare Effekte von Rhapsoden sowie Film und Fernsehen auf den Rezipienten angenommen werden .
 Einem tiefgreifenden Wandel unterliegt hingegen der situative Kontext der Rezeption :
 Während in oralen Gesellschaften die Präsenz des Sängers und die des Publikums einander bedingen , lösen technische Entwicklungen den Rezeptionsvorgang aus seiner örtlichen und zeitlichen Gebundenheit an den Produktionsvorgang .
@@ -273,13 +273,13 @@ Die durch das gesprochene Wort wirkenden Kräfte Rhythmus und Harmonie sind nach
 Rhythmus und Melodie des gesprochenen Wortes sind nicht Inhalt und Ziel der griechischen Erziehung , sondern vielmehr deren Vehikel .
 Im Medium der mündlichen Dichtung manifestiert sich der eigentliche Gegenstand der Paideia : der griechische Mythos .
 Mythen exemplifizieren das Ideal griechischer Erziehung in Form von Geschichten und sind deshalb für die Ausbildung der Arete von vitaler Notwendigkeit .
-Der Begriff ‚ Arete ’ , die Vortrefflichkeit einer Person bezeichnend , ist seit Sokrates eng mit der Paideia verknüpft , die somit zum Inbegriff des idealen körperlichen und seelischen Geformtseins wird ( vgl. ebd . : 362 ) .
+Der Begriff ‚ Arete ’ , die Vortrefflichkeit einer Person bezeichnend , ist seit Sokrates eng mit der Paideia verknüpft , die somit zum Inbegriff des idealen körperlichen und seelischen Geformtseins wird ( vgl. ebd. : 362 ) .
 In seinem Denken um die richtige Lebensführung44 bezeichnet Sokrates mit Arete das sittlich Gute , für dessen Hervorbringung allein die richtige Vorstellung genügt ( vgl. Plat. Men. : 97a - 98c ) .
 Verkörpert in den homerischen Epen , manifestiert sich die Arete des Helden in dessen Tapferkeit und Klugheit sowie seiner körperlichen Stärke und Anmut ( vgl. Jaeger 21936 : 27 ) .
 Diese Eigenschaften befähigen etwa Achill zu überragenden und ruhmreichen Taten im Trojanischen Krieg .
 Indem der epische Held verschiedenste Herausforderungen besteht und an diesen kontinuierlich wächst , erweist er sich letztendlich als ideale Verkörperung eines tugendhaften Lebens , wodurch ihm die Rolle des heroischen Vorbildes zuteil wird .
 „ So fällt die Geschichte der griechischen Bildung im Wesentlichen zusammen mit der sogenannten Literatur .
-Sie ist im ursprünglichen Sinne ihrer Schöpfer der Ausdruck der Selbstformung des griechischen Menschen “ , schreibt Werner Jaeger ( ebd . : 18 ; vgl. hierzu auch Havelock 1963 : 47 ) in seinem Standardwerk Paideia .
+Sie ist im ursprünglichen Sinne ihrer Schöpfer der Ausdruck der Selbstformung des griechischen Menschen “ , schreibt Werner Jaeger ( ebd. : 18 ; vgl. hierzu auch Havelock 1963 : 47 ) in seinem Standardwerk Paideia .
 Die Formung des griechischen Menschen ( 1934-1947 ) .
 Im griechischen Denken der Antike geht das Ästhetische der Dichtung mit dem Ethischen der Erziehung einher .
 Die homerischen Epen erklärt Jaeger ( vgl. ebd. : 73 ) aufgrund ihrer idealbildenden Qualität zur Wurzel der griechischen Bildung schlechthin .
@@ -314,9 +314,9 @@ Sprache begreift Mead als Symbol , welches innerhalb einer Gemeinschaft auf eine
 Die sich im Symbol der Sprache manifestierenden Bedeutungen leiten ihm zufolge nicht nur das menschliche Handeln , sie konstituieren sich überhaupt erst durch die Interaktion von Menschen .
 Im Bemühen um eine Synthese zwischen Behavorismus , der den Menschen als auf seine Umwelt reagierendes soziales Wesen betrachtet , und Pragmatismus , eine Sozialphilosophie , die das Wesen des Menschen in seinem Handeln erkennt , begreift Mead Menschen als Wesen , die auf Reize in Form von Verhalten reagieren und somit wechselseitig aufeinander einwirken ( vgl. Abels 2010 : 73f .) .
 Auf äußere Reize , körperliche oder lautliche Gebärden , reagiert der Mensch in der Art , dass er , die Haltung des Anderen einnehmend , in Gedanken dessen Handlung als Reaktion auf die eigene Aktion antizipiert ( vgl. Mead 1973 : 300 ) .
-Diesen interaktiven Prozess wechselseitiger Verschränkung der eigenen mit der Perspektive anderer , bei dem die individuelle stets die soziale Perspektive involviert , nennt Mead ( ebd .) die Fähigkeit zur „ Übernahme der Rolle anderer “ .
+Diesen interaktiven Prozess wechselseitiger Verschränkung der eigenen mit der Perspektive anderer , bei dem die individuelle stets die soziale Perspektive involviert , nennt Mead ( ebd. ) die Fähigkeit zur „ Übernahme der Rolle anderer “ .
 Sie lässt Reize zu Symbolen werden , zu Zeichen also , die auf den auf Erfahrungen basierenden Sinn von Dingen verweisen und auf die Menschen reagieren .
-Dass sie letzteres im Wissen um den Unterschied zwischen dem Ding und seiner Bedeutung tun , zeichnet die Menschen als denkende Wesen aus ( vgl. ebd. : 161ff.) .
+Dass sie letzteres im Wissen um den Unterschied zwischen dem Ding und seiner Bedeutung tun , zeichnet die Menschen als denkende Wesen aus ( vgl. ebd. : 161 ff. ) .
 Üben Gebärden auf das ausführende Individuum die gleichen Effekte aus wie auf dasjenige , an das sie sich richten , handelt es sich um signifikante Symbole ( vgl. ebd. : 85 ) .
 In diesem Sinne stellt Sprache für Mead ein komplexes Symbolsystem dar , dem die Mitglieder einer Sprachgemeinschaft die gleiche Bedeutung beimessen , das bei ihnen die gleichen Reaktionen auslöst und das somit ihr Verhalten leitet .
 Die Bedeutung der durch den Menschen wahrnehmbaren Dinge , die als Symbole fungieren , ist jedoch keineswegs starr und auf Dauer festgelegt .
@@ -340,10 +340,10 @@ Das gesellschaftlich entwickelte , vermittelte und bewahrte Wissen gerinnt für 
 Durch Objektivation , die Typisierung von Erfahrungen und Erwartungen in der menschlichen Interaktion , entsteht aus subjektiv sinnvollen Vorgängen eine intersubjektive Welt ( vgl. ebd. : 22 ) und mit ihr ein kollektiver Wissenshorizont .
 Das wichtigste Medium solcher Objektivationen ist auch für Berger / Luckmann ( vgl. ebd. : 41 ) die Sprache .
 Sprache vergegenständlicht – typisiert – Erfahrung , indem sie ihr Kategorien zuteilt , mittels derer sie nicht nur für das Individuum , sondern auch für seine Mitmenschen sinnhaft erscheint :
-„ Sie [ die Sprache ] wird so zugleich Fundament und Instrument eines kollektiven Wissensbestandes “ ( ebd . : 72f.) .
+„ Sie [ die Sprache ] wird so zugleich Fundament und Instrument eines kollektiven Wissensbestandes “ ( ebd. : 72 f. ) .
 Sprache hat dadurch institutionalen Charakter .
 „ Durch die bloße Tatsache ihres Vorhandenseins halten Institutionen menschliches Verhalten unter Kontrolle .
-Sie stellen Verhaltensmuster auf , welche es in eine Richtung lenken “ , schreiben Berger und Luckmann ( ebd . : 58 ) .
+Sie stellen Verhaltensmuster auf , welche es in eine Richtung lenken “ , schreiben Berger und Luckmann ( ebd. : 58 ) .
 Indem dieses Verhalten von den Individuen einer Gemeinschaft akzeptiert und fortlaufend in den Interaktionen des Alltags , die auf eben diesen von der Gesellschaft bereitgestellten Institutionen beruhen , bestätigt wird , verfestigt es sich zu sozialem Wissen , das permanent soziale Ordnung schafft .
 Die Gesellschaft stellt nun die objektive , geordnete Wirklichkeit dar , die im Denken und Handeln ihrer Mitglieder fortlaufend produziert wird .
 Als ‚ Wissen’ bezeichnen Berger / Luckmann ( ebd. : 75 ) also „ die objektivierte Sinnhaftigkeit institutionalen Handelns “ .
@@ -372,11 +372,11 @@ Im Mittelpunkt des Interesses der Sozialisationsforschung stehen der soziale Ler
 Bei George Herbert Mead verbinden sich das Individuelle und das Soziale im Begriff der Kommunikation – für Mead ( 1973 : 299 ) „ das Grundprinzip der gesellschaftlichen Organisation des Menschen “ .
 Diese zentrale Rolle fällt der Kommunikation zu , da die Erzeugung von Bedeutung und damit von Wissen aus der menschlichen Interaktion resultiert .
 Obwohl Mead diese Verbindung nicht explizit macht , erweist sich sein theoretischer Ansatz auch für das sozialwissenschaftliche Grundthema der Sozialisation als fruchtbar .
-Kommunikation bedingt die Entwicklung des Menschen als soziales Wesen insofern , als die in der Sprache zum Ausdruck kommenden kollektiven Vorstellungen die gegenseitige Anpassung der Individuen innerhalb einer gesellschaftlichen Handlung garantieren ( vgl. ebd . : 86 ) :
+Kommunikation bedingt die Entwicklung des Menschen als soziales Wesen insofern , als die in der Sprache zum Ausdruck kommenden kollektiven Vorstellungen die gegenseitige Anpassung der Individuen innerhalb einer gesellschaftlichen Handlung garantieren ( vgl. ebd. : 86 ) :
 Individuen lernen , wie sie sich in einer Gemeinschaft richtig verhalten , indem sie ihr Verhalten wechselseitig beobachten , die gesellschaftlichen Symbole , die hinter diesem Verhalten stehen , in gleicher Weise interpretieren und sich damit auf das für eine soziale Gruppe typische Verhalten beziehen .
 Indem in der Interaktion durch die Übernahme der Rolle des anderen dessen mögliche Reaktionen wechselseitig mitgedacht werden , unterliegt das situative Verhalten der sozialen Kontrolle :
 Sozialisation als Integration des Individuums in einen derart organisierten Verhaltensprozess stellt jedoch keinen unterdrückenden Zwang dar .
-Vielmehr funktioniert der Mechanismus der gesellschaftlichen Kontrolle gerade aufgrund der Beteiligung des Individuums als reflektierender Akteur ( vgl. ebd. : 301f.) :
+Vielmehr funktioniert der Mechanismus der gesellschaftlichen Kontrolle gerade aufgrund der Beteiligung des Individuums als reflektierender Akteur ( vgl. ebd. : 301 f. ) :
 Während der Einzelne sein eigenes Verhalten sowie das des anderen in der Interaktion beobachtet , unterzieht er es sogleich einer an den „ verallgemeinerten gesellschaftlichen Haltungen “ ( ebd. : 307 ) orientierten Kritik .
 Unter „ verallgemeinerten gesellschaftlichen Haltungen “ versteht Mead Handlungsweisen , die allen Mitgliedern einer Gesellschaft gemeinsam sind , insofern diese auf bestimmte Situationen identisch reagieren .
 Solche überindividuellen Haltungen erlauben es dem Einzelnen , aus den beobachteten Reaktionen Schlüsse über ein in der Gesellschaft angemessenes Verhalten zu ziehen , das eigene Verhalten daran zu orientieren und die Reaktionen anderer entsprechend zu bewerten .
@@ -386,7 +386,7 @@ Im generalisierten Anderen kondensieren sich die kollektiven Vorstellungen , Hal
 Sozialisation vollzieht sich nach der Theorie Meads allgemein als Kommunikation zwischen dem Individuum und dem generalisierten Anderen und konkret als fortlaufende Interaktion zwischen Individuen mit bestimmten Erwartungen .
 Durch die Verwendung der sozialen Symbole , etwa der Sprache , integriert sich der Einzelne in die geregelte Gesellschaft ( vgl. Abels 2010 : 84 ) .
 Die theoretischen Überlegungen Meads finden Eingang in die Konzeption eines zwei Phasen umfassenden Sozialisationsprozesses durch Berger / Luckmann ( vgl. 1969 : 141 ) .
-Die Ausbildung der Fähigkeit zur Rollenübernahme bezeichnen sie als Primärsozialisation 49 : die Einführung eines Individuums in die objektive Welt einer Gesellschaft ( vgl. ebd. : 140f. ) .
+Die Ausbildung der Fähigkeit zur Rollenübernahme bezeichnen sie als Primärsozialisation 49 : die Einführung eines Individuums in die objektive Welt einer Gesellschaft ( vgl. ebd. : 140 f. ) .
 Ziel der Sozialisation ist die Aneignung der objektiven Wirklichkeit durch das Individuum oder , wie Berger / Luckmann ( ebd. : 139 ) es nennen , deren Internalisierung :
 „ das unmittelbare Erfassen und Auslegen eines objektiven Vorgangs oder Ereignisses , das Sinn zum Ausdruck bringt , eine Offenbarung subjektiver Vorgänge bei einem Anderen also , welche auf diese Weise für mich subjektiv sinnhaft werden “ .
 Internalisierung bildet die Grundlage sowohl für das Verstehen anderer Menschen als auch für das Erfassen der Welt als eine sinnhafte Wirklichkeit ( vgl. ebd. : 140 ) .
@@ -400,7 +400,7 @@ Schon Aristoteles thematisiert das Verhältnis von künstlerischer und außerkü
 Dichtung definiert er ( vgl. Poet. [ Kap. 2 ] ) als Nachahmung menschlicher Handlungen .
 Im Kontext der sozialkonstruktivistischen Theorie Berger / Luckmanns , nach der Wirklichkeit nur in und durch menschliches Handeln existiert , müsste es entsprechend heißen , dass die narrativ erschaffene Welt einen weiteren Wirklichkeitsentwurf hervorbringt .
 Dichtung beschränkt sich für Aristoteles allerdings nicht auf das genaue Abbild dessen , was wirklich geschehen ist , dies entspräche vielmehr der Geschichtsschreibung .
-Der Dichter solle stattdessen darstellen , „ was geschehen könnte , d.h. das nach den Regeln der Wahrscheinlichkeit oder Notwendigkeit Mögliche “ ( ebd . [ Kap. 9 ] ) .
+Der Dichter solle stattdessen darstellen , „ was geschehen könnte , d.h. das nach den Regeln der Wahrscheinlichkeit oder Notwendigkeit Mögliche “ ( ebd. [ Kap. 9 ] ) .
 Die Freude an der dichterischen Nachahmung der Wirklichkeit erscheint für Aristoteles eng verknüpft mit der menschlichen Lust am Lernen :
 Die narrative Darstellung von Dingen , die in der Realität unerträglich sind , wie etwa unansehnliche Tiere oder Leichen , bereitet deshalb Freude , weil die Menschen durch sie „ etwas lernen und zu erschließen suchen , was ein jedes sei “ ( ebd. [ Kap. 4 ] ) .
 Dinge , zu denen Menschen in der Wirklichkeit keinen Zugang haben , sei es aufgrund von mangelnden Möglichkeiten oder Unlust , werden in der Narration erfahrbar .
@@ -426,7 +426,7 @@ Fiktionale Geschichten , die sämtliche Aspekte des menschlichen Lebens darzuste
 Dieser Einblick wiederum lässt deswegen individuelle Rückschlüsse auf die soziale Wirklichkeit zu , weil letztere durch die narrative Realität repräsentiert wird .
 Die fiktionalen Narrationen der Massenmedien bilden für Niklas Luhmann einen Realitätsaus- schnitt , in dem mit optischen und akustischen Mitteln eine zweite Welt konstituiert wird .
 In dieser Welt gilt eine eigene fiktionale Realität , die Luhmann mit der Welt des Spiels52 gleichsetzt .
-Gerade die Differenz von realer und fiktionaler Realität produziert den Unterhaltungswert von Unterhaltungskommunikation ( vgl. ebd. : 78f. ) .
+Gerade die Differenz von realer und fiktionaler Realität produziert den Unterhaltungswert von Unterhaltungskommunikation ( vgl. ebd. : 78 f. ) .
 Gleichzeitig muss die dargebotene zweite Realität auf bereits vorhandenes Wissen des Rezipienten Bezug nehmen :
 Um aus den Narrationen Rückschlüsse auf die individuelle Wirklichkeit ziehen zu können , muss die fiktionale an die reale Realität anknüpfen .
 „ Unterhaltung hat insofern einen Verstärkungseffekt auf schon vorhandenes Wissen .
@@ -447,9 +447,9 @@ Zwar ermöglichen Unterhaltungsangebote dem Zuschauer , Rückschlüsse auf die e
 Da die psychologischen Effekte der Rezeption fiktionaler Narration zu komplex und individuell verschieden sind , um vorhersehbar zu sein , lässt Luhmann sie in seiner Theorie der massenmedialen Kommunikation außen vor .
 56 Dass mediale Unterhaltungsangebote Gelegenheiten zum Lernen bieten ( vgl. ebd. : 75 ) , ist dadurch nicht ausgeschlossen .
 Dies muss sogar der Fall sein , da nach Luhmann ( vgl. ebd. : 105 ) die Realität der Massenmedien – die Realität der Beobachtung zweiter Ordnung – die Wissensvorgaben ersetzt , die in früheren Gesellschaftsformen etwa durch Weise oder Priester bereitgestellt wurden .
-„ Was wir über unsere Gesellschaft , ja über die Welt , in der wir leben , wissen , wissen wir durch die Massenmedien “ , lautet Luhmanns ( ebd . : 9 ) programmatische Formel .
+„ Was wir über unsere Gesellschaft , ja über die Welt , in der wir leben , wissen , wissen wir durch die Massenmedien “ , lautet Luhmanns ( ebd. : 9 ) programmatische Formel .
 In ihren Darstellungen machen Massenmedien die Gesamtheit des sozialen Wissens erfahrbar , welches sich der individuellen , unmittelbaren Erfahrung in der realen Wirklichkeit größtenteils entzieht .
-In der Aneignung medialer Wirklichkeitskonstruktionen durch den Rezipienten wirken dann mediale und reale Wirklichkeit derart ineinander , dass das medial Wahrgenommene einer Konsistenzprüfung mit der individuellen Wirklichkeitsannahme unterzogen wird ( vgl. ebd. : 83 ) und es hiernach im besten Fall Bedeutung im Leben des Rezipienten erlangt ( vgl. Keppler 2005 : 102f. ) . 57
+In der Aneignung medialer Wirklichkeitskonstruktionen durch den Rezipienten wirken dann mediale und reale Wirklichkeit derart ineinander , dass das medial Wahrgenommene einer Konsistenzprüfung mit der individuellen Wirklichkeitsannahme unterzogen wird ( vgl. ebd. : 83 ) und es hiernach im besten Fall Bedeutung im Leben des Rezipienten erlangt ( vgl. Keppler 2005 : 102 f. ) . 57
 Die Luhmannsche Formel deutet eine Entwicklung an , die mit der funktionalen Differenzierung der Gesellschaft ihren Anfang nahm und die gegenwärtig durch die Komplexität derselbigen sowie die Individualisierung ihrer Mitglieder geprägt ist .
 Da die alltägliche Wirklichkeit von ihrer Kommunizierbarkeit abhängt , entsprechen elektronische Medien dem gegenüber antiken Gemeinschaften erhöhten Bedarf an sozialer Koordination , indem sie mit Hilfe technischer Mittel zur Überbrückung von Distanzen und zur Verteilung von Wissen beitragen ( vgl. Hejl 1994 : 58 ) .
 Darüber hinaus nehmen Medien im Alltag , zumindest der westlichen Gesellschaften , eine derart zentrale Rolle ein , dass sie als integraler Bestandteil desselbigen betrachtet werden müssen .
@@ -464,8 +464,8 @@ Die vermittelnde Form des innerhalb einer Gemeinschaft Wissbaren , „ ein Samme
 Begründen lässt sich dies mit der Wirkung , die sowohl auditive und visuelle Reize als auch Erzählstrukturen auf die Kognition haben .
 Dass das Unterhaltungserleben , welches die Medienrezeption begleitet , die Aneignung narrativer Wirklichkeiten begünstigt , wird im Folgenden dargelegt .
 „ Die Kunst hat in sich eine unbegrenzte Fähigkeit der geistigen Übertragung [ … ] . Nur sie besitzt gleichzeitig jene Allgemeingültigkeit und erlebnishaft unmittelbare Sinnfälligkeit , die die beiden wichtigsten Bedingungen der erzieherischen Wirkung sind “ , schreibt Werner Jaeger ( 21936 : 65 ) unter Würdigung der homerischen Epen .
-In dieser Fähigkeit übertrifft die Kunst nach Ansicht Jaegers ( vgl. ebd.) sogar das wirkliche Leben , welches sich zwar durch Sinnfälligkeit auszeichnet , dessen Erlebnisse jedoch der Allgemeingültigkeit entbehren .
-Dem Mythos hingegen wohnt etwas Allgemeingültiges inne ( vgl. ebd. : 70f.) :
+In dieser Fähigkeit übertrifft die Kunst nach Ansicht Jaegers ( vgl. ebd. ) sogar das wirkliche Leben , welches sich zwar durch Sinnfälligkeit auszeichnet , dessen Erlebnisse jedoch der Allgemeingültigkeit entbehren .
+Dem Mythos hingegen wohnt etwas Allgemeingültiges inne ( vgl. ebd. : 70 f. ) :
 Als unerschöpflicher Vorrat an heroischen Vorbildern ist er die maßgebende Instanz für das menschliche Handeln .
 Die „ erlebnishaft unmittelbare Sinnfälligkeit “ ( ebd. : 65 ) von Narrationen ist längst nicht nur ein Produkt ihrer Form58 , sondern resultiert auch aus der Form ihrer Vermittlung .
 Menschliches Erleben , und somit auch die Medienrezeption als eine spezifische Art des Erlebens , involviert sowohl kognitive als auch emotionale Prozesse ( Trepte / Reinecke 2013 : 77 ) .
@@ -490,8 +490,8 @@ In der dramatischen Handlung reiht sich ein Ereignis an das andere .
 Das geistige Durchleben der ereignisreichen Handlung im Prozess des Erinnerns ruft zunächst entsprechende Körperreflexe des Rhapsoden hervor , die sich während der Darbietung auch auf das Publikum übertragen : „ The oral audience participated [ … ] by active participation in the language used .
 They clapped and danced and sang collectively , in response to the chanting of the singer ” ( ebd. : 78 ) .
 Die rhythmischen Körperbewegungen setzen das Unbewusste der menschlichen Psyche frei und entlasten das Bewusstsein somit von Spannungen , Sorgen und Ängsten .
-Havelock ( vgl. ebd . : 152 ) bezeichnet diesen Zustand als Hypnose .
-In ihm liegt das sinnliche Vergnügen begründet , ohne das der Mythos und damit die griechische Paideia wirkungslos sind , garantiert es doch die unmittelbare Akzeptanz ( vgl. ebd. : 157 ; Robb 1994 : 166f.) des enzyklopädischen Wissens durch das Publikum und damit die unreflektierte Nachahmung der narrativ vermittelten Verhaltensmuster .
+Havelock ( vgl. ebd. : 152 ) bezeichnet diesen Zustand als Hypnose .
+In ihm liegt das sinnliche Vergnügen begründet , ohne das der Mythos und damit die griechische Paideia wirkungslos sind , garantiert es doch die unmittelbare Akzeptanz ( vgl. ebd. : 157 ; Robb 1994 : 166 f. ) des enzyklopädischen Wissens durch das Publikum und damit die unreflektierte Nachahmung der narrativ vermittelten Verhaltensmuster .
 Im Gegensatz zu nachfolgenden und in der Gegenwart vorherrschenden Lernmethoden61 ist die moralische und praktische Unterweisung der Mitglieder oraler Gemeinschaften untrennbar mit deren persönlichen Neigungen und mit einem positiven Gefühlszustand , einem Unterhaltungserleben , verbunden :
 „ The pull between the pleasurable inclination to act in one way and the unpleasant duty to act in another way was relatively unknown ” ( Havlock 1963 : 158 ) .
 Doch schon Platon kritisiert die Verschränkung von Erziehung und Dichtung , und damit die sinnliche Erkenntnisform überhaupt , aufgrund des epischen Vermögens , die Gefühle und damit das Irrationale , Unbewusste , der menschlichen Seele anzusprechen ( vgl. ebd. : 26 ) .
@@ -639,7 +639,7 @@ Nach Berger / Luckmann ( vgl. ebd. : 72f .) ist sie Medium und konstitutives Mom
 Auch unter den von Aleida Assmann in Erinnerungsräume .
 Formen und Wandlungen des kulturellen Gedächtnisses ( 1999 ) benannten „ Gedächtnismedien “ ( ebd. : 20 ) rangiert die Sprache bzw.
 die Schrift unter den wichtigsten Fundamenten und Instrumenten des kollektiven Gedächtnisses .
-Als „ materielle Stütze “ ( ebd.) gewährleistet die Schrift die Speicherung kollektiven Wissens sowie dessen Vermittlung in der Interaktion mit dem Gedächtnis des Einzelnen .
+Als „ materielle Stütze “ ( ebd. ) gewährleistet die Schrift die Speicherung kollektiven Wissens sowie dessen Vermittlung in der Interaktion mit dem Gedächtnis des Einzelnen .
 Zeichensysteme sichern somit die Wiedererkennbarkeit und Kontinuität einer Kultur ( vgl. Assmann 1994 : 114f .) .
 In ihrer Funktion als Träger des kollektiven Gedächtnisses entscheiden die technischen Möglichkeiten von Gedächtnismedien darüber , was und wie erinnert wird .
 Der medientechnische Wandel bedingt die Verfasstheit des kollektiven Gedächtnisses .
@@ -656,7 +656,7 @@ In der „ lebendigen Inszenierung des sozialen Gedächtnisses “ ( Assmann 199
 Des Weiteren speist sich das Wissen um die gemeinsame kulturelle Identität aus einer Erinnerung , die lebendig ist , die lediglich bewahrt , was für die Gegenwart relevant ist : „ It [ the living memory ] prefers to remodel rather than discard .
 New information and new experience are continually grafted on to inherited models ” ( Havelock 1963 : 122 ) .
 Das zeitlich Spezifische wandelt sich kontinuierlich zum Typischen der Gegenwart .
-Ein historisches Zeitbewusstsein ist folglich unmöglich ( vgl. ebd.) .
+Ein historisches Zeitbewusstsein ist folglich unmöglich ( vgl. ebd. ) .
 Während es in oralen Kulturen kein Wissen und kein Gedächtnis außerhalb menschlicher Körper gibt , wird es mit der Erfindung der Schrift möglich , kollektives Wissen auf materiale Träger auszulagern und den Einzelnen von der Aufgabe der Bewahrung des Gruppengedächtnisses zu entlasten .
 Zwar ist der antike Sänger im Übergang von der Mündlichkeit zur Schriftlichkeit weiterhin damit beauftragt , soziale Werte und Normen zu vermitteln .
 Mit der Entwicklung des griechischen Alphabets besteht jedoch erstmals die Möglichkeit , Wissen abzulagern und kontinuierlich neues Wissen zu schaffen , ohne bestehendes Wissen dadurch zu modifizieren .
@@ -764,7 +764,7 @@ Um für den Menschen ertragbar zu sein , muss diese Angst fortwährend zu Furcht
 Dies leisten nach Blumenberg ( vgl. ebd. : 11 ) nicht Erfahrung und Erkenntnis , sondern Geschichten .
 Sie setzen dem Absolutismus der Wirklichkeit Namen für das Unbekannte und Bedeutsamkeit entgegen .
 Bedeutsamkeit schafft Distanz zur Unheimlichkeit der Wirklichkeit ( vgl. ebd. : 132 ) , indem sie der als fremd , willkürlich und indifferent empfundenen Welt Selbstverständlichkeit und Vertrautheit entgegensetzt ( vgl. ebd. : 78 ) .
-Bedeutsamkeit entsteht durch verschiedene Mittel , unter denen die Kreisschlüssigkeit und Wiederkehr des Gleichen , von Blumenberg ( vgl. ebd. 86f.) exemplifiziert an der Odyssee , die für das Weltvertrauen grundlegenden sind :
+Bedeutsamkeit entsteht durch verschiedene Mittel , unter denen die Kreisschlüssigkeit und Wiederkehr des Gleichen , von Blumenberg ( vgl. ebd. 86 f. ) exemplifiziert an der Odyssee , die für das Weltvertrauen grundlegenden sind :
 Sie verweisen auf die Zuverlässigkeit aller Lebenswege ( vgl. ebd. : 97 ) .
 Der Mythos stellt für Blumenberg die Verarbeitungsform von Wirklichkeit schlechthin dar , weshalb die Antithese von Mythos und Logos für sein Denken hinfällig ist :
 „ Der Mythos selbst ist ein Stück hochkarätiger Arbeit des Logos “ ( ebd. : 18 ) .
@@ -781,7 +781,7 @@ In den formalen Kennzeichen , die Blumenberg dem Mythos attestiert – eine vari
 48-51 ) – spiegelt sich insofern der aristotelische Mythosbegriff wider , als dieser ebenfalls eine bestimmte , in sich geschlossene Abfolge von Ereignissen bezeichnet .
 Seine formale Konstanz garantiert die uneingeschränkte Ausbreitung des Mythos in Raum und Zeit ; sie lässt ihn „ als erratischen Einschluß noch in Traditionszusammenhängen heterogener Art auftreten “ ( 51990 : 165 ) :
 Für die formale Konstanz des Mythos gibt Blumenberg unter der Prämisse der Unerfindbarkeit des Mythos ( vgl. 51990 : 165 ) zwei Erklärungen :
-Die Stabilität der mythischen Form kann ihren Ursprung in der Integration archetypischer Erfahrungen und Vorstellungen haben ( vgl. ebd. : 166f. ) , aus der die unmittelbare und überindividuelle Vertrautheit von Mythen hervorgeht 81 .
+Die Stabilität der mythischen Form kann ihren Ursprung in der Integration archetypischer Erfahrungen und Vorstellungen haben ( vgl. ebd. : 166 f. ) , aus der die unmittelbare und überindividuelle Vertrautheit von Mythen hervorgeht 81 .
 Eine andere Begründung fokussiert die mündliche Überlieferung von Geschichten vor Homer und Hesiod , die gemeinhin als Urheber mythischer Grundmuster gelten .
 Entgegen dieser Annahme begreift Blumenberg ( 1971 : 28 ) den Mythos als „ immer schon in Rezeption übergegangen “ .
 Bereits die erstmals schriftlich fixierte , als Bezugsgröße geltende Form des Mythos ist das Resultat eines langen Selektionsprozesses , in dessen Verlauf die rezipierten Inhalte aoidischer Gesänge kontinuierlich optimiert wurden .
@@ -797,7 +797,7 @@ Bedeutung kann er in der individuellen Rezeption erlangen , etwa wenn der Zorn d
 Der Mythos begründet hierdurch ein spezifisches Verständnis von Welt .
 Er verkörpert ein sich kontinuierlich wandelndes Bild der sozialen Wirklichkeit , das den Einzelnen orientiert und integriert .
 Mythen lassen sich mit Hülk ( 2006 : 7 ) folglich konzipieren als „ Matrix eines subjektiven wie kollektiven , sich stets erweiternden , komplexer werdenden Gedächtnisses aus Bildern und Narrationen “ .
-Die Bedeutung der narrativ abgelagerten Erinnerungsfiguren kann unter wechselnden historischen Vorzeichen abgerufen werden , wodurch sie jeweils neu konstruiert werden und dabei „ ihre Gültigkeit wie Sprengkraft aus der Spannung von Tradition und Innovation , Kontext und Präsenz “ ( ebd.) beziehen .
+Die Bedeutung der narrativ abgelagerten Erinnerungsfiguren kann unter wechselnden historischen Vorzeichen abgerufen werden , wodurch sie jeweils neu konstruiert werden und dabei „ ihre Gültigkeit wie Sprengkraft aus der Spannung von Tradition und Innovation , Kontext und Präsenz “ ( ebd. ) beziehen .
 Handelt es sich in urgeschichtlicher und archaischer Zeit um ein der Mnemotechnik dienendes Gestaltungsprinzip , welches aus einer anthropologischen und sozialen Notwendigkeit hervorgeht , ist der Mythos nunmehr eingebettet in ästhetische Zusammenhänge .
 Letztere scheinen seine ursprüngliche Funktion zwar weitestgehend zu verstellen und dem Bewusstsein zu entziehen .
 Das im Selektionsprozess des mündlichen Vortrags „ gehärtete Grundmuster “ ( 51990 : 166 ) des Mythos fungiert jedoch nach wie vor als universale Codierungs- und Organisationsform der Inhalte des kollektiven Gedächtnisses .
