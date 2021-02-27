@@ -22,5 +22,6 @@ LIT_MASTER072 = os.path.join(LIT_MASTER, 'master072.txt')
 LIT_MASTER075 = os.path.join(LIT_MASTER, 'master075.txt')
 LIT_MASTER083 = os.path.join(LIT_MASTER, 'master083.txt')
 LIT_MASTER089 = os.path.join(LIT_MASTER, 'master089.txt')
+LIT_MASTER098 = os.path.join(LIT_MASTER, 'master098.txt')
 
 UTILS_ABBREVIATION = os.path.join(UTILS, 'abbreviations.txt')

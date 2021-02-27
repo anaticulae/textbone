@@ -1,0 +1,1089 @@
+Dieses Kapitel stellt verschiedene theoretische Grundlagen vor .
+Zuerst wird die Theorie des kollektiven Gedächtnisses von Maurice Halbwachs und das Konzept der Erinnerungsorte von Pierre Nora vorgestellt .
+Im Anschluss folgen einige Ausführungen zu binationalen Erinnerungsorten und eine Darstellung des dialogischen Erinnerns von Aleida Assmann .
+Den Abschluss des Kapitels bilden Überlegungen zu Erinnerungsorten im DaF-Unterricht .
+Das Konzept der Erinnerungsorte von Pierre Nora basiert v.a. auf den wegweisenden Arbeiten des französischen Soziologen Maurice Halbwachs ( 1877-1945 ) zum kollektiven Gedächtnis aus den 1920er Jahren,1 die auch für die aktuelle Erinnerungs- und Gedächtnisforschung einen Ausgangspunkt darstellen ( Fornoff 2016 : 52 ) .
+Halbwachs war Schüler des Philosophen Henri Bergson und des Soziologen Émile Durkheim .
+Durch sie wurde er mit den Themen , die ihn sein Leben lang beschäftigten sollten , konfrontiert ( Robbe 2009 : 51-52 ) .
+Von Bergson ging das Gedächtnisthema aus und Durkheim konfrontierte ihn mit den „ kollektiven Repräsentationen “ ( ebd. : 51 ) .
+Die zu seiner Zeit vorherrschende Gedächtnistheorie , u.a. vertreten von Bergson , ging davon aus , dass Erinnerungen etwas rein Individuelles sind .
+Halbwachs widersprach dieser Theorie mit seiner in drei Publikationen entwickelten Theorie des kollektiven Gedächtnisses,2 die besagt , dass eine Erinnerung immer sozial bedingt , d.h. von außen beeinflusst , ist ( Fornoff 2016 : 53 ; Erll 2017 : 11-12 ) .
+Um die soziale Bedingtheit von Erinnerungen zu verdeutlichen , stellt Halbwachs die Erinnerung dem Traum gegenüber .
+Ein Traum ermögliche keine kohärente Erinnerung , da die Traumbilder ungeordnet seien und nicht zusammenhingen .
+Zudem existieren laut Halbwachs zwischen den einzelnen Traumbildern nur „ Zufallsbeziehungen “ ( Halbwachs 1985 : 72 ) .
+Eine Rekonstruktion der Erinnerungen im Traum sei nicht möglich , da der Träumende subjektiv wahrnehme , dabei auf sich allein gestellt sei und nicht mit der Gesellschaft in Kontakt stehe , durch die er sonst beeinflusst werde ( Robbe 2009 : 54 ) .
+Im Traum „ entfernt sich der Geist am weitesten von der Gesellschaft “ , so Halbwachs ( Halbwachs 1985 : 72 ) .
+Erst mit dem Erwachen könne der Mensch sich erinnern und die Bilder aus seiner Erinnerung in Beziehung zueinander setzen ; nämlich „ dann wenn der Bezug zu seiner gesellschaftlichen Umgebung und den von ihr geprägten Begriffs- und Vorstellungsrastern wiederhergestellt ist “ ( Fornoff 2016 : 53 ) .
+Halbwachs schließt aus dieser Gegenüberstellung , dass das Erinnern stets von äußeren sozialen Faktoren beeinflusst wird .
+Jede Erinnerung ist daher eine mémoire collective : oDas individuelle Erinnern ist daher immer in gesellschaftliche Zusammenhänge bzw. in die sogenannten cadres sociaux eingebunden ( Fornoff 2016 : 54 ) .
+Erinnerungen außerhalb dieser cadres sociaux , die aus den Menschen , die uns umgeben , bestehen , gibt es für Halbwachs nicht , denn der Bezugsrahmen ist notwendig , um die Erinnerung aufrechtzuerhalten ( Halbwachs 1985 : 121 ) .
+Er stützt die Erinnerung und erleichtert damit auch das Erinnern .
+Der Akt des Erinnerns ist somit ein rekonstruktiver und sozial geprägter Prozess ( Fornoff 2016 : 54 ) .
+Um einzelne , unzusammenhängende Erinnerungsbilder zu einer sinnvollen Erinnerung zusammenzufügen , bedient man sich laut Halbwachs der Lokalisierung .
+Eine Erinnerung kann lokalisiert werden , wenn sie sich in einen gruppenbezogenen Kontext einbetten lässt .
+Nach Halbwachs habe der Erinnernde bei der Frage nach der Basis einer Erinnerung mindestens die Kenntnis , in welchem sozialen Zusammenhang die Erinnerung gründe , auch wenn er nicht wisse , zu welcher Zeit und an welchem Ort die Erinnerung entstand ( ebd. : 54 ) .
+Entsprechend ist das Individuum für das Erinnern immer auf eine Gruppe angewiesen , von der es ein Teil ist oder war .
+Bei der Lokalisierung handelt es sich um einen Rekonstruktionsprozess , der dem Einfluss der Umwelt ausgesetzt ist , und nicht um einen autonomen , inneren Vorgang eines Individuums ( Robbe 2009 : 55 ) .
+Wenn sich mehrere Individuen zu einer Gruppe zusammenfinden , entsteht aus den Einzelgedächtnissen der Gruppenmitglieder ein Gruppengedächtnis .
+Dies ist allerdings nicht für immer fixiert , sondern verändert sich in dem Maße , in dem sich die Gruppe verändert ( Fornoff 2016 : 54-55 ) .
+Das Gruppengedächtnis wiederum benötigt die einzelnen Gedächtnisse , um existieren zu können .
+Insgesamt bedingen sich die individuellen Gedächtnisse und der soziale Bezugsrahmen somit gegenseitig : Ein weiterer wichtiger Aspekt , der von Halbwachs hervorgehoben wird , ist die Unterscheidung zwischen Gedächtnis und Geschichte .
+Für ihn sind die beiden Begriffe zwei sich gegen seitig ausschließende Arten des Vergangenheitsbezugs .
+Das soziale Gedächtnis wird durch soziale Interaktion und Kommunikation zwischen älteren und jüngeren Mitgliedern einer sozialen Gruppe gefestigt und weitergetragen ( Erll 2017 : 14 ) .
+Es „ reicht daher so weit , wie sich die ältesten Mitglieder der sozialen Gruppe zurückerinnern können “ ( ebd. : 14 ) .
+Es handelt sich somit nicht um eine objektive Rekonstruktion der Vergangenheit , sondern um subjektive Darstellungen von Erinnerungen .
+„ Die Geschichte “ beginnt , laut Halbwachs dort , wo „ die Tradition aufhört – in einem Augenblick , in dem das soziale Gedächtnis erlischt und sich zersetzt “ ( Halbwachs 1967 : 66 ) .
+Somit gehört das , was über die Erinnerung des ältesten Mitglieds hinausgeht , der Geschichte an , da kein Bezug mehr zu den Gruppenerinnerungen herzustellen ist .
+Gedächtnis und Geschichte sind laut Halbwachs zwar nicht miteinander vereinbar , doch sie sind auch nicht voneinander getrennt zu sehen , denn sie gehen ineinander über .
+Individuen sind allerdings nicht in nur jeweils ein Gruppengedächtnis eingebunden , sondern in mehrere , wie z.B. in Familiengedächtnisse , Vereinsgedächtnisse , Gedächtnisse religiöser Gruppen , denen man angehört etc. Alle Gedächtnisformen zusammengenommen bilden das kollektive Gedächtnis .
+Die individuellen Gedächtnisse sind dabei zwar Teil der verschiedenen Gruppengedächtnisse , bleiben gleichzeitig aber auch einzigartig , da jedes Individuum in verschiedene Gruppengedächtnisse eingebunden ist und daher „ über einen unverwechselbaren Fundus an gruppenspezifischen Erfahrungen und Denkweisen “ ( Fornoff 2016 : 55 ) verfügt .
+Kein individuelles Gedächtnis gleicht somit einem anderen .
+Halbwachs ‘ Gedanken zum kollektiven Gedächtnis und v.a. die Trennung von Geschichte und Gedächtnis wurden in den 1980er Jahren von Pierre Nora aufgenommen und in seinem siebenbändigen Werk Les lieux de mémoire,3 erschienen zwischen 1984 und 1992 , 4 weitergeführt .
+Nora geht wie Halbwachs davon aus , dass Geschichte und Gedächtnis Gegensätze sind : Laut Nora existierte das kollektive Gedächtnis noch im 19. Jahrhundert : Zu dieser Zeit konnte kollektive Identität durch das nationale Gedächtnis erzeugt werden ( Erll 2017 : 20 ) .
+Im 20. Jahrhundert allerdings , einem „ Augenblick des Übergangs “ ( Nora 1990 : 11 ) , löst sich das Gedächtnis nach Nora auf und zerfällt : „ Nur deshalb spricht man so viel vom Gedächtnis , weil es keines mehr gibt “ ( ebd. : 11 ) .
+Diese Diagnose „ über den Verlust des französischen Gedächtnisses “ ( Kończal 2012 : 17 ) , für den er den tiefgreifenden Wandel im sozialen Bereich in Frankreich seit den 1950ern verantwortlich macht , gilt für Nora als Ausgangspunkt für seine Überlegungen .
+Er setzt an die Stelle des kollektiven Gedächtnisses die Erinnerungsorte , die damit „ als eine Art künstlicher Platzhalter für das nicht mehr vorhandene , natürliche kollektive Gedächtnis [ fungieren ] “ ( Erll 2017 : 20 ) .
+Den Begriff des ‚lieu de mémoire ‘ entnahm Nora der antiken Mnemotechnik ( loci memoriae ) , in der der Begriff des Ortes in einem weiteren Sinne verstanden wird ( Hahn ; Traba 2015 : 17 ) .
+Erinnerungsorte sind für Nora also nicht nur geographische Orte , Gebäude , Denkmäler und Kunstwerke , sondern alle Phänomene , „ die die Erinnerungsbilder der französischen Nation aufrufen “ ( Erll 2017 : 20 ) .
+So zählen z.B. auch die Marseillaise und Jeanne d ’ Arc dazu ( ebd. : 20 ) .
+Bei Noras lieux de mémoire handelt es sich um eine Aufsatzsammlung , die , wie es François anmerkt , „ kein Werk aus einem Guß “ ist , sondern „ am Ende ganz andere Dimensionen und vor allem ein ganz anderes Aussehen annahm , als ursprünglich gedacht “ ( François 2005 : 8 ) .
+Entsprechend veränderte sich auch die Zielsetzung des Werkes im Laufe seiner Entstehungszeit .
+Der erste Teil , La République , in dem sich Nora auf die Dritte Republik konzentrierte , „ sollte all das vor dem Vergessen bewahren , was die französische Identität bis dahin konstituierte “ ( Kończal 2012 : 17 ) und ein „ Inventar des französischen Kollektivgedächtnisses “ ( Fornoff 2016 : 44 ) aufstellen .
+Mit dem zweiten und dritten Teil ( La Nation , Les France ) präsentiert Nora eine andere Art der Geschichtsschreibung , denn er versucht , eine Art Symbolgeschichte Frankreichs zu erstellen ( François 2005 : 9-10 ) .
+Diese ist nicht wie gewöhnlich chronologisch-linear aufgebaut , sondern analysiert vertiefend einzelne Erinnerungsorte , die Aspekte der französischen Kultur und Geschichte betreffen .
+Er beschreibt „ Fixpunkte kollektiver Erinnerung “ und untersucht somit eher symbolische und imaginäre Aspekte als historische Fakten ( Fornoff 2016 : 44 ) .
+Diese Herangehensweise bezeichnet Nora ( 1990 ) als „ Geschichte zweiten Grades “ ( histoire au second dégré ) , im Gegensatz zur linearen Geschichtsschreibung , die man „ Geschichte ersten Grades “ nennen kann .
+Für die Definition eines Erinnerungsortes sind für Nora drei Dimensionen zentral : die materielle , die symbolische und die funktionale Dimension ( ebd. : 26 ) .
+Laut dem Kriterium der Materialität sind Erinnerungsorte materielle Gegenstände , z.B. Gemälde und Bücher .
+Nora zählt allerdings auch Ereignisse wie eine Schweigeminute hinzu , da sie ein „ materieller Ausschnitt einer Zeiteinheit “ sei ( ebd. : 26 ) .
+Das symbolische Kriterium besagt , dass ein Erinnerungsort eine konkrete Bedeutung für eine bestimmte Gruppe hat .
+Dies ist z.B. der Fall , wenn ein Ort oder ein Gegenstand eine „ symbolische [ ] Aura “ besitzt oder wenn eine Handlung Gegenstand eines „ Rituals “ ist ( ebd. : 26 ) .
+Dem Kriterium der Funktionalität entsprechend besitzt ein Erinnerungsort „ eine präzise soziale Funktion “ ( Fornoff 2016 : 47 ) in der Gesellschaft , bevor er zum Erinnerungsort wird .
+Dies lässt sich an berühmten Büchern , wie der Histoire de France von Lavisse zeigen , die zunächst als Schulbuch die soziale Funktion hatte , Wissen weiterzugeben , und dann ( bei Nora ) zum Erinnerungsort wurde ( Erll 2017 : 21 ) .
+Das Konzept der Erinnerungsorte war durch diese Kriterien , die Nora zu Beginn seiner Überlegungen aufstellte , relativ gut definiert .
+Im Laufe der Entstehungszeit der lieux de mémoire wurde es allerdings Stück für Stück dekonstruiert und erweitert .
+Die Dimensionen lösten sich auf und es wurde immer schwerer nachzuvollziehen , was man unter einem Erinnerungsort zu verstehen hat ( ebd. : 21 ; Fornoff 2016 : 45-48 ) .
+Eine Definition des Begriffs gibt Nora schließlich im letzten Teil seines Werkes : „ Lieu de mémoire , donc : toute unité significative , d ’ ordre matériel ou idéel , dont la volonté des hommes ou le travail du temps a fait un élément symbolique du patrimoine mémoriel d ’ une quelconque communauté “ 5 ( Nora 1992 : 20 ) .
+Doch auch diese Definition trägt nicht zur Besserung des Verständnisses bei , da sie keine Grenzen vorgibt .
+Sie sagt allein aus , dass ein Erinnerungsort ein „ Teil des Gedächtniserbes einer Gemeinschaft “ ( Robbe 2009 : 16 ) sein muss .
+Der Begriff bleibt damit ungenau und wenig aussagekräftig .
+Um mit Fornoffs Worten zu sprechen : „ Was ein Erinnerungsort letztlich ist , wie er präzise definiert werden könnte , dies scheint mit der wachsenden Popularität des Konzepts [ … ] immer schwerer fassbar zu sein “ ( Fornoff 2016 : 45 ) .
+Für François und Schulze ist bei den Erinnerungsorten dennoch eine Gemeinsamkeit zu finden : Sie besitzen alle „ einen Überschuß an symbolischer Bedeutung [ … ] , der sich allerdings ändern , auch gänzlich verlieren kann “ ( François ; Schulze 2001 : 16 ) .
+Im Mittelpunkt steht also nicht die Vergangenheit an sich , sondern die Bedeutung , die ihr in der Gegenwart zugeschrieben wird und damit im kollektiven Gedächtnis einer Nation verankert ist .
+Noras lieux de mémoire hatten , sichtbar an den hohen Verkaufszahlen , einen großen Erfolg ( François 2005 : 12 ; Kończal 2013 : 82 ) .
+Lob erhielt Nora laut Kończal u.a. für seinen Mut zur Innovation für den „ Bruch mit einer linearen Geschichtsschreibung , die Aufwertung des Symbolischen sowie die Aufarbeitung einiger bisher nicht untersuchter Aspekte der französischen Geschichte “ ( Kończal 2013 : 82 ) .
+Neben den positiven Würdigungen gab es allerdings auch Kritik an seinem Werk .
+Dazu gehört u.a. „ die ( zu ) starke Frankreichzentrierung sowie die Fokussierung auf den Nationalstaat “ ( ebd. : 82 ) , die Ausblendung der französischen Kolonialgeschichte und des Algerienkriegs sowie die fehlende „ Auseinandersetzung mit den Erinnerungskulturen der Migranten und Migrantinnen in Frankreich “ ( Fornoff 2016 : 52 ) .
+Einige Kritiker sahen zudem die Gefahr , dass durch den Fokus auf das Symbolische die Geschichte sich von der Realität entfernen könnte .
+Des Weiteren wurde die zum Teil unbegründete Auswahl der Erinnerungsorte kritisiert ( Kończal 2013 : 83 ) .
+Noras erinnerungsgeschichtlicher Ansatz wurde den kritischen Stimmen und Noras anfänglichem Zweifel zum Trotz auf andere Nationen und Regionen übertragen ( ebd. : 79 ) .
+Dazu gehören beispielsweise die italienischen I luoghi della memoria von Mario Isnenghi ( 19961997 ) und die Schweizer Erinnerungsorte von Georg Kreis ( 2010 ) .6 Im Jahr 2001 wurden zudem die Deutschen Erinnerungsorte von Étienne François und Hagen Schulze herausgegeben , die sich sowohl auf Noras Modell als auch auf die Theorie des kulturellen Gedächtnisses7 von Jan Assmann beziehen .
+Laut Fornoff kann letztere „ bis heute als wichtigster Referenzpunkt des erinnerungsgeschichtlichen Diskurses in Deutschland angesehen werden “ ( Fornoff 2016 : 75 ) .
+François und Schulze entwickelten Noras Konzept weiter und legten eine Definition des kontrovers diskutierten Erinnerungsortebegriffs vor : Das erwähnte Kriterium der Langlebigkeit ist eine der Veränderungen,8 die François und Schulze im Vergleich zu Nora vornahmen .
+Sie beschreiben somit nicht nur Erinnerungsorte , die sich auf das kommunikative Gedächtnis beziehen wie Nora , sondern für sie zählen auch Aspekte des kulturellen Gedächtnisses dazu ( Fornoff 2016 : 76 ) .
+Neben den genannten Projekten wurden auch transnationale Projekte , bei denen die grenzüberschreitende Dynamik ins Zentrum rückt , realisiert ( Erll 2017 : 23 ) .
+Dazu zählen u.a. die Europäischen Erinnerungsorte ( den Boer et al. 2012 ) und die Deutsch-Polnischen Erinnerungsorte ( Hahn ; Traba 2012-2015 ) .
+Laut Müller ( 2013 : 17 ) konzentrierte sich die europäische Geschichtsschreibung lange Zeit auf die Nationalgeschichte , die die Nation ins Zentrum rückt .
+Auch Noras lieux de mémoire lassen sich hier einordnen , denn Erinnerungsorte , deren Bedeutung über die Staatsgrenzen hinausgeht , sind zwar enthalten ( z.B. Verdun oder Versailles ) , sie werden aber nicht als solche beschrieben , sondern lediglich in ihrer Bedeutung für Frankreich dargestellt .
+Ein Gegenmodell zur Nationalgeschichte ist die transnationale Geschichte , über die nach Müller schon seit vielen Jahren diskutiert wird .
+Er bezeichnet es sogar als „ ein Schlüsselthema in den methodischen Diskussionen in der Geschichtswissenschaft “ ( ebd. : 17 ) , das mit Namen wie Marc Bloch und Jacques Le Goff verbunden ist ( ebd. : 17 ) .
+Auch viele Erinnerungsorte benötigen einen Blick über die nationalen Grenzen hinaus , da sie sich nicht rein national erklären lassen .
+Die erwähnten Deutschen Erinnerungsorte werfen diesen Blick über die nationale Grenze , indem „ geteilte Erinnerungsorte “ , also solche , „ die für Deutschland wie für benachbarte Nationen gleichermaßen bedeutsam sind “ wie z.B. Versailles ( deutsch-französisch ) , der Wiener Heldenplatz ( deutsch-österreichisch ) und Rom ( deutsch-italienisch ) integriert werden ( François ; Schulze 2001 : 19 ) .
+Die Herausgeber grenzen sich so bewusst gegen die rein nationale Vorgehensweise Noras ab und wählen einen nach Europa offenen Ansatz : Folgt man dem Zitat , ist ein Blick über die Grenzen natürlich und die Eingrenzung von Erinnerungsorten auf eine Nation künstlich herbeigeführt .
+Dieselbe Meinung vertritt laut Kończal auch der österreichische Historiker Moritz Csáky , der die Transnationalität von europäischen Erinnerungsorten hervorhebt ( Kończal 2012 : 19 ) .
+Ein Beispiel für eine trans- bzw. binationale Beschäftigung mit Erinnerungsorten ist der Sammelband Deutsch-Polnische Erinnerungsorte .
+Die wohl bekannteste und am weitesten rezipierte Sammlung , die sich ausschließlich mit binationalen Erinnerungsorten beschäftigt , sind die zwischen 2012 und 2015 erschienenen Deutsch-Polnischen Erinnerungsorte von Hans Henning Hahn und Robert Traba .
+Die Herausgeber sind der Ansicht , dass „ [ d ] ie Geschichte des eigenen Landes [ … ] sich kaum ohne die Kenntnis der Geschichte des Nachbarlandes bzw. der Nachbarländer wirklich verstehen [ lässt ] “ ( Hahn ; Traba 2015 : 19 ) und sehen in der Bilateralität einen „ Ausweg aus der Sackgasse der eindimensionalen Perspektive “ ( Dialog 2012 : 24 ) .
+Die Sammlung ermöglicht einen Blick in die Erinnerungskulturen9 von Deutschland und Polen und in „ die Erinnerungsgeschichte ihrer wechselseitigen Beziehungen “ ( Labentz 2015 : 83 ) .
+Zudem fragt sie nach ihren Gemeinsamkeiten und Unterschieden und ermöglicht das Einnehmen einer neuen Perspektive auf das Nachbarland ( Hahn ; Traba 2015 : 21 ) .
+Es ist das erste Werk , das die Erinnerungskulturen zweier Nachbarländer mit ihren Überschneidungen , Verflechtungen und Asymmetrien darstellen will – und dabei als Ausgangspunkt neu durchdenkt , was ‚Erinnerungsorte ‘ sind und was man durch sie erkennen kann . ( ebd. : 11 ) Die Deutsch-Polnischen Erinnerungsorte verbinden die Erinnerungsgeschichte , d.h. die Geschichte zweiten Grades von Pierre Nora , mit dem Konzept der Beziehungsgeschichte von Klaus Zernack ( Labentz 2015 : 84 ) .
+Dieser geht in seinem richtungsweisenden Aufsatz von 1976 davon aus , dass die Geschichte einer Nation immer in Verbindung zu der Geschichte der Nachbarstaaten steht und durch sie bedingt ist ( Zernack 1976 : 28 ) .
+Er bezieht sich dabei zwar auf die deutsch-polnischen Beziehungen , eine Ausweitung auf andere nachbarschaftliche Beziehungen ist laut Müller ( 2013 : 20 ) damit aber nicht ausgeschlossen , denn eine Verflechtung der Nationalgeschichten ist bei Nachbarstaaten in gewisser Weise immer gegeben .
+Durch die Verbindung dieser beiden Konzepte wird es laut Labentz in den Deutsch-Polnischen Erinnerungsorten möglich , „ die Erinnerungen an und den Umgang mit der Vergangenheit zweier ( oder auch mehrerer ) Kollektive in Bezug aufeinander zu analysieren “ ( Labentz 2015 : 84 ) .
+Hahn und Traba unterscheiden zwischen gemeinsamen , geteilten und parallelen deutschpolnischen Erinnerungsorten , wobei gemeinsame und geteilte Erinnerungsorte die Bände 1 und 2 füllen und parallele Erinnerungsorte in Band 3 Platz finden.10 Die parallelen Erinnerungsorte wurden in der Literatur zuvor nicht behandelt .
+Sie sind vielmehr eine „ Entdeckung “ bei der Entstehung der Deutsch-Polnischen Erinnerungsorte ( Dialog 2012 : 24 ) .
+Unter gemeinsamen Erinnerungsorten verstehen die Herausgeber Erinnerungsorte , bei denen sowohl das „ Erinnerungsobjekt “ als auch die „ erinnerten Inhalte “ in den betrachteten Nationen übereinstimmen ( Górny et al. 2012 : 14 ) .
+Auch die Funktionen des Erinnerungsortes seien in den betrachteten nationalen Gedächtnissen ähnlich oder sogar gleich ( ebd. : 16 ) .
+Ein Beispiel , das man am ehesten als gemeinsamen Erinnerungsort bezeichnen könnte , ist das Hambacher Fest ( 1832 ) , bei dem auch Polen anwesend waren .
+Kałążny bezeichnet es als „ einen der wenigen historischen Momente , in denen es eine deutsch-polnische Interessengemeinschaft gab “ ( Kałążny 2015 : 112 ) . 11
+Bei geteilten Erinnerungsorten handelt es sich um Erinnerungsorte , die dasselbe Erinnerungsobjekt beschreiben , bei denen aber die Erinnerungen in den betrachteten Nationen voneinander abweichen ( Górny et al. 2012 : 14 ) .
+In den verglichenen Nationen haben sie somit auch „ eine unterschiedliche Funktion bzw. Identitätsrelevanz “ ( Labentz 2015 : 86 ) .
+Ein Beispiel ist der Polenfeldzug der deutschen Wehrmacht ( 1939 ) , der für die Deutschen den Sieg und für die Polen eine Niederlage bedeutete .
+Górny et al. ( 2012 : 14 ) gehen insgesamt davon aus , dass in vielen Fällen geteilte Erinnerungsorte vorliegen , denn es ist wahrscheinlicher , dass sich die Identitätsrelevanz eines binationalen Erinnerungsortes in den Nationen unterscheidet .
+Parallele Erinnerungsorte sind Erinnerungsobjekte , die entweder nur im polnischen oder nur im deutschen Gedächtnis existieren , deren Funktionsweise aber Ähnlichkeiten aufweist ( Dialog 2012 : 24-25 ) .
+Es sind somit unterschiedliche Erinnerungsorte , die einander gegenübergestellt werden können , da sie in den Gesellschaften eine ähnliche identitätsstiftende Funktion haben .
+Als Beispiele können u.a. die Nationaldichter Goethe und Mickiewicz und die Komponisten Beethoven und Chopin genannt werden ( Górny et al. 2012 : 17 ) .
+Bei der Auswahl geeigneter Erinnerungsorte für die Sammlung war es für die Herausgeber wie für Pierre Nora von zentraler Bedeutung , dass diese für die Erzeugung von Identität eine Rolle spielen oder gespielt haben : „ Wir suchten nach jenen Artefakten , Symbolen , Ereignissen und Personen , die in der kollektiven Vorstellung und Überlieferung so stark verwurzelt sind , dass sie identitätsstiftende Eigenschaften haben – oder diese in der Vergangenheit hatten “ ( Dialog 2012 : 24 ) .
+Zudem mussten es – verständlicherweise – Erinnerungsorte sein , die einen Bezug zur Geschichte beider Nationen haben .
+Alle Beiträge in den Deutsch-Polnischen Erinnerungsorten sind nach der gleichen Abfolge aufgebaut : Um in die Themen einzuführen , wird zunächst das beschrieben , was Nora unter der Geschichte ersten Grades versteht , d.h. die Ereignisgeschichte .
+Im Anschluss daran wird die Erinnerungsgeschichte ( Geschichte zweiten Grades ) dargestellt ( Górny et al. 2012 : 18 ) .
+Hahn und Traba gehen davon aus , dass ihr bilaterales Vorgehen in Bezug auf Erinnerungsorte „ auch auf andere Beziehungsgeschichten anzuwenden ist “ , da viele Nachbarstaaten „ gemeinsame “ Erinnerungsorte besitzen ( Hahn ; Traba 2015 : 36-37 ) .
+Dies ist auch der Fall bei Deutschland und Frankreich , die wie Deutschland und Polen Nachbarländer sind und die aufgrund dieser geographischen Nähe viele geschichtliche Überschneidungspunkte besitzen .
+Im Jahr 2015 erschien ein Artikel von Antoine Mandret-Degeilh , der Schwierigkeiten in der Anwendung des Erinnerungsortekonzepts auf Deutschland und Frankreich sieht : Die Möglichkeit eines gemeinsamen Gedächtnisses , das „ parallel zu den nationalen Erinnerungen “ existiert , sieht er ab den 1970er Jahren , basierend „ auf der offiziellen Erzählung der Erfolgsstory der deutsch-französischen Aussöhnung “ , gegeben ( ebd. : 97 ) .
+Dass eine gemeinsame deutsch-französische Erinnerung vorhanden sein muss , um deutsch-französische Erinnerungsorte bestimmen zu können , widerspricht allerdings den Aussagen von Górny et al. ( 2012 : 14 ) , die erfolgreich zeigen , dass Erinnerungsorte auch mit geteilten Erinnerungen verbunden sein können .
+Somit lassen sich auch problemlos deutsch-französische Erinnerungsorte definieren .
+Es existieren einige Veröffentlichungen zu verschiedenen deutsch-französischen Erinnerungsorten.13 Die älteste auffindbare Publikation ist eine Sammlung deutsch-französischer Erinnerungsorte .
+Herausgegeben wurde sie 1995 von Jacques Morizet und Horst Möller , d.h. nur drei Jahre nach der Veröffentlichung des letzten Nora-Bandes ( Morizet ; Möller 1995 : 11 ) .
+In Anlehnung an Nora wählte man einige Erinnerungsorte aus , die bedeutende Momente der deutsch-französischen Geschichte beleuchten und dabei sowohl gemeinsame als auch unterschiedliche Aspekte fokussieren ( ebd. : 11-12 ) .
+Die Sammlung besteht aus dreizehn Texten zu deutsch-französischen Erinnerungsorten , darunter u.a. Aachen , das Schloss von Versailles , das Ruhrgebiet und der Rhein , sowie die beiden Weltkriege ( Verdun , Reims , Vichy , Auschwitz ) .
+Laut der Herausgeber zeigt die Sammlung „ la complexité des relations francoallemandes dans le meilleur comme dans le pire “ 14 und möchte damit eine „ message d ’ espoir “ ( Hoffnungsbotschaft ) für ein gutes deutsch-französisches Verhältnis sein ( ebd. : 12 ) .
+Zwar lässt sie sich in Umfang und theoretischer Fundierung nicht mit den deutsch-polnischen Erinnerungsorten vergleichen , sie sollte in der Sekundärliteratur aber Erwähnung finden , da es sich meines Wissens nach um das erste binational orientierte Erinnerungsorteprojekt handelt.15 Neben der Sammlung existieren verschiedene Einzelartikel zu deutsch-französischen Erinnerungsorten .
+Dabei wird der Erste Weltkrieg sowohl auf Deutsch als auch auf Französisch thematisiert ( vgl. Grossmann 2014 ; vgl. Marcowitz 2017 ; vgl. Cochet 2017 ; vgl. Mütter 2006 ) .
+Unter den französischen Veröffentlichungen existiert zudem ein Artikel zum Erinnerungsort Reims , der auch in Deutschland relativ bekannt ist ( vgl. Chanoir 2008 ) .
+Es gibt außerdem Veröffentlichungen zu Erinnerungsorten , die für die meisten Deutschen unbekannt sein dürften ; das Turenne-Monument und das Turenne-Museum in Sasbach , die an den französischen Marschall Turenne aus dem 17. Jahrhundert erinnern ( vgl. Feucht 2001 , vgl. Feucht 2003 ) .
+Des Weiteren wurden in der Zeitschrift Cahiers d ’ Études Germaniques mehrere Artikel zu deutsch-französischen Erinnerungsorten im Südosten Frankreichs veröffentlicht .
+Dazu gehören Les Milles ( vgl. Chouraqui ; Lalieu 2007 ) , ein Internierungslager in Aix-en-Provence , die Sainte-Victoire ( vgl. Keller 2007a ) , ein Berg nahe Les Milles , der durch den Maler Cézanne auch in Deutschland bekannt wurde , Sanary-sur-Mer ( vgl. Nieradka 2007 ) , ein wichtiger Exilort für deutsche Emigranten , darunter viele Schriftsteller zur Zeit des Nationalsozialismus und auch Dieulefit ( vgl. Keller 2007b ) , einem Ort , der zur Zeit des Vichy-Regimes Flüchtlingen eine Zuflucht bot .
+Als deutsche Veröffentlichungen sind Artikel zu Versailles ( vgl. Clemens 2009 ) , Berlin ( vgl. François 2003 ) , ein Dossier zur Marne ( vgl. Bundeszentrale für politische Bildung 2014 ) und zur deutsch-französischen Bedeutung des Rheins ( vgl. Suckow 2012 ) sowie zum Elysée-Vertrag als deutsch-französischer Erinnerungsort zu erwähnen ( vgl. Frank 2005 ; vgl. Defrance ; Pfeil 2014 ) .
+Aufgrund der vielen geschichtlichen Anknüpfungspunkte lassen sich ergänzend zu den in der Sekundärliteratur besprochenen viele weitere deutsch-französische Erinnerungsorte bestimmen .
+Einige sollen nun genannt werden , um die Breite des Themenspektrums aufzuzeigen.16 Ein mögliches Thema ist die Hugenottenverfolgung zwischen dem 16. und 18. Jahrhundert , die viele calvinistische Protestanten zur Auswanderung aus Frankreich zwang .
+In der Kurpfalz und Brandenburg fand ein großer Teil von ihnen eine neue Heimat ( Lachenicht 2016 ) .
+Des Weiteren kann das Massaker in Oradour-sur-Glane ( 1944 ) und die Razzia im Wintervelodrom ( Rafle du Vélodrome d ’ Hiver ) ( 1942 ) genannt werden .
+Bei dem Massaker wurde fast die komplette Bevölkerung des Dorfes „ als Vergeltung für den wachsenden französischen Widerstand gegen die deutschen Besatzer “ von SS-Soldaten ermordet ( Krechting 2015 ) .
+Bei der Razzia im Wintervelodrom wurden im Juli 1942 in einer von der französischen Polizei großangelegten Judenrazzia mehrere tausend Kinder und Erwachsene , die nach Auschwitz transportiert werden sollten , in einer alten Pariser Radrennbahn unter unmenschlichen Bedingungen eingesperrt ( Hölzle 2017 ) .
+Zu dieser Zeit besetzten die Nationalsozialisten einen Teil Frankreichs .
+Entsprechend lässt sich auch dieses Geschehnis den deutsch-französischen Erinnerungsorten zuordnen .
+Gleiches gilt für den Weihnachtsfrieden vom 24. Dezember 1914 .
+Verfeindete Soldaten aus Deutschland , Großbritannien und Frankreich legten an diesem Tag an der belgisch-französischen Grenze spontan die Waffen nieder und feierten gemeinsam Weihnachten .
+Dem Ereignis widmete sich im Jahr 2005 auch ein Film ( Deutschlandradio 2017 ) .
+Des Weiteren können die Regionen Elsass-Lothringen und das Saarland als deutschfranzösische Erinnerungsorte herangezogen werden , denn beide waren sowohl Teil Deutschlands als auch Teil Frankreichs , bevor sie ein fester Bestandteil von Frankreich und Deutschland wurden .
+Abschließend ist das Jahr 1968 zu nennen , das mit seinen Studentenrevolten in Frankreich und in Deutschland eine Bedeutung für die nationale Identität besitzt .
+V.a. in Frankreich ist in diesem Zusammenhang eine Person bekannt geworden : Daniel Cohn-Bendit .
+Auch er kann als deutsch-französischer Erinnerungsort zählen , denn seit seiner Geburt ist er ein Reisender zwischen Frankreich und Deutschland und wurde in beiden Ländern die „ Symbolfigur der 68er Bewegung “ ( Gilcher-Holtey 2015 : 162 ) .
+Bekanntheit erlangte er außerdem als Abgeordneter des Europaparlaments , in das er ab 1994 abwechselnd für die deutschen und französischen Grünen einzog ( ebd. : 163 ) .
+Betrachtet man die in diesem Kapitel genannten deutsch-französischen Erinnerungsorte , fällt auf , dass es sich v.a. um Erinnerungsorte handelt , die mit negativen Erinnerungen verknüpft sind .
+Aufgrund der zahlreichen Kriege zwischen den beiden Ländern ist dies nicht verwunderlich .
+Seit einigen Jahrzehnten lässt sich allerdings beobachten , dass zwischen Frankreich und Deutschland auch positive Erinnerungen entstehen können .
+Den Unterschied zwischen positiven und negativen Erinnerungsorten erwähnten bereits Schmidt und Schmidt in der Einleitung zu ihrem Lehrwerk .
+Im Zusammenhang mit Deutschland sprechen sie von positiven Orten , wenn es sich um Orte handelt , „ die an demokratische Traditionen erinnern “ und von negativen Orten , wenn sie „ an die Zeit des Nationalsozialismus erinnern “ ( Schmidt ; Schmidt 2007a : 7 ) .
+Da die deutsch-französische Geschichte zu einem Großteil von negativen Ereignissen geprägt ist , beziehen sich die meisten Veröffentlichungen auch auf negative Erinnerungsorte .
+Da positive Erinnerungsorte in der Sekundärliteratur zu kurz kommen , wird sich diese Arbeit auf einen solchen positiven Erinnerungsort fokussieren , und zwar auf den Elysée-Vertrag .
+Ein Modell , das sich in diesen Kontext gut anwenden lässt , ist das im Folgenden dargestellte dialogische Erinnern von Aleida Assmann .
+Aleida Assmann unterscheidet in ihrem 2013 veröffentlichten Werk Das neue Unbehagen an der Erinnerungskultur die monologische von der dialogischen Erinnerung .
+„ [ I ] n aller Regel monologisch organisiert “ sei das nationale Gedächtnis , eine Kreation des 19. Jahrhunderts , die geschaffen wurde , „ um die nationale Identität zu stützen und zu zelebrieren “ ( Assmann 2013 : 196 ) .
+Entsprechend tendiere es dazu , „ die Geschichte auf einen ruhmreichen , ehrenwerten oder zumindest akzeptablen Ausschnitt zu verengen “ ( ebd. : 196 ) .
+Alles , was dem entgegensteht , ist , wenn überhaupt , nur schwer dort zu integrieren .
+Sie stellt des Weiteren fest , dass in der politischen Erinnerungspraxis in den letzten zwanzig Jahren Opfererfahrungen und erinnerungen gegenüber den Tätererinnerungen privilegiert sind .
+Man fixiere sich somit eher auf die Opfer als auf die Täter ( ebd. : 143 ) .
+Verfestigen sich diese Opfererinnerungen zu einer nationalen Opferidentität , wird es schwierig , sich den Tätern anzunähern , sich mit ihnen auszutauschen und auszusöhnen ( ebd. : 148 ) .
+Denn in der monologischen Erinnerung wird das eigene erfahrene Leid ins Zentrum gestellt ( „ Selbstviktimisierung “ ) .
+Das Leid , das man anderen gebracht hat , hat dort entsprechend keinen Raum ( ebd. : 196 , 199 ) .
+Dadurch entstehen schließlich Opferkonkurrenzen ( ebd. : 143 ) .
+Mit dem dialogischen Erinnern legt Assmann ein Modell vor , mit dessen Hilfe diese Opferkonkurrenzen überwunden werden könnten ( ebd. : 151 ) .
+Denn die dialogische Erinnerung nimmt im Gegensatz zur monologischen Erinnerung „ das den Nachbarn zugefügte Leid ins eigene Gedächtnis mit auf “ ( ebd. : 199 ) .
+Die Überwindung der Opferkonkurrenzen ist notwendig , denn die europäische Integration kann , so Assmann „ nicht wirklich fortschreiten [ … ] , solange sich die monologischen Gedächtniskonstruktionen der Mitgliedstaaten weiter verfestigen und miteinander kollidieren “ ( ebd. : 196-197 ) .
+Sie geht bei ihren Ausführungen von der zweiten Hälfte des 20. Jahrhunderts aus , die sie in vier Phasen unterteilt .
+In diesen vier Phasen wird sehr unterschiedlich mit der traumatischen Vergangenheit , wie sie der Zweite Weltkrieg darstellt , umgegangen .
+Voneinander unterscheiden lassen sich : 1. das dialogische Vergessen , 2. das Erinnern , um niemals zu vergessen , 3. das Erinnern , um zu überwinden und 4. das dialogische Erinnern ( ebd. : 182 ) .
+Es gibt somit zusammengenommen zwei Möglichkeiten des Umgangs mit einer traumatischen Vergangenheit : Entweder man vergisst und orientiert sich an der Zukunft oder man erinnert sich bzw. bewahrt die Vergangenheit ( ebd. : 181 ) .
+Um die Phase des dialogischen Vergessens zu erläutern , nimmt Assmann Bezug auf den Historiker Christian Meier , der sich die Frage stellt , ob es besser sei zu erinnern oder zu vergessen ( ebd. : 182 ) .
+Meier geht laut Assmann von einer Gewaltgeschichte zwischen zwei Konfliktparteien aus und formuliert die These , dass das Erinnern dabei hilft , die Wiederholung von Gewalttaten zu vermeiden .
+Allerdings halte das Erinnern gleichzeitig „ destruktive Energien in den Köpfen der Beteiligten aufrecht [ ] “ ( ebd. : 182 ) , was Assmann zu folgender Schlussfolgerung führt : „ Wenn Erinnern Hass und Rache in Gang hält , kann Vergessen die Konfliktparteien zur Ruhe bringen und die so überlebenswichtige Phase der Reintegration einleiten “ ( ebd. : 182-183 ) .
+Das ist auch , was Assmann unter dem dialogischen Vergessen versteht : Zwei Konfliktparteien können durch das Vergessen des Geschehenen einander näherkommen .
+Das Problem dabei ist allerdings , dass durch diese „ Politik des Schlussstrichs “ die Täter geschont und die Opfer geschädigt werden , da letztere nicht thematisiert werden ( ebd. : 185 ) .
+Das dialogische Vergessen lässt sich an mehreren Beispielen in der Geschichte festmachen .
+Interessant ist im Zusammenhang dieser Arbeit aber v.a. das kollektive Schweigen von Konrad Adenauer und General de Gaulle nach dem Zweiten Weltkrieg , ohne das Westdeutschland sicherlich nicht so schnell ins westeuropäische Bündnis aufgenommen worden wäre ( ebd. : 184 ) .
+Nach Assmann wurde „ unter diesen Rahmenbedingungen [ … ] in den 1950er und 1960er Jahren die Last der traumatischen und schuldhaften Vergangenheit zunächst durch Vergessen entsorgt bzw. anästhesiert “ ( ebd. : 184 ) .
+Die zweite Phase , Erinnern , um niemals zu vergessen , zeitlich in den 1980er und 1990ern lokalisierbar ( ebd. : 189 ) , beschreibt die Umstellung vom Vergessen zum Erinnern und vom „ Schlussstrich “ zur „ Erinnerungskultur “ ( ebd. : 190 ) .
+Ein Neubeginn war somit nicht mehr durch Schlussstrichziehen , sondern „ nur über die Bereitschaft zu gemeinsamem Erinnern zu erreichen [ … ] “ ( ebd. : 191 ) .
+Es ist eine Form der Vergangenheitsbewahrung , „ die [ … ] das Vergessen nachhaltig verhindern möchte “ ( ebd. : 192 ) .
+Ins Zentrum der „ neuen ethischen Erinnerungskultur “ ( ebd. : 187 ) , die mit der Theoretikerin Hannah Arendt verknüpft ist , wird der Holocaust gestellt ( ebd. : 190 ) .
+In dieser Phase wird nicht mehr „ aus der Perspektive der Gesichtswahrung der Täter in der Mehrheitsgesellschaft , sondern aus der Perspektive der jüdischen Opfer gesprochen “ ( ebd. : 189 ) .
+Eine gemeinsame Zukunft soll dadurch möglich werden , dass man sich solidarisch mit den ( jüdischen ) Opfern zeigt und sie nicht mit ihren Erinnerungen alleinlässt ( ebd. : 191 ) .
+Seit den 1990ern lässt sich eine dritte Phase des Umgangs mit traumatischer Vergangenheit erkennen : Das Erinnern , um zu überwinden ( ebd. : 195 ) .
+Im Vergleich zur vorigen Phase geht es nicht um eine dauerhafte Bewahrung der Vergangenheit , sondern um ihre Bewältigung .
+Diese Form ist „ auf Versöhnung und eine gesellschaftliche und nationale Integration ausgerichtet “ ( ebd. : 192 ) .
+Um die Vergangenheit bewältigen und Traumata überwinden zu können , ist es laut Assmann wichtig , dass die Opfer ihre Leidensgeschichte erzählen können , angehört werden und ihr Leid anerkannt wird ( ebd. : 192 ) .
+Das Trauma kann dadurch gemindert wer den , dass Reue gezeigt und die Gesellschaft an der Erinnerung beteiligt wird .
+Erst mit dem Aufarbeiten und dem Hintersichlassen der Gewaltgeschichte sei so Versöhnung und ein Neubeginn möglich ( ebd. : 193-195 ) .
+Als Beispiel lassen sich die Truth Commissions in Südafrika nach der Apartheid anführen ( ebd. : 193 ) .17 Mit dem dialogischen Erinnern , das sich zurzeit in Ansätzen abzeichne , beschreibt Assmann eine mögliche Erinnerungspolitik von zwei oder mehreren Staaten , die eine gemeinsame Gewaltgeschichte miteinander verbindet ( ebd. : 195-196 , 202 ) .
+Der Gedanke dabei ist , dass man die schmerzhaften nationalen Erinnerungen anderer Nationen , auch solcher , die durch die eigene Nation erzeugt wurden , in die eigene nationale Erinnerung einfügt .
+Damit würde dialogisches Erinnern möglich .
+Laut Assmann ist Europa , das durch den Zweiten Weltkrieg eine gemeinsame Gewaltgeschichte teilt , „ ein einmalige [ r ] Rahmen für den Umbau von monologischen in dialogische Gedächtniskonstruktionen “ ( ebd. : 197 ) , denn hier seien die nationalen Gedächtnisse nicht mehr isoliert , sondern durch den Krieg mit den anderen nationalen Gedächtnissen verbunden ( ebd. : 196 ) .
+Doch noch ist es nicht so weit , dass sich von einer dialogischen Erinnerung sprechen lässt , denn es existieren Opferkonkurrenzen .
+Assmann nennt in diesem Zusammenhang das Beispiel der Bombardierung Dresdens und der Zerstörung Warschaus 1944 .
+Im nationalen Gedächtnis der Deutschen ist die Bombardierung Dresdens fest integriert , aber die Zerstörung Warschaus durch die Deutschen , die für die Polen traumatisch ist , kaum bekannt ( ebd. : 198-199 ) .
+Durch die ständige Übernahme der Opferrolle und das Vergessen seitens der Täter entstehen Asymmetrien in den Erinnerungen , die allerdings nicht hinnehmbar sind , denn [ s ] olange diejenigen , denen diese traumatische Gewalt angetan wurde , diese Ereignisse nicht vergessen , sondern im Gegenteil zu einem festen Bezugspunkt in ihrem nationalen Gedächtnis gemacht haben , kann dieses Leid nicht einfach durch ein einseitiges Vergessen auf Täterseite aus der Welt geschafft werden ( ebd. : 199 ) .
+Nach Assmann wird sich die „ Last der Vergangenheit “ nicht reduzieren und die Kommunikation in Europa nicht nachhaltig verbessern , solange dieses asymmetrische Verhältnis von Erinnerungen und Vergessen in Europa existiert ( ebd. : 199 ) .
+Opferkonkurrenzen erzeugen Reibungen zwischen den Nationen , „ die erst durch gemeinsame Formen transnationalen Erinnerns auf der Grundlage gegenseitiger Achtung und eines wiederhergestellten Vertrauens überwunden werden können “ ( ebd. : 150 ) .
+Die Überwindung dieser Konkurrenzen anhand des dialogischen Erinnerns soll ein gemeinsames europäisches Gedenken ermöglichen .
+Denn wie eingangs erwähnt , ist diese Beendigung für die europäische Integration zentral .
+Das „ traumatische Erbe “ des Zweiten Weltkriegs kann laut Assmann „ nicht länger in der beschränkten Grammatik traditioneller nationaler Gedächtniskonstruktionen bearbeitet werden [ … ] “ ( ebd. : 197-198 ) .
+Eine dialogische Erinnerung entwickelt sich , wenn jeder der Staaten seinen eigenen Anteil „ an der traumatisierten Geschichte des anderen anerkenn [ t ] und empathisch das selbst verursachte und zu verantwortende Leiden der anderen Nation ins eigene Gedächtnis mit einschließ [ t ] “ ( ebd. : 196 ) .
+Es handele sich somit um eine „ wechselseitige Anerkennung von Opfer- und Täterkonstellationen in Bezug auf eine gemeinsame Gewaltgeschichte “ ( ebd. : 197 ) .
+Für das oben genannte Beispiel würde dies bedeuten , dass die Zerstörung Warschaus , womit die Deutschen den Polen Leid zugefügt haben , in das deutsche Tätergedächtnis eingefügt würde .
+Durch das Einfügen ins eigene Gedächtnis werden nationale Ansichten aufgebrochen und ein „ Verständnis für die Traumata der Nachbarn , insbesondere derjenigen , die man selbst verursacht hat “ ( ebd. : 203 ) gewonnen .
+Dies ist es auch , was ein guter europäischer Dialog laut Assmann in Zukunft statt verengter nationaler Geschichtsbilder braucht ( ebd. 200 ) .
+Es geht dabei nicht darum , ein einheitliches , sondern „ ein kompatibles europäisches Geschichtsbild “ ( ebd. : 199 ) zu schaffen , das die Erinnerungsasymmetrien auflöst und damit die Last der Vergangenheit mindert .
+Auch in den DaF-Unterricht hat das Thema der Erinnerungen und der Erinnerungsorte in den letzten Jahren Einzug gehalten .
+Wie es dazu kam , warum die Thematik Teil des Unterrichts sein sollte und welche Kriterien für die Auswahl eines Erinnerungsortes herangezogen werden können , darüber informiert das folgende Kapitel .
+Noras Erinnerungsortekonzept löste in den allgemeinen Kulturwissenschaften einen Boom aus ( Koreik ; Roche 2014 : 17 ) .
+Doch erst die Veröffentlichung der Deutschen Erinnerungsorte von François und Schulze verlieh dem Thema auch in der deutschsprachigen Diskussion Auftrieb und verhalf zu vielen Projekten und Veröffentlichungen ( ebd. : 9-10 ) .
+Es verging allerdings nochmals einige Zeit , bis das Konzept des Erinnerungsortes in das Fach DaF Einzug erhielt .
+Laut Koreik und Roche gab es bereits in den 1980er und 1990er Jahren mehrere Versuche , „ historische Themen aus kulturdifferenter Perspektive im Landeskundeunterricht zu verankern “ ( ebd. : 17 ) .
+Dazu gehört u.a. eine Studie von Koreik ( vgl. 1995 ) , in der er den Vorschlag machte , „ historische Mythen und Legenden zum Ausgangspunkt landeskundlicher Vermittlungsmodelle zu machen “ ( Fornoff 2016 : 5 ) .
+Das Konzept konnte trotzdem erst mehr als zehn Jahre nach der Veröffentlichung dieser Studie auch im Fach DaF Fuß fassen , und zwar nicht ausgehend von theoretischen Diskussionen , sondern von der Veröffentlichung des Lehrwerks Erinnerungsorte – Deutsche Geschichte im DaF-Unterricht von Schmidt und Schmidt im Jahr 2007 ( Koreik ; Roche 2014 : 18 ) .
+Fornoff beschreibt die Wirkung des Lehrbuchs mit dem Begriff der „ Initialzündung “ , denn „ [ i ] n seiner Folge entstanden in rascher Abfolge eine ganze Reihe von weiteren erinnerungsgeschichtlich orientierten landeskundlichkulturwissenschaftlichen Veröffentlichungen [ … ] “ ( Fornoff 2016 : 5 ) .
+Zu den Publikationen , die sich mit der Implementierung des Erinnerungsortekonzepts im Unterricht beschäftigen , gehört Clemens ‘ Aufsatz über Versailles als deutsch-französischer Erinnerungsort ( Clemens 2009 ) sowie Fornoffs Artikel zur Vermittlung deutscher Erinnerungsorte im Landeskundeunterricht in Bulgarien ( Fornoff 2009 ) .
+Ergänzend dazu ist die online erschienene Herausgeberschrift Erinnerung im Dialog von Badstübner-Kizik und Hille zu erwähnen , die sich sowohl mit einigen deutsch-polnischen Erinnerungsorten aus der Sammlung von Hahn und Traba und ihrer möglichen Integration in den DaF-Unterricht beschäftigt als auch von Studierenden entwickelte Unterrichtsmaterialien vorstellt ( Badstübner-Kizik ; Hille 2016a ) .
+Theoretischdidaktisch orientierte Beiträge finden sich in Erinnerungsorte und Erinnerungskulturen ( vgl. Roche ; Röhling 2014 ) , in Kulturelles Gedächtnis und Erinnerungsorte im hochschuldidaktischen Kontext ( vgl. Badstübner-Kizik ; Hille 2015 ) und in Erinnerung im Dialog ( vgl. Badstübner-Kizik ; Hille 2016a ) .
+Auch der Artikel From History to Memory von Schmenk und Hamann ( vgl. Schmenk ; Hamann 2007 ) zur Berliner Mauer und Fornoffs Landeskunde und kulturwissenschaftliche Gedächtnisforschung zu Erinnerungsorten des Nationalsozialismus im DaF-Unterricht ( Fornoff 2016 ) , lassen sich zu diesen didaktisch-orientierten Beiträgen zählen .
+Doch warum sollten Erinnerungsorte überhaupt im DaF-Unterricht thematisiert werden ?
+Ein erster zentraler Aspekt , der genannt werden muss , ist , dass die Vermittlung einer Fremdsprache für Lernende immer über das bloße Erlernen der Sprache hinausgeht ( vgl. Fachverband Moderne Fremdsprachen ; Goethe Institut 1990 ) .
+Mit ihrer Vermittlung ist auch die Vermittlung und das Erlernen von kulturellen Eigenheiten des Zielsprachenlandes verbunden , durch die den Lernenden der „ Zugang zu einer neuen Welt , zu anderen Werten und Wertvorstellungen , sowie zu anderen Einstellungen und Verhaltensweisen “ ermöglicht wird ( Koreik 2015 : 16 ) .
+Diese kulturellen Aspekte werden im landeskundlichen Unterricht , der Teil des Sprachunterrichts ist , vermittelt .
+Um sie jedoch verstehen zu können , ist eine gewisse Basis an geschichtlichem Wissen nötig , denn alles , was eine Gesellschaft ausmacht , ist das Ergebnis historischer Vorgänge oder um mit Wierlacher zu sprechen : „ Alle Gegenwart wird erst in ihrer Historizität verständlich “ ( Wierlacher 2003 : 511 ) .
+Die Vermittlung von Geschichte hilft somit bei der Erklärung und beim Verständnis der Gegenwart .
+Dieser Gegenwartsbezug ist auch beim Thema der Erinnerungsorte gegeben , denn durch die Beschäftigung mit diesen wird deutlich , „ wie sehr die Vergangenheit auch die Gegenwart prägt “ ( Schmidt ; Schmidt 2006 : 282 ) .
+Es geht nicht darum , pures Faktenwissen zu vermitteln ( Koreik 2010 : 1478 ) , sondern , „ die Entstehung und die Veränderungen eines kollektiven Gedächtnisses sowie die identitätsstiftende Funktion von Erinnerung “ ( Koreik 2015 : 25-26 ) nachzuvollziehen und dies bezieht die Gegenwart immer mit ein .
+Ein weiterer Grund , der für den Einsatz von Erinnerungsorten im DaF-Unterricht spricht , ist , dass Erinnerungsorte einen persönlichen Zugang zur Vergangenheit ermöglichen ( Koreik ; Roche 2014 : 14 ) .
+So erinnert sich jeder Mensch an verschiedene Dinge , die ihn zu dem gemacht haben , was er in der Gegenwart ist .
+Schmidt und Schmidt bezeichnen das Erinnern daher auch als „ menschliche Grundkonstante “ ( Schmidt ; Schmidt 2007b : 422 ) , die von Natur aus vorhanden ist und entsprechend im Unterricht gut als Ausgangspunkt verwendet werden kann ( ebd. : 422 ) .
+Da es sich somit im Allgemeinen um ein vertrautes Thema handelt , ist auch für die Kommunikation , die im Sprachunterricht eine zentrale Rolle spielt , ein gutes Terrain bereitet ( Koreik ; Roche 2014 : 14 ) .
+Durch die Beschäftigung mit Erinnerungsorten können sich die Lernenden außerdem mit authentischen Inhalten und authentischer fremder Sprache auseinandersetzen , da Erinnerungsorte „ in realen gesellschaftlichen Gruppen lebendig sind “ ( Badstübner-Kizik 2014 : 52 ) .
+So werden „ Einblicke [ … ] in lebendige Welten ( hinter ) der Fremdsprache “ möglich ( ebd. : 52 ) .
+Für die Lernenden ist durch die Beschäftigung mit Erinnerungsorten der Einstieg in Kultur und Geschichte zudem relativ einfach möglich , da es sich oft um bekannte Beispiele handelt .
+Häufig sind Erinnerungsorte auch auf andere Nationen übertragbar , „ denn Erinnerungsorte gibt es überall “ ( Clemens 2009 : 66 ) .
+Ein im Unterricht thematisierter Erinnerungsort kann so durch die Lernenden mit bekannten , eigenen Erinnerungsphänomen verglichen werden ; es können Gemeinsamkeiten und Unterschiede herausgearbeitet und damit die interkulturelle Kompetenz gestärkt werden ( ebd. : 66 ; Badstübner-Kizik 2014 : 53 ) .
+Zusätzlich kann anhand der Beschäftigung mit Erinnerungsorten , die in verschiedenen Ländern eine Bedeutung haben , untersucht werden , wie unterschiedlich oder auch gleich diese wahrgenommen werden , und ob es sich um einen geteilten oder gemeinsamen Ort handelt .
+In diesem Zusammenhang sollte auch über die identitätsstiftende Funktion des Erinnerungsortes im jeweiligen Land reflektiert werden und untersucht werden , ob sich die Bedeutung des Erinnerungsortes in der Gesellschaft über die Zeit seines Bestehens verändert hat .
+Es ergibt sich somit insgesamt die Möglichkeit zum Kulturvergleich und zur Förderung des Fremdverstehens ( Chudak 2015 : 137 ) , denn anhand der Erinnerungsorte werden sowohl die fremde als auch die eigene Kultur ins Auge gefasst .
+Die Lernenden erfahren zudem , dass sich Geschichte nicht nur auf eine Art interpretieren lässt , sondern dass es mehrere Möglichkeiten der Interpretation gibt , die sich je nach Zeit und Perspektive ändern können .
+Ein deutsch-französisches Beispiel für diese Perspektivgebundenheit ist Versailles , das in Deutschland und Frankreich mit konträren Interpretationen verbunden ist ( Schmidt ; Schmidt 2007b : 422 ) .18 Geschichte ist somit nichts Fixiertes , sondern immer in Veränderung begriffen .
+Wenn man sich über diese Veränderlichkeit von geschichtlichen Interpretationen bewusst ist , ist auch „ eine kritische und relativierende Herangehensweise an die deutsche und die eigene Geschichte “ möglich ( Schmidt ; Schmidt 2006 : 283 ) .
+Dies ist laut Schmidt und Schmidt ( 2007b : 422 ) ein zentrales Ziel des interkulturellen Fremdsprachenunterrichts .
+Lernende üben durch die Beschäftigung mit Erinnerungsorten somit , „ fremde , fertige Interpretationsmuster oder Geschichtsbilder [ nicht ] zu übernehmen , sondern sich mit deren Perspektivgebundenheit auseinander zu setzen “ ( Schmidt ; Schmidt 2006 : 283 ) .
+Erinnerungsorte eignen sich besonders für den Sprachunterricht , der meist keine Zeit für ausführliche historische Exkurse bereithält , da sie eine exemplarische Auseinandersetzung mit Geschichte ermöglichen : Jeder einzelne Erinnerungsort kann „ einen kursorischen Überblick über Zusammenhänge und die verschiedenen Sichtweisen “ geben ( Clemens 2009 : 66 ) .
+Die Arbeit mit Erinnerungsorten birgt allerdings auch Gefahren .
+So kann es sein , dass komplexe historische Entwicklungen aufgrund des Wunsches nach „ einfachen , klaren Orientierungslinien “ ( Koreik ; Roche 2014 : 19 ) eine zu vereinfachte Darstellung erfahren und somit nicht in ihrer ganzen Komplexität erfasst werden .
+Dies kann z.B. bei politischen Mythen der Fall sein , wenn diese im Unterricht nicht dekonstruiert , sondern lediglich reproduziert werden .
+Das Problem dabei ist , dass die Lernenden aufgrund der unvollständigen Informationen aus dem Unterricht im Anschluss auch wieder nur Mythen reproduzieren können .
+Aufgrund der Komplexität des Erinnerungsortekonzepts sind Kriterien nötig , die die sinnvolle Auswahl eines Erinnerungsortes für den Fremdsprachenunterricht möglich machen .
+Badstüb- ner-Kizik ( ebd. : 55-56 ) legte dafür eine Liste von inhaltlichen und didaktischen Kriterien vor : Das erste inhaltliche Kriterium besagt , dass ein Erinnerungsort für eine größere Gruppe einen Wiedererkennungswert hat .
+Dies kann auch eine gewisse Bekanntheit außerhalb Deutschlands einschließen .
+Zweitens sollte der Erinnerungsort über eine längere Zeit , d.h. auch über Generationen hinweg , bis in die Gegenwart über mehrere mediale Formate überliefert worden sein .
+Der dritte Schwerpunkt bezieht sich auf die Rezeptionswürdigkeit eines Erinnerungsortes in der Gegenwart , was bedeutet , dass ein Erinnerungsort z.B. über Theateraufführungen , Neuverfilmungen oder auch Übersetzungen in andere mediale Formate oder Sprachen am Leben gehalten wird .
+Der Erinnerungsort sollte viertens ritualisiert sein , d.h. , dass die Erinnerung regelmäßig zu bestimmten Zeiten auftritt oder sogar im täglichen Leben stabil verankert ist .
+Laut Badstübner-Kizik hat ein Erinnerungsort außerdem einen „ symbolischen Bedeutungsüberschuss “ ( ebd. : 55 ) , was bedeutet , dass der Ort neben seiner eigentlichen Bedeutung eine tiefgreifendere , symbolische Bedeutung besitzt .
+Sechstens sollte es bei einem Erinnerungsort möglich sein , Aussagen über sein Entstehen , seine Funktion und seine Überlieferung zu treffen , die in sich nachvollziehbar und beweisbar sind .
+Zuletzt sollte ein Erinnerungsort nach Badstübner-Kizik über die Nationalgrenzen hinaus Anknüpfungspunkte für Menschen anderer Nationen besitzen , die es möglich machen , den Erinnerungsort mit ähnlichen nationalen Konzepten zu vergleichen .
+Ein geeigneter Erinnerungsort besitzt dann eine „ kontaktdidaktische Relevanz “ ( ebd. : 55 ) , wie z.B. eine deutsch-französische beim Erinnerungsort Rhein .
+Das erste didaktische Kriterium besagt , dass der Erinnerungsort entweder in seinem Umfang und seiner Komplexität überschaubar ist oder sich so weit reduzieren lässt , dass eine Bearbeitung im Unterricht möglich ist .
+Das heißt , dass man sich z.B. auf konkrete Bilder oder einzelne Texte beziehen kann , um die Lerngruppe angemessen zu fordern .
+Des Weiteren sollen die zu betrachtenden Einzelaspekte des Erinnerungsorts in verschiedenen medialen Formaten , z.B. in Form von Texten , Audios , Bildern und Videos vorliegen und somit immer wieder eine neue Vernetzbarkeit und eine abwechslungsreiche Bearbeitung ermöglichen .
+Es sollte sich um Materialien mit authentischer Sprache handeln , die unterschiedlich bearbeitet werden können .
+Schließlich muss darauf geachtet werden , dass eine Arbeit auf unterschiedlichem sprachlichem Niveau und mit verschiedenen methodischen Zugängen gegeben ist .
+Insgesamt soll die Arbeit mit dem Erinnerungsort so eine „ sprialförmige Progression “ ( ebd. : 56 ) in Bezug auf sprachliche und kulturelle Aspekte ermöglichen .
+Diese Kriterien , auf die in Kapitel 4.1 noch einmal eingehen wird , bilden die Grundlage für die Untersuchung der Frage , ob sich der Elysée-Vertrag für eine Thematisierung im landeskundlichen DaF-Unterricht eignet .
+Vor der Auseinandersetzung mit den Kriterien wird im folgenden Kapitel zunächst der Erinnerungsort Elysée-Vertrag vorgestellt .
+Beim Elysée-Vertrag handelt es sich um einen Vertrag über die deutsch-französische Zusammenarbeit , der am 22.01.1963 vom damaligen deutschen Bundeskanzler Konrad Adenauer und vom französischen Präsidenten Charles de Gaulles im Pariser Elysée-Palast unterzeichnet wurde .
+Er ist ein wichtiger deutsch-französischer Erinnerungsort , da er ein Symbol für die Partnerschaft und die Annäherung der beiden Länder darstellt , die sich in den Jahrzehnten zuvor blutig bekämpft hatten .
+Mit diesem offiziellen Vertrag „ [ wurden ] aus den früheren ‚Erbfeinden ‘ die wichtigsten Partner in Europa “ ( Bundeszentrale für politische Bildung 2013 ) , die zusammen auch den Grundstein für den Frieden , in dem die Europäer seit Ende des Zweiten Weltkriegs leben , legten ( ebd. ) .19 Betrachtet man die Zeit zwischen 1870/71 und 1945 , erscheint es wie ein Wunder , dass Deutschland und Frankreich heute ein sehr partnerschaftliches Verhältnis zueinander pflegen .
+Die Annäherung der beiden Länder erfolgte über mehrere Etappen , von denen einige wichtige im Folgenden beleuchtet werden sollen .
+Das deutsch-französische Verhältnis vor 1945 wird im Rückblick häufig mit dem Begriff der Erbfeindschaft beschrieben .
+Diese These der Erbfeindschaft zwischen Deutschland und Frankreich ist laut Steinkühler aber „ historisch nicht haltbar “ ( Steinkühler 2002 : 10 ) .
+Pfeil beschreibt es sogar als „ historische [ n ] Unfug “ ( Pfeil 2015 : 219 ) .
+Für Frankreich waren lange Zeit v.a. England bzw. Großbritannien und Russland die Hauptantagonisten , nicht Deutschland ( Steinkühler 2002 : 10 ; Pfeil 2015 : 219 ) . 20
+Für die deutsche Seite waren seit dem Ende des Mittelalters v.a . die Türken , die „ als Bedrohung für das christliche Abendland “ ( Pfeil 2015 : 220 ) gesehen wurden , die Gegenspieler .
+Erst im 19. Jahrhundert , als Preußen eine „ Politik der nationalen Einigung Deutschlands “ ( Steinkühler 2002 : 11 ) einleitete und die Befreiungskriege gegen Napoleon ( 1813 ) eine verstärkte antifranzösische Stimmung aufkommen ließen , kam es zu Spannungen zwischen dem in Entstehung befindlichen Deutschen Reich und Frankreich .
+Diese entwickelten sich v.a. mit dem Deutsch-Französischen Krieg 1870/71 zu einer offenen Feindseligkeit zwischen den beiden Ländern ( ebd. : 11 ; Pfeil 2015 : 219 ) .
+Mit dem Ende des Krieges und der Gründung des Deutschen Reiches im Spiegelsaal von Versailles 1871 begann das , was Pfeil als ein „ Wechselspiel von Sieg und Niederlage , Demütigung und Revanche “ und als „ symbolträchtige [ s ] Ping-Pong-Spiel “ bezeichnet ( Pfeil 2015 : 220 ) .
+Zwei zentrale Orte dieses „ Spiels “ sind Versailles21 und ein Eisenbahnwaggon in Compiègne ( ebd. : 220-221 ) .22 Die entstandene Feindschaft konnte erst im Laufe der Nachweltkriegsjahrzehnte langsam abgebaut werden , aber insgesamt „ gelang es Deutschen und Franzosen nach Kriegsende , ihre Beziehungen in einen Prozess der Verständigung , Annäherung , Aussöhnung , Kooperation und Partnerschaft zu überführen , der zugleich auf ganz ( West- ) Europa friedensstiftend wirkte “ ( Defrance ; Pfeil 2011 : 9 ) .
+In Frankreich war seit dem Ende des Vichy-Regimes23 eine provisorische Regierung unter der Präsidentschaft von Charles de Gaulle an der Macht ( Hölzle 2015 ) .
+De Gaulle wollte Frankreich nach dem Krieg wieder zu Größe und Weltgeltung verhelfen .
+Bei der Konferenz von Jalta im Februar 1945 , bei der u.a. die Aufteilung Deutschlands thematisiert wurde , war er nicht eingeladen .
+Frankreich erhielt schließlich trotzdem eine Besatzungszone in Deutschland und einen Platz im Alliierten Kontrollrat .
+Deutschland wurde aufgeteilt und die alliierten Siegermächte Großbritannien , die Vereinigten Staaten , die Sowjetunion und Frankreich übernahmen die Regierungsgewalt ( Defrance ; Pfeil 2011 : 46 ) .
+Deutschlands Aufgabe bestand nun zunächst darin , das Vertrauen in der Welt zurückzugewinnen und es gegenüber Frankreich aufzubauen , denn zwischen den beiden Ländern hatte es dies zuvor nicht gegeben ( ebd. : 9 ) .
+Nach dem Krieg existierte in Bezug auf Deutschland v.a. in Frankreich die Befürchtung , dass Deutschland ähnlich wie nach dem Ersten Weltkrieg „ in absehbarer Zeit wieder zu Kräften kommen und erneut zur Bedrohung werden [ könnte ] “ ( Stratenschulte 2014 ) .
+Entsprechend bestand de Gaulles Deutschlandpolitik in der ersten Zeit nach dem Krieg aus den drei Pfeilern „ Rang , Sicherheit und Reparationen “ ( Defrance ; Pfeil 2011 : 46 ) , wobei ihm die Sicherheit vor Deutschland wichtiger war als wirtschaftliche Aspekte ( ebd. : 46 ) .
+Aus diesem Grund verlangte de Gaulle auch , das ehemalige Reich aufzuteilen .
+Er forderte „ die Abtretung des linken Rheinufers – inklusive des Saargebiets – und auch des Ruhrgebiets sowie seine Internationalisierung , um die Deutschen von ihrer Rüstungsindustrie abzuschneiden “ ( ebd. : 48-49 ) .
+Davon waren die anderen Siegermächte allerdings nicht zu überzeugen .
+Für die restlichen deutschen Länder stellte de Gaulle sich eine „ konförderale Verbindung “ vor ( ebd. : 49 ) .
+Nach zwei Jahren an der Spitze der provisorischen Regierung trat de Gaulle im Januar 1946 zurück , da es parlamentsinterne Streite über die Gestaltung der neuen Verfassung gab ( Hölzle 2015 ) .
+Mit dem Beginn des Kalten Krieges 194724 und der wachsenden Angst vor der Sowjetunion veränderte sich die Situation in Europa , denn nun existierte eine deutsche und eine sowjetische Bedrohung .
+Das politische Vorgehen Frankreichs musste so zwei Fragen gleichzeitig lösen : Wie konnte der Westen trotz eines teilweisen Rückzugs amerikanischer Truppen genügend Stärke aufbringen , um gegen die Sowjetunion und eine mögliche Bedrohung durch sie bestehen zu können , und wie konnte Deutschland in ein solches Konzept eingebunden werden , ohne seinerseits zur Gefahr für seine Nachbarn zu werden ?
+( Stratenschulte 2014 ) .
+Eine Antwort auf beide Fragen bot die europäische Zusammenarbeit .
+Die Notwendigkeit dazu wurde bereits direkt nach dem Zweiten Weltkrieg von vielen Politikern erkannt und diskutiert .
+In der direkten Nachkriegszeit ging es allerdings eher darum , durch ein europäisches Bündnis einen Gegenpol zur starken amerikanischen Wirtschaft zu bilden , denn die einzelnen europäischen Länder waren nach dem Krieg wirtschaftlich ruiniert .
+Zu starke nationale Interessen verhinderten zu der Zeit noch die Gründung eines solchen Bündnisses .
+Mit dem neuen Bedrohungsszenario aus dem Osten verloren diese „ Interessendivergenzen “ ( Defrance ; Pfeil 2011 : 66 ) ihre Bedeutung und die Bündnisidee wurde wieder aufgegriffen .
+Der Ost-West-Konflikt kann somit als Motor für die europäische Integration und somit auch als „ Katalysator der deutsch-französischen Annäherung “ ( ebd. : 10 ) bezeichnet werden .
+Ein erster Schritt hin zur europäischen Integration , die wiederum den institutionellen Rahmen für die deutsch-französische Annäherung und Aussöhnung bildete , war die Gründung des Europarats 1949 durch zehn europäische Staaten,25 dessen Ziel es war , „ durch die Zusammenarbeit der Staaten zu Frieden , Demokratie und Wohlstand beizutragen “ ( Stratenschulte 2014 ) .
+Ein Jahr später machte der französische Außenminister Robert Schuman in Anlehnung an die Pläne von Jean Monnet am 9. Mai 1950 den Vorschlag , die westdeutsche und französische Schwerindustrie , d.h. die Kohle- und Stahlindustrie , zu vereinigen und sie „ unter eine oberste Aufsichtsbehörde zu stellen , welche die wechselseitige Kontrolle garantieren und auch anderen Staaten offenstehen sollte “ ( Defrance ; Pfeil 2011 : 70 ) .
+Man wählte diese beiden Industriezweige , da sie in der Zeit zentral waren : Kohle war der Hauptenergieträger und Stahl war wichtig für den Wiederaufbau und auch in der Rüstungsindustrie von Bedeutung .
+Schumans Vorschlag wurde in die Tat umgesetzt .
+Zusammen mit Italien , Belgien , Luxemburg und den Niederlanden wurde im Jahr 1951 die Montanunion bzw. die Europäische Gemeinschaft für Kohle und Stahl ( EGKS ) gegründet ( Stratenschulte 2014 ) .
+Das Neue im Vergleich zu anderen internationalen Abkommen war , dass jeder Mitgliedsstaat ein wenig Souveränität abgab und die Kontrolle von allen Mitgliedsstaaten gleichermaßen praktiziert wurde .
+Das Ziel war die Bildung eines gemeinsamen Marktes für Kohle und Stahl ( Defrance ; Pfeil 2011 : 71 ) .
+Für Europa war dies laut Defrance und Pfeil eine „ völlig neue Friedensstrategie “ ( ebd. : 70 ) und die Bundesrepublik bekam „ die Möglichkeit , sich mit dem Westen auszusöhnen und wieder Aufnahme in die Völkerfamilie zu finden “ ( Stratenschulte 2014 ) , was Adenauer , seit September 1949 Bundeskanzler , sehr begrüßte .
+In den folgenden Jahren wurde vermehrt Öl und Erdgas als Energieträger eingesetzt und die Kohle verlor an Bedeutung .
+Um das europäische Projekt zu erhalten , bezog man die gesamte Wirtschaft ein und gründete die Europäische Wirtschaftsgemeinschaft ( EWG ) , die durch die Unterzeichnung der Römischen Verträge im März 1957 besiegelt wurde .
+Im gleichen Atemzug wurde die Europäische Atomgemeinschaft ( EURATOM ) gegründet ( Stratenschulte 2014 ) .
+1992 wurde aus der EWG die Europäische Union ( Bundeszentrale für politische Bildung 2013 ) .
+Ein Schritt zur deutsch-französischen Annäherung wurde zudem mit der Lösung der Saarfrage , d.h. der Frage nach der Zugehörigkeit des Saarlandes , das einige Zeit zwischen Frankreich und der Bundesrepublik stand , getan ( Defrance ; Pfeil 2011 : 85 ) .
+Nach dem Zweiten Weltkrieg wurde das Saargebiet Teil der französischen Besatzungszone , von der es Frankreich 1946 abtrennte .
+Anfang November 1947 erhielt das Saargebiet eine Landesverfassung , es stand aber noch unter französischer Aufsicht .
+Entsprechend hatte es einen teilautonomen Status ( Bundeszentrale für politische Bildung 2015 ) .
+Mit dem erwähnten Schuman-Plan wurde die Saarfrage verstärkt zum „ Zankapfel “ ( Defrance ; Pfeil 2011 : 83 ) zwischen der Bundesrepublik und Frankreich , denn es war nicht klar , ob das Saarland als eigenes Mitglied oder als Teil Frankreichs an der Montanunion teilnehmen sollte .
+Geklärt wurde die Saarfrage am 23. Oktober 1955 , als in einer Volksabstimmung gut zwei Drittel der saarländischen Bevölkerung für eine Wiedereingliederung in das Gebiet der Bundesrepublik stimmten ( ebd. : 83-85 ) .
+Für Konrad Adenauer war die deutsch-französische Aussöhnung , für die er sich schon in den 1920er Jahren als Oberbürgermeister von Köln eingesetzt hatte , „ eines seiner wichtigsten Ziele als Bundeskanzler “ ( Defrance ; Pfeil 2014 : 82-83 ) .
+Eine bedeutsame Basis für die Kooperation der beiden Länder legte er in den 1950er Jahren mit der Aufnahme enger Beziehungen zu den französischen Staatsmännern Guy Mollet und Pierre Mendès France ( ebd. : 83 ) .
+De Gaulle , der im Mai 1958 wegen des Algerienkriegs zurück an die Macht gerufen wurde , war hingegen „ nicht unbedingt bekannt für seine deutschlandfreundlichen Positionen “ ( ebd. : 83 ) , was für die Weiterführung der deutsch-französischen Beziehungen nicht das Beste bedeutete .
+Die deutsche Bundesregierung und die Öffentlichkeit Westdeutschlands verhielt sich de Gaulle gegenüber sehr reserviert , da man nicht einschätzen konnte , was man von ihm zu erwarten hatte .
+Auch Adenauer war sehr misstrauisch gegenüber de Gaulle ( Lappenküper 2003 : 224225 ) .
+Dieser hatte sich nämlich nach seinem Rückzug im Januar 1946 gegen den SchumanPlan und die EGKS ausgesprochen und war gegen ein föderales Europa ( Defrance ; Pfeil 2011 : 97 ) .
+Sein Ziel war „ ein Europa der in jeder Hinsicht souveränen Nationen , also etwas ganz anderes als das , was europäischen Visionären [ … ] vorschwebte “ ( Jöckel 2012 : 11-12 ) .
+Er präferierte eine zwischenstaatliche europäische Kooperation , deren Basis die Nationalstaaten sein sollten .
+De Gaulle strebte „ nach ‚grandeur ‘ , Prestige und staatlicher Unabhängigkeit “ ( Lappenküper 2003 : 225 ) und war der Meinung , dass man die Position Frankreichs und Europas gegenüber den USA stärken müsste , u.a. auch , weil die USA durch ihre wirtschaftliche Stärke versuchte , politische Dominanz in Westeuropa zu gewinnen ( Defrance ; Pfeil 2011 : 66 ; Steinkühler 2002 : 36 ) .
+Er stellte sich somit gegen die Abhängigkeit Frankreichs und Europas von den USA .
+Für Adenauer war hingegen die Westbindung ein zentrales Anliegen seiner Politik , denn sie und v.a. die enge Bindung zu den USA war für die Bundesrepublik im Kalten Krieg lebenswichtig ( Defrance ; Pfeil 2011 : 98 ) .
+Schon bevor er Kanzler wurde , wollte er Westdeutschland „ fest in den abendländischen Kulturkreis einbinden “ ( ebd. : 67 ) .
+Mit dieser Integrationspolitik sollte nicht nur Frieden geschaffen und der deutsch-französische Gegensatz überwunden werden , sondern auch erreicht werden , dass die Bundesrepublik möglichst schnell wieder eine gleichberechtigte Stellung neben den anderen Staaten einnimmt ( ebd. : 67 ) .
+Das erste Treffen der beiden Staatsmänner war ein Gespräch unter vier Augen am 14. und 15. September 1958 , zu dem de Gaulle Adenauer in seinen privaten Wohnsitz in Colombey-lesdeux-Églises eingeladen hatte ( ebd. : 99 ) .
+Adenauer war vor dem Besuch sehr besorgt und befürchtete , dass eine Verständigung zwischen de Gaulle und ihm aufgrund der unterschiedlichen Denkweisen schwierig werden könnte ( Steinkühler 2002 : 24 ) .
+Seine Befürchtungen erfüllten sich allerdings nicht .
+Nach einem Gedankenaustausch war man sich zum Schluss zumindest „ über die Notwendigkeit einer Weiterführung der deutsch-französischen Zusammenarbeit und den Wunsch [ … ] , Europa auf der Basis der Römischen Verträge weiterzuentwickeln “ einig ( Defrance ; Pfeil 2011 : 99 ) .
+Dieses erste Treffen zwischen Adenauer und de Gaulle lässt sich somit als ein weiterer wichtiger Schritt hin zur Verständigung der beiden Länder deuten .
+In den folgenden Jahren bis zur Unterzeichnung des Elysée-Vertrags trafen sich de Gaulle und Adenauer mehrmals .
+Die Verhandlungen zwischen den beiden Staatsmännern waren allerdings häufig nicht von einem Konsens geprägt , wie bei dem ersten Treffen .
+Der Weg , der zum Elysée-Vertrag führte , war somit keineswegs gradlinig .
+So gab es Gesprächsthemen , die immer wieder auf der Tagesordnung standen und zu Konflikten führten .
+Dazu gehörten die Deutschlandfrage und der Ost-West-Konflikt , aber auch die NATO26 und das Verhältnis zu den USA , die europäische Einigung und das Verhältnis zu Großbritannien27 sowie die bilateralen Beziehungen ( Steinkühler 2002 : 23 ) .
+Nicht unerwähnt bleiben dürfen im Vorfeld des Elysée-Vertrags die Staatsbesuche von de Gaulle und Adenauer im Juli und September 1962 , denn sie stellen zwei weitere zentrale Schritte für die Annäherung der beiden Länder dar .
+Sie wollten mit der Inszenierung ihrer Reisen Emotionen wecken und die Menschen in der Bundesrepublik und Frankreich von ihren Vorstellungen und ihrem Plan überzeugen und den Aufbau eines gegenseitigen Verständnisses vorantreiben ( Landeszentrale für politische Bildung Baden-Württemberg o.J. ; Defrance ; Pfeil 2014 : 92 ) .
+Nach dem Ende des Algerienkrieges lud de Gaulle Adenauer zu einem Staatsbesuch ein , der schließlich vom 2. bis 8. Juli 1962 stattfand .
+Als symbolischer Höhepunkt dieses Besuchs gilt die Teilnahme an einer Messe in der Kathedrale von Reims am 8. Juli 1962 .
+Diese Kathedrale „ bot die erste Bühne für die Inszenierung der neuen deutschfranzösischen Einigkeit “ ( Defrance ; Pfeil 2011 : 110 ) , denn hier sprach de Gaulle in seiner Ansprache an den sie empfangenden Bischof von Reims von einer Versöhnung von Deutschland und Frankreich : „ Eure Exzellenz , der Kanzler Adenauer und ich suchen Ihre Kathedrale auf , um die Versöhnung von Deutschland und Frankreich zu besiegeln “ ( Jöckel 2012 : 6 ) .
+Der Gegenbesuch von de Gaulle fand auf Einladung Adenauers vom 4. bis 9. September 1962 statt .
+Der französische Präsident wurde in jeder der von ihm bereisten Städte triumphal empfangen und seine Reden „ lösten in breiten Schichten eine bis dahin nicht bekannte Begeisterung für Frankreich aus [ … ] “ ( Steinkühler 2002 : 52 ) .28 Der Höhepunkt war allerdings de Gaulles Rede an die deutsche Jugend , die er am 9. September 1962 in Ludwigsburg auf Deutsch hielt und in der er die Zuhörer dazu beglückwünschte , „ junge Deutsche zu sein , das heißt Kinder eines großen Volkes [ … ] “ ( ebd. : 53 ) .
+Vermutlich kam dies derart gut an , da man als Deutsche bzw. Deutscher nach den beiden Weltkriegen das Gefühl hatte , im Ausland abgelehnt und verhasst zu sein .
+De Gaulle nahm den Zuhörern dieses Gefühl und befreite sie von den negativen Gedanken .
+Mit dieser Rede sprach sich de Gaulle in die Herzen der Jugendlichen , denn „ so voller Pathos alle diese Sätze gesprochen waren , so dürfte sich kaum jemand , der sie damals gehört hat oder heute liest beziehungsweise in Filmdokumenten wiedererlebt , der in ihnen enthaltenen Überzeugungen entziehen können “ ( ebd. : 53 ) .
+Der entscheidende symbolische Schritt auf dem Weg zur deutsch-französischen Verständigung war der Elysée-Vertrag , der am 22. Januar 1963 im Salon Murat des Elysée-Palastes in Paris von General de Gaulle , Konrad Adenauer , dem französischen Premierminister Georges Pompidou und von den Außenministern Maurice Couve de Murville und Gerhard Schröder unterzeichnet wurde ( Defrance ; Pfeil 2011 : 115 ) .
+Der Vertrag fixiert die zentralen Ziele der deutsch-französischen Kooperation und legt Regeln für ihre organisatorische Ausgestaltung fest ( Landeszentrale für politische Bildung Baden-Württemberg o.J. ) .
+Die Ziele werden in einer Gemeinsamen Erklärung zum Vertrag formuliert : Erstens die „ symbolische Besiegelung der deutsch-französischen Aussöhnung “ , zweitens die „ Begründung einer echten Freundschaft zwischen den beiden Völkern und insbesondere der Jugend “ und drittens die „ Förderung des Aufbaus des ‚Vereinigten Europa ‘ “ ( Auswärtiges Amt .
+Ministère des Affaires étrangères o.J. ) .
+Der Vertrag gliedert sich in die drei Teile Organisation , Programm und Schlussbestimmungen .
+Im organisatorischen Teil wird festgelegt , dass die Staats- und Regierungschefs , die Außenminister sowie die Leiter der Ministerien für Politik , Wirtschaft und Kultur der Bundesrepublik und Frankreich regelmäßig zusammentreffen , um sich auszutauschen .
+Der programmatische Teil gliedert sich in die Teilbereiche Auswärtige Angelegenheiten , Verteidigung sowie in Erziehungs- und Jugendfragen .
+Zentral in Bezug auf diese Teilbereiche ist die Festlegung , dass die Regierungen sich in allen bedeuteten Fragen der Außenpolitik mit dem Ziel einer möglichst homogenen Haltung der beiden Staaten verständigen .
+Der Fokus der Bemühungen in den Erziehungsfragen soll auf der Verstärkung des Sprachunterrichts für die jeweils fremde Sprache , auf der Frage nach der Gleichwertigkeit von Diplomen und auf der Zusammenarbeit in der wissenschaftlichen Forschung liegen .
+Zusätzlich wird die Schaffung eines Austausch- und Förderungswerks beschlossen , um die deutsche und französische Jugend einander näherzubringen .
+In den Schlussbestimmungen wird u.a. festgehalten , dass die Regierungen der anderen Mitgliedsstaaten der Europäischen Gemeinschaft regelmäßig über die deutschfranzösische Zusammenarbeit informiert werden ( Französische Botschaft in Deutschland 2003 ) .
+Mit der Unterzeichnung des Elysée-Vertrags wurde der deutsch-französischen Zusammenarbeit , die zuvor bereits auf zivilgesellschaftlicher Ebene existiert hatte ( siehe Kapitel 3.3 ) , ein offizieller Rahmen gegeben .
+Infolgedessen entstanden im Laufe der Jahrzehnte viele deutschfranzösische Kooperationen , von denen einige wichtige in der folgenden kurzen Übersicht genannt werden .
+Die einzige Kooperation , die direkt aus dem Elysée-Vertrag hervorgeht , ist das Deutsch-Französische Jugendwerk , DFJW , ( Office franco-allemand pour la jeunesse , OFAJ ) , das am 5. Juli 1963 gegründet wurde , um die Jugendbeziehungen zwischen Deutschland und Frankreich auszubauen .
+Damit war es sehr erfolgreich , denn das DFJW hat bis heute über acht Millionen Franzosen und Deutsche zusammengebracht ( Krebs 2015 : 204 , 206 ) .
+Es bietet viele verschiedene Programme sowie Aus- und Fortbildungen an und unterstützt u.a. Schüler- und Studentenaustausche , außerschulische Jugendbegegnungen und deutschfranzösische Projekte und Praktika .
+Darüber hinaus vergibt das Jugendwerk auch Stipendien .
+Weiterhin werden verschiedene Drittländerprogramme angeboten ( Deutsch-Französisches Jugendwerk o.J. ) .
+Ergänzend zum DFJW gab es weitere deutsch-französische Kooperationen .
+So wurde im Februar 1972 die Gründung von Deutsch-Französischen Gymnasien und die Einrichtung des deutsch-französischen Abiturs AbiBac festgelegt .
+Im Oktober 1989 wurde zudem die Deutsch-Französische Brigade gegründet , die aus französischen und deutschen Truppenteilen besteht .
+Eine weitere bekannte deutsch-französische Kooperation ist der Fernsehsender Arte , der im Oktober 1990 gegründet wurde und im Mai 1992 auf Sendung ging .
+Neben den deutsch-französischen Gymnasien existiert heute auch eine Deutsch-Französische Hochschule ( DFH ) , deren offizielle Gründung im Mai 2000 stattfand .
+Es handelt sich dabei nicht um eine isolierte Hochschule , sondern um einen Zusammenschluss von über 180 Hochschulen in Deutschland und Frankreich .
+Bei trinationalen Studiengängen werden auch Universitäten aus anderen europäischen Ländern integriert .
+Die letzte deutsch-französische Kooperation , die hier erwähnt werden soll , ist das Deutsch-Französische Geschichtsbuch , dessen erster Band im Juli 2006 erschien .
+Es handelt sich um ein inhaltlich identisches Geschichtsbuch , das in Frankreich und in Deutschland im Oberstufenunterricht eingesetzt wird , sich aber nicht auf die deutsch-französischen Beziehungen bezieht ( Foussier 2012 ) .
+Obwohl de Gaulle und Adenauer sehr unterschiedliche politische Ziele und Vorstellungen hatten , schafften sie es durch ihr persönliches Engagement und mit der Unterzeichnung des Elysée-Vertrags , die Bundesrepublik und Frankreich miteinander zu versöhnen .
+Sie wussten zudem , dass nur durch diese starke Zusammenarbeit ein geeintes und friedliches Europa zu erreichen sei ( Landeszentrale für politische Bildung Baden-Württemberg o. J. ) .
+Mit dem Elysée-Vertrag war zu Beginn lediglich die Unterzeichnungshandlung verbunden .
+Dies hat sich im Laufe der folgenden Jahrzehnte allerdings verändert , denn der Vertrag entwickelte sich von dem Ereignis der bloßen Vertragsunterzeichnung zu einem Erinnerungsort.29 Letzterer basiert wiederum auf einem Mythos.30 Die Geschichtswissenschaftlerin Heidi HeinKircher versteht unter einem politischen Mythos – von dem auch hier die Rede ist – eine „ emotional aufgeladene Narration “ , die nicht den historischen Tatsachen entspricht , sondern die die Geschichte „ in einer selektiven und stereotypisierten Weise interpretiert “ ( HeinKircher 2007 ) .
+Für seine Entstehung benötigt ein Mythos laut Hein-Kircher fesselnde Bilder und die Glorifizierung des beschriebenen Ereignisses ( ebd. ) .
+Sachverhalte , die dies nicht erfüllen , werden „ von der mythischen Narration ‚übersehen ‘ bzw. vernachlässigt [ … ] “ ( ebd. ) .
+Solche Mythen sind laut Frank wiederum notwendig , „ um eine solide kollektive Erinnerung zu schaffen “ ( Frank 2005 : 241-242 ) .
+Wie Hein-Kircher beschrieb , werden für die Entstehung eines Mythos einige Sachverhalte ausgeblendet .
+Auch Frank spricht davon , „ daß der Prozeß der Mystifikation durch eine gezielte Auswahl der Erinnerungen begleitet wird “ ( ebd. : 242 ) .
+Es werden somit nur diejenigen Aspekte und Erinnerungen eingebracht , „ die den meisten Sinn geben und die am stärksten zur Konstruktion von Symbolen beitragen “ ( ebd. : 242 ) .
+Entsprechend gibt es einige Erinnerungen , die in Vergessenheit geraten .
+De Gaulle kann , so Frank , als ein solches starkes Symbol für die Versöhnung gesehen werden , denn er war die Person , die sich als Kopf des französischen Widerstandes gegen Nazideutschland stellte ( ebd. : 242 ) .
+Man könnte somit sagen , dass seine Aura all das verdrängte , was bereits zuvor an Versöhnungsbemühungen vorhanden war .
+Frank spricht in diesem Zusammenhang lediglich Robert Schuman an ( ebd. : 242 ) , doch es gab , wie bereits in Kapitel 3.2 erwähnt , vor dem ElyséeVertrag mehrere Bemühungen , Deutschland und Frankreich einander anzunähern .
+Sie sind allerdings von der offiziellen Erzählung überschattet worden .
+Laut dem Mythos , der um den Elysée-Vertrag aufgebaut wurde , habe nämlich die Versöhnung zwischen Deutschland und Frankreich erst mit der Unterzeichnung des Elysée-Vertrages und somit mit de Gaulle und Adenauer begonnen ( Defrance ; Pfeil 2014 : 93 ) .
+Zusammenfassend lässt sich also sagen , dass der Vertrag deshalb als Mythos bezeichnet wird , weil man ihn gezielt zum Startpunkt der deutsch-französischen Versöhnung erklärte und dabei sämtliche andere Bemühungen um eine Aussöhnung , die bereits vor dem Elysée-Vertrag stattgefunden hatten , bewusst ausblendete .
+Dazu gehören die bereits genannten Anstrengungen um die Gründung der Montanunion von Jean Monnet und Robert Schuman , die einen ersten wichtigen Schritt zur politischen Annäherung der beiden Staaten darstellte .
+Erwähnt werden müssen hier außerdem die beiden Außenminister Aristide Briand und Gustav Stresemann , die für ihre diplomatische Annäherung der beiden Länder 1926 den Friedensnobelpreis erhielten ( Beaupré 2014 ) .
+Obwohl die Impulse der beiden Staatsmänner nicht lang währten , ist es ihnen hoch anzurechnen , dass sie in dieser frühen Zeit bereits eine Politik der Verständigung betrieben .
+Der Mythos um den ElyséeVertrag lässt außerdem in Vergessenheit geraten , dass es auch außerhalb der Politik Annäherungsbemühungen gab , und zwar in der Zivilgesellschaft .
+Die ersten pazifistischen Initiativen , die sich für eine deutsch-französische Annäherung stark machten , gab es schon Anfang des 20. Jahrhunderts und noch vor dem Ersten Weltkrieg .
+Dazu gehörten u.a. die 1912 gegründete Deutsch-Französische Liga und das 1913 ins Leben gerufene Institut für deutsch-französische Versöhnung .
+Mit dem Ersten Weltkrieg wurde ihre Arbeit allerdings beendet ( ebd. ) .
+Auch in der Zwischenkriegszeit gab es einige Versöhnungsbemühungen , z.B. von der Internationalen Frauenliga für Frieden und Freiheit und vom katholischen Pazifisten Marc Sangnier , der mehrere Treffen organisierte , bei denen v.a. deutsche und französische Jugendliche und ehemalige Soldaten zusammentrafen und diskutierten ( Beaupré 2014 ) .31 Seine Auffassung war , „ dass sich Versöhnung nicht auf die politischen Eliten beschränken dürfe “ ( ebd. ) .
+Nach dem Zweiten Weltkrieg und vor der Unterzeichnung des Elysée-Vertrags leisteten zivilgesellschaftliche Organisationen Versöhnungsarbeit zwischen Deutschland und Frankreich ( Defrance ; Pfeil 2013 ) .32 Zu nennen ist in diesem Zusammenhang zunächst das Bureau international de liaison et de documentation ( BILD ) und die Schwesterorganisation Gesellschaft für übernationale Zusammenarbeit ( GÜZ ) .
+Diese wurden Ende 1945 in Offenburg vom Militärseelsorger Jean du Rivau gegründet .
+Die zentralen Aufgaben der beiden Organisationen waren und sind „ die Information über das Nachbarland , die Durchführung von Jugendbegegnungen , Kolloquien , Studienreisen und die Ausbildung von deutsch-französischen Gruppenleitern “ ( Bourel 2015 : 272 ) .
+BILD und GÜZ sind vom DFJW anerkannt und werden von ihm unterstützt , um die Beziehungen zwischen deutscher und französischer Jugend fördern zu können .
+Die beiden Gesellschaften geben außerdem die Zeitschriften Dokumente und Documents heraus , die heute unter dem gemeinsamen Titel Dokumente/ Documents erscheint ( ebd. : 272-273 ) .
+Zudem wurde 1948 das heute nicht mehr existente Comité français d ’ échanges avec l ’ Allemagne nouvelle vom Philosophen Emmanuel Mounier gegründet .
+Diese französische Organisation entwickelte sich laut Defrance und Pfeil zu einer „ Drehscheibe der zivilgesellschaftlichen ( intellektuellen ) Aussöhnungsarbeit “ ( Defrance ; Pfeil 2013 ) , denn sie organisierte Begegnungsveranstaltungen und Podiumsdiskussionen und bot somit „ einen vorpolitischen Raum bzw. eine transnationale Öffentlichkeit “ ( Defrance ; Pfeil 2011 : 197 ) .
+Zu erwähnen ist ferner das 1948 gegründete und auch heute sehr aktive Deutsch-Französische Institut in Ludwigsburg , das aus einer Privatinitiative von Theodor Heuss , Fritz Schenk und Carlo Schmid hervorging ( Defrance ; Pfeil 2013 ) .
+So wie das Comité setzte das DFI auf eine „ öffentlichkeits- und multiplikatorenwirksame [ ] Verständigungsstrategie “ , die neue Kontaktmöglichkeiten schuf , einen Austausch von Informationen ermöglichte und so zur Veränderung von verhärteten Denkmustern und Bildern des anderen beitrug ( ebd. : 198 ) .
+Dank der Verständigungsarbeit dieser Organisationen kam es zur Gründung vieler Städtepartnerschaften .
+Die erste Partnerschaft entstand zwischen Montbéliard und Ludwigsburg , und zwar bereits im Jahr 1950 ( Defrance 2015 : 437 ) .
+Sie und andere frühe Städtepartnerschaften waren aber auch ein Resultat früher Bemühungen von Bürgermeistern aus beiden Ländern , die sich 1948 in der Schweiz und 1950 in Stuttgart mit dem Ziel der wechselseitigen Verständigung getroffen hatten .
+Sie begannen Austausche zu organisieren , die zunächst auf die Jugend konzentriert waren , sich dann aber schnell auf andere Altersgruppen ausdehnten ( ebd. : 437 ) .
+Eine starke Steigerung der Städtepartnerschaften ist allerdings erst ab 1958 zu verzeichnen , was laut Defrance mit der „ Wiederbelebung der europäischen Integration ab 1957 “ zusammenhing ( ebd. : 438 ) .
+Zuvor hatten noch Ressentiments und politische Spannungen die Ausbreitung verhindert .
+Als der Elysée-Vertrag unterschrieben wurde , existierten so bereits mehr als 100 Städtepartnerschaften .
+Ihre Zahl vermehrte sich im Laufe der Jahrzehnte so weit , dass man heute fast 2500 Partnerschaften zählt , die sich allerdings nicht allein auf Städte beziehen , sondern sogar Kommunen , Departements und Regionen miteinander verbindet ( ebd. : 437-438 ) .
+Trotz des Problems der Überalterung von aktiven Teilnehmern heutzutage sind Städtepartnerschaften „ weiterhin ein ermutigender Aspekt der deutsch-französischen Beziehungen “ , denn sie werden nicht abgeschafft , „ weil die jumelages33 heute fast zur kommunalen Norm gehören “ ( ebd. : 439 – Hervorhebung im Original ) .
+Abschließend ist zu sagen , dass der Elysée-Vertrag „ nicht alleine das Werk großer Männer oder gar nur der beiden ‚Lichtgestalten ‘ Adenauer und de Gaulle “ war ( Defrance ; Pfeil 2011 : 17 ) , wie es der Mythos vermittelt , sondern v.a. erst durch die Unterstützung aus der Zivilgesellschaft möglich wurde .
+Nach der Unterzeichnung des Elysée-Vertrags wollten de Gaulle und Adenauer „ nach einer Phase der Verständigung und Annäherung zur Normalität der Kooperation übergehen [ … ] “ ( Defrance ; Pfeil 2011 : 15 ) .
+Doch diese Normalität ließ auf sich warten .
+Der Grund war eine Präambel , die der Deutsche Bundestag dem Vertrag im Mai 1963 voranstellte und die die Beziehung der beiden Staaten zunächst trübte .
+Diese Präambel bekräftigte „ die engen politischen , wirtschaftlichen und verteidigungspolitischen Beziehungen mit den USA , Großbritannien und der NATO und korrigierte damit den von Adenauer und de Gaulle eingeschlagenen Weg auf einschneidende Weise “ ( Defrance ; Pfeil 2014 : 87 ) .
+Die Politiker , die für die Präambel votierten , waren nicht gegen die deutsch-französische Freundschaft .
+Sie hatten vielmehr Angst , den USA und Großbritannien den Eindruck zu vermitteln , dass man sich gegen die Beziehung zu ihnen entschieden habe ( ebd. : 88 ) .
+Für de Gaulle war dies eine „ politische Ohrfeige “ ( Wolfrum 2008 : 502 ) , denn er hatte mit der Unterzeichnung des Elysée-Vertrags wie Adenauer zwar auch eine völkerverbindende Absicht , aber in erster Linie ging es ihm um Europas Emanzipation von den USA .
+Der Vertrag hatte für ihn seinen Sinn verloren ( Defrance ; Pfeil 2014 : 87-88 ) .
+In Bezug auf die Ausgangslage nach dem Elysée-Vertrag sprechen Frank und Defrance und Pfeil daher auch von einem „ Paradox “ ( ebd. : 82 ; Frank 2005 : 239 ) , denn der Vertrag , der eigentlich zu mehr Zusammenarbeit zwischen Deutschland und Frankreich führen sollte , läutete zunächst sehr schlechte Beziehungen ein .
+Adenauer trat im Oktober 1963 zurück und der Atlantiker34 Ludwig Erhard wurde Bundeskanzler .
+Die deutschfranzösischen Beziehungen waren in seiner Amtszeit von dauerhaften Konflikten geprägt und eine Arbeit an der deutsch-französischen Verständigung fast nicht vorhanden ( Lappenküper 2003 : 226 ) .
+Laut Lappenküper war es nur „ der Zwang zur Konsultation “ , der den Zusammenbruch der Beziehungen verhinderte ( ebd. : 227 ) .
+Auch mit dem Wechsel zu Bundeskanzler Kurt Georg Kiesinger 1966 verbesserte sich das deutsch-französische Verhältnis nicht .
+Das fünfte Jubiläum des Vertrags verging nach Frank , bis auf einzelne Artikel , fast unthematisiert in der französischen Presse ( Frank 2005 : 240 ) .
+Laut Defrance und Pfeil ( 2014 : 93 ) war die Präambel zu dieser Zeit immer noch ein sensibles Thema .
+Eine Erinnerung an den ElyséeVertrag aufzubauen , war somit mehr als schwierig .
+Die Beziehung zwischen Deutschland und Frankreich verbesserte sich erst mit dem Rücktritt de Gaulles und der Abwahl von Kiesinger im Herbst 1969 ( Lappenküper 2003 : 229 ; Frank 2005 : 240 ) .
+Die Regierungen unter Georges Pompidou und Willy Brandt stimmten zwar in Bezug auf europapolitische Fragen nicht immer überein , konnten allerdings trotzdem einige Erfolge erzielen ( Lappenküper 2003 : 230 ) .
+Einer dieser Erfolge ist der Beitritt Großbritanniens in die Europäische Gemeinschaft , der von der Bundesrepublik bereits länger gefordert , von den Gaulle aber stets abgelehnt worden war ( Frank 2005 : 240 ; Lappenküper 2003 : 230 ) .
+Mit dem zehnten Jubiläum des Vertrags im Januar 1973 , zu dem Brandt und Pompidou feierliche Ansprachen hielten , begann laut Frank und auch Defrance und Pfeil die Mystifizierung des Elysée-Vertrags ( Frank 2005 : 241 ; Defrance ; Pfeil 2014 : 93 ) : Man fing an , „ den ElyséeVertrag zum Ausgangspunkt für das Masternarrativ von der deutsch-französischen Versöhnung zu machen “ ( Defrance ; Pfeil 2014 : 93 ) .
+Laut diesem Mythos habe alles mit de Gaulle und Adenauer begonnen .
+De Gaulle , der drei Jahre zuvor gestorben war , und Adenauer wurden dabei „ zu den Urvätern der deutsch-französischen Versöhnung stilisiert “ ( ebd. : 93 ) .35 Es mussten somit zehn Jahre vergehen , bis basierend auf dem Mythos eine Erinnerung um den Elysée-Vertrag aufgebaut werden konnte .
+Laut Frank wurde dieser Erinnerungsprozess zudem „ durch das Ableben de Gaulles und den Beginn seiner ‚Heroisierung ‘ 36 erleichtert “ ( Frank 2005 : 242 ) .
+Damit der Vertrag seinen heutigen Stellenwert in der Erinnerung erhalten konnte , brauchte er aber noch eine symbolische Unterfütterung ( ebd. : 242 ) .
+Diese erhielt der ElyséeVertrag allerdings nicht sofort in der auf Pompidou und Brandt folgenden Ära von Valéry Giscard d'Estaing und Helmut Schmidt .
+Zwar entwickelte sich unter Giscard d ’ Estaing und Schmidt die Zusammenarbeit gut , jedoch legten die beiden Staatsmänner und dabei v.a. Giscard d ’ Estaing keinen Wert auf Symbole und große Inszenierungen ( ebd. : 242 ) .
+Denn für ihn ging „ sein Wille zur Vervielfältigung der Kontakte mit dem Nachbarn östlich des Rheins [ … ] nicht mit dem Ziel einher , deutsch-französische Erinnerungsorte zu schaffen “ ( ebd. : 242-243 ) .
+Laut Frank lassen sich erst ab der Ära von François Mitterrand und Helmut Kohl starke Symbole identifizieren , die zur Festigung des Vertrags in den Erinnerungen und zur Konstruktion eines Erinnerungsortes beitrugen .
+Zuerst zu nennen ist dabei Mitterrands Rede vor dem deutschen Bundestag zwei Tage vor dem 20. Geburtstag des Elysée-Vertrags am 20.01.1983 .
+In dieser Rede unterstützte Mitterrand die Sicherheitspolitik Kohls durch seine Befürwortung , amerikanische Raketen zum Schutz vor der Sowjetunion in Europa zu stationieren .
+Um Frankreichs Solidarität mit Deutschland zu zeigen , wählte Mitterrand laut Frank mehrere passende Symbole : Er sprach in der Funktion des französischen Präsidenten im deutschen Bundestag , dem „ Herz der bundesdeutschen Demokratie “ ( ebd. : 243 ) , und an einem Datum mit Vergangenheitsbezug , das gleichzeitig einen runden Geburtstag des deutsch-französischen Versöhnungsvertrags markierte ( ebd. : 243 ) .
+Auch nach Defrance und Pfeil kann seine Rede als Wegbereiter betrachtet werden , „ der die bilaterale Kooperation konsolidieren hilft , aber auch um die Mythenbildung des deutsch-französischen ‚Paares ‘ voranzutreiben “ ( Defrance ; Pfeil 2014 : 94 ) .
+Nur 20 Monate später wurde diese Mythenbildung weiter genährt , und zwar mit dem über die Grenzen von Frankreich und Deutschland hinaus bekannten , symbolischen Händedruck von Mitterrand und Kohl vor dem Beinhaus in Douaumont in der Nähe von Verdun am 22. September 1984 .
+Die beiden Politiker nahmen dort an einer Zeremonie teil , um die im Ersten Weltkrieg gefallenen deutschen und französischen Soldaten zu ehren .
+Defrance und Pfeil beschreiben diesen Handschlag als eine „ meisterhafte [ … ] Inszenierung “ ( Defrance ; Pfeil 2014 : 94 ) , mit der sie eine gemeinsame Erinnerung an den Ersten Weltkrieg schufen .
+Die beiderseitig negativen Erinnerungen wurden somit herangezogen , um „ die Bildung einer engen Schicksalsgemeinschaft zu fördern “ ( Frank 2005 : 244 ) .
+Mit Verdun sollten nun nicht mehr trennende , sondern eine geteilte , binationale Erinnerung verbunden werden , „ die sich auf die wechselseitigen Metzeleien bezog und als Lektion für den Frieden in Gegenwart und Zukunft verstanden werden sollte “ ( ebd. : 244 ) .
+Es war ein Zeichen gegenseitiger Empathie .
+Eine traumatische wurde zu einer positiven Erinnerung .
+Eine zweite Umwandlung dieser Art fand laut Frank am 14. Juli 1994 , dem französischen Nationalfeiertag , statt , als deutsche Soldaten auf Einladung Mitterrands als Teil der deutschfranzösischen Brigade über die Champs-Elysées fuhren .
+Für die Franzosen war mit deutschen Soldaten an diesem Ort zuvor eine negative Erinnerung verbunden , denn die deutsche Wehrmacht führte während der Besatzungszeit in Paris Aufmärsche auf der Prachtstraße durch .
+Dass die Soldaten von den Zuschauern mit Applaus begrüßt wurden , ist ein Zeichen dafür , dass auch diese negative Erinnerung in etwas Positives umgedeutet wurde ( ebd. : 245 ) .
+Eine dritte Umwandlung und laut Defrance und Pfeil „ [ d ] ie bis dahin eindrucksvollste symbolische Inszenierung “ ( Defrance ; Pfeil 2014 : 95 ) des 22 .
+Januars ist mit den Feierlichkeiten zum 40. Jahrestag des Elysée-Vertrags im Jahr 2003 verbunden .
+In ihren Reden sprachen sowohl die deutsche als auch die französische Seite von Versöhnung , aber mit jeweils unterschiedlichen Bezugspunkten : Der Präsident der französischen Nationalversammlung JeanLouis Debré und der Staatspräsident Jacques Chirac benannten den Elysée-Vertrag als Startpunkt der Versöhnung .
+Der Präsident des deutschen Bundestags , Wolfgang Thierse und Bundeskanzler Gerhard Schröder allerdings bezogen in ihre Reden auch Robert Schuman , Jean Monnet und die EGKS sowie auch die Zivilgesellschaft mit ein ( ebd. : 95 ) .
+Sie zeigten damit , dass sie den Aussöhnungsbestrebungen vor dem Elysée-Vertrag einen wichtigen Stellenwert in der Verständigung der beiden Länder einräumen .
+Besonders symbolhaft war bei der Feierlichkeit jedoch der Ort , denn das Jubiläum wurde in Versailles gefeiert .
+Chirac wies auf die Bedeutung dieses Ortes hin , der sowohl für die Franzosen als auch für die Deutschen mit einem Trauma verbunden sei ( siehe Kapitel 3.1 ) .
+Laut Chirac sollte dieser Ort in Zukunft nicht mehr mit diesen Traumata verbunden sein , sondern ein Symbol für die Brüderlichkeit von Deutschland und Frankreich darstellen .
+Er deutete somit beide traumatische Erinnerungen in etwas Positives um .
+Schröder interpretierte es ähnlich ( Defrance ; Pfeil 2014 : 96 ) .
+Am gleichen Tag wurde die Einrichtung eines Deutsch-Französischen Tages beschlossen , der seitdem jedes Jahr am 22. Januar stattfindet und v.a. in Bildungseinrichtungen eine wichtige Rolle spielt .
+Laut Defrance und Pfeil trägt dieser Tag ebenfalls dazu bei , den Elysée-Vertrag weiter zu kanonisieren und in den Erinnerungen zu verankern ( ebd. : 96 ) .
+Im Juni 2004 und November 2009 gab es weitere symbolisch aufgeladene Versöhnungsgesten zwischen Deutschland und Frankreich .
+So nahm Gerhard Schröder als erster deutscher Bundeskanzler an der Gedenkfeier des D-Days im Juni 2004 in Caen teil .
+Er gedachte dabei der Normandie als Ort der Kriegshandlungen und auch den Soldaten , ließ aber mit Oradour-surGlane und den Deportationen „ die schmerzhaftesten Kapitel des Zweiten Weltkriegs “ ( Defrance 2013 : 20 ) aus.37 Im November 2009 nahm mit Angela Merkel erstmalig ein deutsches Regierungsoberhaupt an den Feierlichkeiten zum Ende des Ersten Weltkriegs teil und legte mit Nicolas Sarkozy einen Kranz am Grab des unbekannten Soldaten in Paris38 ab ( ebd. : 1920 ) .
+Nachdem zum 40. Jubiläum des Vertrages zum ersten Mal eine gemeinsame Sitzung vom Deutschen Bundestag und der französischen Nationalversammlung in Versailles stattgefunden hatte , erinnerten zum 50. Jubiläum im Jahr 2013 beide Parlamente im Reichstagsgebäude in Berlin an die Unterzeichnung .
+Außerdem wurde ein Deutsch-Französisches Jahr ausgerufen , in dem sowohl in Frankreich als auch in Deutschland viele Veranstaltungen stattfanden ( Bundeszentrale für politische Bildung 2013 ) .
+Dieses Deutsch-Französische Jahr begann allerdings nicht erst im Januar 2013 , sondern bereits im September 2012 und zwar symbolischerweise in Ludwigsburg , am Ort der Rede de Gaulles an die deutsche Jugend ( Defrance ; Pfeil 2014 : 98 ) .
+Die Feiern zum 40. und 50. Jubiläum des Elysée-Vertrages wurden größer gefeiert als die Jubiläen zuvor und erzeugten damit eine symbolische Wirkung .
+Gedenkfeiern wie diese lassen sich insgesamt als zentrale Merkmale bei „ der Entwicklung nationaler , wenn nicht gar grenzüberschreitender Mythen “ ( Defrance 2013 : 17 ) verstehen .
+Zum 55. Jubiläum des Vertrages wurde im Januar 2018 eine Videobotschaft von Angela Merkel und Emmanuel Macron ausgestrahlt , in der sich beide auf den 22. Januar 1963 bezogen und ihren Wunsch nach einer Erneuerung des Elysée-Vertrages für das Jahr 2018 äußerten ( Macron ; Merkel 2018 ) .
+Abschließend ist zu sagen , dass sich der Elysée-Vertrag über viele Jahre und mithilfe vieler symbolischer Versöhnungsgesten deutscher und französischer Politiker von einem Ereignis zu einem Erinnerungsort für die deutsch-französische Aussöhnung entwickelt hat .
+Heutzutage wird der Elysée-Vertrag als Ausgangspunkt für die deutsch-französische Versöhnung zunehmend kritisch gesehen und als Mythos entlarvt .
+Es ist allerdings bis heute so , das beweist die Eröffnung der ersten deutsch-französischen Gedenkstätte zum Ersten Weltkrieg am Hartmannsweilerkopf im November 2017 , bei der sich Macron und Steinmeier umarmten und sich für ein deutsch-französisches Gedenken an den Ersten Weltkrieg aussprachen , dass das deutsch-französische Verhältnis nicht ohne die Kraft von Symbolen und Gesten auskommt .
+Anhand der obigen Darstellungen wird außerdem deutlich , dass das binationale Verhältnis , wie wir es heute kennen , sich nicht geradlinig und problemlos entwickelt hat und auch heute sind immer wieder Hindernisse zu überwinden .
+Insgesamt ist aber auch zu erkennen , dass sich das Verhältnis trotz dieser Schwierigkeiten gut entwickelt hat : Deutschland und Frankreich unterhalten zueinander so viele Kooperationen wie sonst kein anderes Länderpaar und „ die deutsch-französische Aussöhnung [ gilt ] heute vielfach als Modell für andere Aussöhnungsprozesse “ ( Defrance ; Pfeil 2014 : 101 ) .
+Zudem hat dieser Versöhnungsprozess zur politischen Einigung Europas beigetragen ( Defrance 2013 : 16 ) .
+Ob es sich beim Elysée-Vertrag um einen gemeinsamen oder geteilten Erinnerungsort handelt , ist schwer zu sagen .
+Man kann aber wie bei Górny et al. ( 2012 : 14 ) davon ausgehen , dass es sich um einen geteilten Erinnerungsort handelt , da die erinnerten Inhalte in den Nationen nicht zu 100 % übereinstimmen werden .
+Um dies herauszufinden wäre eine größere Befragung von Deutschen und Franzosen notwendig .
+Erkennbar ist in der deutsch-französischen Aussöhnungsgeschichte zudem das dialogische Erinnern , denn beide Länder sind durch eine gemeinsame Gewaltgeschichte verbunden und Politiker beider Seiten haben im Laufe der Jahrzehnte den eigenen Anteil am Trauma des anderen anerkannt und das selbst verursachte Leid des anderen in die eigene Erinnerung übernommen .
+Beispiele dafür sind Reims 1962 und Verdun 1984 , denn die Politiker würdigten bei diesen Ereignissen „ die Erinnerungen des einstigen Gegners und seine Erinnerungsorte “ ( Defrance ; Pfeil 2014 : 95 ) .
+Dieser Prozess ist allerdings bei Weitem noch nicht abgeschlossen .
+Im DaF-Unterricht soll neben der Vermittlung der Sprache auch ein Verständnis der gegenwärtigen Gesellschaft und aktuell diskutierter Themen , erzielt werden .
+Die Beschäftigung mit dem Elysée-Vertrag im Unterricht kann dazu beitragen , ein Verständnis dafür zu vermitteln , warum Deutschland und Frankreich trotz existierender Meinungsverschiedenheiten heute ein derart enges Verhältnis zueinander pflegen und eng zusammenarbeiten .
+Sie gibt damit einen „ Einblick in die Beziehungsgeschichte der beiden Länder “ ( Flucke 2014 : 224 ) .
+Das vorliegende Kapitel beschäftigt sich mit praktischen Überlegungen zum Einsatz des Elysée-Vertrags im DaF-Landeskundeunterricht .
+Bevor allerdings die Materialien vorgestellt werden , wird zunächst die Eignung des Erinnerungsortes Elysée-Vertrag für den Unterricht untersucht und die Zielgruppe sowie Sprachniveau und die Zielsetzungen thematisiert .
+In Kapitel 2.4 wurden die Auswahlkriterien von Badstübner-Kizik für geeignete Erinnerungsorte vorgestellt .
+Im Folgenden werden diese Kriterien auf den Elysée-Vertrag angewandt , um zu überprüfen , ob sich der Vertrag als Erinnerungsort für die Thematisierung im DaFUnterricht eignet .
+Badstübner-Kiziks erstes inhaltliches Kriterium ist der Wiedererkennungswert für größere Gruppen .
+Konkret bedeutet dies , dass der Erinnerungsort in einer größeren gesellschaftlichen Gruppe eine gewisse Popularität besitzt , d.h. gemeinhin bekannt ist .
+Diese Bekanntheit kann laut Badstübner-Kizik auch über die Grenzen Deutschlands hinausgehen ( Badstübner-Kizik 2014 : 55 ) .
+Der Bekanntheitsgrad über die Grenzen Deutschlands hinaus ist beim ElyséeVertrag gegeben , da es ein binationaler Vertrag ist .
+Neben Deutschland ist er somit auch in Frankreich bekannt .
+Der Vertrag besitzt somit für Deutsche und Franzosen einen Wiedererkennungswert und wird mit der deutsch-französischen Freundschaft und Zusammenarbeit assoziiert .
+Allerdings ist zu sagen , dass dieser Wiedererkennungswert im Laufe der Jahrzehnte seit der Unterzeichnung abgenommen hat .
+Da die deutsch-französischen Beziehungen heutzutage Normalität sind und nicht mehr an ihrem Aufbau gearbeitet werden muss , rückt auch der Elysée-Vertrag als symbolischer Startpunkt in den Hintergrund .
+Diesen Aspekt bringt Jöckel gut auf den Punkt : „ Die Einzigartigkeit der deutsch-französischen Beziehungen war für die Kriegs- und Nachkriegsgeneration eine Selbstverständlichkeit , für heutige Jugendliche ist die Normalität dieser Beziehungen selbstverständlich und der Bezugspunkt ist eher Europa insgesamt “ ( Jöckel 2012 : 16 ) .
+In einer Straßenumfrage von Karambolage , einer deutsch-französischen Kultursendung vom Fernsehsender Arte , aus dem Jahr 2017 wurden Menschen aus Frankreich und Deutschland gefragt , was der Elysée-Vertrag ist ( Karambolage 2017 ) .
+Die Antworten zeigen , dass das Wissen um den Vertrag nicht einheitlich ist : Während einige den Vertrag kennen und einordnen können , ist er anderen nicht bekannt .
+Es ist daher schwierig , eine Aussage über den Wiedererkennungswert des Elysée-Vertrages zu tätigen .
+Es hängt bei einem solchen Erinnerungsort sicherlich davon ab , inwiefern man sich selbst mit den deutsch-französischen Beziehungen auseinandersetzt bzw. ob man generell politikinteressiert ist .
+Den meisten Deutschen und Franzosen müsste aber dennoch bewusst sein , dass Deutschland und Frankreich eine besondere Beziehung zueinander pflegen , auch wenn sie den symbolischen Startpunkt nicht kennen .
+Nach Badstübner-Kiziks zweitem inhaltlichen Kriterium sind zudem Erinnerungsorte für den Unterricht sinnvoll , die eine mediale Tradierung vorweisen , die über einen langen Zeitraum und über verschiedene Übertragungswege stattfindet ( Badstübner-Kizik 2014 : 55 ) .
+Denn nur „ [ b ] esonders starke und lebendige Erinnerungsorte zeichnen sich durch langfristige Tradierung über unterschiedliche Medien bis in die Gegenwart hinein aus “ ( Badstübner-Kizik 2015 : 12 ) .
+Der Elysée-Vertrag wird seit seiner Unterzeichnung bis heute über unterschiedliche Medien in Deutschland und Frankreich tradiert .
+Es gibt Berichte , Reportagen und Dokumentationen anlässlich der Jubiläen des Elysée-Vertrags auf den öffentlich-rechtlichen Fernsehsendern und im Radio .
+Zudem berichten deutsche und französische Zeitungen seit der Unterzeichnung über den Elysée-Vertrag , seine Auswirkungen und die deutsch-französischen Beziehungen und drucken z.B. Karikaturen ab.39 Im Internet gibt es , neben vielen anderen Angeboten , ein deutsch-französisches Portal ( www.deutschland-frankreich.diplo.de ) , das neben Informationen zum Elysée-Vertrag auch zusammenfassende Darstellungen zu deutsch-französischen Institutionen und Kooperationen sowie aktuelle Informationen zu den deutsch-französischen Beziehungen bereithält .
+Zudem bietet die Frankreich-Bibliothek des Deutsch-Französischen Instituts in Ludwigsburg ( www.dfi.de/de/Bibliothek/bibliothek.shtml ) Themendossiers , u.a. zum Elysée-Vertrag und zu den deutsch-französischen Beziehungen , an .
+Laut dem dritten inhaltlichen Kriterium von Badstübner-Kizik zeichnen sich Erinnerungsorte , die für den Einsatz im Unterricht sinnvoll sind , auch dadurch aus , dass sie „ immer wieder – und vor allem bis in die Gegenwart – rezeptionswürdig “ sind ( Badstübner-Kizik 2014 : 55 ) .
+Sie erwähnt in diesem Kontext auch , dass dies verschiedene Formen der Rezeption einschließt ( ebd. : 55 ) .
+Der Elysée-Vertrag erfüllt auch dieses Kriterium .
+Denn es gibt verschiedene Texte und Bilder zum Vertrag und seiner Unterzeichnung sowie zu seinen Auswirkungen .
+Zudem lassen sich im Internet verschiedene Videoausschnitte40 zum Vertrag und zu seiner Vor- und auch Nachgeschichte finden .
+Ergänzend dazu gab es zum 10. , 25. , 40. und 50. Jubiläum des Vertrags Briefmarken , die in Frankreich und Deutschland ausgegeben wurden .
+Zum 50. Jubiläum des Elysée-Vertrag wurde zudem eine 2-Euro-Münze , auf der die beiden Unterzeichner abgebildet sind , produziert .
+Nicht zu vergessen sind außerdem musikalische Auseinandersetzungen mit dem Elysée-Vertrag .
+Ein Beispiel dafür ist erstens das Chanson Göttingen von Barbara , das die französische Sängerin im Juli 1964 in Göttingen auf Französisch und auf Deutsch schrieb und mittlerweile als „ Hymne der Versöhnung “ gilt ( Bei der Kellen ; von Schenck 2014 ) .
+Zweitens lässt sich an dieser Stelle der Song Grenzgänger/ Frontalier von Zweierpasch aus dem September 2011 nennen .
+Das Lied des Hip-Hop-Duos aus Freiburg besteht sowohl aus deutschen als auch französischen Textteilen und wird durch Ausschnitte der Reden von de Gaulle und Adenauer nach der Unterzeichnung des Elysée-Vertrag zu Beginn und am Ende gerahmt .
+Abschließend seien auch noch einmal die vielen Karikaturen erwähnt , die von der Unterzeichnung bis heute das Geschehen bildlich auf den Punkt bringen und überzeichnen .
+All diese Beispiele dokumentieren die Wichtigkeit des Erinnerungsortes Elysée-Vertrag und zeigen , dass der Vertrag auch heute noch rezeptionswürdig ist .
+Badstübner-Kizik legte außerdem dar , dass die Rezeption und der Gebrauch geeigneter Erinnerungsorte einer gewissen Ritualisierung unterliegen .
+Dies bedeutet , dass die Erinnerung entweder eine relativ feste Verankerung im Alltag besitzt oder aber „ zu bestimmten , immer wiederkehrenden Anlässen [ erfolgt ] “ ( Badstübner-Kizik 2014 : 55 ) .
+Dieses Kriterium wird ebenfalls vom Elysée-Vertrag erfüllt .
+Es gibt zwar keine feste Verankerung im Alltag , aber jedes Jahr findet am 22. Januar der Deutsch-Französische Tag statt , der zum 40 . Jubiläum des Elysée-Vertrags ins Leben gerufen wurde ( Defrance ; Pfeil 2014 : 96 ) .
+Zudem werden die großen Jubiläen besonders gefeiert und dies wird wiederum über die Medien weiterverbreitet .
+Das 55. Jubiläum im aktuellen Jahr wurde nicht groß gefeiert , aber es fand eine Sondersitzung von der französischen Nationalversammlung und dem deutschen Bundestag statt und Merkel und Macron nahmen eine Videobotschaft auf , in der sie die Erneuerung des Elysée-Vertrages für dieses Jahr in Aussicht stellten ( Klimm 2018 ; Macron ; Merkel 2018 ) .
+Laut dem fünften inhaltlichen Kriterium haben adäquate Erinnerungsorte zudem einen „ symbolische [ n ] Bedeutungsüberschuss “ ( Badstübner-Kizik 2014 : 55 ) , was bedeutet , dass die Phänomene eine tiefgreifendere Bedeutung haben , als es zunächst scheint .
+Der Elysée-Vertrag ist primär das Schriftstück , das Charles de Gaulle und Konrad Adenauer am 22. Januar 1963 unterschrieben haben .
+Er symbolisiert darüber hinaus aber für Deutschland und Frankreich auch das Ende der deutsch-französischen Erbfeindschaft und ist ein Symbol für den Beginn der Freundschaft zwischen den beiden Ländern .
+Wenn man heutzutage vom Elysée-Vertrag spricht , hat man daher nicht die bloße Unterzeichnung des Schriftstückes im Kopf , sondern verbindet damit auch die tiefere symbolische Bedeutung des Beginns der deutschfranzösischen Freundschaft .
+Weiterhin ermöglicht es ein geeigneter Erinnerungsort , dass man etwas über seine Entstehung , seine Funktion und seine Überlieferung aussagen kann ( ebd. : 55 ) .
+Beim Elysée-Vertrag lässt sich anhand der Folgegeschichte gut nachvollziehen , wie dieser vom bloßen Ereignis der Unterzeichnung zu einem Erinnerungsort geworden ist und die gerade erwähnte symbolische Funktion erhalten hat .
+Eine große Rolle spielten und spielen in diesem Zusammenhang noch immer v.a. visuelle Inszenierungen durch die deutschen und französischen Politiker ( Defrance ; Pfeil 2011 : 203 ) wie z.B. die Messe in der Kathedrale von Reims , der sogenannte Bruderkuss nach der Unterzeichnung des Elysée-Vertrags und der Händedruck von Kohl und Mitterrand .
+Zu vergessen sind aber auch nicht die Reden und Feierlichkeiten zu den Jubiläen in den letzten Jahrzehnten , die bezeugen , dass hier eine besondere Erinnerungsarbeit stattgefunden hat .
+All dies , was bereits in Kapitel 3.4 näher beschrieben wurde , maß dem Vertrag Jahr für Jahr eine größere Bedeutung bei , sodass sich die beiden Länder Stück für Stück näherkommen konnten .
+Badstübner-Kiziks letztes Kriterium besagt , dass ein geeigneter Erinnerungsort neben all den bisher genannten Aspekten eine „ kontaktdidaktische Relevanz “ ( Badstübner-Kizik 2014 : 55 ) aufweist .
+Damit wird ausgesagt , dass der Erinnerungsort über die Grenzen der eigenen Nation hinaus die Möglichkeit gibt , Anknüpfungspunkte in einer anderen Nation zu generieren .
+Es soll möglich sein , die jeweiligen Bedeutungen , die mit dem Erinnerungsort in den betrachteten Ländern verknüpft sind , miteinander zu vergleichen .
+Da es sich beim Elysée-Vertrag um einen Erinnerungsort von Deutschland und Frankreich handelt , ist dieses Kriterium erfüllt .
+Zu fragen wäre lediglich , ob er in Deutschland und Frankreich eine ähnliche Relevanz für die Identität der Menschen aufweist und daher eher gemeinsame Bedeutungen und Erinnerungen mit dem Vertrag verknüpft werden oder ob diese unterschiedlich sind .
+Je nachdem , wie die Antworten ausfallen , kann man von einem gemeinsamen oder geteilten Erinnerungsort sprechen .
+Neben den inhaltlichen Kriterien erfüllt der Elysée-Vertrag auch die didaktischen Auswahlkriterien von Badstübner-Kizik ( ebd. : 56 ) .
+Der Elysée-Vertrag stellt zwar keinen Erinnerungsort dar , der überschaubar ist , da er viel historisches Hintergrundwissen benötigt , aber er lässt sich auf einzelne thematische Aspekte reduzieren , die man im Unterricht gut bearbeiten kann .
+Je nachdem , wie viel Zeit im Unterricht vorhanden ist , und je nach Stand der Lernenden , kann der Erinnerungsort intensiver oder auch in reduzierter Form behandelt werden .
+Dadurch dass der Elysée-Vertrag nach wie vor ein aktuelles Thema darstellt , existieren bearbeitbare Inhalte in den unterschiedlichsten medialen Formaten ( Texte , Audios , Filmausschnitte , Fotos etc. ) .
+So ist es möglich , diesen Erinnerungsort mit Hilfe verschiedener Medien zu bearbeiten , wodurch die von Badstübner-Kizik geforderte Vernetzbarkeit einzelner Aspekte und eine abwechslungsreiche Bearbeitung auf jeden Fall gegeben ist ( ebd. : 56 ) .
+Der ElyséeVertrag als Erinnerungsort lässt sich abschließend außerdem je nach Lerngruppe , Interesse und Vorwissen unterschiedlich ausführlich bearbeiten .
+Man kann sich lediglich auf einzelne Aspekte beziehen oder aber eine ausführlichere – z.B. chronologische – Vermittlung vornehmen .
+Einzelne Aspekte lassen sich bereits mit einem fortgeschrittenen Sprachniveau ( gutes BNiveau ) bearbeiten , wenn das Vorwissen ausreichend vorhanden ist .
+Ein geringeres Niveau ist hingegen nicht zu empfehlen .
+Dies hat v.a. damit zu tun , dass zum Verständnis der authentischen Materialien ein gewisses Sprachniveau vorhanden sein muss .
+Ergänzend dazu lässt sich das Thema Elysée-Vertrag auch mit unterschiedlichen Methoden , wie z.B.
+Bilden von Assoziationen , Durchführen einer Internetrecherche oder auch das Führen von Diskussionen , bearbeiten .
+Eine Progression im Hinblick auf sprachliches und kulturelles Wissen ist aufgrund der unterschiedlichen zu bearbeitenden thematischen Aspekte auch gesichert .
+Zusammenfassend lässt sich sagen , dass sich der Elysée-Vertrag sowohl nach den inhaltlichen als auch den didaktischen Kriterien von Badstübner-Kizik theoretisch für den Einsatz im Unterricht eignet .
+Eine praktische Überprüfung , die diese Eignung beweist , konnte im Rahmen dieser Arbeit aufgrund der zur Verfügung stehenden Zeit allerdings nicht realisiert werden .
+Die im Rahmen dieser Masterarbeit erstellten Unterrichtsmaterialien richten sich vorrangig an erwachsene französische Lernende , die an einer Universität in Frankeich Deutsch als Fremdsprache , ( interkulturelle ) Germanistik , interkulturelle Kommunikation oder angewandte Linguistik studieren und ihre Fähigkeiten in der deutschen Sprache als auch ihre historischen Kenntnisse aufbessern möchten , da „ insbesondere Studierende dieser Fachrichtungen authentische multiplikatorische Aufgaben im Bereich einer weit verstandenen sprachreflexiven Kulturdidaktik realisieren können “ ( Badstübner-Kizik ; Hille 2016b : 142 ) .
+Des Weiteren sind die Materialien auch für heterogene deutsch-französische Studierendengruppen geeignet .
+Ein Einsatz in Sprachkursen , wie z.B. am Goethe Institut in Frankreich wäre ebenso möglich .
+Aufgrund der komplexen Inhalte und der anspruchsvollen Texte ist der Einsatz des Materials für Studierendengruppen geeignet , die ein hohes sprachliches Niveau mit Kenntnissen von mindestens B2/ C141 nach dem Gemeinsamen europäischen Referenzrahmen ( GeR ) , vorweisen können .
+Einzelne Aspekte der Thematik können auch für andere ausländische DaF-Studierende ohne Frankreichbezug von Interesse sein .
+Denn anhand der Materialien lässt sich nachvollziehen , warum Deutschland und Frankreich heutzutage eine derart enge Verbindung pflegen .
+Es werden somit die Ausgangspunkte für aktuelle politische Gegebenheiten nähergebracht .
+Von Vorteil wäre es grundsätzlich , wenn es sich um Studierende der Geschichtswissenschaft handelt , dies ist aber kein Muss .
+Die zum deutsch-französischen Erinnerungsort Elysée-Vertrag entwickelten Arbeitsaufgaben haben nicht nur das Ziel , den Lernenden zu vermitteln , was der Elysée-Vertrag ist , sondern ihnen auch wesentliche Schritte der deutsch-französischen Versöhnungsgeschichte nahezubringen .
+Wichtig ist zudem , den Lernenden aufzuzeigen , dass die Erzählung über die Versöhnung , die auf dem Elysée-Vertrag beruht , nur eine mögliche Interpretation der vergangenen Ereignisse ist und sie über die Auseinandersetzung mit dem Mythos Elysée-Vertrag zu einer kritischen Herangehensweise an die Geschichte zu ermutigen .
+Neben diesem übergeordneten Lernziel sollen kleinere – inhaltliche , sprachliche , methodische und kulturdidaktische – Lernziele mit den Materialien erreicht werden .
+Die folgenden Abschnitte beschreiben diese Ziele .
+Das inhaltliche Lernziel der Unterrichtsmaterialien besteht im Kennenlernen des ElyséeVertrags als Erinnerungsort .
+Die Lernenden erhalten einen Einblick in ein Thema , das gleichermaßen für Frankreich und Deutschland von Interesse ist und für beide nicht nur eine historische Bedeutung hat , sondern auch eine aktuelle gesellschaftliche Relevanz aufweist .
+Sie erweitern durch die Beschäftigung mit dem Elysée-Vertrag ihr historisches Wissen zu diesem Erinnerungsort und zu den deutsch-französischen Beziehungen nach dem Zweiten Weltkrieg .
+Sie werden in den Arbeitsphasen A und B in die Vorgeschichte eingeführt , erhalten Informationen über den Elysée-Vertrag selbst , seine Unterzeichnungssituation sowie die Kooperationen , die im Anschluss an den Vertrag zwischen beiden Ländern angebahnt wurden und bis heute Bestand haben .
+Sie sind nach der Thematisierung des Aufgabenblocks C2 in der Lage , über erste Aussöhnungsbemühungen zwischen Deutschland und Frankreich zu sprechen und kennen nach der Beschäftigung mit Aufgabenblock C3 verschiedene symbolische Ereignisse in den deutsch-französischen Beziehungen , die einen Beitrag zur Entstehung des Erinnerungsortes geleistet haben .
+Mit der Thematisierung des neuen Elysée-Vertrags in Aufgabenblock D2 sind die Lernenden zudem fähig , sich mit anderen über aktuelle Entwicklungen in der deutsch-französischen Beziehung auszutauschen .
+Neben den inhaltlichen Zielen soll mit den vorliegenden Materialien auch eine Erweiterung der sprachlichen Kompetenzen erreicht werden .
+Anhand der verschiedenen Materialien und Aufgabentypen sollen sowohl das Hör- , und das Hörsehverstehen , das Leseverstehen , das Sprechen als auch das ( kreative ) Schreiben gefördert werden .
+Zusätzlich dienen sie der Wortschatzerweiterung .
+Der Schwerpunkt liegt insgesamt allerdings bei der Förderung der kommunikativen Kompetenz , die in fast allen Aufgabenblöcken eine Rolle spielt .
+So sollen die Lernenden u.a. Arbeitsergebnisse mündlich präsentieren , einen Kurzvortrag halten , eine sze nische Darstellung vorführen sowie in einer Diskussion ihren Standpunkt vertreten und Stellung zu den Argumenten anderer nehmen .
+Der Einsatz vielfältiger Materialien und die Integration unterschiedlicher Medien und Methoden trägt insgesamt dazu bei , dass die Lernenden bei der Bearbeitung der Unterrichtsmaterialien ihre methodischen Fähigkeiten und ihre medialen Kompetenzen ausbauen .
+Ein zentraler Stellenwert wird dabei der Förderung von Selbstständigkeit eingeräumt .
+Aus diesem Grund sind viele handlungsorientierte Aufgabenstellungen enthalten ( Recherchen , szenische Darstellung , Austausch in Gruppen etc. ) .
+Neben der Arbeit mit diversen Texten , Hörtexten und Videos , die in unterschiedlichen Sozialformen bearbeitet werden , werden die Lernenden mehrfach zu Internetrecherchen angeregt , um in Eigenaktivität für den Unterricht relevante Informationen zu recherchieren und zu filtern und diese anschließend ansprechend aufzuarbeiten und zu präsentieren .
+Das Präsentieren der Ergebnisse soll ebenfalls eine Erweiterung der methodischen und medialen Kompetenzen ermöglichen .
+Darum ist z.B. in Aufgabenblock B4 ein Kurzvortrag mit PowerPoint gefragt .
+In Aufgabenblock C3 kommt außerdem eine Methodenkombination aus Expertenrunden , Think-Pair-Share-Methode und Museumsgang vor .
+Dabei setzen sich die Lernenden zunächst in Einzelarbeit ( THINK ) mit dem Thema der eigenen Expertengruppe auseinander .
+In einem zweiten Schritt kommen alle Mitglieder der Expertengruppe zusammen und tauschen sich über ihre Ergebnisse aus ( PAIR ) .
+Im letzten Schritt werden die Ergebnisse in Form eines Museumsgangs mittels Plakaten präsentiert ( SHARE ) , und zwar in neu gemischten Gruppen , die aus jeder Expertengruppe ein Mitglied enthalten .
+Zentrale Informationen werden außerdem auf einem Laufzettel festgehalten , der gleichzeitig der Ergebnissicherung dient .
+Anhand dieser Methodenkombination wird die Informationsbeschaffung , -aufbereitung und -präsentation gleichermaßen eingeübt .
+Außerdem handelt es sich wie bei den Recherchetätigkeiten um ein lerner- und handlungsorientiertes Vorgehen , da die Lehrkraft die Arbeitsphase nur anleitet und der Rest von den Lernenden selbst übernommen wird , wodurch ihre Fähigkeit zum selbstständigen Arbeiten abermals gefördert wird .
+Zudem erfolgt das Lernen hier durch einen Austausch mit anderen und nicht nur in Einzelarbeit .
+Kooperative Methoden wie diese haben insgesamt einen zentralen Stellenwert in den Materialien .
+Ein weiteres Beispiel dafür ist das stumme Schreibgespräch in Aufgabenblock A1 , bei dem durch die Konzentration auf das Schreiben die Beiträge meist durchdachter sind als im mündlichen Austausch .
+Da sich hier außerdem alle Lernenden gleichermaßen beteiligen müssen , können auch introvertierte Studierende eingebunden werden .
+Eine weitere kooperative Lern- und Arbeitsform stellt die in Aufgabenblock D2 geplante Diskussion dar , in der es darum geht , zu lernen , einen Standpunkt zu vertreten , anderen Argumenten zuzustimmen oder zu widersprechen und auf Gegenargumente einzugehen .
+Mit dem Erarbeiten einer szenischen Darstellung in Aufgabenblock B2 wird zudem das ästhetische Lernen gefördert , das im Fremdsprachenunterricht häufig viel zu kurz kommt ( Schewe 2014 ) .
+Die kulturdidaktischen Lernziele umfassen Wissen , das sich auf die Erinnerungsgeschichte bezieht und den Erwerb von interkultureller Kompetenz einschließt .
+Es geht darum , sich mit dem Mythos Elysée-Vertrag , d.h. dem Mythos der deutsch-französischen Aussöhnung , auseinanderzusetzen und zu erkennen , dass man den Vertrag nicht nur als Startpunkt , sondern auch als Weiterführung von bereits getätigten Aussöhnungsbemühung verstehen kann .
+Die Lernenden verfügen durch die Beschäftigung mit den Inhalten der Arbeitsphase C über Wissen zu verschiedenen symbolischen Ereignissen , die dazu beigetragen haben , dass sich ein Erinnerungsort entwickeln konnte .
+Durch die Auseinandersetzung mit den Aussöhnungsbemühungen vor dem Elysée-Vertrag und mit dem Mythos Elysée-Vertrag wird ihnen zudem bewusst , dass die Darstellung , die deutsch-französische Versöhnung habe mit dem ElyséeVertrag begonnen , lediglich eine Interpretation der Vergangenheit darstellt , es aber weitere Perspektiven gibt , die man beleuchten kann und muss .
+Durch die Beschäftigung mit dem Mythos Elysée-Vertrag erhalten die Lernenden somit die Fähigkeit , fertige Interpretationsmuster nicht unhinterfragt zu übernehmen , sondern kritisch mit ihnen umzugehen .
+Anhand der Kriterien von Badstübner-Kizik sind sie zudem in der Lage , Aussagen darüber zu treffen , ob der Elysée-Vertrag sich als Erinnerungsort einstufen lässt .
+Durch den Austausch über Aufgaben , die persönliche Anknüpfungspunkte bieten , wird die Herausbildung von interkultureller Kompetenz gestärkt , wie z.B. bei den Fragen , was man selbst mit der deutsch-französischen Freundschaft verbindet ( A2 ) , welche Bedeutung die deutsch-französischen Beziehungen für sie haben ( D1 ) oder nach einer persönlichen Einschätzung des neuen Elysée-Vertrags ( D2 ) .
+Dies gilt v.a. dann , wenn eine national heterogene Lerngruppe vorliegt , deren Lernende unterschiedliche Sichtweisen auf das Thema haben .
+Durch diese Unterschiedlichkeit wird den Lernenden bewusst , dass es nicht nur ihre eigene Sichtweise gibt , sondern dass man aus unterschiedlichen Gründen auch zu anderen Meinungen kommen kann .
+Insgesamt wird dadurch die Fähigkeit herausgebildet , mit Menschen anderer Nationen „ über die Bedeutung historischer Ereignisse und kultureller Phänomene für die eigene Identität in Dialog zu treten “ ( Behrendt 2015 : 205 ) .
+Die reflexiven Anteile in Arbeitsphase D befähigen die Lernenden außerdem , über ihren eigenen Standpunkt in Bezug zum Elysée-Vertrag und zu den deutsch-französischen Beziehungen nachzudenken .
+Sie können sich dazu äußern , welche Bedeutung der Elysée-Vertrag für sie heute hat .
+Durch die vermittelten Inhalte soll insgesamt dazu beigetragen werden , dass sich die Lernenden kritisch mit den deutsch-französischen Beziehungen und der Darstellung des ElyséeVertrags in den Medien und von Seiten der Politiker auseinandersetzen können .
+Dies fördert bei den Lernenden die Fähigkeit , „ sich kompetent an Erinnerungs- und Identitätsdiskursen beteiligen zu können “ ( ebd. : 205 ) .
+Im Folgenden werden die erarbeiteten Materialien für die unterrichtliche Beschäftigung mit dem Elysée-Vertrag vorgestellt .
+Der Darstellung liegt das Phasenmodell von BadstübnerKizik und Hille ( 2016b ) zugrunde , das vier Arbeitsphasen unterscheidet : die Einführungsphase ( A ) , die Vertiefungsphase ( B ) , die Ausdifferenzierungsphase ( C ) und die Reflexionsphase ( D ) , die sich in den unten angefügten Tabellen ( siehe Tabelle 1-4 ) wiederfinden lassen .
+Jede Phase enthält vier Aufgabenblöcke , die jeweils unterschiedliche thematische Schwerpunkte behandeln und deren Komplexität mit jeder Phase steigt .
+Insgesamt handelt es sich um ein Baukastenprinzip , das es ermöglicht , offen und jeweils an die vorliegende Lerngruppe angepasst vorzugehen ( Behrendt 2016 : 91 ) .
+Aufgrund dieser Offenheit ermöglicht das Material auch eine binnendifferenzierende Vorgehensweise .
+So können z.B. zusätzliche Hilfen bereitgestellt werden , um das Material für schwächere Lernende bearbeitbar zu machen .
+Prinzipiell lassen sich die Materialien sowohl chronologisch bearbeiten als auch voneinander losgelöst , sodass je nach Lernstand und Vorwissen der Lernenden Schwerpunkte gesetzt werden können .
+Daher eignen sie sich auch als Zusatzmaterialien für den landeskundlichen Unterricht .
+Auf eine zahlenmäßige Angabe benötigter Unterrichtseinheiten wird aufgrund des Baukastenprinzips verzichtet .
+Da die Erinnerung immer mehrere Sinne einbezieht und die Erinnerungsorte an sich über verschiedene mediale Formate übermittelt werden , wurde bei der Erstellung der Materialien zusätzlich zu den in den Lernzielen genannten Aspekten darauf geachtet , dass die Material- und Methodenauswahl vielfältig und abwechslungsreich ausfällt , den Erinnerungsort anschaulich macht und Gesprächsanlässe bietet ( Schmidt ; Schmidt 2007b : 423 ; Badstübner-Kizik 2015 : 13 ) .
+Als Materialien dienen daher verschiedene authentische Texte , Bilder , Videos , eine Karikatur und ein Lied .
+An dieser Stelle ist zudem zu erwähnen , dass eine theoretische Beschäftigung mit dem Konzept der Erinnerungsorte in den vorliegenden Unterrichtsideen nur in einem kurzen – relativ anspruchsvollen – Aufgabenblock vorgesehen ist .
+Um sich jedoch vertieft mit dem Thema auseinandersetzen zu können und einen möglichst hohen Lernzuwachs auf der Seite der Lernenden zu gewährleisten , wäre eine Beschäftigung mit dem Erinnerungsortekonzept im Allgemeinen vor dem Einsatz der im Folgenden präsentierten Materialien von Vorteil .
+In dieser Einheit sollten wichtige Grundlagen , d.h. Wissen zum kollektiven Gedächtnis von Halbwachs , zu den Erinnerungsorten von Nora und zu den Deutschen Erinnerungsorten von François und Schulze , die für den deutschen Rahmen eine zentrale Orientierung bieten , vermittelt werden .
+Da es sich beim Elysée-Vertrag um einen binationalen Erinnerungsort handelt , wäre zusätzlich eine Thematisierung von binationalen Projekten und damit auch die Unterscheidung von gemeinsamen , geteilten und parallelen Erinnerungsorten von Interesse .
+Die folgenden Abschnitte geben einen Überblick über die Arbeitsphasen A bis D und deren thematische Aufgabenblöcke .
+Die Einführungsphase dient allgemein dem Einstieg und der Sensibilisierung der Lernenden für das Thema .
+Sie erhalten eine erste Orientierung zum Erinnerungsort und die Möglichkeit , eine persönliche Verbindung zum Thema herzustellen ( Behrendt 2016 : 91 ) .
+Es ist eine Phase der „ Vorbereitung “ und „ Vorentlastung “ ( Badstübner-Kizik ; Hille 2016b : 142 ) .
+Anhand der Materialien in der Einführungsphase bekommen die Lernenden einen kurzen Einblick in das Thema Erinnerungsorte , bevor sie an den Elysée-Vertrag , herangeführt werden .
+Als übergeordnetes Lernziel der Einführungsphase lässt sich festhalten , dass die Lernenden über ein Basiswissen zum Elysée-Vertrag und auch zu seiner Vorgeschichte besitzen , mit dem sie in der Vertiefungsphase weiterarbeiten können .
+Im ersten Aufgabenblock ( A1 ) wird eine theoretische Einführung in das Thema Erinnerungsorte vorgenommen .
+Der Zugang erfolgt über ein stummes Schreibgespräch , in dem sich die Lernenden nur über die Schrift verständigen .
+Nach Abschluss der Übung werden die Ergebnisse in den Kleingruppen betrachtet und eine erste Definition des Begriffs Erinnerungsort formuliert .
+Die beiden anschließenden Aufgaben fokussieren das Leseverstehen .
+Zunächst wird ein Text zum Thema gelesen .
+In Einzelarbeit machen sich die Lernenden Notizen zum Begriff Erinnerungsort und besprechen danach in den Kleingruppen aus der ersten Aufgabe , wie sie den Begriff in eigenen Worten erklären würden .
+Zur Unterstützung ihrer Erklärung fertigen die einzelnen Gruppen Plakate an , die im Anschluss im Kurs vorgestellt werden .
+Die vierte Aufgabe , in der sich die Lernenden über mögliche Erinnerungsorte ihrer Nation ( en ) austauschen sollen , ermöglicht außerdem die Herstellung einer ersten persönlichen Verbindung zum Thema .
+An dieser Stelle können selbstverständlich auch bi- und multinationale Erinnerungsorte angesprochen werden .
+Das sprachliche Niveau ist aufgrund der Komplexität im Bereich B2/ C1 einzuordnen .
+Für eine Thematisierung auf einem B2-Niveau sollte das Thema auf jeden Fall ausführlicher besprochen werden .
+Der zweite Aufgabenblock ( A2 ) führt allgemein in das Thema der deutsch-französischen Freundschaft ein .
+Die vorliegende Karikatur veranschaulicht die Freundschaft zwischen Deutschland und Frankreich anhand eines Mannes , der sein Croissant in ein Bier taucht .
+Die Lernenden beschreiben zunächst , was sie sehen , bevor sie sich im Anschluss an eine Interpretation wagen und sich eine Überschrift überlegen .
+Für die Beschreibung und Interpretation stehen Redemittel zur Verfügung .
+In einer kreativen Aufgabe werden die Lernenden zum Abschluss dieses Aufgabenblocks dazu angeregt , sich persönlich mit dem Thema deutschfranzösische Freundschaft auseinanderzusetzen und eine Collage zu ihren Assoziationen zu erstellen .
+Für diesen Aufgabenblock sollte ein B2-Niveau vorhanden sein .
+Im dritten Aufgabenblock ( A3 ) beschäftigen sich die Lernenden mit dem deutschfranzösischen Freundschaftsvertrag , denn so wird der Elysée-Vertrag auch genannt .
+In Partnerarbeit machen sich die Lernenden über mögliche Gründe für die Unterzeichnung eines Freundschaftsvertrags zwischen zwei Ländern Gedanken , was wiederum als Vorbereitung für die nächsten Schritte gelten kann .
+Im Anschluss sehen die Lernenden ein Foto , das de Gaulle und Adenauer bei der Umarmung nach der Unterzeichnung des Elysée-Vertrags zeigt und sollen sich zu diesem äußern .
+Eine Internetrecherche soll den Lernenden dann erste Informationen zum Elysée-Vertrag geben und sie zur Weiterarbeit an diesem Thema motivieren .
+Sie erweitern damit ihre Recherchekompetenzen , da sie deutschsprachige Homepages auf die gewünschten Informationen hin untersuchen müssen .
+Ein Lückentext , verknüpft mit einer kurzen Hörübung , soll abschließend eine erste kurze Zusammenfassung zum Thema ElyséeVertrag bieten .
+Auch dieser Aufgabenblock ist für ein B2-Nivau vorgesehen .
+Der letzte Aufgabenblock der Einführungsphase ( A4 ) widmet sich der Vorgeschichte des Elysée-Vertrags , die die Lernenden möglicherweise bereits in ihrer Internetrecherche kurz angerissen haben .
+Die erste Aufgabe , das Zuordnen von Ereignissen zu den passenden Daten , soll das Vorwissen aus Aufgabenblock A3 und auch das allgemeine geschichtliche Wissen der Lernenden aktivieren und gegebenenfalls Lücken füllen .
+Die Lösungen überprüfen die Lernenden mithilfe von zwei Videos , die sich – im weitesten Sinne – mit der Vorgeschichte des Elysée-Vertrags beschäftigen .
+Sowohl mit dieser als auch der nächsten Aufgabe , dem Notieren von zusätzlichen Informationen zu den Ereignissen aus der ersten Aufgabe , erweitern die Lernenden ihre Hörsehkompetenz .
+Eine abschließende Ergebnissicherung findet anhand der vierten Aufgabe , einer Präsentation der Ergebnisse im Kurs , statt .
+Dieser Aufgabenblock ist für ein gutes B2-Niveau geeignet .
+In der Vertiefungsphase wird der Erinnerungsort mehrdimensional untersucht .
+Dafür sollen die Aufgaben verschiedene Aspekte des Erinnerungsortes aufzeigen ( Behrendt 2016 : 91 ) .
+Zusammengenommen geht es um die Vertiefung der Inhalte aus der Einführungsphase .
+Die Materialien der Vertiefungsphase widmen sich der direkten Vorgeschichte des ElyséeVertrags , dem Vertrag selbst sowie den deutsch-französischen Kooperationen , die in den Jahren nach der Unterzeichnung entstanden sind .
+Das übergeordnete Lernziel besteht darin , dass die Lernenden ihr Wissen aus der Einführungsphase vertiefen und eine genauere Vorstellung vom Erinnerungsort Elysée-Vertrag erhalten .
+Der erste Aufgabenblock ( B1 ) beschäftigt sich mit den beiden Unterzeichnern des ElyséeVertrags , de Gaulle und Adenauer , und im Speziellen mit de Gaulles Rede an die deutsche Jugend in Ludwigsburg vom 9. September 1962 .
+Die Lernenden erfahren anhand eines kurzen Textes etwas über die erste Begegnung der beiden Staatsmänner und die gegenseitigen Staatsbesuche .
+Die nächsten Aufgaben beziehen sich auf de Gaulles Rede in Ludwigsburg .
+Die Lernenden formulieren zunächst Hypothesen über den Inhalt der Rede .
+Im Anschluss schauen sie sich die Videoaufzeichnung der Rede en erstes Mal an .
+Dabei sollen sie sich zunächst auf de Gaulles Wirkung und die Reaktion des Publikums konzentrieren und Notizen anfertigen .
+Beim zweiten Anschauen überprüfen sie , ob der Inhalt der Rede mit den zuvor formulierten Hypothesen übereinstimmt und notieren diese inhaltlichen Aspekte .
+Die Lernenden erweitern durch das Ansehen des Videos mit der Aufgabe , Fragen dazu zu beantworten , ihr Hörsehverstehen .
+Zur Bearbeitung ist das Austeilen des Redetextes nach dem Schauen des Videos von Vorteil , da de Gaulle auf Deutsch spricht und die Aufnahme nicht immer ganz deutlich ist .
+Von besonderem Interesse wäre es , darüber nachzudenken , warum das Publikum so begeistert reagiert und zu überlegen , was de Gaulle mit der Rede möglicherweise erreichen wollte .
+In der vierten Aufgabe sollen sich die Lernenden in einen deutschen Jugendlichen oder eine deutsche Jugendliche hineinversetzen , der bzw. die bei der Rede anwesend war , und einen Tagebucheintrag zu seiner bzw. ihrer Wahrnehmung schreiben .
+Die Lernenden nehmen hiermit einen Perspektivwechsel vor und versuchen sich in die Situation der deutschen Jugendlichen hineinzuversetzen und deren Gedanken nachzuvollziehen .
+Für die letzte Aufgabe erhalten die Lernenden vier Zeitzeugenberichte , die in Kleingruppen gelesen und mit dem Inhalt der eigenen Tagebucheinträge verglichen werden .
+Das Sprachniveau sollte zwischen B2 und C1 liegen .
+Aufgabenblock zwei ( B2 ) konzentriert sich auf die Unterzeichnungssituation des ElyséeVertrags , die in Gruppen von fünf bis sechs Lernenden szenisch dargestellt werden soll .
+Als Grundlage für die szenische Darstellung dienen zwei Texte , und zwar Verschriftlichungen einer Live-Reportage und einer Bildanalyse .
+Diese Texte enthalten sowohl Hinweise für Handlungen als auch den gesprochenen Text der beiden Staatsmänner nach der Unterzeichnung .
+Sie bieten somit eine gute Grundlage für die Umwandlung in die Textsorte Drehbuch , was wiederum die Aufgabe nach dem Lesen der beiden Texte ist .
+Da die meisten Lernenden noch nie ein Drehbuch geschrieben haben werden , erhalten sie für das Umschreiben einige Hilfestellungen .
+In einem dritten Schritt findet eine Auswahl von Requisiten statt und die Verteilung der Rollen wird bestimmt .
+Zudem wird die Situation so weit eingeübt , dass möglichst frei präsentiert werden kann .
+Nach den einzelnen Darstellungen vor dem Kurs werden die Schauspieler gefragt , wie sie sich ( mit dem geschichtlichen Hintergrund im Kopf ) in ihren Rollen gefühlt haben .
+Die Zuschauer beschreiben zudem , wie sie die Situation wahrgenommen haben ( z.B. War sie überzeugend ? Wenn nein : Warum nicht ? ) .
+Abschließend wird die Originalaufnahme der Unterzeichnungssituation angeschaut und mit den Darstellungen der Lernenden verglichen .
+Insgesamt setzen sich die Lernenden mit der Umwandlung einer Textsorte in eine andere auseinander und verwandeln das Geschriebene wiederum in Handlungen .
+Für diesen Aufgabenblock ist ein Sprachniveau zwischen B2 und C1 vorgesehen .
+Der dritte Aufgabenblock ( B3 ) beginnt mit einer Gruppenarbeit .
+Jede Gruppe erhält denselben Text über den Inhalt des Elysée-Vertrags , der in drei Teile geteilt und von den Gruppenmitgliedern gelesen wird .
+In den Gruppen tauschen sich die Gruppenmitglieder nach dem Lesen über die Textinhalte aus und stellen , falls etwas nicht verstanden wurde , Rückfragen an den Leser bzw. die Leserin .
+Im Anschluss informieren sich die Lernenden im Internet über die Präambel des Deutschen Bundestags , die dem Vertrag vor der Ratifizierung vorangestellt wurde .
+Sie sollen durch ihre Recherchen nachvollziehen , was diese Präambel bedeutete , denn letztlich machte sie den Vertrag fast unwirksam .
+Abschließend hören die Lernenden einen Podcast der Deutschen Welle über den Elysée-Vertrag , der die Inhalte der vorangegangen Aufgabenblöcke zusammenfasst und auch einige neue Aspekte einbringt .
+Die Lernenden trainieren mit dem Hören dieses Podcasts ihr Hörverstehen und vorrangig das selektive Hören , denn sie notieren sich lediglich die Aspekte , die neu sind und diejenigen , bei denen noch Fragen bestehen .
+Ergänzend dazu erklären sie die im Podcast erwähnte Rosenmetapher , laut der der Elysée-Vertrag wie eine Rose ist , die nicht von langer Dauer ist , und mit der man sich auf die Präambel bezog .
+Für diesen Aufgabenblock sollte ein Sprachniveau von C1 vorliegen .
+In Aufgabenblock vier ( B4 ) setzen sich die Lernenden mit verschiedenen Beispielen der deutsch-französischen Zusammenarbeit , die nach der Unterzeichnung des Elysée-Vertrags entstanden sind , auseinander .
+Sie arbeiten in Zweiergruppen an einem zugelosten Thema und erstellen mit PowerPoint eine kleine Präsentation , die nicht länger als fünf bis sieben Minuten sein soll , womit sie u.a. ihre Medienkompetenz stärken .
+Da die Präsentationszeit sehr be grenzt ist , müssen sich die Lernenden außerdem auf die wichtigsten Aspekte konzentrieren und sich kurzfassen .
+Mögliche Themen sind u.a. das Deutsch-Französische Jugendwerk , Arte und die Deutsch-Französische Hochschule .
+Anhand dieser Beispiele erfahren die Lernenden , dass die Auswirkungen des Elysée-Vertrags bis heute reichen , somit aktuell sind und auch heute noch eine Relevanz besitzen .
+Zur Unterstützung erhalten die Lernenden Recherchehilfen in Form von Websites und Sammelbänden , die zu vielen der Themen einen Überblick bereithalten .
+Dieser Aufgabenblock ist für ein gutes B2-Niveau geeignet .
+Die Ausdifferenzierungsphase ist nach Badstübner-Kizik und Hille „ oft mit Elementen einer bereiteren [ sic ! ]
+Kontextualisierung “ verbunden ( Badstübner-Kizik ; Hille 2016b : 142 ) .
+Tiefere Bedeutungsschichten und die symbolische Aufladung des Erinnerungsortes sollen nachvollzogen werden .
+Laut Behrendt geht es außerdem darum , den Diskurs um den Erinnerungsort „ als ein komplexes Konstrukt wahrzunehmen “ ( Behrendt 2016 : 91 ) .
+In der Ausdifferenzierungsphase geht es um das Thema Mythos Elysée-Vertrag und seine ansatzweise Dekonstruktion , symbolische Ereignisse , die dazu beigetragen haben , dass der Elysée-Vertrag zum Erinnerungsort geworden ist und darum , Überlegungen zu tätigen , ob man den Elysée-Vertrag als Erinnerungsort definieren würde .
+Das übergeordnete Lernziel dieser Phase ist , die Lernenden zu befähigen , den Elysée-Vertrag als komplexes Konstrukt zu begreifen , das einen Mythos darstellt , und fertige Interpretationsmuster nicht einfach zu übernehmen , sondern über diese nachzudenken .
+Der erste Aufgabenblock ( C1 ) spricht das Thema Mythos Elysée-Vertrag an , denn der Erinnerungsort , den wir heute kennen , basiert auf diesem Mythos .
+Die Lernenden werden dafür zunächst mit der Aussage Um den Elysée-Vertrag hat sich im Laufe der Zeit ein Mythos gebildet konfrontiert .
+In einer Kleingruppe werden Ideen gesammelt , was der Begriff Mythos hier bedeuten könnte .
+Im Anschluss lesen sie eine Definition von Heidi Hein-Kircher über den politischen Mythos , von dem in diesem Fall die Rede ist .
+In eigenen Worten wird das Gelesene wiedergegeben und dann spekuliert , was der Mythos um den Elysée-Vertrag beinhalten könnte .
+Im Anschluss erhalten die Lernenden eine zweite Aussage ( Der Mythos besagt , dass die deutsch-französische Aussöhnung mit dem Elysée-Vertrag begonnen habe ) , über deren Inhalt sie mit einem Partner diskutieren sollen .
+Der zweite Aufgabenblock ( C2 ) thematisiert deutsch-französische Annäherungsbestrebungen vor dem Elysée-Vertrag .
+In einem ersten Schritt stellen die Lernenden Überlegungen darüber an , wann es die ersten deutsch-französischen Annäherungsbemühungen gab .
+Haben sich die Lernenden in C1 mit der dritten Aufgabe auseinandergesetzt , müsste an dieser Stelle zumindest schon einmal bewusst sein , dass dies vor der Unterzeichnung des Elysée-Vertrags gewesen sein muss .
+Um die Vermutungen zu überprüfen und gegebenenfalls zu revidieren , recherchieren sie mithilfe vorgegebener Links im Internet , wann es tatsächlich die ersten Bemühungen gab und stellen diese Ergebnisse dann im Kurs vor .
+Zu nennen wären in diesem Zusammenhang insbesondere die ersten Bemühungen Anfang des 20. Jahrhunderts , die Rolle von Briand und Stresemann und die Bedeutung von Zivilgesellschaft und Städtepartnerschaften nach dem Zweiten Weltkrieg .
+Die folgenden drei Aufgaben beschäftigen sich mit dem wahrscheinlich bekanntesten Beispiel der deutsch-französischen Verständigung , und zwar mit Städtepartnerschaften .
+Die erste Städtepartnerschaft entstand auf Basis eines Treffens von deutschen und französischen Bürgermeistern im Juni 1950 , von dem in zwei Zeitungsartikeln die Rede ist , mit denen sich die Lernenden in Aufgabe drei näher auseinandersetzen .
+Aufgabe vier beschäftigt sich mit der ersten deutsch-französischen Städtepartnerschaft zwischen Montbéliard und Ludwigsburg , über die ein Artikel informiert .
+Nach dem Lesen überlegen sich die Lernenden Fragen zum Inhalt dieses Artikels und zu den beiden Zeitungsartikeln aus der vorigen Aufgabe .
+Der Kurs wird im Anschluss in zwei Gruppen aufgeteilt , die sich gegenseitig die überlegten Fragen stellen .
+Für jede richtig beantwortete Frage erhalten die Gruppen einen Punkt .
+Mit diesem Spiel soll etwas Abwechslung in die Bearbeitung des Textes gebracht werden und die Lernenden dazu motiviert werden , den Text möglichst gut zu verstehen , um mit der eigenen Gruppe gewinnen zu können .
+Anhand der letzten Aufgabe des Aufgabenblocks tauschen sich die Lernenden im Kurs über die Frage aus , ob es für sie überraschend ist , dass es vor dem Elysée-Vertrag Aussöhnungsbemühungen gab .
+Zudem überlegen sie sich anhand einer letzten Aufgabe , welche Gründe es dafür geben könnte , dass diese Bemühungen in den offiziellen Darstellungen meist keinen Platz finden .
+Mit dem dritten Aufgabenblock ( C3 ) werden wichtige symbolische Ereignisse zwischen Deutschland und Frankreich seit der Unterzeichnung des Elysée-Vertrags thematisiert.42 Die Arbeit erfolgt in Expertengruppen nach der Think-Pair-Share-Methode .
+Die Lernenden informieren sich zunächst in Einzelarbeit über das ihrer Gruppe zugeteilte Ereignis ( THINK ) , tauschen sich dann in der Gruppe über ihre Ergebnisse aus und erstellen im Anschluss ein Plakat mit den wichtigsten Informationen und passenden Bildern ( PAIR ) .
+Sie wählen zudem eines dieser Bilder , das eine zentrale Geste der beteiligten Politiker zeigt , aus .
+Dieses Bild schicken die Lernenden vor dem anschließenden Museumsgang an die Lehrperson .
+Diese integriert alle Bilder in einen Laufzettel .
+In einem dritten Schritt bilden sich neue Gruppen , in denen sich jeweils ein Mitglied jeder Expertengruppe befindet .
+Die fertigen Plakate werden chronologisch sortiert im Raum aufgehängt und die Lernenden erhalten den vorbereiteten Laufzettel .
+Die neuen Gruppen gehen von Plakat zu Plakat , wobei die einzelnen Experten jeweils ihr Plakat vorstellen ( SHARE ) .
+Die Zuhörer notieren während der Vorträge zentrale Inhalte auf den Laufzetteln , die der Ergebnissicherung dienen , und stellen Verständnisfragen .
+Es sollte beachtet werden , dass die verwendeten Bilder auch von den Experten erläutert werden .
+Bei der Erklärung der Bilder sollte deutlich werden , dass diese aufgenommen wurden , um die deutsch-französische Versöhnung zu inszenieren .
+Der vierte Aufgabenblock ( C4 ) beschäftigt sich mit dem Thema , ob der Elysée-Vertrag als Erinnerungsort bezeichnet werden kann .
+Um diese Frage zu beantworten , werden Kriterien benötigt .
+Für die Arbeit werden die von Camilla Badstübner-Kizik erstellten inhaltlichen Auswahlkriterien herangezogen .
+Die Lernenden setzen sich zunächst mit einem Partner mit den sieben Kriterien auseinander und überlegen ohne zusätzliche Informationen , was diese bedeuten könnten .
+Die Ergebnisse werden im Anschluss im Kurs besprochen .
+Wichtig ist dabei , dass die Bedeutung der Kriterien für alle sichtbar festgehalten wird , um weiterarbeiten zu können .
+Anschließend werden Kleingruppen gebildet , in denen man sich darüber austauscht und informiert , ob die Kriterien auf den Elysée-Vertrag zutreffen .
+Abschließend soll eine Einschätzung formuliert werden , ob sich der Elysée-Vertrag als Erinnerungsort einstufen lässt .
+Sämtliche Aufgabenblöcke der Ausdifferenzierungsphase sind aufgrund der inhaltlichen Komplexität und sprachlichen Schwierigkeit auf einem C1-Niveau angesiedelt .
+In der abschließenden Reflexionsphase erhalten die Lernenden die Möglichkeit , das Gelernte und ihren Lernprozess zu reflektieren .
+Ergänzend dazu sollen sie laut Behrendt sowohl über ihre eigene Position im Diskurs als auch über den Einfluss dieser Position „ auf die eigene kulturelle Identität “ nachdenken ( Behrendt 2016 : 91 ) .
+Das übergeordnete Lernziel der Reflexionsphase besteht darin , dass die Lernenden ihr bereits erworbenes Wissen anwenden , sich in Bezug auf die deutsch-französischen Beziehungen positionieren und das Gelernte reflektieren .
+Der erste Aufgabenblock ( D1 ) beschäftigt sich mit der deutsch-französischen Verständigung in der Musik .
+Dafür wird das zweisprachige Lied Grenzgänger/ Frontalier vom Freiburger Duo Zweierpasch herangezogen .
+Nach einer ersten Betrachtung des Videos ohne Ton äußern die Lernenden ihre Vermutungen zu Thema und Inhalt des Liedes und bereiten sich damit auf das Hören mit Ton vor .
+Im Anschluss bringen die Lernenden während des Hörens den Liedtext , der zuvor in Teile zerschnitten wurde , in die richtige Reihenfolge .
+Mit einem Partner tauschen sie sich dann über den Inhalt des Liedes aus und vergleichen dies mit ihren Vermutungen aus der ersten Aufgabe .
+Zum Abschluss machen sich die Lernenden ihre eigenen Gedanken über die Bedeutung , die die deutsch-französischen Beziehungen und die deutschfranzösische Verständigung für sie haben .
+Diese Gedanken werden zunächst notiert und in einem letzten Schritt in die Form eines eigenen kurzen Liedes oder Gedichtes gebracht .
+Das Sprachniveau sollte für diesen ersten Aufgabenblock bei B2 liegen .
+Aufgabenblock zwei ( D2 ) soll den Lernenden die aktuelle gesellschaftliche Relevanz des Elysée-Vertrags deutlich machen , denn er beschäftigt sich mit der Diskussion um einen neuen Elysée-Vertrag .
+Zum Einstieg beschäftigen sich die Teilnehmer mit der Videobotschaft von Angela Merkel und Emmanuel Macron vom 21. Januar 2018 , in der ein neuer Elysée-Vertrag angekündigt wird .
+Mit den folgenden Aufgaben wird dann eine Diskussion über den neuen Elysée-Vertrag vorbereitet : Zunächst wird in der zweiten Aufgabe anhand eines Zeitungsartikels herausgearbeitet , welche Positionen seitens verschiedener Parteien zu einem neuen Elysée-Vertrag existieren .
+Ergänzend dazu wird überlegt , welche weiteren Personen an einer Diskussion zum Thema teilnehmen könnten .
+Im Kurs wird sich schließlich über eine überschaubare Anzahl an Personen für die Diskussion verständigt , die beide Positionen ( pro und contra ) abdecken .
+Die Personen werden auf Kleingruppen verteilt .
+Aufgabe drei dient der Vorbereitung der Diskussion in den Gruppen .
+Zunächst findet eine Recherche über die zugewiesenen Personen statt .
+Mit der vierten Aufgabe ist die eigentliche Simulation der Diskussion über einen neuen Elysée-Vertrag zwischen Abgeordneten des deutschen Bundestages und der französischen Nationalversammlung verbunden .
+Es sollte in diesem Zusammenhang darauf hingewiesen werden , dass sich die Darsteller in ihren Rollen bleiben sollen und sich mit den anderen Gruppenmitgliedern beim Sprechen abwechseln , sodass möglichst jeder zu Wort kommt .
+Zur Unterstützung liegt eine Sammlung von Redemitteln für die Lernenden bereit .
+Abschließend äußern die Lernenden ihre Meinung zu einem neuen Elysée-Vertrag .
+Sie stellen sich dafür im Kursraum an der entsprechenden Stelle auf ( dafür/ dagegen/ unentschlossen ) und begründen ihre Meinung .
+Für diesen Aufgabenblock ist ein C1- bis C2-Sprachniveau nötig , da die Diskussion inhaltlich und sprachlich sehr anspruchsvoll ist .
+Im dritten Aufgabenblock ( D3 ) sollen die Lernenden das in der Einheit erworbene Wissen auf einen anderen Zusammenhang übertragen .
+Es wird die Frage gestellt , mit welchem Land das Heimatland aktuell einen Freundschaftsvertrag schließen sollte und aus welchen Gründen .
+Es werden zunächst Notizen angefertigt , bevor in einem zweiten Schritt eine Nachricht an das Staatsoberhaupt des anderen Landes geschrieben wird .
+In dieser Nachricht soll auch auf das Vorbild des deutsch-französischen Freundschaftsvertrags eingegangen werden , was die Lernenden zur Reflexion über das Gelernte anregt .
+Für diesen dritten Aufgabenblock ist ein Sprachniveau zwischen B2 und C1 nötig .
+Der letzte Aufgabenblock ( D4 ) beschäftigt sich mit der Frage , welche Bedeutung der ElyséeVertrag für die Lernenden heute noch hat .
+Dafür notieren diese zunächst Stichworte , die im Anschluss in einem Stuhlkreis diskutiert werden .
+Für die Reflexion des Lernprozesses , die anschließt und anhand von drei Leitfragen durchgeführt wird , bleiben die Lernenden im Stuhlkreis sitzen .
+Ihre Antworten notieren sie auf ausliegenden Plakaten .
+Dieser abschließende Aufgabenblock kann mit einem Sprachniveau von B2 bearbeitet werden .
+Nach der Präsentation der Unterrichtsmaterialien wird in den nächsten Teilkapiteln eine Reflexion der Themenwahl , der Überlegungen zu Zielgruppe und Lernzielen als auch des erstellten Materials vorgenommen .
+Da das konzipierte Material im Rahmen dieser Arbeit nicht an Lernenden erprobt werden konnte , sind die folgenden Reflexionen Ergebnisse theoretischer Überlegungen .
+In Kapitel 4.1 wurde dargelegt , dass sich der Elysée-Vertrag nach den Kriterien von Badstübner-Kizik für den Einsatz im DaF-Unterricht eignet .
+Noch nicht thematisiert wurde allerdings , welche Gründe überhaupt für die Wahl des Elysée-Vertrags für den Einsatz im DaFUnterricht sprechen .
+Die folgenden Ausführungen beinhalten daher eine Reflexion der Themenwahl .
+Ein erster Grund , der für die Auswahl dieses Erinnerungsortes zur Ausarbeitung von Unterrichtsmaterial spricht , ist , dass deutsch-französische Erinnerungsorte bis auf eine mir bekannte Ausnahme ( Clemens 2009 ) bisher in der Sekundärliteratur nicht für den Unterricht nutzbar gemacht und aufgearbeitet wurden .
+Der Elysée-Vertrag wird zwar als deutsch-französischer Erinnerungsort wahrgenommen ( vgl. Defrance ; Pfeil 2014 ; vgl. Flucke 2014 ; vgl. Frank 2005 ) und bei Flucke sogar als Erinnerungsort , dessen Behandlung im Unterricht gut denkbar ist , bezeichnet ( Flucke 2014 : 237 ) , dennoch finden sich keine konkreten Materialien und Überlegungen zum Einsatz des Vertrags im DaF-Unterricht .
+Das Schließen dieser Lücke ist eine zentrale Motivation für die Wahl des Elysée-Vertrags .
+Auffällig ist außerdem , dass der Elysée-Vertrag auch in gewöhnlichen Schulgeschichtslehrbüchern bisher nur in einem ganz geringen Maße thematisiert wird .
+Dies fand Ines Darilek in ihrer 2014 verfassten Masterarbeit heraus , in der sie deutsche und französische Geschichtsschulbücher von 1873 bis 2008 auf die Thematisierung von bilateralen Verträgen zwischen Deutschland und Frankreich untersuchte .
+Laut ihren Ergebnissen wurde der Elysée-Vertrag nur sehr rudimentär , d.h. entweder überhaupt nicht oder kaum in den von ihr untersuchten Lehrbüchern behandelt ( Darilek 2014 : 79 ) .
+Eine Ausnahme stellt laut Darilek das deutschfranzösische Geschichtsbuch dar , was allerdings nicht erstaunlich ist , da es ja ein Resultat der deutsch-französischen Freundschaft darstellt .
+Insgesamt zieht Darilek das Fazit , dass selbst die wenigen Berücksichtigungen des Vertrags „ eher in einer idealistischen Art und Weise [ erfolgen ] , ohne die Konsequenzen des Vertrags kritisch zu beleuchten “ ( ebd. : 80 ) .
+Es stellte sich im Anschluss an die Lektüre dieser Arbeit die Frage , inwiefern der ElyséeVertrag in DaF-Lehrwerken eine Rolle spielt , wenn er nicht einmal in regulären Geschichtsbüchern eine Rolle spielt .
+Eine kurze Umfrage per E-Mail an große deutsche Lehrbuchverlage ( Hueber , Klett , Schubert-Verlag ) 43 ergab , dass der Elysée-Vertrag aktuell in keinem DaFLehrwerk eine Erwähnung findet .
+Zwar handelt es sich hierbei nicht um eine repräsentative Befragung , aber die Antworten der Verlage ermöglichen dennoch einen gewissen Einblick in die geringe Bedeutung , die dem Elysée-Vertrag von Seiten der Lehrwerkautoren zugesprochen wird .
+Lediglich in den didaktisierten Zeitschriften Deutsch perfekt und Écoute des Spotlight Verlags , die z.T .
+als Begleitmaterial im Unterricht eingesetzt werden , wurde der ElyséeVertrag thematisiert , und zwar im Jahr 2013 zum 50. Jubiläum des Vertrags .
+Es lässt sich festhalten , dass der Elysée-Vertrag , obwohl er für die Entwicklung der deutschfranzösischen Beziehungen eine wichtige Rolle gespielt hat und noch immer spielt , bisher nur in einem sehr begrenzten Maße Teil von Unterrichtsmaterialien geworden ist .
+Es kann somit auch davon ausgegangen werden , dass die meisten Lernenden in Deutschland und Frankreich kein oder nur ein geringes Wissen über dieses wichtige Ereignis haben .
+Eine Integration des Elysée-Vertrags in den DaF-Unterricht sollte daher dringend nachgeholt werden und somit auch die Erstellung unterrichtstauglicher Materialien für seine Vermittlung .
+Der Elysée-Vertrag sollte Thema des DaF-Unterrichts werden , da es sich um einen zentralen deutsch-französischen Erinnerungsort handelt , der eine Zäsur in der Geschichte der deutschfranzösischen Beziehungen darstellt , denn er markiert symbolisch den Beginn einer Freundschaft zwischen den beiden Ländern .
+Der Vertrag sollte zudem auch deshalb ein Teil des Unterrichts sein , weil es sich um ein positives Ereignis und einen positiv besetzten Erinnerungsort handelt und nicht wie viele der in Kapitel 2.2 angesprochenen deutsch-französischen Erinnerungsorte eher negative Erinnerungen in den Vordergrund rückt .
+Auch Assmann ( 2013 : 143 ) stellt fest , dass sich die Praxis der Erinnerung meist einseitig auf negative Ereignisse bezieht .
+Mit der Thematisierung eines positiven Erinnerungsortes wird dieser Einseitigkeit entgegengewirkt und der Fokus liegt nicht mehr nur auf den kriegerischen Auseinandersetzungen , sondern vielmehr auf einem staatenverbindenden Element .
+In Zeiten zunehmender nationalistischer Tendenzen in vielen europäischen Ländern ist es außerdem von großer Wichtigkeit , sich darüber bewusst zu werden , dass der Frieden , in dem Westeuropa seit dem Zweiten Weltkrieg lebt , nicht durch einzelgängerische Unternehmungen entstand , sondern vielmehr durch die Zusammenarbeit mehrerer Staaten .
+Es ist bedeutsam , die geschichtlichen Grundlagen zu kennen und zu wissen , dass Deutschland und Frankreich für diese Zusammenarbeit eine wichtige Basis darstellten , da sie durch ihre Annäherung auch die Gründung der Europäischen Union in ihrer heutigen Form mit ermöglicht haben .
+Hervorzuheben ist außerdem noch einmal der Gegenwartsbezug und die aktuelle gesellschaftliche Relevanz des Elysée-Vertrags .
+Diese zeigte sich Anfang dieses Jahres in der gemeinsamen Erklärung von Bundeskanzlerin Angela Merkel und Staatspräsident Emmanuel Macron zum 55. Jubiläum des Elysée-Vertrages , in der die Bedeutung der deutsch-französischen Zusammenarbeit hervorgehoben und eine Erneuerung des Elysée-Vertrags für das Jahr 2018 aufgrund der aktuellen Herausforderungen in Aussicht gestellt wurde ( Macron ; Merkel 2018 ) .
+Es kann davon ausgegangen werden , dass in jeder Lerngruppe , egal ob sie national homogen oder heterogen zusammengesetzt ist , davon ausgegangen werden muss , dass das geschichtliche und politische Vorwissen unterschiedlich ausfällt .
+Die ausgearbeiteten Lernmaterialien wurden bis auf einige Ausnahmen deshalb so gestaltet , dass sie auch für Lernende mit wenig geschichtlichem und politischem Vorwissen bearbeitet werden können .
+Die ersten Aufgaben führen daher auch langsam in das Thema ein , beginnen ganz allgemein mit der deutschfranzösischen Freundschaft und kommen erst dann zum Elysée-Vertrag , dem sich anhand einer selbstständigen Recherche und anhand von Videomaterial genähert wird .
+Die Materialien wurden zunächst primär für französische Deutschlernende konzipiert , da es sich bei dem gewählten Erinnerungsort um einen deutsch-französischen Erinnerungsort handelt , mit dem hauptsächlich in dieser DaF-Zielgruppe Assoziationen verbunden werden .
+Zudem kann man bei einer französischen Lerngruppe , die sich mit der deutschen Sprache und Kultur bereits in ihrem Studium beschäftigt , am ehesten davon ausgehen , dass ein gewisses Vorwissen zu den deutsch-französischen Beziehungen vorhanden ist .
+Bei national homogenen Lerngruppen liegen zudem , mehr als in heterogenen Kontexten , ähnliche Ansichten , Erwartungen und auch ähnliche Schwierigkeiten vor .
+Allerdings sind durch die Homogenität auch weniger Austauschs- und Vergleichsmöglichkeiten vorhanden ( Behrendt 2015 : 217 ) .
+Dies führt dazu , dass auch weniger Gelegenheiten für den Erwerb von interkultureller Kompetenz existieren , da der Vergleich von unterschiedlichen nationalen Sichtweisen fehlt , der das Reflektieren über die eigene Perspektive möglich macht .
+Aus diesem Grund sollte die Wahl der zentralen Zielgruppe überdacht werden .
+Um verschiedene Perspektiven auf den Erinnerungsort erhalten zu können und die Perspektivgebundenheit von Geschichte deutlich zu machen , wäre es von Vorteil , wenn die Lerngruppe nicht rein Französisch ist , sondern auch deutsche Lernende enthält .
+Solche gemischten Lerngruppen sind z.B. in den Studiengängen der deutsch-französischen Hochschule zu finden .
+Durch die Materialien wird den Lernenden ein Teil der deutschen Geschichte nähergebracht , der gleichzeitig auch Teil der eigenen ( französischen ) Geschichte ist .
+Die Mischung von deutschen und französischen Lernenden ermöglicht es , den Elysée-Vertrag nicht nur aus einer französischen , sondern auch aus einer deutschen Perspektive zu beleuchten und zu erkennen , wie dieser im Nachbarland wahrgenommen wird .
+In den Überlegungen zur Zielgruppe wurde außerdem angesprochen , dass einzelne Aspekte der Thematik auch für nicht-französische DaF-Studierende interessant sein können , da man Wissen darüber erwerben kann , wie es zu den engen deutsch-französischen Beziehungen gekommen ist , die man heutzutage wahrnehmen kann .
+Teile der Aufgabenblöcke sind für Lernende ohne näheres Wissen und einen Bezug zu den deutsch-französischen Beziehungen allerdings eher weniger geeignet , wie z.B. die Frage , was man mit der deutsch-französischen Freundschaft verbindet ( A2 ) oder auch die Frage , welche Bedeutung die deutschfranzösischen Beziehungen für die Lernenden haben ( D1 ) .
+Es fehlt hierbei nicht nur die eigene „ Betroffenheit “ , sondern auch möglicherweise die Motivation , sich mit einem Thema auseinanderzusetzen , das insbesondere für Frankreich und Deutschland eine Bedeutung hat .
+Einige der Aufgabenblöcke können dennoch auch für andere ausländische Lerngruppen verwendet werden , z.B. in einer Einheit zur Europäischen Union und zu wichtigen Aspekten ihrer Entstehung .
+Vor dem Einsatz der Materialien im Kurs ist auf die Deutschkenntnisse der Studierenden zu achten .
+Behrendt fand in einer kleinen Befragung44 heraus , dass an den Universitäten im Ausland die sprachlichen Fähigkeiten der Studierenden meist nicht ausreichen , um mit Erinnerungsorten arbeiten zu können .
+Entsprechend musste zunächst eine Stärkung der Sprachkompetenz erfolgen , damit die Lernenden nicht bereits wegen sprachlicher Schwierigkeiten demotiviert werden ( Behrendt 2015 : 218 ) .
+Das sprachliche Niveau , das in Kapitel 4.2 genannt wurde , ist also nicht zu hoch angesetzt , sondern sollte beibehalten werden , um die sprachlich anspruchsvollen Materialien bearbeiten zu können .
+Haben die Lernenden dennoch Schwierigkeiten bei der Bearbeitung der Aufgaben , können zusätzliche Hilfestellungen eingearbeitet werden ( z.B. erweiterte Wortschatzerklärungen , intensivere Besprechung von Vorwissen etc. ) .
+Abschließend sei noch auf eine Gefahr hingewiesen , die Fornoff bereits erwähnte .
+Bei Lernenden , die ein festes nationales und eindeutig auslegbares Geschichtsbild vermittelt bekommen haben und diese Vorstellung in sich tragen , kann die Beschäftigung mit Erinnerungsorten zu Unverständnis oder sogar zu Abwehr führen .
+Fornoff erwähnt das Beispiel Bulgarien , wo es „ nahezu undenkbar “ und ein „ Tabubruch “ ist , „ die tradierten heroischen Narrative der Nationalgeschichte einer kritischen historischen Analyse zu unterziehen “ ( Fornoff 2009 : 514 ) .
+Aufgrund seiner Erfahrungen plädiert Fornoff für „ eine gewisse Vorsicht und Zurückhaltung im Umgang mit historischen Themen “ ( ebd. : 515 ) .
+Die Hinterfragung eines solchen geschichtlichen Narrativs wird durch die Beschäftigung mit dem Mythos Elysée-Vertrag in Arbeitsphase C angeregt .
+In diesem Fall sollte jedoch keine Gefahr bestehen , mit der Lerngruppe in einen Konflikt zu geraten , da es sich nicht wie im Fall von Fornoff um ein Massaker ( Batak ) und damit einen konfliktiven Erinnerungsort handelt , sondern um ein versöhnliches Ereignis zwischen den beiden Staaten .
+Die erstellten Materialien verfolgen das inhaltliche Ziel , den Elysée-Vertrag als Erinnerungsort zu vermitteln und einen Einblick in ein Thema zu geben , dass für Frankreich und Deutschland sowohl eine historische als auch gegenwärtige Relevanz besitzt .
+Die folgenden Überlegungen greifen einzelne Aspekte aus den Materialien heraus , bei denen sich eine inhaltliche Reflexion anbietet .
+Eine Erwähnung finden sollte in diesem Zusammenhang der Aufgabenblock B1 , der unmittelbar an die Einführungsphase anknüpft , weil sich dieser mit der direkten Vorgeschichte des Elysée-Vertrags und den beiden Unterzeichnern beschäftigt .
+Da sich die Lernenden zuvor noch nicht mit de Gaulle und Adenauer auseinandergesetzt haben , führt ein Kurztext in die ersten Begegnungen der beiden Staatsmänner ein .
+Der Text ist mit Absicht kurz gehalten , da der Fokus dieses Aufgabenblocks auf de Gaulles Rede in Ludwigsburg liegt .
+Das hängt damit zusammen , dass es sich dabei um ein zentrales symbolisches Ereignis vor der Unterzeichnung des Elysée-Vertrags handelt .
+Zudem kann anhand der Rede herausgearbeitet werden , was es für die Deutschen bedeutete , dass de Gaulle ( auf Deutsch ) zu ihnen sprach , denn dies war für viele überraschend .
+Um etwas mehr Hintergrundwissen zu vermitteln , wäre es an dieser Stelle möglich , zusätzlich auch den Staatsbesuch von Adenauer in Frankreich und in diesem Zusammenhang die Messe in Reims anzusprechen .
+Eine ergänzende Bearbeitung der Biogra phien von Adenauer und de Gaulle könnte zudem zum Verständnis beitragen , weshalb gerade diese beiden Staatsmänner sich für die deutsch-französische Versöhnung einsetzten .
+Im Anschluss an die Bearbeitung des Kurztextes werden von den Lernenden mit Hilfe ihres Hintergrundwissens über die deutsch-französische Geschichte Vermutungen darüber angestellt , was de Gaulle in seiner Rede an die deutsche Jugend zu sagen haben könnte .
+Diese Aufgabe dient der Vorentlastung für die folgende Videopräsentation .
+Bei der Betrachtung des Videos konzentrieren sich die Lernenden zunächst auf ihre ersten Wahrnehmungen und erst beim zweiten Anschauen auf den Inhalt .
+Nach der Betrachtung des Videos und der Besprechung der Arbeitsfragen schreiben die Lernenden einen Tagebucheintrag aus der Sicht eines deutschen Jugendlichen , der bei der Rede anwesend war , und vergleichen diesen im Anschluss mit echten Zeitzeugenberichten .
+Ein Vergleich findet deshalb statt , da die Lernenden so feststellen können , ob die eigenen Überlegungen sich mit den Originalerfahrungen decken oder sehr weit von diesen abweichen .
+Falls große Abweichungen vorhanden sind , könnte dies z.B. ein Zeichen dafür sein , dass der gewünschte Perspektivwechsel noch nicht gut geglückt ist und es den Lernenden schwerfällt , sich in die Perspektive eines Jugendlichen im Jahr 1962 hineinzuversetzen .
+Des Weiteren sollte hier auch der Aufgabenblock B3 erwähnt werden , der sich mit den Inhalten des Elyée-Vertrags beschäftigt .
+Inhaltlich zu reflektieren ist an dieser Stelle die Rechercheaufgabe zur Präambel , die vom Deutschen Bundestag vor der Ratifizierung des Vertrags eingebaut wurde .
+Die Präambel sollte ein Thema sein , da diese den Vertrag inhaltlich entleerte .
+Die Lernenden sollen zu dieser Präambel recherchieren und drei Fragen beantworten .
+Die Recherche stellt allerdings eine gewisse Schwierigkeit dar , denn die Lernenden müssen sich , um die Fragen beantworten zu können , auch mit Themen der deutschen und französischen Außenpolitik der damaligen Zeit auseinandersetzen , die zuvor nicht thematisiert wurde , weshalb Kenntnisse über dieselbe nicht vorausgesetzt werden können .
+Auf die Außenpolitik der beiden Länder wurde in den Materialien kein Fokus gelegt , da dies sehr weit führen würde und der Elysée-Vertrag im Zentrum stehen sollte .
+An dieser Stelle sieht man allerdings , dass es ohne Kenntnis der Außenbeziehungen schwierig ist , die Zusammenhänge zu verstehen .
+Aufgrund dieser Schwierigkeit sollte es den Lernenden erlaubt sein , auch in ihrer Muttersprache Informationen zu recherchieren .
+Wichtig ist hier besonders die Nachbesprechung der Ergebnisse im Plenum , um das Verständnis der Lernenden zu sichern .
+Die Lehrkraft sollte sich zudem selbst gut mit der Außenpolitik der beiden Länder zu der Zeit auskennen , um gegebenenfalls Fragen beantworten zu können .
+Für politisch interessierte Lerngruppen könnten an dieser Stelle zudem die deutsch-französischen Beziehungen anhand der verschiedenen Politikerpaare von der Unterzeichnung bis heute untersucht werden .
+Dadurch würde es möglich zu erkennen , dass sich die Beziehungen nicht von Anfang an geradlinig entwickelt haben , sondern es auch immer wieder Tiefpunkte gab .
+Auch Aufgabenblock B4 sollte kurz thematisiert werden , denn dieser beschäftigt sich nicht mehr mit dem Elysée-Vertrag oder der wichtigen Vorgeschichte .
+Er hat vielmehr die vielfältigen Auswirkungen des Vertrags zum Inhalt , denn er beschäftigt sich mit einem Teil der deutsch-französischen Kooperationen,45 die in Form von Minipräsentationen vorgestellt werden .
+Die Entscheidung , diese Kooperationen in einem eigenen Aufgabenblock anzusprechen , fiel aufgrund der Greifbarkeit der Inhalte .
+Hier setzen sich die Lernenden mit Themen auseinander , die ihnen aus unterschiedlichen Zusammenhängen bereits bekannt sein sollten und die für sie die Nachwirkungen des Elysée-Vertrags sichtbar machen , die bis heute andauern .
+Angesprochen werden muss auch Aufgabenblock C2 , der verschiedene Annäherungsbestrebungen zwischen Frankreich und Deutschland vor der Unterzeichnung des Elysée-Vertrags thematisiert und den Lernenden vermitteln soll , dass die Aussöhnung nicht , wie in vielen offiziellen Darstellungen präsentiert wird , mit der Unterzeichnung des Elysée-Vertrags begann , sondern dass es bereits zuvor Bemühungen gab .
+Aussöhnungsbemühungen vor der Unterzeichnung sollten aber nicht nur behandelt werden , da man dadurch den Mythos ElyséeVertrag erklären kann , sondern auch , weil es um die ersten Städtepartnerschaften geht , die einen zentralen Pfeiler der deutsch-französischen Beziehungen darstellen und für fast jeden Lernenden einen persönlichen Anknüpfungspunkt bieten , denn viele nahmen in der Schulzeit an Austauschprogrammen der Partnerstädte teil .
+Des Weiteren sollte hervorgehoben werden , dass auf die symbolischen Ereignisse zwischen deutschen und französischen Politikern durch die Zuweisung eines eigenen Aufgabenblocks ( C3 ) bewusst ein Fokus gelegt wurde .
+Grund hierfür ist , dass Symbole wie diese für die Herausbildung eines Erinnerungsortes eine zentrale Rolle spielen .
+Weitere Überlegungen zu einzelnen Aufgabenblöcken der Arbeitsphase C finden sich in der Reflexion der kulturdidaktischen Lernziele .
+Inhaltlich zu reflektieren ist abschließend zudem Aufgabenblock D2 , der die Diskussion um einen neuen Elysée-Vertrag , die Anfang dieses Jahres geführt wurde , thematisiert .
+Dieses Thema wurde integriert , da es den Lernenden nochmals die Gegenwartsrelevanz des Erinnerungsortes Elysée-Vertrag deutlich machen kann , denn über den Elysée-Vertrag wird auch dieses Jahr diskutiert .
+Außerdem sollen die Lernenden mit Hilfe der Materialien dazu gebracht werden , sich über aktuelle Entwicklungen in der deutsch-französischen Beziehung austauschen zu können .
+Bevor sich die Lernenden mit den unterschiedlichen Positionen zum neuen Elysée-Vertrag beschäftigen , ist es wichtig , dass der sprachlich und inhaltlich komplexe Zeitungsartikel aus der zweiten Aufgabe von den Lernenden verstanden wurde , denn dieser dient als Grundlage .
+Die erste Aufgabe sollte somit nicht nur darin bestehen , eine Zusammenfassung zu schreiben , sondern im Kurs auch noch einmal gemeinsam wichtige Aspekte zu besprechen und Fragen zu beantworten .
+Aufgabe 2c soll dazu anregen , sich Gedanken zu machen , welche weiteren Personen an einer Diskussion über den neuen Elysée-Vertrag teilnehmen könnte .
+Interessant wäre es hier , deshalb der Hinweis auf den verstorbenen Konrad Adenauer , bereits verstorbene Persönlichkeiten wiederauferstehen und sie zu dem Thema sprechen zu lassen .
+Dadurch wird es möglich , aus der Sicht der Gründerväter die politische Situation , die Ziele und Inhalte von damals und heute gegenüberzustellen und sie zu vergleichen .
+In den Kleingruppen soll neben der Einstellung gegenüber dem neuen Elysée-Vertrag auch die Einstellung der vertretenen Person gegenüber der Europäischen Union herausgearbeitet werden ( Aufgabe 3 ) .
+Grund dafür ist , dass die Interaktionen Deutschlands und Frankreichs sich nicht mehr außerhalb der europäischen Gemeinschaft denken lassen und eng mit dieser zusammenhängen .
+In Bezug auf die Durchführung der Diskussion ist darauf hinzuweisen , dass diese Aufgabe trotz angegebenem C-Niveau eine große Herausforderung für die Lernenden darstellen wird , da eine Diskussion zu einem solchen Thema viel Hintergrundwissen , politisches Verständnis und Interesse für das aktuelle politische Geschehen fordert .
+Es kann nicht davon ausgegangen werden , dass jeder Lernende diese Voraussetzungen erfüllt .
+Ähnliches gilt für die fünfte Aufgabe , in der die Lernenden ihre persönliche Meinung zum neuen Elysée-Vertrag nennen sollen .
+Um die Aufgaben einfacher zu gestalten , könnte man die Recherchen auch hier auf der Muttersprache durchführen lassen .
+Die vorgestellten Materialien enthalten Aufgaben zum Leseverstehen , zum Hör- und Hörsehverstehen , zum Sprechen als auch zum Schreiben .
+Durch die Arbeit mit den unterschiedlichen Materialien wird außerdem der Wortschatz erweitert .
+Das vorgesehene Sprachniveau liegt bei den meisten Aufgaben zwischen B2 und C1 , was damit zusammenhängt , dass die geschichtlichen Inhalte und Zusammenhänge sonst nur schwer verständlich wären .
+Eine abwechslungsreiche Gestaltung und Anordnung der Aufgaben und Materialien macht es möglich , dass sich die gefragten Fertigkeiten in den vier Arbeitsphasen abwechseln .
+Nichtsdestotrotz lässt sich feststellen , dass Aufgaben zur Förderung der kommunikativen Kompetenz und der Lesekompetenz im Vordergrund stehen .
+Dies ist nicht verwunderlich , da einer Präsentationsphase häufig das Lesen eines Textes vorangeht .
+Der Austausch über Ergebnisse in jeder Phase ist ein Beleg dafür , dass der Fokus mitunter auf der kommunikativen Kompetenz liegt .
+Um sprachlichen Schwierigkeiten bei der Bearbeitung der Materialien zuvorzukommen , wurden Hilfestellungen integriert .
+So sind bei den meisten Lesetexten Worterklärungen angefügt und für die Sprechaufgaben zur Karikaturbeschreibung ( A2 ) und zur Diskussion ( D2 ) , werden entsprechende Redemittel zur Verfügung gestellt .
+Das Leseverständnis wird neben dem Abdruck von Worterklärungen z.B. auch durch Fragen an den Text ( D2 ) und gemeinsame Besprechungen des Textinhaltes in Gruppen ( A1 ) unterstützt .
+Alternativ ließen sich an dieser Stelle z.B. auch richtig-falsch-Aussagen zum Lesetext formulieren , um die sprachliche und inhaltliche Komplexität des Textes etwas aufzulösen .
+Zur Vorentlastung von Inhalten wird außerdem mehrfach zur Bildung von Hypothesen angeregt , so z.B. in B1 , C2 und D1 .
+Um das Verständnis von Hörtexten zu garantieren , die aufgrund einer undeutlichen Ausdrucksweise ( B1 ) oder ihrer Geschwindigkeit ( D1 ) schwierig zu verstehen sind , werden die entsprechenden Transkriptionen ausgehändigt .
+Hilfreich ist es bei längeren Audio- oder Videoaufnahmen , wie z.B. in A4 und B1 zudem , diese in Abschnitten zu präsentieren , um die Lernenden nicht zu überfordern .
+Auch die Schreibaufgaben können , falls notwendig , mit zusätzlichen Hilfen versehen werden .
+Ein Beispiel stellt die Formulierung des Drehbuches dar ( B2 ) .
+Zusätzlich zu den bereits in den Materialien dargestellten Hilfen könnte zur Orientierung ein Beispieltext mit möglichst vielen Regieanweisungen herangezogen werden .
+Alternativ zum Veranschaulichungsbeispiel in den Materialien ( unter Aufgabe 2 ) könnte auch eine Tabelle wie die folgende bei der Strukturierung helfen : Bei der Erstellung des Unterrichtsmaterials wurde darauf geachtet , dass möglichst abwechslungsreiche und motivierende Materialien entstehen , die unterschiedliche Sozialformen und Methoden einbeziehen , um den Lernenden möglichst viele Facetten des Erinnerungsortes nahezubringen und einen mehrmethodischen Zugang zu ermöglichen .
+Dies forderte auch Badstübner-Kizik in ihren didaktischen Auswahlkriterien ( BadstübnerKizik 2014 : 56 ) .
+Dadurch dass Erinnerung und Erinnerungsorte selbst über die verschiedensten Medien vermittelt werden , sollte diese Vielfalt auch in den Unterrichtsmaterialien und Methoden sichtbar werden .
+Ergänzend dazu wurde durch die Orientierung am Phasenmodell von Badstübner-Kizik und Hille ( 2016a ) darauf geachtet , das Thema möglichst in einzelne thematische Blöcke einzuteilen .
+Dies war ebenso eine Forderung in Badstübner-Kiziks didaktischen Auswahlkriterien ( Badstübner-Kizik 2014 : 56 ) .
+Je nach Lerngruppe , vorhandenen Sprachkenntnissen , Interesse und Vorwissen lässt sich der Elysée-Vertrag unterschiedlich ausführlich behandeln .
+Die Materialien sind so aufgebaut , dass sie chronologisch abgearbeitet werden können .
+In diesem Fall lassen sie auch die von Badstübner-Kizik geforderte Progression im Laufe des Unterrichtsvorhabens zu ( ebd. : 56 ) .
+Sie können aber zum Großteil auch von einer chronologischen Thematisierung gelöst und einzeln behandelt werden .
+Festzuhalten ist außerdem , dass die Materialien sowohl klassische Aufgaben enthalten , wie z.B. Textbearbeitungsaufgaben , als auch handlungsorientierte und kooperative Methoden , die der Förderung von Selbstständigkeit und Lernerautonomie und auch der Förderung der Kommunikation in der Fremdsprache dienen sollen .
+Da die Motivation , sich mit einem Thema in der Fremdsprache zu beschäftigen , bekannterweise höher ist , wenn authentische Materialien verwendet werden , wurde in den entwickelten Unterrichtsmaterialien auch darauf geachtet .
+Die Materialien wurden insgesamt so erstellt , dass sich kooperative Phasen der Partner- und Gruppenarbeit mit Phasen in Einzelarbeit abwechseln .
+Zudem kommt die Lerngruppe auch immer wieder im Plenum zusammen , um sich z.B. über Zwischenergebnisse als Basis für die anschließende Weiterarbeit zu verständigen oder auch um Endergebnisse abzustimmen und festzuhalten .
+Der Großteil der Arbeit wird von den Lernenden selbst übernommen , sodass der Lehrperson im besten Falle die Rolle eines Lernbegleiters zukommt , die die Lernenden in ihrem Lernprozess unterstützt .
+Je nach kulturellem Hintergrund kann dieses Vorgehen , das von den Lernenden sehr viel Eigeninitiative fordert , problemlos aufgenommen werden oder aber auch mit Schwierigkeiten behaftet sein .
+So werden z.B. Lernende aus asiatischen Ländern , die v.a. Frontalunterricht gewohnt sind , vermehrt Hilfestellungen benötigen .
+Darauf sollte die Lehrkraft eingestellt sein .
+Um angemessen in das Thema Erinnerungsorte einzusteigen , beinhaltet die erste Aufgabenstellung der Einführungsphase ein stummes Schreibgespräch , das von den Lernenden verlangt , sich anhand ihres Vorwissens und ohne zu sprechen über das Thema auszutauschen .
+Diese Methode wurde ausgewählt , da sie eine gleichzeitige Beteiligung aller Lernenden an der Sammlung von Vorwissen und an seiner ( schriftlichen ) Diskussion ermöglicht .
+Zudem passt die Methode gut zum Thema Erinnerung , das häufig mit Stille assoziiert wird .
+Vor dem ersten Einsatz des Schreibgesprächs in einer Lerngruppe sollte die Lehrkraft zunächst den Ablauf und die Ziele erläutern , damit sich die Lernenden auf die ruhige Arbeitsphase einstellen können .
+Da es sich um eine ungewohnte Art der Kommunikation handelt , kann es dennoch sein , dass mehrmals darauf hingewiesen werden muss , dass nicht gesprochen werden soll .
+Da Geschriebenes häufig besser durchdacht ist als ein ausgesprochener flüchtiger Gedanke , ist außerdem davon auszugehen , dass das Geschriebene eine gute Grundlage für die weitere Arbeit darstellt .
+Der Text , der nach einer gruppeninternen Besprechung der Schreibgesprächergebnisse von den Lernenden in diesem Aufgabenblock gelesen wird , erläutert , was unter dem Begriff Erinnerungsort zu verstehen ist .
+Insgesamt ist hierzu anzumerken , dass es schwierig war , einen von der Länge und vom Inhalt angemessenen Text zu finden , der sich mit dem Begriff beschäftigt und diesen gut erläutert .
+Der vorliegende , etwas gekürzte Text , stellt eine Kompromisslösung dar .
+Eine zufriedenstellende und nicht zu vereinfachende Beschäftigung mit dem theoretischen Konzept benötigt insgesamt eine breitere Kontextualisierung , als es dieser Aufgabenblock ermöglichen könnte und sollte daher vorgeschaltet werden .
+Die eigentliche Einführung in das Thema erfolgt in Aufgabenblock A2 mit einem Bildimpuls , und zwar mit einer Karikatur .
+Für die Annäherung an die deutsch-französische Freundschaft wurde bewusst eine Karikatur gewählt , da diese den Sachverhalt zeichnerisch auf den Punkt bringt und zudem eine erste Gesprächsgrundlage bietet .
+Es wurde bewusst eine Karikatur gewählt , die nicht zu vielschichtig ist , um sie auch mit Lernenden auf einem B2-Niveau besprechen zu können , die zuvor noch nie mit Karikaturen gearbeitet haben .
+Um sich der Aussage der Karikatur schrittweise zu nähern , wird diese zunächst beschrieben und erst in einem zweiten Schritt interpretiert ( Flucke 2014 : 229 ) .
+In der Diskussion über die Aussage der Karikatur könnte auch zum Nachdenken angeregt werden , ob Croissant und Bier überhaupt zusammenpassen , denn normalerweise werden Croissants nicht in Bier getaucht .
+Durch die Beschäftigung mit der Karikatur werden die Lernenden langsam auf das eigentliche Thema vorbereitet und eine erste Erwartungshaltung entwickelt .
+Diese Erwartungshaltung wird im nächsten Aufgabenblock ( A3 ) auf den deutschfranzösischen Freundschaftsvertrag gelenkt .
+Zunächst sollen die Lernenden zur Vorbereitung darauf in Partnerarbeit überlegen , aus welchen Gründen zwei Länder einen Freundschaftsvertrag schließen könnten .
+Lernende , die sich bereits mit dem Elysée-Vertrag beschäftigt haben , können hier ihr Vorwissen aktivieren .
+Lernende ohne Vorwissen stellen Vermutungen an .
+Mit der anschließenden Präsentation des Bildes von der Umarmung von de Gaulle und Adenauer nach der Unterzeichnung des Elysée-Vertrags wird dann überprüft , inwiefern dieses zentrale Bild der deutsch-französischen Freundschaft aktuell noch im kollektiven Gedächtnis der Lernenden abgespeichert ist , denn Bilder wie dieses sind ein wichtiger Teil des kollektiven Gedächtnisses ( ebd. : 225 ) .
+Die Wahl fiel an dieser Stelle auf ein Bild , da „ Bilder [ … ] stärker als Texte zum Sprechen an [ regen ] “ ( Fornoff 2009 : 510 ) und mit diesem Bild die bekannte Szene der Unterzeichnung gezeigt wird .
+Die anschließende erste Auseinandersetzung mit dem Vertrag und seinen Zielen erfolgt anhand einer Internetrecherche , die der Förderung von Lernerautonomie dienen soll .
+Zur Unterstützung stehen den Lernenden Orientierungsfragen und Links zu nützlichen Websites zur Verfügung .
+Die anschließende Hörübung in Kombination mit einem Lückentext schließt die erste Auseinandersetzung mit dem Elysée-Vertrag ab .
+Das in Aufgabenblock A3 generierte Vorwissen unterstützt die Lernenden bei der Beschäftigung mit der Vorgeschichte des Elysée-Vertrags , der in Aufgabenblock A4 Thema ist .
+Die Vorgeschichte erarbeiten sich die Lernenden anhand eines Arbeitsblattes und zwei Videos .
+Da sich kein Video finden ließ , das die komplette Vorgeschichte ausreichend beleuchtet , wurden zwei Videos in die Aufgabenstellung integriert .
+Damit sich die Lernenden nicht mit dem Abgleich der Daten und Ereignisse zufriedenstellen und somit wichtiges Hintergrundwissen abhandenkommt , wurde eine ergänzende Aufgabe integriert , die von den Lernenden fordert , zusätzliche Informationen zu den Ereignissen herauszuschreiben .
+Die Vertiefungsphase wird durch die Beschäftigung mit einem kurzen Text zu de Gaulle und Adenauer eingeleitet .
+Die zentrale Rede , die de Gaulle in Ludwigsburg während seines Staatsbesuchs hielt , wird den Lernenden in Form einer Videoaufzeichnung präsentiert .
+Um nicht die ersten Wahrnehmungen und den Inhalt der Rede gleichzeitig bearbeiten zu müssen , wird das Video zwei Mal gezeigt .
+Beim ersten Schauen konzentrieren sich die Lernenden auf die Fragen a ) bis c ) und damit auf die Wahrnehmung de Gaulles , die Reaktion des Publikums und auf Aspekte , die sie überraschen könnten .
+Erst bei der zweiten Betrachtung werden die inhaltlichen Fragen d ) und e ) fokussiert .
+Das zusätzliche Austeilen des Textes der Rede bietet sich zudem an , da die Aufnahme nicht immer gut verständlich ist .
+Obwohl die Behandlung von Filmen und Filmsequenzen im Unterricht nicht immer ohne Schwierigkeiten abläuft , sollten diese im Unterricht eingesetzt werden , denn sie haben laut Chudak „ das Potential , das Interesse an historischen Themen zu wecken und zur Auseinandersetzung mit ihnen zu animieren “ ( Chudak 2015 : 140 ) .
+Zudem kann im vorliegenden Fall nur anhand der Videoaufzeichnung festgestellt werden , wie de Gaulle wirkt und wie das Publikum reagiert .
+Das ist wiederum für die Formulierung des Tagebucheintrags und für dessen Vergleich mit den authentischen Zeitzeugenberichten im Anschluss wichtig .
+Die Zeitzeugenberichte , die einen Einblick in die „ oral history “ ( Imhof 2008 ) gewähren , wurden ausgewählt , da sie einen persönlichen und direkten Zugang zum historischen Geschehen ermöglichen .
+Thematisiert werden sollte an dieser Stelle aber , dass es sich beim Zeitzeugenbericht nicht um „ historische Wahrheit [ handelt ] , sondern [ um ] eine Konstruktion , an der Wahrnehmung , Erinnerungsvermögen , historisches Wissen , ethische Überzeugungen und sprachliche Ausdrucksfähigkeit beteiligt sind “ ( ebd. ) .
+Die Auseinandersetzung mit dem Elysée-Vertrag selbst beginnt mit einer szenischen Darstellung .
+Diese Methode wurde gewählt , um den Lernenden einen emotionalen , ästhetischen und handlungsorientierten Zugang zu ermöglichen und ihnen deutlich zu machen , dass die Unterzeichnung des Elysée-Vertrags ein wichtiges Ereignis zwischen Deutschland und Frankreich darstellte .
+Dadurch dass die Lernenden in die Rollen von wichtigen historischen Persönlichkeiten schlüpfen , nehmen sie die betrachtete Situation viel deutlicher wahr , als wenn sie darüber nur einen Text lesen würden .
+Die Aufgabenstellung spricht zudem auch mehrere Sinne an , was wiederum zum besseren Memorieren der Inhalte beiträgt .
+Laut Schewe ( 2014 ) braucht der sehr wissenschaftlich geprägte und auf Inhalt fokussierte Fremdsprachenunterricht solche ästhetischen Herangehensweisen , da sie einen anderen Zugang zum Lerngegenstand ermöglichen und so eine Bereicherung für den Unterricht darstellen .
+Zu beachten ist bei solchen Aufgabenstellungen , dass Lernende anderer Unterrichtstraditionen diesen kreativen Umgang mit Geschichte unter Umständen noch nicht kennen ( Flucke 2014 : 227 ) .
+Es ist aufgrund dessen damit zu rechnen , mit einer solchen Aufgabenstellung zunächst auf Ablehnung zu stoßen .
+Da das Vorgehen ungewohnt ist , müssen die Lernenden stückweise auf das szenische Darstellen vorbereitet werden .
+Die Aufgabenstellungen geben dafür eine erste Anleitung .
+In Aufgabenblock B3 wurde für die Thematisierung des Inhalts des Elysée-Vertrags nicht der Originalvertragstext , sondern ein Text aus der Sekundärliteratur herangezogen , da der Origi naltext in sehr formeller Sprache gehalten und somit für Fremdsprachenlerner schwer verständlich ist .
+In einer sprachlich guten Gruppe oder einer gemischten deutsch-französischen Lerngruppe sollte allerdings über den Einsatz des Originaltextes nachgedacht werden .
+Der Text wird auf jeweils drei Lernende verteilt , die sich den Inhalt ihrer Textteile gegenseitig vorstellen .
+Jeder Lernende hat entsprechend die Verantwortung für einen Textteil und muss dafür sorgen , dass die anderen Gruppenmitglieder den Inhalt verstehen und nachvollziehen können .
+Zur Förderung der Lernerautonomie führen die Lernenden im Anschluss in den gleichen Kleingruppen eine Recherche durch .
+Es werden hier bewusst keine Linkvorgaben gemacht , da die Recherche aufgrund ihrer inhaltlichen Schwierigkeiten ( siehe Kapitel 5.3 ) nicht auf Deutsch als Fremdsprache beschränkt sein muss , sondern auch in der Muttersprache durchgeführt werden kann .
+Aufgabenblock B4 , der sich mit verschiedenen Beispielen für die deutsch-französische Zusammenarbeit auseinandersetzt , sieht eine Partnerarbeit vor .
+Der Grund für die Festlegung dieser Sozialform ist , dass die Präsentationen nicht länger als 5-7 Minuten sein sollen und damit eine größere Gruppe ungeeignet wäre .
+Die Zeitvorgabe für die Präsentationen ist bewusst kurz gehalten , um die Lernenden dahingehend zu trainieren , die wichtigsten Informationen zu einem Thema kurz und knapp darzustellen .
+Dies ist z.B. für mündliche Prüfungen wichtig , kann aber auch für das Berufsleben eine gute Vorbereitung sein .
+Daher sollte die Vorgabe auch nicht ausgedehnt , sondern eingehalten werden .
+Recherchehilfen werden in diesem Fall gegeben , um die Lernenden bei der Auswahl von Inhalten zu unterstützen .
+Zur Aufgabenstellung gehört außerdem , sich zwei bis drei Fragen zu überlegen , um die Mitlernenden zum Zuhören und Mitarbeiten anzuregen .
+Der Aufgabenblock C1 beschäftigt sich mit dem Thema des Mythos , der sich um den ElyséeVertrag gebildet hat .
+Nach ersten Überlegungen , was ein Mythos sein könnte , wird ein Text gelesen , der sich mit dem politischen Mythos auseinandersetzt , von dem in diesem Fall auch die Rede ist .
+Es handelt sich um einen Textausschnitt aus einem Artikel von Heidi HeinKircher , der ausgewählt wurde , da er nicht zu lang ist und so im Unterricht gut behandelt werden kann .
+Da der Text sprachlich nicht ganz einfach ist , sollten die zentralen Inhalte nach dem Lesen und Zusammenfassen gemeinsam notiert werden , um die weiteren Aufgabenstellungen erfolgreich angehen zu können .
+Aufgabenblock C2 , der sich mit deutsch-französischen Aussöhnungsbemühungen vor dem Elysée-Vertrag beschäftigt , enthält nach der Äußerung erster Vermutungen über deren Entstehungszeit erneut eine Rechercheaufgabe mit dem Ziel , sich über deutsch-französische Versöhnungsbemühungen zu informieren .
+Die Recherche sollte mithilfe der vorgegebenen Recherchehilfen stattfinden , da sich die Suche im Internet sonst schwierig gestalten könnte .
+Die beiden angegebenen Links bieten Texte , die nicht zu lang sind und die wichtigsten Informationen enthalten , sodass sich die Lernenden daraus ihre Informationen gut entnehmen können .
+Im Anschluss arbeiten die Lernenden mit zwei authentischen Zeitungsartikeln aus dem Jahr 1950 .
+Diese sind auch in ihrer authentischen Form abgedruckt und bieten so Informationen aus erster Hand , die durch die Beschäftigung mit dem Artikel Auf Zehenspitzen zur ersten deutsch-französischen Städtepartnerschaft vervollständigt werden können .
+Mit der Methodenkombination aus Expertenrunde und Museumsgang sollen die Lernenden am Ende des Aufgabenblocks C3 in der Lage sein , ihr eigenes Thema verständlich anderen Lernenden zu präsentieren und schließlich insgesamt über verschiedene symbolische Ereignisse in den deutsch-französischen Beziehungen zu sprechen .
+Um dieses Ziel zu erreichen , recherchieren die Lernenden zunächst in Einzelarbeit , tragen dann die Ergebnisse in ihrer Gruppe zusammen und erstellen ein aussagekräftiges Plakat zu ihrem Thema .
+Eine Schwierigkeit könnte die Auswahl eines zentralen Bildes sein , die jede Gruppe für die anderen Lernenden treffen muss .
+Hier sollte die Lehrkraft gegebenenfalls Hilfestellungen anbieten .
+Wichtig ist bei einer längeren Arbeitsphase wie dieser zudem , dass die einzelnen Arbeitsgruppen in regelmäßigen Abständen über ihren Arbeitsstand informieren .
+So kann am ehesten garantiert werden , dass die Ergebnisse für die abschließende Präsentation aussagekräftig und ausführlich genug sind .
+Die Arbeit sollte aus diesem Grund auch nicht außerhalb des Unterrichts in Form von Hausaufgaben geschehen , sondern vor Ort im Unterricht geleistet werden .
+Vor der abschließenden Präsentationsphase sollte außerdem darauf hingewiesen werden , dass jeder Zuhörer sich Notizen auf seinem Laufzettel macht und dies sollte auch während der Präsentationsphase überprüft werden .
+Der Grund dafür ist , dass die Laufzettel als Ergebnissicherung und als Grundlage für Fragen , die die Zuhörer den Präsentatoren stellen , dienen .
+Nicht zu vergessen ist außerdem , sowohl für die Bearbeitungszeit als auch für die Präsentationsphasen Zeitangaben zu machen , an denen sich die Lernenden orientieren können .
+Da es sich bei diesem Arbeitsblock um ein kleines Projekt handelt , sollte die Zeit jedoch nicht zu kurz bemessen sein .
+Der Museumsgang ist eine geeignete Methode , da dadurch jeder Lernende in der Pflicht ist , die erarbeiteten Inhalte verständlich zu präsentieren .
+Im Gegensatz zu einer Grup penpräsentation , bei der sich einzelne Lernenden auch ausklinken können , gibt es diese Möglichkeit hier nicht .
+Alle Lernenden erweitern somit auch ihre Präsentationskompetenz .
+Der erste Aufgabenblock der Reflexionsphase , D1 , leitet die Lernenden über ein Lied zur persönlichen Auseinandersetzung mit der deutsch-französischen Verständigung an .
+Lieder eignen sich gut für die Vermittlung von Inhalten , da sie die Lernenden , wie die szenischen Darbietungen auch , auf einer anderen Ebene ansprechen und da sie eine emotionale Wirkung entfalten können , die Texte allein nicht hervorrufen könnten .
+Ein relativ aktuelles Lied wie dieses wirkt sich außerdem positiv auf die Motivation aus , sich mit den kommenden Inhalten näher auseinanderzusetzen .
+In Aufgabenblock D2 werden die Lernenden nach der Beschäftigung mit einer authentischen Videoaufzeichnung von Angela Merkel und Emmanuel Macron sowie der Auseinandersetzung mit einem authentischen Zeitungsartikel mit einer Diskussionsaufgabe konfrontiert , die alle Lernenden einbezieht .
+Die Vorbereitung der Diskussion geschieht in Kleingruppen , die sich über die jeweils zugeteilten Personen informieren und sich Notizen zu den eigenen Argumenten machen .
+Während der Diskussion spricht zwar immer nur ein Vertreter jeder Gruppe , die anderen Gruppenmitglieder unterstützen diesen aber .
+Bei Bedarf können die Sprecher auch wechseln , sodass die Lernenden direkt erfahren , dass das Ziel nur durch eine gute Zusammenarbeit untereinander erreicht werden kann .
+Aufgabenblock D3 , in dem sich die Lernenden individuelle Gedanken über einen eigenen Freundschaftsvertrag machen sollen , könnte aufgrund der sehr freien Aufgabenstellung zu Schwierigkeiten auf Seiten der Lernenden führen .
+Für diejenigen , die in der ersten Aufgabe keine Ideen haben , könnte gegebenenfalls eine kurze Recherche helfen , um einen möglichen Partner und Gründe für einen Freundschaftsvertrag zu finden .
+Die Aufgabe soll die Lernenden dazu anregen , über den Elysée-Vertrag hinaus zu reflektieren , welches Land für einen weiteren Freundschaftsvertrag in Frage kommen könnte .
+Bei der abschließenden Diskussion in Aufgabenblock D4 wird noch einmal Bezug auf den Elysée-Vertrag genommen .
+Bisher wurde in keiner Aufgabenstellung erfragt , welche Bedeutung der Elysée-Vertrag für die Lernenden heutzutage noch hat .
+Dies wird hier nachgeholt .
+Aufgrund der offenen Gesprächssituation im Stuhlkreis ist der Austausch der unterschiedli chen Ansichten besonders leicht möglich , denn alle Lernenden können sich gegenseitig gut sehen und aufeinander Bezug nehmen .
+Mit der abschließenden Feedbackrunde wird anhand der vorformulierten Fragen festgestellt , wie die Materialien zum Elysée-Vertrag angenommen wurden und ob es Aspekte gibt , die schwierig waren .
+Es lassen sich dadurch bereits erste Verbesserungsideen generieren .
+Bei den kulturdidaktischen Lernzielen steht das Hinterfragen im Fokus .
+Es geht darum , zu vermitteln , dass es nicht nur eine Interpretation von geschichtlichen Ereignissen gibt , sondern immer mehrere Möglichkeiten , die sich je nach eingenommener Perspektive ändern können .
+Entsprechend ist zu verdeutlichen , dass man fixe Interpretationsmuster nicht übernehmen , sondern kritisch hinterfragen sollte .
+Gleiches gilt im kleineren Rahmen auch für die individuellen Sichtweisen der Lernenden , die ebenfalls nur eine mögliche Perspektive darstellen .
+Die Konfrontation mit den Sichtweisen anderer Nationen ermöglicht Vergleiche mit der eigenen Anschauung .
+Dadurch können neben Gemeinsamkeiten auch Unterschiede festgestellt werden .
+Durch solche Vergleiche wird es den Lernenden letztlich möglich , über die eigene Perspektive zu reflektieren und in einem letzten Schritt vielleicht sogar , diese zu hinterfragen .
+Anknüpfungspunkte für das individuelle interkulturelle Lernen bieten sich an verschiedenen Stellen in den Materialien an , vorausgesetzt man bearbeitet sie mit einer deutschfranzösischen Lerngruppe .
+Ein Beispiel dafür ist die letzte Aufgabe des Blocks A2 , in dem die Lernenden eine Collage zu ihren Assoziationen mit der deutsch-französischen Freundschaft herstellen sollen .
+Durch den Vergleich von deutschen und französischen Ergebnissen kann zur Herausbildung von interkultureller Kompetenz beigetragen werden .
+Auch die Gegenüberstellung der Schreibergebnisse in Aufgabenblock D1 kann dazu beitragen .
+Hier soll die Bedeutung der deutsch-französischen Verständigung von Seiten der Lernenden dargestellt werden .
+Ergänzend dazu lassen sich auch die Frage nach der persönlichen Meinung zu einem neuen Elysée-Vertrag ( D2 ) und die Frage , ob sich der Elysée-Vertrag als Erinnerungsort einstufen lässt ( C4 ) , als Aufgaben zur Förderung der interkulturellen Kompetenz verstehen .
+So ist es z.B. in Bezug auf die Aufgabenstellung zur Einstufung des Elysée-Vertrags als Erinnerungsort möglich , dass die Gegenüberstellung von deutschen und französischen Ansichten unterschiedliche Ergebnisse zu Tage fördert , die verglichen und über die diskutiert werden kann .
+Daher wäre es in diesem Fall auch von Vorteil , national einheitliche Gruppen zu bilden .
+Auch die Frage nach der Bedeutung , die der Elysée-Vertrag im Leben der Lernenden spielt , in Auf gabenblock D4 kann in deutsch-französischen Lerngruppen zum Erwerb von interkultureller Kompetenz beitragen .
+Mit den Materialien in Aufgabenblock C , ausgehend von der Beschäftigung mit dem Mythos Elysée-Vertrag ( C1 ) , werden die Lernenden zudem an das Hinterfragen von geschichtlichen Darstellungen herangeführt .
+Sie erfahren am Beispiel des Elysée-Vertrags , dass es nicht nur den Mythos des Beginns der deutsch-französischen Aussöhnung mit der Unterzeichnung gibt , der wiederholt von Politiker und den Medien propagiert wird , sondern dass es auch eine weitere Perspektive auf die Geschichte gibt , die zeigt , dass bereits vor der Unterzeichnung des Vertrags Aussöhnungsbemühungen stattgefunden haben ( C2 ) .
+Nach der Beschäftigung mit unterschiedlichen Aussöhnungsbemühungen vor dem Elysée-Vertrag werden die Lernenden durch Aufgabe 5 dazu angeregt , einen Rückbezug zu Aufgabenblock C1 zu ziehen .
+Diese Aufgabe sollte auf jeden Fall angewandt werden , denn sie kann den Lernenden noch einmal verdeutlichen , dass es eine offizielle Darstellung , aber auch andere Perspektiven gibt und damit zeigen , dass es sich bei dem über die Medien vermittelten Bild um eine Inszenierung handelt , die nicht die ganze Wahrheit darstellt .
+Im Anschluss werden mit der Thematisierung von symbolischen Ereignissen in den deutschfranzösischen Beziehungen ( C3 ) zentrale Aspekte beleuchtet , die eine wichtige Rolle bei der Entstehung des Erinnerungsortes spielten .
+Der Aufgabenblock C4 fragt abschließend , ob sich der Elysée-Vertrag anhand der dort präsentierten Kriterien von Badstübner-Kizik als Erinnerungsort einstufen lässt .
+Interessant wäre in diesem Kontext auch die Beschäftigung mit der Entwicklung des Elysée-Vertrags zu einem Erinnerungsort gewesen , in der wichtige Stationen auf seinem Weg thematisiert werden könnten .
+Die Entwicklung könnte mit Hilfe der auch für diese Arbeit herangezogenen theoretischen Texte von Defrance und Pfeil ( 2014 ) und Frank ( 2005 ) nachvollzogen werden .
+Eine solche Beschäftigung würde es außerdem möglich machen , weitere Aspekte , die neben den symbolischen Ereignissen , die in C3 thematisiert werden und für die Entstehung des Erinnerungsortes eine Rolle gespielt haben , anzusprechen .
+Zu nennen wäre hier z.B. die Rede von François Mitterand am 20. Januar 1983 , in der er den Elysée-Vertrag als Startpunkt der Aussöhnungsbemühungen beschreibt ( Defrance ; Pfeil 2014 : 94 ) .
+Auch die Mythisierung von de Gaulle und seine symbolische Kraft aufgrund seiner Vergangenheit als Kopf der Résistance im Kampf gegen die Nationalsozialisten könnte angesprochen werden ( Defrance ; Pfeil 2014 : 93 ; Frank 2005 : 242 ) .
