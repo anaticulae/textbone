@@ -22,5 +22,5 @@ def floating_sentence(sentences, size=10):
 
 
 def window(items, size=1):
-    for index, item in enumerate(items):
+    for index, _ in enumerate(items):
         yield items[index - size:index]
