@@ -50,6 +50,7 @@ if __name__ == "__main__":
         entry_points={
             'console_scripts': [
                 'normalize = backbone.normalize:main',
+                'backbone_view = backbone.view:main',
             ],
         },
     )
