@@ -1,0 +1,45 @@
+{% extends 'base.html' %}
+
+{% block styles %}
+{{ super() }}
+<link rel="stylesheet" type="text/css" media="screen" href="{{ url_for('static', filename='css/analysis.css') }}">
+{% endblock %}
+
+{% block content %}
+
+<h1>Analysis</h1>
+
+<div class="row mb-3">
+    <div class="col-md-8 themed-grid-col">
+        <div class="row-md-8 themed-grid-col">Software</div>
+        <div class="row-md-8 themed-grid-col">
+            <h2>Plots</h2>
+            <div id="plots"></div>
+        </div>
+    </div>
+    <div class="col-md-4 themed-grid-col">
+        <div class="row-md-4 themed-grid-col">
+            <button id="generate">Generate</button>
+        </div>
+        <div class="row-md-4 themed-grid-col">
+            <h3>Documents <button id="documents_all" class="select">all</button></h3>
+            {% for item in documents %}
+            <span class="document_selector"><input type="checkbox" id="{{item}}" class="documents">{{item}}</span>
+            {% endfor %}
+        </div>
+        <div class="row-md-4 themed-grid-col">
+            <h3>Plots <button id="plots_all" class="select">all</button></h3>
+            <div class="content">
+                <span class="plots_selector"><input type="checkbox" id="plot_line" class="plots">Sentence plot</span>
+                <span class="plots_selector"><input type="checkbox" id="plot_scatter" class="plots">Scatter plot</span>
+            </div>
+        </div>
+    </div>
+</div>
+
+{% endblock %}
+
+{% block scripts %}
+{{ super() }}
+<script type="text/javascript" src="{{ url_for('static', filename='js/analysis.js') }}"></script>
+{% endblock %}
