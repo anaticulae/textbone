@@ -1,0 +1,17 @@
+Die Messung des Blutdrucks hat in der Medizin eine große Bedeutung .
+Aus ihm können wichtige Rückschlüsse auf die physiologischen Vorgänge im Blutkreislauf bzw. auf die Strömungsmechanik des Bluts ( Hämodynamik ) gezogen werden .
+So ist der Blutdruck beispielsweise ein Indikator für die Versorgung von Organen und Geweben oder für das im Körper zirkulierende Blutvolumen [ Elt01 ] .
+Die Bestimmung des Blutdrucks kann zum einen durch eine punktuelle Ermittlung von Messwerten geschehen .
+Dadurch kann z.B. ein akut erhöhter Blutdruck erkannt werden .
+Des Weiteren können mit regelmäßigen Einzelmessungen chronische Veränderungen diagnostiziert und deren medikamentöse Therapie überwacht werden .
+Solche Einzelmessungen werden in der klinischen Medizin heutzutage meist mit einer Druckmanschette am Arm und einem Stethoskop durchgeführt ( auskultatorische Methode , vgl. 2.1.2.1 ) .
+Dieses Verfahren liefert zuverlässige Werte und ist mit wenig Aufwand anwendbar .
+Zudem kann eine kontinuierliche Blutdruckbestimmung erfolgen .
+Mit dem gewonnenen Blutdruckverlauf können hauptsächlich dynamische Vorgänge überwacht werden .
+Hierzu gehören vor allem die Kreislaufregulation und mögliche Störungen derselben .
+Die kontinuierliche Messung geschieht üblicherweise invasiv , das heißt mit einem Katheter direkt im Blutgefäß .
+Diese Methode birgt ( vgl. 2.1.1 ) für die spontane Anwendung wesentliche Nachteile , weshalb ein nicht-invasives Verfahren zur kurzfristigen und einfachen Verwendung gesucht wird .
+Eine im klinischen Alltag nicht verbreitete , aber hierzu sehr interessante Methode stellt das Ultraschall-Doppler-Servo-Verfahren dar .
+Hierbei wird der arterielle Blutdruck nicht direkt gemessen , sondern mittels eines indirekten Messverfahrens nachgebildet .
+Ein Laborversuch zur Darstellung und Erklärung dieser Methode ist im Labor für Regelungstechnik an der Hochschule Ulm vorhanden .
+Er soll im Zuge dieser Bachelorarbeit optimiert und an den Stand der Technik angepasst werden .

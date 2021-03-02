@@ -1,0 +1,86 @@
+Der bereits bestehende Versuchsaufbau zur nicht-invasiven Bestimmung des arteriellen Blutdrucks wurde in mehreren Schritten optimiert .
+Hierbei war es wichtig , dass die angestrebten Änderungen für die vorgesehene Verwendung zweckmäßig und sinnvoll gestaltet sind .
+Der Aufbau soll es Studenten ermöglichen , selbstständig oder mit Unterstützung dieses Blutdruckmessverfahren kennen zu lernen .
+Sie sollen es im Rahmen von Laborveranstaltungen auch selbst ausprobieren .
+Daher wurde großer Wert auf einen übersichtlichen und möglichst transparenten Aufbau der Komponenten gelegt , hauptsächlich bei der Gestaltung der Bedienoberfläche .
+Es stellte sich auch die Frage , ob der Nutzer eine Dokumentation des Versuchs erhalten soll , z.B. in Form eines Protokolls .
+Im Bezug auf die Verwendung als Laborversuch war es weiterhin sehr wichtig , sicherheitstechnische Aspekte zu bedenken und bei der Planung der Maßnahmen zu berücksichtigen .
+Es ist gelungen , den analog aufgebauten PID-Regler durch einen digitalen PI-Regler zu ersetzen .
+Auf den differentiellen Anteil wurde verzichtet , da dieser für die gegebene Regelstrecke nicht notwendig ist .
+Vorversuche und Erfahrungswerte zeigten , dass im alten Versuchsaufbau durch diesen Parameter keine wesentliche Beeinflussung der Regelung stattfand .
+Der digitale Regler besitzt eine für den gewünschten Zweck ausreichende Geschwindigkeit , welche durch Analyse der Zeitabstände zwischen den Durchläufen des Regelalgorithmus nachgewiesen wurde .
+Diese lässt sich allerdings mit den zur Verfügung stehenden Möglichkeiten nicht mehr weiter steigern .
+Durch die Programmierung und Steuerung mittels der Computersoftware LabVIEW ist die Einstellung des Reglers einfach und exakt möglich .
+Dem Benutzer können für den Betrieb und Anwendungsfall eingegrenzte Wertebereiche vorgegeben werden .
+Eine Optimierungsmöglichkeit besteht bei der Einstellung des Sollwerts der Regelung .
+Um die Transparenz des Aufbaus zu steigern könnte hier eine Eingabe in der physikalischen Einheit cm/s realisiert werden .
+Dabei muss jedoch berücksichtigt werden , dass dieser Wert einen korrekten Winkel und somit eine richtige Anbringung der Ultraschall-Sonde voraussetzt .
+In der frühen Planungsphase wurden auch alternative Ideen zur Optimierung der Regelung in Betracht gezogen .
+Denkbar war eine Überarbeitung bzw. ein Neuaufbau des analogen Reglers , was jedoch den Vorteil der einfachen softwarebasierten Änderungen ausgeschlossen hätte .
+Weiter wurde dieser Schritt als nicht zeitgemäß bewertet , auch wenn gewisse Teile , z.B. die Einstellung der Parameter digital realisiert worden wären .
+Eine weitere überlegte Möglichkeit war die Realsierung der Regelung mittels eines Mikrocontrollers .
+Hierdurch hätte der Regelalgorithmus eigenständig durch das Gerät ausgeführt werden können .
+Trotzdem wäre auch hier eine Möglichkeit zur Anzeige und Protokollierung der Messungen gewünscht gewesen , weswegen die zusätzliche Nutzung eines Computers notwendig geworden wäre .
+Letztendlich wurde der Nachteil der aufwändigeren Einarbeitung und Programmierung gewichtiger als die überlegten Vorteile bewertet .
+Der entwickelte Versuchsaufbau liefert Ergebnisse , die den zeitlichen Verlauf des arteriellen Blutdrucks qualitativ sehr gut beurteilen lassen .
+In Versuchen konnten sowohl dynamische Vorgänge ( z.B. Valsalva-Press-Versuch ) als auch ein längerfristiger Verlauf ( Trend ) dargestellt werden .
+Für die quantitative Anpassung der ermittelten Verlaufskurve wurde aufgrund der einfachen Implementierung die Berechnung und Anwendung eines Anpassungsfaktors verwendet .
+In diesen geht der mit einer alternativen Messmethode bestimmte Blutdruck ein .
+Die grundsätzliche Eignung dieser Vorgehensweise konnte mit Testmessungen nachgewiesen werden .
+Zwar wurde das verwendete Verfahren nicht klinisch getestet und mit Referenzwerten eines invasiv gemessenen Druck verglichen , jedoch sind die Ergebnisse der hier durchgeführten Messungen vor allem im Bezug auf den qualitativen Verlauf der Blutdruckkurve mit den im wissenschaftlichen Artikel von Aaslid und Brubakk [ Aas81 ] gezeigten Ergebnissen vergleichbar .
+Weiter waren die Messwerte den kurz vorher alternativ bestimmten Blutdruckwerten ähnlich , was ebenfalls für eine gegebene Funktion spricht .
+Nicht realisiert werden konnte die oszillometrische Blutdruckmessung mithilfe des Versuchsaufbaus .
+Dies scheiterte an der schnellen Regelung des Proportionalventils , wodurch die Oszillationen nicht störungsfrei zu analysieren waren .
+Eine mögliche Lösung dieser Problematik wäre ein zusätzliches Ventil mit Drucksensor , welches ein präzises Ablassen des Drucks und eine Messung der Oszillationen ermöglicht .
+Alternativ dazu könnte ein Bauteil gesucht werden , das die beiden beschriebenen Betriebsmodi wahlweise ausführt .
+Auch bei der Wahl des Anpassungsverfahrens bestanden mehrere Lösungsmöglichkeiten .
+Neben der gewählten Methode wurde die Verwendung des im Penaz-Verfahren benutzten Anpassungswerkzeugs in Erwägung gezogen .
+Dabei würde die Kalibrierung durch die Variation des Sollwerts durchgeführt .
+Allerdings zeigte sich in Vorversuchen , dass der Regler des Servo-Aufbaus sehr empfindlich auf Änderungen des Sollwerts reagiert , was häufig eine Instabilität der Regelstrecke verursacht .
+Die entwickelten Berechnungsalgorithmen ( z.B. für systolischen und diastolischen Blutdruck oder Herzfrequenz , vgl. 7.1.2 ) sind relativ einfach realisiert .
+Somit können wohl nur Messwerte in guter Näherung ermittelt werden , jedoch erscheint dies für den Anwendungsfall ausreichend .
+Aufgrund der Realisierung mittels LabVIEW bestehen bei der Verarbeitung der eingelesenen Daten beliebig viele Erweiterungsmöglichkeiten , wie zum Beispiel eine genaue Analyse des Dopplersignals .
+Somit könnte programmtechnisch eine Warnung bei nicht geeignetem oder schlechter werdendem Eingangssignal ( Verhindern einer Regelung gegen 0 ) erfolgen .
+Denkbar wäre die Analyse der Kurvenform ähnlich zum Finapres-Gerät , wo das Eingangssignal ebenfalls auf charakteristische Muster ( Finapres : Nullstellen bzw. Maxima ) durchsucht wird .
+Kriterien für ein für die Regelung gut geeignetes Dopplersignal sind wohl durch Erfahrungswerte bekannt , müssten jedoch für eine Verwendung durch weitere Messungen bestätigt werden .
+Während der durchgeführten Arbeiten nicht zufriedenstellend bearbeitet werden konnte die Erstellung einer Protokolldatei .
+Zwar werden sekündlich die Verlaufswerte des mittleren arteriellen Drucks sowie die eingelesen Rohdaten aufgezeichnet , jedoch erfolgt die Speicherung bisher in zwei unterschiedlichen Dateien .
+Wünschenswert wäre das Ablegen in einer Datei .
+Diese könnte neben der übersichtlichen Darstellung der Werte auch eine Trendgrafik enthalten .
+Weiter muss sie so gestaltet sein , dass die Druckwerte zur Wiedergabe der Messung vom Programm ausgelesen werden können .
+Mit der Anpassung ist es gelungen , die Größe des Laboraufbaus deutlich zu reduzieren .
+Zum einen konnten nicht mehr benötigte Teile aus ehemals vorgesehenen Teilversuchen , wie z.B. das Display und das Netzteil des internen US-Dopplers , entfernt werden .
+Zum anderen wurden mit der Realisierung des digitalen Reglers die analogen Reglerplatinen samt ihrer Bedienelemente überflüssig .
+Weiter konnten Komponenten wie z.B. das Netzteil für den Betrieb des Proportionalventils durch Bauteile mit geringeren Abmessungen ersetzt werden .
+Die Integration aller Bauteile in das Gehäuse der Druckerzeugungseinheit schafft ein kompaktes Gerät .
+Auch hier steht die Sicherheit des Benutzers im Vordergrund .
+Neben dem schon bestehenden Überdruckventil wurde vor allem bei der Spannungsversorgung auf einen Ausschluss von möglichen Gefährdungen geachtet .
+Es ist im normalen Anwendungsfall wohl nicht vorgesehen , dass das Gerät während der Nutzung durch Studenten geöffnet ist .
+Es musste jedoch sichergestellt werden , dass auch in dieser Situation keine Berührung von Netzspannung führenden Teilen möglich ist .
+Durch z.B. die Verwendung von Isolationshülsen oder das Vergießen der Anschlüsse konnte dies realisiert werden .
+Ein weiterer , anzustrebender Schritt ist die Prüfung des Aufbaus nach gängigen Medizinproduktevorschriften ( Medizinproduktegesetz MPG , Richtlinie 93/42/EWG , EN ISO 19471 , DIN EN 60601 , CE-Konformität ) .
+Somit könnte der Aufbau auf zusätzliche Gefährdungen und somit auf seine Sicherheit untersucht werden .
+Neben der bereits erwähnten programmtechnischen Verbesserung des Ultraschallsignals konnte auch die mechanische Fixierung der Ultraschall-Doppler-Sonde verbessert werden .
+Dadurch wurde ein störungsfreieres Signal erreicht .
+Die während der Entwicklung gestellten Anforderungen sind vollständig erfüllt .
+Während der ausgeführten Testmessungen konnten bestehende Zweifel bezüglich einer Einschnürung und damit einer Beeinträchtigung des Probanden ausgeräumt werden .
+Zudem war die neue Halterung mit geringem Fertigungsaufwand und niedrigen Kosten zu realisieren .
+Der wesentliche Vorteil des Konzepts besteht in der guten Reinigbarkeit des Sondenaufbaus .
+Alle Komponenten sind hierzu vollständig demontierbar .
+Die Reinigung der Sonde ist durch Abwischen möglich , die restlichen Bauteile können unter fließendem Wasser gereinigt oder sogar im Desinfektionsbad eingelegt werden .
+Hierbei sollte jedoch zuvor eine Materialverträglichkeitsprüfung durchgeführt werden .
+Eine weitere mögliche Optimierung wäre die schon in der Diplomarbeit von Thomas Eberhard angedachte Entwicklung eines Sondenarrays [ Ebe96 ] .
+Durch mehrere Ultraschallsonden könnte aus den entstehenden Dopplersignalen das am besten geeignetste ausgewählt und zur Regelung verwendet werden .
+Hierzu wäre dann abermals eine Änderung des Fixierungsaufbaus notwendig .
+Ein Sondenarmband oder eine handschuhähnliche Kombination aus Dopplersonden und Druckmanschette wären in diesem Zusammenhang denkbare Lösungen .
+Insgesamt ist festzustellen , dass der optimierte Laborversuch funktioniert .
+Im Vergleich zum alten Gerät ist , mit Blick auf die Regelung , auf jeden Fall eine gleichwertige Funktion gegeben .
+Im Bezug auf die Verwendungsfähigkeit/den Bedienkomfort übertrifft der optimierte Aufbau den alten .
+Mit den durchgeführten Messungen konnte die grundsätzliche Eignung zur kontinuierlichen , nichtinvasiven Messung des arteriellen Blutdrucks festgestellt werden .
+Um die Frage der vollständigen Funktionsfähigkeit und Zuverlässigkeit beantworten zu können sind weitere Testmessungen notwendig .
+Bisher wurden nur Versuche mit Probanden zwischen 20 und 30 Jahren durchgeführt , bei denen allesamt normale Blutdruckwerte vorherrschten .
+Von Interesse wären jedoch auch Tests mit jüngeren oder älteren Personen oder mit Probanden , die einen durch Krankheit veränderten Blutdruck besitzen ( z.B. Bluthochdruck , erhöhter Gefäßwiderstand etc. ) .
+Außerdem wären , nicht zuletzt zur Bewertung der entwickelten Sondenfixierung , Versuche bei Bewegung bzw. unter Belastung ( z.B. auf dem Ergometer ) zur Bewertung hilfreich .
+Dadurch könnten auch für eine breite Anzahl an Personen geeignete Standard-Reglereinstellungen gefunden bzw. die zurzeit verwendeten Parameter überprüft werden .
+Ziel könnte es sein , in Zukunft einen automatischen Messablauf zu realisieren .
+Dieser könnte selbstständig eine Alternativmessung durchführen , den Regler aktivieren und einstellen und zu einem Zeitpunkt oder wiederholt die Werte an den physiologisch vorliegenden Blutdruck anpassen .
