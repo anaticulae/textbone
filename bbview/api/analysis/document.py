@@ -11,6 +11,7 @@ import flask
 import utila
 
 import bbview.api.analysis
+import bbview.api.utils
 import bbview.api_.analysis.document
 
 
@@ -19,7 +20,7 @@ import bbview.api_.analysis.document
     methods=['GET'],
 )
 def documents():
-    data = getdict(flask.request.args)
+    data = bbview.api.utils.getdict(flask.request.args)
     documents, operation = data.get('documents', []), data.get('operations', [])
     if not any((documents, operation)):
         # user does not select any items
@@ -35,14 +36,3 @@ def documents():
     plotinfo = [f'{item}.png' for item in plotinfo]
     dumped = flask.jsonify({'plots': plotinfo})
     return dumped
-
-
-def getdict(collection) -> dict:
-    """Convert hacky rpc request to usable dict data structure.
-
-    Hint: May remove this HACK later.
-    """
-    result = {}
-    for key in collection:
-        result[key.replace('[]', '')] = collection.getlist(key)
-    return result
