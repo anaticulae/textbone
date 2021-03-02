@@ -23,6 +23,8 @@ def render_document_sentence_mean_length(documents):
     workdir = bbview.config.renderer_workdir()
     # paint non existing items
     painted = paint_document_sentence_mean_length(documents)
+    if not painted:
+        return []
     # write painted
     for fig, path in painted:
         outpath = os.path.join(workdir, path)

@@ -22,6 +22,9 @@ def render_sentences_mean(magics):
     single = []
     for magic in magics:
         source = bbview.api.magic.filepath(magic)
+        if not os.path.exists(source):
+            utila.error(f'file does not exists: {source}')
+            continue
         raw = hugedata.utils.load_sentences(
             source,
             remove_punctation=True,
@@ -29,6 +32,9 @@ def render_sentences_mean(magics):
         floating = hugedata.statistics.floating_sentence(raw)
         mean = [statistics.mean(floating)] * len(floating)
         single.append((magic, floating, mean))
+
+    if not single:
+        return []
 
     workdir = bbview.config.renderer_workdir()
     result = [merged(single, magics)]
