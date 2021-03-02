@@ -1,0 +1,674 @@
+In dieser Arbeit wird untersucht , wie sich eine kurzzeitige Intervention auf das individuelle Stresserleben des Einzelnen auswirkt .
+Dazu benötigt man vorab ein solides Grundwissen über verschiedene Themengebiete , welches das Kapitel „ Gegenwärtiger Kenntnisstand “ zum Ziel hat .
+In diesem Kapitel wird in Punkt 3.1 die heutige Lebens- und Arbeitswelt des Individuums beschrieben .
+Daraufhin erfolgt in Punkt 3.2 eine Begriffserklärung , was genau mit „ Gesundheit “ in diesem Zusammenhang gemeint ist .
+Dazu wird „ Gesundheit “ im ersten Punkt unter dem salutogenetischen Ansatz erläutert und im zweiten Punkt wird auf die „ Psychische Gesundheit “ als Subkategorie eingegangen .
+Den Hauptkern des Kapitels bildet der Punkt 3.3 , der das „ Themengebiet Stress “ beinhaltet .
+Das wird wiederum in einzelne Themenkomplexe unterteilt .
+Anzuführen ist hier das transaktionale Stressmodell nach Lazarus .
+Es werden die Folgen und die Bewältigung von Stress näher betrachtet .
+In das Blickfeld der Betrachtung rückt insbesondere die Begriffserklärung „ Individuelles Stresserleben “ .
+In Punkt 3.4 wird körperliche Aktivität , als eine Möglichkeit für den Stressabbau und eine Erhöhung der Stressresistenz , beleuchtet .
+Der letzte Punkt 3.5 befasst sich mit dem EMS-Training .
+Zum einen wird darauf eingegangen , wie das EMS-Training funktioniert , zum anderen , wie die Studienlage zu positiven psychischen Auswirkungen von EMS-Training ist .
+Der Begriff „ Lebenswelt “ wird von Husserl ( 1936 , zitiert nach Kraus , 2006 , S. 120 ) definiert als „ Ergebnis aus der natürlichen Auseinandersetzung des Menschen mit seiner sozialen Welt “ .
+Schütz ( 1957 , zitiert nach Kraus , 2006 , S. 120 ) vervollständigt die Definition indem er darauf hinweist , dass die Lebenswelt eines Menschen „ … das Resultat dessen zunächst subjektiver Wahrnehmung seiner Umwelt “ ist .
+Hieraus lassen sich zwei Feststellungen ziehen .
+Zum einen steht der Mensch in einer Interaktion mit seiner Umwelt .
+Zum anderen nimmt dieser seine Umwelt subjektiv wahrnimmt .
+Kraus ( 2006 , S. 123 ) erklärt , dass sich die Lebensbedingungen der Menschen und zugleich die Menschen selbst unterscheiden .
+Es ist individuell verschieden , was eine Person wahrnimmt und wie eine Person etwas wahrnimmt .
+Die heutige Lebenswelt des Einzelnen ist eine Interaktion mit seiner subjektiven Umwelt .
+Seine Umwelt wird von Mobilität , Schnelllebigkeit und technischem Fortschritt geprägt .
+Nachrichten aus aller Welt , Flüge in die ganze Welt , lernen und studieren weit weg von zu Hause , um nur einige Beispiele der heutigen Zeit zu nennen .
+Es spielen aber auch Leiharbeit , Ausbeutung und Gewinnmaximierung eine Rolle .
+Hinzu kommen hohe Anforderungen im Privat- und Arbeitsleben sowie die eigenen hochgesteckten Ziele und Erwartungen an sich selbst .
+Soziale Kontakte werden vermehrt über soziale Medien aufrechterhalten .
+Smartphone und Internet ermöglichen eine dauerhafte zeit- und ortsungebundene Vernetzung ( Wimmer & Hartmann , 2014 , S. 11-12 ) .
+So lässt es sich nach Wimmer und Hartmann ( 2014 ) erklären , dass der Erfolg der Mobilmedien darin liegt , dass „ … die Mediennutzer subjektiv gesehen mit den vielfältigen Ansprüchen der Gegenwartsgesellschaft relativ einfach , schnell und flexibel umgehen “ ( S. 13 ) .
+Das Individuum ist vernetzter als jemals zuvor .
+Das wiederum führt zu einer beschleunigten Alltagskultur ( Wimmer & Hartmann , 2014 , S. 14 ) .
+Strukturen , die über Jahrhunderte aufrechterhalten wurden , lösen sich langsam auf .
+Was früher gültig war , ist heute nicht mehr gültig .
+Nach Peuckert ( 2012 , S. 28 ) erfolgt seit den 1960er Jahren eine Destabilisierung der bürgerlichen Familie hin zu einer Pluralisierung der Lebensformen und Neudefinitionen der Geschlechterrolle .
+Familienmitglieder leben nicht länger in einem Haushalt , sondern vermehrt getrennt voneinander .
+Alternativen zur Ehe , wie Partnerlosigkeit und nichteheliche Lebensgemeinschaften , haben an Bedeutung gewonnen ( Peuckert , 2012 , S. 144 ) .
+So ist es nicht verwunderlich , dass Singleperioden aufgrund von seriellen Partnerschaften weiter zunehmen ( Peuckert , 2012 , S. 160 ) .
+Aufgrund der Höherqualifikation der Frauen und der Neudefinition der Geschlechterrolle ist ein Rückgang von kinderreichen Familien und eine Zunahme von Kinderlosigkeit zu erkennen ( Peuckert , 2012 , S. 247248 ) .
+Eine Individualisierung des Lebens ist heute sehr verbreitet .
+Der Einzelne möchte selbst bestimmen und seine Lebenswelt nach seinen Vorstellungen gestalten .
+So erklärt sich nach Peuckert ( 2012 , S. 673 ) eine steigende Attraktivität der Lebensformen , die den selbstständigen Interessen von Mann und Frau nachzugehen erlauben .
+Gemeinschaften , Verbindungen und Verbindlichkeiten lösen sich auf .
+Es gibt weniger verbindliche Normen , Regeln und Richtlinien , die der Einzelne beachten kann und möchte .
+Für den Einzelnen und seine Lebenswelt hat das weitläufige Auswirkungen .
+Mehr subjektive Freiheiten und Wahlmöglichkeiten bedeuten nicht immer einen Gewinn für den Einzelnen und die Gesellschaft .
+So sind nach Fritzsche ( 1998 , zitiert nach Ferchhoff , 2011 , S. 85 ) „ … Wahlmöglichkeiten und freischwebende Selbstverwirklichungsbemühungen für viele Subjekte oftmals anstrengend , überfordernd und belastend .
+Die Zuwächse an Freiheitsdimensionen werden nicht immer als Befreiung , sondern auch als Belastungen und als Bedrohungen erlebt “ .
+Diese Belastungen und Bedrohungen können Auswirkungen auf unterschiedliche Bereiche des Individuums haben .
+Zu den Bereichen gehören die physische , die psychische Gesundheit sowie das individuelle Stresserleben .
+Das Bedeutet in der Konsequenz , dass mit Überforderungssymptomen - durch eine Steigerung aus Frust und Stress - auf verschiedenen Ebenen zu rechnen ist ( Ferchhoff , 2011 S. 88 ) .
+Ein sehr wichtiger Faktor , der die Umwelt und somit die Lebenswelt des Individuums stark beeinflusst , ist die Arbeitswelt .
+Die heutige Arbeitswelt mit ihren Auswirkungen auf das Individuum wird im nächsten Punkt näher erläutert .
+Großen Einfluss auf die heutige Arbeitswelt nehmen neue Produktionsabläufe , höhere und schnellere Technisierung und ein verändertes Familien- und Privatleben .
+Die heutige Arbeitswelt wird Teil der Lebenswelt .
+Früher gab es eine klare Trennung zwischen Arbeits- und Lebenswelt , doch heute verschwimmt sie immer mehr mit der Lebenswelt des Einzelnen .
+So ist nach Parment ( 2014 ) „ … eine zunehmende Auflockerung der Grenzen zwischen Arbeit und Privatleben … “ die Folge von technischen Neuerungen wie „ … Laptop und Smartphone , die es möglich machen praktisch überall und zu jeder Stunde zu arbeiten “ ( S. 65 ) .
+Die heutige Arbeitswelt ist laut Eichhorst ( 2011 ) geprägt von „ … Öffnung der Grenzen für die Verlagerung der Produktion und die Mobilität der Arbeitskräfte … “ ( S. 225 ) .
+Für die Erwerbspersonen sind langjährige Beschäftigungsverhältnisse und ein stabiles Arbeitsumfeld häufig Mangelware .
+Für sie zählt die Bereitschaft zur Mobilität und zur Fort- und Weiterbildung zur absoluten Notwendigkeit .
+Im Zuge dessen steigen psychische Belastungen , Zeit- und Leistungsdruck und Gefühle der Unsicherheit bei allen Berufsgruppen deutlich an ( Eichhorst , 2011 , S. 233 ) .
+Nach Ahlers ( 2014 , S. 36 ) steigt die Informationsmenge und die Komplexität in der Arbeit in vielen Bereichen der Arbeitswelt stetig an .
+Die Arbeitswelt wird immer komplexer .
+So sind nach Hannack und Räder ( 2011 ) „ … erhöhter Zeitdruck , oft auch Umstrukturierungen , Personalabbau und Betriebsschließungen “ ( S. 433 ) die Folge .
+Weiterhin unvorteilhaft daran ist nach Hannack und Räder ( 2011 ) vor allem eine „ … hohe psychische Beanspruchung für die betroffenen Mitarbeiterinnen und Mitarbeiter “ ( S. 433 ) .
+Das führt zu Motivationsverlust , Unproduktivität und zu Konflikten mit und im Privat- und Familienleben .
+Auf der einen Seite bekommen die Mitarbeiter mehr Freiräume , wie zum Beispiel Home-Office oder flexible Arbeitszeiten , arbeiten dafür aber häufig projekt- oder ergebnisorientiert .
+Zeitliche Rahmenbedingungen und Pausenzeiten , sowie ein „ Abschalten “ nach der Arbeit fallen schwer oder sind nicht realisierbar .
+Das hat auf lange Sicht negative Folgen für die Gesundheit .
+„ Denn : Gesundheit und Zufriedenheit der Beschäftigten entscheiden bekanntermaßen über die Leistungsfähigkeit und Wettbewerbsfähigkeit eines Unternehmens “ ( Hannack & Räder , 2011 , S. 434 ) .
+Negative Folgen für die Gesundheit aufgrund von arbeitsbedingten Belastungen können vielfältig sein und sich bei jedem anders äußern .
+Die Techniker Krankenkasse ( 2013 , S. 33 ) beschreibt negative körperliche Folgen bei ihren Versicherten wie Muskelverspannungen , Rückenschmerzen , Kopfschmerzen , Magenbeschwerden und häufigen Erkältungskrankheiten .
+Es können auch negative Folgen im Bereich der Psyche auftreten .
+So zeigt sich im „ Psychoreport 2015 “ der DAK-Gesundheit ( 2015 , S. 10 ) , dass im Jahr 2014 die führende Einzeldiagnose bei psychischen Erkrankungen die „ Depression “ war .
+Für die heutige neue Arbeitsgeneration spielt deshalb die „ Work-Life-Balance “ eine zunehmend wichtigere Rolle .
+So ist nach Eichhorst ( 2011 ) die „ Work-Life-Balance “ definiert als „ … die legitimen Belange der Arbeitswelt und die legitimen Belange des Privat- und Familienlebens unter einen Hut zu bekommen und etwa auch gegenüber den Verpflichtungen des Arbeitslebens Grenzen zu ziehen “ ( S. 233 ) .
+Zusammenfassend lässt sich festhalten , dass die größte Herausforderung für den Einzelnen die Vereinbarkeit von Globalisierung und Ortsbezogenheit , von Arbeits- und Lebenswelt , von Dynamik und Stabilität in der heutigen Zeit darstellt ( Eichhorst , 2011 , S. 234 ) .
+Die Begriffserklärung von „ Gesundheit “ als solches fällt bei der Anzahl an Definitionen sichtlich schwer .
+Nach ausführlicher Literaturrecherche kommt man zu dem Schluss , dass die meisten Autoren davon ausgehen , dass „ Gesundheit “ auch immer in irgendeiner Weise mit „ Krankheit “ verbunden ist .
+So steht der Gesundheitsbegriff nur selten alleine .
+Eine der ersten und häufig benutzten Begriffserklärungen ist der Gesundheitsbegriff der World Health Organization ( 1946 ) „ Gesundheit ist der Zustand eines völligen körperlichen , geistigen und sozialen Wohlergehens und nicht nur die Abwesenheit von Krankheit “ ( S. 10 ) .
+In Anlehnung an das Gesundheitsmodell von Aaron Antonovsky aus dem Jahr 1979 geht Schwarz ( 2013 ) davon aus , dass „ Gesundheit als Zustand … lediglich eine punktuelle Momentaufnahme aus dem Ablauf des dynamischen Geschehens “ ( S. 416 ) ist .
+Jeder Mensch ist entweder auf dem Weg zu mehr Gesundheit oder auf dem Weg zu mehr Krankheit .
+Schwarz ( 2013 ) gibt die für diese Arbeit sinnvollste Begriffserklärung für Gesundheit „ Der Mensch ist nicht entweder gesund oder krank !
+Denn wie krank er auch sein mag , er ist immer zugleich auch ( zu einem bestimmten Grad ) gesund “ ( S. 417 ) .
+Gesundheit kann als lebenslanger Prozess verstanden werden .
+Das lässt sich an einem Beispiel verdeutlichen .
+Eine Person ist körperlich - Gelenke , Knochen , Herz-Kreislauf und so weiter - gesund .
+Die Person fühlt sich jedoch immer krank , wenn sie zur Routineuntersuchung zum Arzt muss .
+In dem Moment manifestieren sich Rückenschmerzen , das Herz schlägt schneller und der Blutdruck steigt deutlich an .
+Ist diese Person nun gesund und nur vor dem Arztbesuch krank ?
+Oder ist die Person nur zu einem bestimmten Anteil krank und ansonsten gesund ?
+Insgesamt fällt eine Eingrenzung des Gesundheitsbegriffs schwer .
+Ein immer wichtiger werdender Teilaspekt der Gesundheit in der heutigen Zeit nimmt neben der physischen Gesundheit - die psychische Gesundheit ein .
+„ Psychische Gesundheit “ wird nach der World Health Organization ( 2002 ) definiert als „ Zustand des Wohlbefindens , in dem der Einzelne seine Fähigkeiten ausschöpfen , die normalen Lebensbelastungen bewältigen , produktiv und fruchtbar arbeiten kann und imstande ist , etwas zu seiner Gemeinschaft beizutragen “ ( S. 8-9 ) .
+Es wird stark darauf hingewiesen , dass die psychische Gesundheit das Fundament eines jeden Menschen ist , ohne die er seinen Alltag nicht meistern kann .
+Aus der Definition wird deutlich , dass das Individuum ohne das wertvolle Gut der psychischen Gesundheit seinen Beitrag zur Gemeinschaft nicht leisten kann .
+Dieser Beitrag wird hier bezeichnet als „ produktiv und fruchtbar arbeiten “ .
+Das bedeutet im Umkehrschluss , dass das Individuum nur durch psychische Gesundheit als Grundbaustein seine Arbeit als Beitrag zur Gemeinschaft verrichten kann .
+Als Gegenteil zur „ Psychischen Gesundheit “ lässt sich der Begriff der „ Psychischen Krankheit “ darlegen .
+Die Statistik der Deutsche Angestellten Kasse ( 2014 , S. 18 ) zeigt , dass der Bereich der „ Psychischen Erkrankungen “ im Jahr 2013 die dritthöchste Anzahl an Arbeitsunfähigkeitstagen der Versicherten verursachte .
+Die Anzahl an psychisch erkrankten Mitarbeitern steigt stetig an ( Deutsche Angestellten Kasse , 2014 , S. 19 ) , sodass laut Definition der World Health Organization diese Menschen aufgrund der eingeschränkten psychischen Gesundheit ihren Beitrag zur Gemeinschaft zu diesem Zeitpunkt nicht leisten können .
+Jeder hat schon einmal die Ausdrucksweise gehört , viele kennen es selber .
+„ Ich habe Stress “ oder „ Ich bin gestresst “ oder die kürzeste Beschreibung des momentanen Zustands einer Person auf die Frage nach dem Wohlergehen „ Stress “ .
+Doch woher kommt diese Bewertung und was bedeutet „ Stress “ eigentlich ?
+Der Begriff „ Stress “ stammt von dem lateinischen Wort „ stringere “ ab und bedeutet „ zusammenziehen “ ( Greiner , Langer , & Schütz , 2012 , S. 18 ) .
+Er wurde früher von Materialwissenschaftlern verwendet , um die Auswirkungen von Belastungen auf feste Materialien zu bezeichnen ( Kaluza , 2015 , S. 4 ) .
+Der Mediziner Hans Selye ( 1907-1982 ) prägte den Begriff „ … als unspezifische Reaktion des Körpers auf jede an ihn gestellte Anforderung “ ( Selye , 1974 , S. 58 ) .
+Diese sehr unspezifische Begriffserklärung wurde von Greif ( 1991 ) genauer beschrieben als „ … einen unangenehmen Spannungszustand als Reaktion auf eine subjektiv wichtige Situation , deren Anforderungen mit den vorhandenen Fähigkeiten und Möglichkeiten nicht bewältigt werden können “ ( S. 13 ) .
+Stress tritt nicht einfach auf , sondern hat immer einen Auslöser , den Stressor .
+Kaluza ( 2015 ) beschreibt Stressoren als „ … Anforderungsbedingungen in unserer Umwelt , in deren Folge es zur Auslösung einer Stressreaktion kommt “ ( S. 8 ) .
+Stressoren können zum Beispiel Lärm , Durst , Hunger oder Zeitdruck sein .
+Auch eine bevorstehende Prüfung , Schlafmangel , Streit oder eine Verletzung können sich als Stressoren manifestieren .
+Nicht jeder Stressor ist für jeden gleich belastend .
+„ Diese Bedingungen sind individuell und müssen somit nicht bei jeder Person zu Stress führen “ ( Greiner et al. , 2012 , S. 18 ) .
+Das bedeutet , dass jede Person Stress anders erlebt und darauf anders reagiert .
+Kaluza ( 2015 ) bringt es auf den Punkt , denn „ Stress entsteht also immer erst dann , wenn eine Diskrepanz zwischen der Anforderung einerseits und unseren eigenen Bewältigungskompetenzen andererseits besteht “ ( S. 9 ) .
+So unzählig die Stressoren sind , so unzählig sind auch die darauffolgenden Stressreaktionen .
+„ Die Stressreaktion umfasst alle Prozesse , die vom Organismus als Antwort auf den Stressor in Gang gesetzt werden “ ( Greiner et al. , 2012 , S. 20-21 ) .
+Kaluza ( 2015 ) erläutert es wie folgt „ Wir reagieren sozusagen immer als ganzer Mensch mit Herz und Muskeln , mit Worten und Taten sowie mit Gefühlen und mit Gedanken auf die Konfrontation mit einem Stressor “ ( S. 10-11 ) .
+Diese Stressreaktionen lassen sich in vier Ebenen unterteilen , um eine bessere Übersicht zu geben , wie Stress sich auswirkt .
+Alle Ebenen werden gleichzeitig angesprochen , jedoch bei jeder Person unterschiedlich intensiv .
+Däfler ( 2015 , S. 5 ) beschreibt als kognitive Reaktionen zum Beispiel schlechte Konzentration und negative Gedanken .
+Als emotionale Reaktionen können sich Wut und Ärger manifestieren .
+Muskuläre Reaktionen können Zittern , mit den Fingern trommeln oder Zuckungen sein .
+Zu den vegetativhormonellen Reaktionen zählen Herzrasen , vermehrte Schweißbildung oder ein roter Kopf .
+„ Als Programm zur Überlebenssicherung gedacht , befähigen uns körperliche und geistige Stressreaktionen zu besonderen Leistungen “ ( Däfler , 2015 , S. 8 ) .
+Das Ziel von Stress ist nicht schaden , sondern schützen .
+Stress soll zu einer Kampf- oder Fluchtreaktion führen , um das Leben zu retten .
+Es stellt sich die Frage , wo dieser Schutzmechanismus entsteht .
+Stress entsteht im Gehirn .
+Kaluza ( 2015 , S. 26-27 ) stellt genau dar , was bei einer Stressreaktion im Körper geschieht .
+Zuerst bewertet das Gehirn eine Situation aufgrund von Erfahrungen als bedrohlich .
+Der Hirnstamm als Stresszentrum wird aktiviert und produziert Noradrenalin .
+Dieser Botenstoff erreicht die Nebennieren , die ihrerseits das Stresshormon Adrenalin freisetzen .
+Es folgt eine Aktivierung von Atmung , Kreislauf und Energiebereitstellung .
+Eine Kampf- oder Fluchtreaktion ist jetzt möglich .
+Der Hypothalamus schaltete sich bei länger anhaltendem Stress ein und gibt an die Hirnanhangdrüse das Signal zur Sekretion des adrenokortikotropen Hormons ( ACTH ) .
+Nun wird die Nebennierenrinde angeregt Kortisol - als zweites wichtiges Stresshormon - zu produzieren .
+Es folgt eine stärkere und längere Aktivierung von Atmung , Kreislauf und Energiebereitstellung , sodass die Situation über einen längeren Zeitraum bewältigt werden kann .
+Ist die Gefahr bewältigt oder die Flucht gelungen , werden Adrenalin und Kortisol wieder abgebaut und der Normalzustand für alle Systeme kehrt zurück .
+Es gibt viele theoretische Modelle zur Entstehung , Bewertung , Bewältigung und Verarbeitung von Stress .
+Hier wird das transaktionale Stressmodell des amerikanischen Psychologen Richard Lazarus aus dem Jahr 1974 zur Beschreibung des Stressprozesses herangezogen .
+Greiner et al .
+( 2012 ) beschreiben das transaktionale Stressmodell als ein „ … in der Psychologie weithin akzeptiertes und angewandtes Modell zur Beschreibung des Stressprozesses “ ( S. 19 ) .
+In diesem Modell gibt es insgesamt vier Stationen , die einzeln durchlaufen werden .
+Als erste Station löst eine neutrale Situation eine primäre Bewertung aus .
+Als zweite Station - beinahe zeitgleich - geschieht eine sekundäre Bewertung .
+Als dritte Station erfolgt eine Bewältigung der Situation .
+Die letzte Station ist eine Neubewertung der Situation .
+Die Abbildung 1 ( Abb . )
+verdeutlicht die vier Stationen des transaktionalen Modells nach Lazarus .
+Es wird im Folgenden jede Station einzeln erläutert .
+Stress wird von Lazarus ( 1999 , zitiert nach Greiner et al. , 2012 , S. 19 ) als „ … Reaktion des Organismus auf überhöhte Anforderungen aus der Umwelt beschrieben “ .
+Laut dem transaktionalen Modell läuft die Reaktion auf das Stressprogramm nicht bei allen Menschen in allen Belastungssituationen stereotypisch gleich ab ( Kaluza , 2015 , S. 31 ) .
+Es kommt sehr auf eine individuelle kognitive Bewertung und die subjektiv vorhandenen Möglichkeiten der Bewältigung der Stresssituation an ( Greiner et al , 2012 , S. 19 ) .
+Das bedeutet , dass die Stressreaktion nicht unbedingt durch die Situation an sich , sondern durch die darauffolgende Bewertung in Gang gesetzt wird oder nicht .
+Das Modell unterscheidet dabei zwei Stufen der Bewertung einer potentiellen Stresssituation .
+Die primäre Bewertung , auch „ primary appraisal “ genannt , bewertet die Situation für das Wohlbefinden der Person als irrelevant , günstig oder stressend ( Greiner et al , 2012 , S. 20 ) .
+Die Bewertungen günstig oder irrelevant bleiben ohne Stressreaktion .
+Auf eine stressende Bewertung , die als schädigend , bedrohend oder herausfordernd eingestuft wird , erfolgt die zweite Bewertung .
+Diese erfolgt fast zeitgleich .
+Die sekundäre Bewertung ( „ secondary appraisal “ ) schätzt die „ … subjektiv wahrgenommenen Fähigkeiten und Möglichkeiten zur Bewältigung des Stressors … “ ( Greiner et al , 2012 , S. 20 ) ein .
+Schätzt die Person die Fähigkeiten als ausreichend ein , entsteht kein Stress .
+Sind die Fähigkeiten subjektiv zu gering , entsteht Stress .
+Neben der Bewertung der Situation ist vor allem die Einschätzung der Stressbewältigungsstrategien ( Copingstrategien ) entscheidend .
+„ Copingstrategien dienen dazu , negative Konsequenzen von Stressoren zu verhindern oder zu reduzieren “ ( Krohne , 2009 , Zapf & Semmer , 2004 , zitiert nach Greiner et al. , 2012 , S. 20 ) .
+Das transaktionale Modell unterscheidet hierbei zwei Strategien der Stressbewältigung .
+Die erste Strategie ist das „ Problembezogene Coping “ .
+Diese Strategie unterbindet die umwelt- oder personenbezogenen Ursachen durch aktive Handlungen .
+Die zweite Strategie ist das „ Emotionsbezogene Coping “ .
+Diese Strategie baut durch Stress ausgelöste Emotionen , wie zum Beispiel Wut und Ärger , ab ( Greiner et al , 2012 , S. 20 ) .
+Als letzte Station erfolgt die Neubewertung ( „ reappraisal “ ) der Situation .
+Die Bewältigungsbemühungen verändern den Stressor oder die Wahrnehmung dessen , das Ergebnis wird dann neu bewertet ( Greiner et al , 2012 , S. 20 ) .
+Wird die Situation als nicht stressend empfunden überspringt die Person die Bewältigung und springt direkt zur Neubewertung über .
+Wird die Situation zuerst bewältigt , springt die Person erst dann zur Neubewertung über .
+Dieser Prozess geschieht immer wieder aufs Neue und in kürzester zeitlicher Abfolge , ohne dass die Person sich darauf explizit konzentrieren muss .
+Nachdem die theoretischen Grundlagen anhand des transaktionalen Stressmodells erläutert wurden , soll der Begriff „ Individuelles Stresserleben “ näher erklärt werden .
+Die Dudenredaktion ( 2006 ) definiert den Begriff „ individuell “ als „ … durch die Eigenart , Besonderheit u. Ä. der Einzelpersönlichkeit geprägt ; je nach persönlicher Eigenart … “ ( S. 263 ) .
+Es zeichnet einen Menschen in seiner Einzigartigkeit aus .
+Jeder ist anders , jeder ist ein Einzelstück .
+Es gibt keinen anderen Menschen mit genau denselben Wesenszügen , demselben Aussehen , auch wenn man sich ähnlich sieht .
+Genauso verhält es sich auch mit dem Stresserleben .
+Stress kann unterschiedlich intensiv wahrgenommen werden .
+Nach dem transaktionalen Modell hängt es von der primären und sekundären Bewertung jedes Einzelnen ab , ob eine Situation als stressig bewertet wird oder nicht ( Greiner et al , 2012 , S. 20 ) .
+Litzcke , Schuh und Pletke ( 2013 ) benutzen für das individuelle Stresserleben das Synonym „ persönliche Stresserleben “ und beschreiben es als davon abhängig , „ … mit welcher Häufigkeit , Vielfalt , Dauer und Intensität Stressoren wirken .
+Besonders wichtig ist die individuelle Bewertung einer Situation “ ( S. 8 ) .
+Die individuelle Reaktion einer Person auf eine Stresssituation kann man im Alltag sehr gut beobachten .
+So macht Kaluza ( 2015 , S. 12 ) deutlich , dass eine subjektiv stressige Situation , zum Beispiel eine Prüfung , ein Streit oder ein Stau , zu unterschiedlich heftigen Stressreaktionen führt - trotz der objektiv identischen Situation .
+Somit kann zusammenfassend festgehalten werden , dass das Stresserleben einer Person immer als „ individuelles Stresserleben “ bezeichnet werden muss .
+Litzcke et al . ( 2013 ) drücken es am präzisesten aus , dass „ Die persönliche Bewertung entscheidet … , ob ein Mensch Stress empfindet oder nicht “ ( S. 9 ) .
+Folgt man dem transaktionalen Stressmodell steht die Bewältigung von Stress an dritter Stelle .
+Nach der primären und sekundären Bewertung der Situation erfolgt die Bewältigung der Stresssituation .
+Eine Situation muss nur bewältigt werden , wenn sie Stress auslöst .
+Der Begriff „ Coping “ stammt aus dem englischen Sprachgebrauch ( „ to cope with “ ) und bedeutet „ bewältigen “ oder „ überwinden “ ( Quernheim & Schreier , 2014 , S. 95 ) .
+Das transaktionale Stressmodell unterscheidet zwischen problembezogenem und emotionsbezogenem Coping .
+Beide Copingstrategien wurden in Punkt 3.3.2 bereits erläutert .
+Andere Autoren nehmen eine abweichende Einteilung der Ansatzpunkte des Coping vor .
+Nach Litzcke et al .
+( 2013 , S. 46 ) kann Stressbewältigung bei den Stressoren , bei dem Menschen selbst oder bei der Stressreaktion ansetzen .
+So unterscheiden Litzcke et al .
+( 2013 , S. 47 ) zusätzlich zwischen Maßnahmen zur kurzfristigen Erleichterung und Maßnahmen der langfristigen Stressbewältigung .
+Unter kurzfristigen Maßnahmen verstehen Litzcke et al .
+( 2013 ) Maßnahmen , „ … die Auswirkungen bereits angestauter Stressreaktionen abmildern oder Stressspitzen kappen “ ( S. 47 ) , beispielsweise sich ablenken , indem die Person spazieren geht , mit Freunden telefoniert oder Musik hört .
+Eine weitere Möglichkeit bietet der „ Gedankenstopp “ .
+Das Ziel dieser Technik ist es , die quälenden Gedanken beim Auftreten , also so früh wie möglich , abzubrechen .
+Indem die Person sich immer wieder den Begriff „ Stopp “ leise oder laut vorsagt , soll eine Gedankenbremse hin zu anderen Gedanken führen .
+Als letzte kurzfristige Maßnahme sei hier die „ Spontane Entspannung “ genannt .
+Eine zuvor erlernte Entspannungstechnik ( Progressive Muskelentspannung oder Autogenes Training ) wird punktuell und zur Minimierung der aktuellen Erregung eingesetzt ( Litzcke et al. , 2013 , S. 54 ) .
+Langfristige Maßnahmen sind nach Litzcke et al .
+( 2013 , S. 47 ) besonders wirksam , wenn die Person Ursachen der Belastung verändern , beseitigen oder reduzieren will und kann .
+Weiterhin , wenn eine Belastung vorhersehbar ist und die Person sich darauf vorbereiten kann .
+Eine Maßnahme dafür kann die Aktivierung von sozialer Unterstützung ( Freunde , Familie ) sein .
+So können Bedürfnisse nach praktischer Hilfe und Beruhigung erfüllt werden ( Litzcke et al. , 2013 , S. 68 ) .
+Eine weitere Maßnahme stellt das Zeitmanagement dar .
+„ Gutes Zeitmanagement kann helfen , den Tag besser zu strukturieren “ ( Litzcke et al. , 2013 , S. 75 ) .
+Dadurch lässt sich Stress bereits im Vorfeld reduzieren und vermeiden , weil die Person sich gezielt auf den Tagesablauf vorbereiten kann und weiß , was auf sie zukommt .
+Die letzte beispielhafte langfristige Maßnahme ist die „ Progressive Muskelentspannung “ nach Jacobson aus dem Jahr 1924 .
+Diese Maßnahme muss über einen längeren Zeitraum trainiert und wiederholt werden , um die volle Wirkungsbreite zu entfalten .
+Dabei werden abwechselnd bestimmte Bereiche der Skelettmuskulatur angespannt und wieder entspannt .
+So wird vor allem das Körpergefühl geschult und dadurch der Fokus weg vom Stress hin zur Entspannung geführt .
+Zusammenfassend kann festgehalten werden , dass sich Stresssituationen aufgrund von individuellen Bewertungen und Reaktionen unterscheiden .
+Ebenso verhält es sich mit den Strategien der Stressbewältigung .
+Jeder Mensch ist sehr individuell , sodass jeder Einzelne eigene Bewältigungsstrategien entwickeln muss .
+Kaluza ( 2015 ) bekräftigt das mit folgender Aussage „ Hierauf gibt es keine allgemein gültige Antwort .
+Patentrezepte gibt es nicht “ ( S. 91 ) .
+Stress hatte früher eine lebenserhaltende Wirkung .
+Durch die Ausschüttung von Aktivierungshormonen wurden unsere menschlichen Vorfahren blitzschnell befähigt , auf eine stressende Situation mit Kampf- oder Fluchtverhalten zu reagieren , um das Leben zu retten .
+In diesem Prozess werden Zucker und Fette zur Energiebereitstellung verstoffwechselt .
+„ Die durch einen Stressor ausgelöste körperliche Aktivierung ist an sich nicht gesundheitsschädlich “ ( Kaluza , 2015 , S. 33 ) .
+Kaluza fügt hinzu , dass phasische Aktivierung eher als angenehm , leistungssteigernd und motivierend erlebt wird ( Kaluza , 2015 , S. 34 ) .
+Die Gesundheitsgefährdung ist also nicht alleine im Stress begründet .
+Stress wird von Litzcke et al .
+( 2013 ) als negativ eingestuft , wenn „ … die Ermüdungssignale übersehen werden und punktueller Stress zu Dauerstress wird .
+Wachsende Anspannung und fehlende Entspannung gehen Hand in Hand “ ( S. 25 ) .
+Die damals sinnvollen körperlichen Reaktionen sind heute - in der modernen Welt - nicht mehr zeitgemäß .
+Flucht- und Kampfreaktionen sind nicht mehr in dem Maße möglich , die bereitgestellte Energie wird nicht mehr verbraucht , es ergeben sich negative gesundheitliche Folgen ( Kaluza , 2015 , S. 34 ) .
+Denn „ Chronischer Stress hat nicht nur schädliche Auswirkungen auf die körperliche Gesundheit zur Folge , sondern bewirkt auch Störungen des psychischen Wohlbefindens und der psychischen Gesundheit “ ( Kaluza , 2015 , S. 38 ) .
+Es lässt sich nicht genau sagen , wie Körper , Geist und Psyche auf Stress reagieren ( Däfler , 2015 , S. 19 ) .
+Auch bei diesem Punkt ergeben sich aufgrund der Individualität jedes Menschen unterschiedliche Folgen .
+Nach Däfler ( 2015 , S. 20-21 ) können negative Folgen in allen drei Bereichen entstehen .
+Beispiele für körperliche Folgen sind Diabetes , Herzrasen und Nackenschmerzen .
+Beispiele für geistige Folgen sind Denkblockaden , Vergesslichkeit und Wortfindungsprobleme .
+Beispiele für psychische Folgen sind Burnout , Depressionen und Nervosität .
+Eine Depression als Folge von chronischem Stress ist nicht zu unterschätzen .
+So listet die DAK-Gesundheit ( 2015 , S. 9-10 ) die „ Depression “ im Jahr 2014 mit 112 Fehltagen als häufigste Einzeldiagnose , das entspricht 47 % der Fehltage aufgrund von psychischen Erkrankungen .
+Die Betroffenen einer Depression sind nach Keel ( 2015 , S. 49 ) geprägt von gedrückter , pessimistischer Stimmung , besonders beim Erwachen .
+Betroffene verlieren ihre Freude und ihr Interesse an der Umwelt .
+„ Müdigkeit , Erschöpfung und Lustlosigkeit lähmen den Antrieb “ ( Keel , 2015 , S. 49 ) .
+Häufig ist eine überarbeitungsbedingte Erschöpfung der Ausgangspunkt für eine Depression .
+Der Übergang ist meist fließend ( Keel , 2015 , S. 49 ) .
+Dadurch sind diese Personen immer weniger fähig , am normalen Lebensgeschehen teilzunehmen .
+Hinzu kommen häufig Konzentrationsschwächen , Appetitverlust und Gefühlslosigkeit .
+Die Abwärtsspirale dreht sich weiter , bis hin zu Suizidgedanken und -versuchen der Betroffenen ( Keel , 2015 , S. 50 ) .
+Es lässt sich festhalten , dass die Folgen von zu viel Stress und zu wenigen Erholungspausen individuell verschieden sind .
+Negative Auswirkungen manifestieren sich auf allen Ebenen des Individuums .
+Die Folgen für die Zukunft der Gesellschaft sind zurzeit noch nicht absehbar .
+Eine Beschreibung der jetzigen Folgen für die Gesellschaft würde den Rahmen dieser Arbeit sprengen .
+So unzählig die Möglichkeiten der Stressbewältigung für den Einzelnen sind , so unzählig sind auch die Möglichkeiten zur Stärkung der psychischen Gesundheit , zur Senkung des Stressniveaus und zur Verbesserung des Stressempfindens für jeden Einzelnen .
+Der eine geht spazieren , ein anderer hört klassische Musik , jemand anderes schaut sich einen Kinofilm an oder meditiert .
+Wiederum andere machen einen Spieleabend oder lesen ein Buch .
+In diesem Abschnitt soll Sportaktivität als Möglichkeit zu einer Verbesserung des individuellen Stresserlebens betrachtet werden .
+Körperliche Aktivität wird nach Mensink ( 2003 ) als „ … jede durch die Skelettmuskulatur hervorgebrachte Aktivität , die den Energieverbrauch substantiell ansteigen lässt “ ( S. 3 ) definiert .
+So kann unter dieser groben , weitläufigen Definition auch die körperliche Aktivität im Beruf , wie zum Beispiel Maurerarbeiten , Ziegelsteine transportieren oder Abrechnungen am Schreibtisch anfertigen , gemeint sein .
+Eine genauere Eingrenzung des Begriffs hin zum sportwissenschaftlichen Bereich ist hier sinnvoll .
+Sportaktivität wird von Klaperski , Selig und Fuchs ( 2012 ) bezeichnet , wenn „ …bei ihrer Ausübung prinzipiell größere Muskelgruppen beansprucht werden und eine regelmäßige Ausübung zur Verbesserung von Kraft , Ausdauer , Koordination oder Beweglichkeit führt “ ( S. 80 ) .
+Klaperski et al .
+befragten 427 Angestellten im Laufe von 10 Monaten an zwei Messzeitpunkten zu ihrem arbeitsbedingtem Stresserleben und ihrer Sportaktivität .
+Die Befunde deuten darauf hin , dass sich regelmäßige Sportaktivität positiv auf das arbeitsbedingte Stresserleben auswirkt ( Klaperski et al. , S. 80 ) .
+Eine Möglichkeit von Sportaktivität stellt das Krafttraining dar .
+„ Krafttraining ist ein zentraler Sammelbegriff , der im übergeordneten Sinne die Trainingsart mit dem generellen Ziel der Verbesserung der Kraftfähigkeiten beschreibt “ ( Schmidtbleicher , 1992 , S. 263 ) .
+Tscharaktschiew und Rudolph ( 2012 , S. 55 ) untersuchten die Wirkung eines klassischen , gesundheitsorientierten Krafttrainings .
+Untersucht wurden verschiedene Aspekte des psychischen Wohlbefindens über die Dauer von drei und sechs Monaten .
+426 Probanden führten ein Krafttraining sechs Mal im Monat durch .
+Es wurden bei den Probanden indirekte Wirkmechanismen gefunden .
+Durch das gesundheitsorientierte Krafttraining verbesserte sich das Körperbild , das förderte eine Zunahme der Selbstwirksamkeitserwartung , die wiederum eine höhere Lebenszufriedenheit begünstigte ( Tscharaktschiew & Rudolph , 2012 , S. 55 ) .
+Festzuhalten ist , dass sich Sportaktivität und Krafttraining als Intervention zur Untersuchung von psychischen Variablen eignen .
+Es wurde lange und aufwendig in verschiedenen Datenbanken wie „ Google Scholar “ , den Online-Bibliotheken der „ Deutsche Hochschule für Prävention und Gesundheitsmanagement “ , der „ Deutsche Zeitschrift für Sportmedizin “ , der „ Zeitschrift für Sportpsychologie “ und der „ Zeitschrift für Psychologie “ nach Studien gesucht , die positive Effekte eines Krafttrainings auf das individuelle Stresserleben bereits explizit untersucht haben .
+Das Thema wurde nicht hinreichend untersucht , da sich nur eine Studie zu arbeitsbedingtem Stresserleben in Zusammenhang mit Sportaktivität findet .
+Hier lässt sich ein Forschungsdefizit erkennen .
+Das EMS-Training kommt aus dem Bereich der Physiotherapie .
+Es werden Elektroden auf einen Muskel oder eine Muskelpartie angelegt , um die quergestreiften Muskelfasern durch Elektroimpulse zu einer Kontraktion zu führen .
+Dabei verhält es sich so , dass die Muskelfasern kontrahieren ohne , dass ein Signal vom Gehirn erforderlich ist .
+So lassen sich in der Physiotherapie gezielt atrophierte Muskeln wieder aufbauen .
+Beim EMS-Training als Ganzkörpertrainingseinheit werden acht Elektrodenpaare an die Hauptmuskelgruppen ( Brust , Rücken , Beine , Gesäß , Bauch und Arme ) in einem Gurtsystem an das EMS-Gerät des Anbieters „ miha bodytec GmbH “ durch ein Kabel angeschlossen .
+Zuvor wird eine spezielle Unterwäsche zur besseren Stromweiterleitung unter das angefeuchtete Gurtsystem angezogen .
+Laut Vatter , Authenrieth und Müller ( 2014 , S. 9 ) verbindet das EMS-Training als Ganzkörpertrainingseinheit die Vorteile aus konventionellem Training und einer neuen Form des EMS .
+Es werden gleichzeitig alle Hauptmuskelgruppen durch Elektroimpulse angesteuert und durch Ausführung von komplexen Übungen die Koordination gefördert .
+Damit lässt sich in kurzer Zeit ein Ganzkörpertraining absolvieren .
+Das EMS-Training findet mit einem Personal Trainer als 1:1 Einheit statt und dauert je nach Trainingszustand und Zielsetzung der Person zwischen 10-20 Minuten ( Vatter et al. , 2014 , S. 28 ) .
+Es gibt diverse Studien zu positiven Auswirkungen durch EMS-Training auf Kraftzuwachs , Fettabbau , Muskelmasseaufbau und Körperzusammensetzung .
+Zu nennen ist beispielhaft die TEST-III Studie von Kemmler , Engelke und Stengel ( 2012 , S. 343349 ) .
+Sie haben 76 Frauen über dem 70 .
+Lebensjahr über die Dauer von 54 Wochen ein 20-minütiges „ Bewegungsprogramm “ mit EMS-Applikation durchführen lassen .
+Die Effekte in Bezug auf fettfreie Körpermasse und Muskelmasse der Oberschenkel sind signifikant positiv ( Kemmler et al. , 2012 , S. 343 ) .
+In einer weiteren Studie von Kemmler et al .
+( 2015 , S. 321-327 ) wurde eine Gruppe von 46 untrainierten Männern zwischen dem 30. und dem 50 .
+Lebensjahr zweigeteilt .
+Eine Gruppe trainierte ihre Kraftfähigkeit zweimal pro Woche mit einer 1-Satzmethode bis zur Ausbelastung .
+Die andere Gruppe absolvierte dreimal in zwei Wochen ein 20minütiges EMS-Krafttraining .
+Gemessen wurden die fettfreie Körpermasse , die Muskelmasse , die dynamische Maximalkraft der Beinextensoren und die isometrische Maximalkraft der Rückenextensoren .
+Kemmler et al .
+( 2015 , S. 321 ) kommen zu dem Ergebnis , dass sich die getesteten Parameter bei beiden Trainingsformen signifikant verbessert haben .
+Trotz langer und aufwendiger Suche in verschiedenen Datenbanken wie „ Google Scholar “ , den Online-Bibliotheken der „ Deutsche Hochschule für Prävention und Gesundheitsmanagement “ , der „ Deutsche Zeitschrift für Sportmedizin “ , der „ Zeitschrift für Sportpsychologie “ und der „ Zeitschrift für Psychologie “ konnten keine Studien gefunden werden , die positive Effekte eines standardisierten EMS-Krafttrainings auf das individuelle Stresserleben bereits untersucht haben .
+Auch hier ist ein Forschungsdefizit erkennbar .
+Der vierte Punkt dieser Arbeit schildert das methodische Vorgehen bei der vorliegenden Studie .
+Dieser Teil ist detailliert beschrieben und erläutert , sodass jeder Interessierte die Studie reproduzieren und weiterforschen kann .
+In Punkt 4.1 wird der Untersuchungsablauf erklärt und die Auswahl der Probanden dargelegt .
+Dieser Punkt beinhaltet die Ein- und Ausschlusskriterien zur Rekrutierung der Probanden .
+Punkt 4.2 setzt sich intensiv mit dem SCI-Fragebogen auseinander , das als Erhebungsinstrument für die Variable „ Individuelles Stresserleben “ dient .
+In Punkt 4.3 , wird auf das standardisierte EMS-Krafttrainingsprogramm als die eingesetzte vierwöchige Intervention für die EG eingegangen .
+Es erfolgt eine Beschreibung des Krafttrainingprogramms und eine Erläuterung der Besonderheiten bei der Durchführung des Trainings beim Kunden zu Hause .
+Im letzten Punkt , in 4.4 , wird die Vorgehensweise für die Auswertung der Befragung auf zwei Ebenen beschrieben .
+Zuerst erfolgt eine deskriptive , dann eine inferenzstatistische Auswertung .
+Ein Testverfahren muss objektiv , valide und reliabel sein .
+Eines der wichtigsten Merkmale eines objektiven , validen und reliablen Testverfahrens ist die Standardisierung .
+Unter Standardisierung versteht Stangl ( 2016 ) „ … eine Vereinheitlichung der Untersuchungsmethode , der Durchführung , Auswertung oder Interpretation der erhobenen Daten .
+Die Standardisierung ist auch eine Voraussetzung für die Objektivität eines Testverfahrens “ ( o .
+S . ) .
+Das Prinzip der Standardisierung gilt auch für das Erhebungsinstrument des SCI in Form eines Fragebogens für diese Arbeit .
+Der klare Vorteil einer Befragung per Fragebogen ist , dass alle Beteiligten die gleichen Fragen gestellt bekommen , was wiederum ein hohes Maß an Standardisierung gewährleistet ( Pieter , 2015 , S. 133 ) .
+Genau wie das Erhebungsinstrument zum individuellen Stresserleben , folgt auch das EMSKrafttrainingsprogramm dem Prinzip der Standardisierung .
+Die Studie ist eine Querschnittstudie mit zwei unabhängigen Stichproben .
+Es wird eine Unterschiedshypothese in drei Teilen untersucht .
+Dazu werden eine EG und eine KG auf das individuelle Stresserleben anhand des SCI-Fragebogens miteinander verglichen .
+Die EG durchläuft eine Intervention in Form eines standardisierten EMSKrafttrainingprogramms für die Dauer von vier Wochen , insgesamt vier Trainingseinheiten .
+Die KG durchläuft keine Intervention .
+Beide Gruppen erhalten vor und nach den vier Interventionswochen den SCI-Fragebogen zum Ausfüllen .
+Tabelle 1 ( Tab . )
+gibt einen detaillierten Überblick über den Ablauf der Studienzeit für einen Zeitraum von insgesamt acht Wochen .
+Der Untersuchungsplan 1 sieht eine Einteilung in drei Phasen vor .
+Die Studie beginnt mit der Vorbereitungsphase .
+Diese erstreckt sich vom 1. Februar bis zum 14. Februar , in Kalenderwoche ( KW ) 5 und 6 .
+In diesem Zeitraum werden die Fragebögen mit anderen Dokumenten gedruckt .
+Das Gesamtpaket zum Ausfüllen für alle Probanden besteht aus der Probandeninformation , der Datenschutzerklärung , der Einverständniserklärung zur Teilnahme an der Studie sowie dem SCI selbst .
+Mit inbegriffen ist das Dokument „ Allgemeine Information “ für die Probanden .
+Alle Dokumente werden von der „ Deutsche Hochschule für Prävention und Gesundheitsmanagement “ gestellt .
+In der Vorbereitungsphase werden die Probanden ausgesucht und die Vorgehensweise mit ihnen besprochen .
+Sie werden über den Studienverlauf , den Fragebogen , die Intervention und die Trainingsform aufgeklärt .
+An dieser Stelle können die Probanden Fragen stellen und sich über Risiken informieren .
+Die Interventionsphase erstreckt sich vom 15. Februar bis zum 13. März , was den Beginn der 7. bis zum Ende der 10 .
+KW markiert .
+In der 7 .
+KW wird mit den Probanden der EG die Prä-Befragung , gekoppelt mit der ersten Trainingseinheit , durchgeführt .
+Mit der KG wird lediglich die Prä-Befragung durchgeführt .
+Ab dem 22. Februar bis einschließlich dem 06. März , in KW 8 und 9 , werden mit der EG zwei weitere TE durchgeführt .
+Vom 07. März bis 13. März , in KW 10 , erfolgt für die EG die vierte TE mit anschließender Post-Befragung mittels SCI und dem Dokument „ Nachbefragung “ .
+Die KG führt in KW 10 die Post-Befragung mittels SCI-Fragebogen und dem Dokument „ Nachbefragung “ durch .
+Nach den beiden vorangegangenen Phasen folgt die Phase der Nachbereitung .
+Sie fällt in die 11. und 12 .
+KW , vom 14. März bis zum 27. März .
+Hier werden die gewonnenen Daten aus beiden Gruppen mittels statistischer Verfahren ausgewertet .
+Die Phase der Vor- und Nachbereitung gehört nicht zur Intervention selbst , soll aber die Vorgehensweise bei der Studie verdeutlichen .
+Nun wird anhand von Tab .
+2 ein Überblick über die Vorgehensweise bei der Messung selbst veranschaulicht .
+Die Messung ist für beide Gruppen eine klassische Prä-Post-Messung .
+Bei der EG erfolgt eine Erfassung des individuellen Stresserlebens vor und nach der Durchführung des vierwöchigen EMS-Krafttrainingsprogramms .
+Für die EG wird der Termin für die erste Trainingseinheit und das erste Ausfüllen des Fragebogenpakets festgesetzt ( e1 ) .
+Dabei erhalten die Probanden das erste Fragebogenpaket zum Ausfüllen und die spezielle EMS-Unterwäsche .
+Anschließend , einmal pro Woche , an ( e2 ) und ( e3 ) , wird eine TE absolviert .
+Nach der letzten TE ( e4 ) wird das zweite Fragebogenpaket ausgefüllt .
+Bei der Kontrollgruppe verhält es sich anders .
+Mit dieser Gruppe wird keine Intervention durchgeführt .
+Die Probanden der KG füllen bei ( k1 ) das erste Fragebogenpaket aus .
+Vier Wochen darauf ( k2 ) wird das zweite Fragebogenpaket ausgefüllt .
+Zwei Wochen vor Beginn der Studie wurden die Probanden im Arbeitsumfeld einer praktizierenden Allgemeinmedizinerin rekrutiert .
+Es erfolgte eine Aufteilung der Personen durch Losverfahren in eine EG und eine KG .
+Folgende Tab .
+umfasst die Ein- und Ausschlusskriterien der Probanden .
+Die Einschlusskriterien sind für alle Probanden gleich : Alle betreiben nicht mehr als eine Stunde Gesamtpensum an Sportaktivität in der Woche .
+Alle Probanden sind berufstätig und haben eine Arbeitswoche von mehr als 35 Stunden .
+Ihr Alter soll zwischen 20 und 65 Jahren liegen .
+Die Probanden sind sowohl weiblich als auch männlich .
+Es wird keine spezielle Ernährungsform befolgt .
+Die Probanden sind in normaler körperlicher und psychischer Verfassung .
+Wichtig bei der Auswahl der Probanden aus der EG ist ebenfalls , dass sie keine Erfahrung mit EMS-Training haben , also alle EMS-Anfänger sind .
+So starten alle bei demselben Ausgangspunkt in Bezug auf das EMS-Training .
+Die Ausschlusskriterien sind oben aufgeführt .
+Hier wird jedoch ein besonderes Augenmerk auf die EG gelegt .
+Die EG durchläuft ein EMS-Training als Intervention .
+Für das EMS-Training gelten besondere Kontraindikationen , die separat aufgeführt werden .
+Nach Vatter et al .
+( 2014 , S. 37 ) sind vor allem neuronale und akute Erkrankungen wie zum Beispiel Epilepsie , Tumor- und Krebserkrankungen , Thrombosen und kürzliche Operationen kontraindiziert .
+Genauso auch Herzschrittmacher und eine bestehende Schwangerschaft .
+Alle Probanden der EG wurden vorher von ihrem Hausarzt auf Belastbarkeit untersucht .
+So gehen alle Beteiligten sicher , dass keine Komplikationen für die Gesundheit auftreten .
+Für diese Arbeit wird zur Erfassung des individuellen Stresserlebens das „ Stress- und Coping-Inventar “ von Satow aus dem Jahr 2012 ( Satow , 2012a , S. 1-4 ) herangezogen .
+Das SCI wurde entwickelt , um die aktuelle Belastung durch Stress , die körperlichen und psychischen Folgeerscheinungen und den Umgang mit Stress zu messen ( Satow , 2012b , S. 3 ) .
+Der Fragebogen zieht sich über vier Seiten und hält insgesamt 54 Items zur Beantwortung für die Probanden bereit .
+Das Ausfüllen dauert etwa zehn Minuten .
+Der SCI-Fragebogen , das SCI-Manual und die Excel-Auswertungsmatrix werden von der „ Deutsche Hochschule für Prävention und Gesundheitsmanagement “ gestellt .
+Die 54 Einzelitems werden in fünf Kategorien aufgeteilt .
+Das Erhebungsinstrument misst die aktuelle Stressbelastung über drei von fünf Kategorien .
+Die Kategorien sind : „ Stress durch Unsicherheit “ , „ Stress durch Überforderung “ und „ Stress durch Verlust und tatsächlich eingetretene negative Ereignisse “ .
+Alle Items decken die wichtigsten Lebensbereiche Finanzen , Wohnen , Arbeits- und Ausbildungsplatz , Partnerschaft , Gesundheit und persönliche Erwartungen ab ( Satow , 2012b , S. 10 ) .
+Der Skalawert „ Aktuelle Stressbelastung “ ergibt sich aus dem Summenwert der drei Kategorien .
+Jede der drei Kategorien bietet sieben Antwortmöglichkeiten für jedes Item .
+Für den Bereich „ Unsicherheit “ , 1 ( nicht belastet ) bis 7 ( sehr stark belastet ) .
+Für den Bereich „ Überforderung “ , 1 ( nicht überfordert ) bis 7 ( sehr stark überfordert ) .
+Für den Bereich „ Verlust und tatsächlich eingetretene negative Ereignisse “ , 1 ( nicht eingetreten/belastet ) bis 7 ( sehr stark belastet ) .
+So lässt sich eine sehr genaue Differenzierung der einzelnen Bereiche ermitteln und veranschaulichen .
+Die vierte Kategorie des SCI erfasst die „ Körperlichen und psychischen Stresssymptome “ .
+Sie werden durch 13 Items abgefragt .
+Die Probanden haben dafür vier Antwortmöglichkeiten , 1 ( trifft gar nicht zu ) bis 4 ( trifft genau zu ) .
+Es wird zum Beispiel nach Schmerzen in unterschiedlichen Bereichen , Schlafverhalten , Konzentrationsproblemen und Lustlosigkeit gefragt .
+Die letzte Kategorie des Fragebogens erfasst den „ Umgang mit Stress ( Coping ) “ .
+Denn klar ist nach Satow ( 2012b ) „ Ob sich Stress wirklich negativ auswirkt , hängt nicht zuletzt vom Umgang mit Stress ab “ ( S. 5 ) .
+Auch in dieser Kategorie erfolgt eine Einteilung in fünf Unterpunkte , die jeweils vier Items enthalten .
+So ergeben sich für die Kategorie „ Umgang mit Stress ( Coping ) “ insgesamt 20 Items .
+Für das SCI sind fünf Copingstrategien ausgesucht worden .
+Diese sind nach Satow ( 2012b , S. 6 ) „ Positives Denken “ , „ Aktive Stressbewältigung “ , „ Soziale Unterstützung “ , „ Halt im Glauben “ und „ Alkohol- und Zigarettenkonsum “ .
+Hier haben die Probanden ebenfalls vier Antwortmöglichkeiten , die sich von 1 ( trifft gar nicht zu ) bis 4 ( trifft genau zu ) erstrecken .
+Für diese Arbeit wird der komplette Fragebogen genutzt .
+Für die Studie wurde ein spezielles EMS-Krafttrainingsprogramm von einem Personal Trainer aufgestellt .
+Alle Einheiten wurden beim Kunden zu Hause als 1:1 Training - unter Anleitung eines Personal Trainers - durchgeführt .
+Die Probanden trainieren einmal pro Woche 20 Minuten lang .
+Die Übungen sind so gewählt , dass alle Probanden sie ausführen können , da alle EMS-Anfänger sind .
+Für die Gestaltung eines EMS-Krafttrainings gelten dieselben Trainingsprinzipien wie bei einem klassischen Krafttraining .
+Unter den Trainingsprinzipien werden die Trainingshäufigkeit , die Belastungsdauer , die Belastungsintensität , die Belastungsdichte und der Belastungsumfang verstanden ( Vatter et al. , 2014 , S. 18 ) .
+Die empfohlene Geräteeinstellung für ein Krafttraining ist vom Hersteller voreingestellt und von Vatter et al .
+( 2014 , S. 42-43 ) genau beschrieben .
+Die Einstellung wird für das standardisierte EMSKrafttrainingsprogramm beibehalten .
+Tab .
+4 veranschaulicht die empfohlene Geräteeinstellung .
+Das EMS-Gerät wird auf das Kräftigungsprogramm „ Basis “ eingestellt .
+Die Impulsfrequenz beträgt dabei 85 Hertz .
+Die bipolare Impulsart wird für das EMS-Training ausgewählt und bleibt unverändert .
+Die Impulsbreite beträgt 350 Mikrosekunden , die Impulsdauer und –pause liegt bei jeweils 4 Sekunden .
+So ergibt sich eine Zeit unter Spannung von 10 Minuten für die Muskulatur bei 20 Minuten Trainingsdauer .
+Das entspricht 300 Impulsen insgesamt , 150 mit und 150 ohne Stromzufuhr .
+So wird das Stromniveau nach subjektivem Empfinden im Training nachreguliert .
+Das Trainingsprogramm besteht aus insgesamt 10 Übungen , die alle Hauptmuskelgruppen erreichen .
+In Tab .
+5 sind die Übungen und die Zielmuskulatur aufgezeigt .
+Alle Übungen werden stehend vollzogen , es werden keine weiteren Hilfsmittel benötigt .
+Die Probanden stehen in der „ Ausgangsposition “ .
+Dabei wird der Oberkörper leicht nach vorne geneigt , die Knie etwas gebeugt , das Gesäß wird ein wenig zurück geschoben , die Oberarme sind auf Taillenhöhe und die Unterarme im 90° Winkel im Ellenbogen gebeugt .
+Der gesamte Körper wird dauerhaft auf Spannung gehalten .
+Aus dieser Position heraus werden alle anderen Übungen durchgeführt .
+Normalerweise findet ein EMS-Training in einer Räumlichkeit außerhalb von zu Hause statt .
+Dort stehen ein bis zwei EMS-Geräte auf einer etwa 30 Quadratmeter großen freien Fläche .
+Ähnlich einem klassischen Fitnessstudio , in das die Sportler gehen , um ihr Training durchzuführen .
+Bei diesem Trainingsprogramm kommt der Personal Trainer zu einem vereinbarten Termin zum Kunden nach Hause und leitet ihn durch das Training .
+So kann der Kunde sein Training bequem an einem Ort durchführen , der ihm bekannt ist und an dem er sich wohlfühlt .
+Der Trainer stellt das EMS-Gerät auf , befeuchtet das Gurtsystem , zieht es dem Kunden an und gibt im Training die Anweisungen .
+Nach dem Training wird alles wieder verstaut und der Kunde kann seinen Alltag nahtlos weiterführen .
+Die Atmosphäre für ein Training ist optimal , da sich dort keine unbekannten Personen aufhalten .
+Der Kunde kann sich dadurch frei entfalten .
+Zwischen Kunde und Trainer entsteht ein Vertrauensverhältnis .
+Die Vorteile für den Kunden liegen auf der Hand : Er spart dadurch Zeit und vermeidet Stress .
+Stress zum Beispiel bei der An- und Abfahrt , bei der Parkplatzsuche , beim Ein- und Auschecken in die Räumlichkeit , beim Umziehen und beim Duschen .
+Das erleichtert die Trainingsdurchführung für Kunde und Trainer enorm .
+Aus der schriftlichen Befragung der EG und der KG ergeben sich zwei Auswertungsmöglichkeiten .
+Nach Pieter ( 2015 ) stellt die „ … Auswertung - das Ergebnis der Datenanalyse - … gleichzeitig die Grundlage für eine auf der Theorie basierende Interpretation und einer umfassenden Bewertung der Ergebnisse im Forschungskontext dar “ ( S. 183 ) .
+Im folgenden Abschnitt werden eine deskriptive Auswertung und eine inferenzstatistische Auswertung erläutert .
+Die erste Auswertungsmöglichkeit bietet die deskriptive Statistik .
+Die beschreibende Statistik hat laut Pieter ( 2015 ) „ … zum Ziel , die für eine Untersuchung interessierenden Daten zu veranschaulichen bzw. zu beschreiben “ ( S. 183 ) .
+Um die gewonnen Daten zu veranschaulichen , bedient sich die deskriptive Statistik dreier Darstellungsformen , einer tabellarischen , einer grafischen und einer durch nummerische Kennwerte ( Pieter , 2015 , S. 184 ) .
+Es werden zum Beispiel Häufigkeitstabellen , Balken- und Säulendiagramme zur Veranschaulichung eingesetzt .
+Nummerische Kennwerte können der Modalwert sein .
+In dieser Arbeit soll der Mittelwert ( arithmetische Mittel ) eingesetzt und berechnet werden .
+Der Mittelwert setzt sich aus der „ … Summe aller Messwerte dividiert durch die Anzahl aller Messwerte “ ( Pieter , 2015 , S. 198 ) zusammen .
+Das angewandte Programm ist „ Microsoft Excel , Version 2007 “ .
+Die zweite Auswertungsmöglichkeit bietet die Inferenzstatistik , die auch schließende Statistik genannt wird .
+Folgt man Pieter ( 2015 ) , so schließt die Inferenzstatistik „ … von den erhobenen Werten ( aus der Stichprobe ) auf die Eigenschaften ähnlicher , aber nicht mit untersuchter Probanden ( der Population ) “ ( S. 183 ) .
+Durch die Inferenzstatistik sollen Rückschlüsse von einer kleinen auf eine größere Gruppe geschlossen werden .
+Dazu werden verschieden Signifikanztests zur Anwendung gebracht , durch die „ Man versucht zu bestimmen , wie wahrscheinlich die gefundenen Unterschiede oder Zusammenhänge … durch Zufall … zustande kommen können “ ( Pieter , 2015 , S. 217 ) .
+Das angewandte Programm ist „ IBM SPSS Statistics , Version 24 “ .
+Der eingesetzte Signifikanztest in dieser Arbeit ist der zweiseitige Mann-Whitney UTest für größere unabhängige Stichproben ( N > 20 ) mit einem festgelegten Signifikanzniveau von 5 % .
+Es wird folgende Unterschiedshypothese in drei Teilen geprüft : Nach einer vierwöchigen Intervention in Form eines EMS-Krafttrainings unterscheidet sich das individuelle Stresserleben der EG bezogen auf die Hauptskalen ( Aktuelle Stressbelastung , Körperliche und psychische Stresssymptome und Umgang mit Stress ( Coping ) ) signifikant vom individuellen Stresserleben der KG bezogen auf die Hauptskalen ( Aktuelle Stressbelastung , Körperliche und psychische Stresssymptome und Umgang mit Stress ( Coping ) ) .
+Folgende Hypothesen gilt es zu prüfen : Im folgenden Abschnitt werden die Ergebnisse der Studie in zwei Punkten dargestellt .
+In Punkt 5.1 erfolgt eine Ergebnisdarstellung in deskriptiver Form mit Abbildungen und Erläuterungen .
+Nachfolgend werden in Punkt 5.2 die inferenzstatistischen Ergebnisse präsentiert und die Unterschiedshypothese in drei Teilen überprüft .
+Für die Studie haben sich insgesamt 30 Personen gemeldet .
+Nach den Vorgesprächen blieben 28 Probanden übrig , 14 Männer und 14 Frauen .
+Eine Person ist aufgrund eines Herzschrittmachers zurückgetreten .
+Die andere Person konnte sich mit der Trainingsform EMS nicht identifizieren .
+Diese 28 Probanden wurden zufällig in eine EG und eine KG gelost .
+Die Geschlechterverteilung der EG und der KG liegt bei 50 % Männern und 50 % Frauen .
+In EG und KG sind 21 Angestellte , 4 Selbstständige und 3 Studenten .
+Die Einteilung der Altersstruktur erfolgt in drei Altersabschnitte .
+Der erste Altersabschnitt zählt die Probanden unter 30 Jahre .
+Davon gibt es in der EG einen , in der KG fünf .
+Der zweite Altersabschnitt wird vom 30. bis zum 45 .
+Lebensjahr angegeben .
+Davon gibt es in der EG fünf Probanden , in der KG sieben Probanden .
+Der dritte Lebensabschnitt beginnt beim 45 .
+Lebensjahr und endet mit dem 64 .
+Lebensjahr .
+In der EG befinden sich acht Probanden in diesem Altersabschnitt , in der KG jedoch nur zwei .
+So liegt das Durchschnittsalter aller Probanden der EG bei 48,86 Jahren .
+Das Durchschnittsalter aller Probanden der KG liegt bei 33,79 Jahren .
+Eine bessere Veranschaulichung der Altersstruktur gibt Abb .
+2 in Form eines Säulendiagramms .
+Alle Probanden der Studie füllten an zwei Messzeitpunkten den SCI-Fragebogen aus .
+Anhand von Untersuchungsplan 1 ( Tab .
+1 ) ist ersichtlich , dass der Fragebogen von der EG gekoppelt mit der ersten und vierten TE ausgefüllt wurde .
+Das EMS-Training wurde bei den Kunden zu Hause durchgeführt .
+Auch mit den Probanden der KG wurden beide Zeitpunkte im Vorfeld festgelegt und eingehalten .
+Aufgrund dessen ist der Rücklauf aller 28 Fragebögen an beiden Messzeitpunkten - komplett ausgefüllt und verwertbar - zustande gekommen .
+Der Punktwert für die Hauptskala „ Aktuelle Stressbelastung “ wird aus der Summe der drei Subskalen gewonnen .
+Die drei Subskalen sind „ Stress durch Unsicherheit “ , „ Stress durch Überforderung “ und „ Stress durch Verlust und tatsächlich eingetretene negative Ereignisse “ .
+Nun werden die Mittelwerte und die Differenzwerte für die Skala „ Aktuelle Stressbelastung “ der EG und KG im Prä- und Postvergleich in Tab .
+6 dargestellt .
+Je größer der Punktwert ist , desto höher ist die aktuelle Stressbelastung .
+Es zeigt sich bei der EG nach der vierwöchigen Intervention in Form eines EMS-Krafttrainings eine Punktwertsenkung um 6,86 Punkte vom Prä-Wert ( 43,86 Punkte ) zum Post-Wert ( 37,00 < 30 Jahre 30 - 45 Jahre 46 - 64 Jahre EG Anzahl Probanden Altersstruktur Probanden Punkte ) .
+Bei der KG ist ebenfalls eine Punktwertsenkung um 5,85 Punkte im Prä- undPostvergleich zu verzeichnen ( 43,14 Punkte zu 37,29 Punkten ) .
+Beide Gruppen haben sich in der Skala „ Aktuelle Stressbelastung “ positiv verbessert .
+Die EG hat einen um 1,01 Punkte höheren , positiveren Differenzwert vom Prä- zum Post-Wert als die KG .
+Abb .
+3 gibt einen grafischen Überblick der Mittelwerte und der Differenzwerte beider Gruppen für die Skala „ Aktuelle Stressbelastung “ in Form eines Säulendiagramms .
+Die zweite Hauptskala des SCI ist die Skala „ Körperliche und psychische Stresssymptome “ .
+Nun werden die Mittelwerte und die Differenzwerte für die Skala „ Körperliche und psychische Stresssymptome “ der EG und KG im Prä- und Postvergleich in Tab .
+7 dargestellt .
+Je größer der Punktwert ist , desto stärker sind die körperlichen und psychischen Stresssymptome ausgeprägt .
+Es zeigt sich bei der EG nach der vierwöchigen Intervention in Form eines EMS-Krafttrainings eine Punktwertsenkung um 3,36 Punkte vom Prä-Wert 43,86 43,14 37 37,29 -6,86 -5,85 EG KG Aktuelle Stressblastung Präwert Postwert Differenzwert ( 23,57 Punkte ) zum Post-Wert ( 20,21 Punkte ) .
+Bei der KG ist ebenfalls eine Punktwertsenkung ohne Intervention um 2,50 Punkte vom Prä-Wert zum Post-Wert zu verzeichnen ( 22,93 Punkte zu 20,43 Punkten ) .
+Beide Gruppen haben sich in der Skala „ Körperliche und psychische Stresssymptome “ positiv verbessert .
+Die EG hat einen um 0,86 Punkte höheren , positiveren Differenzwert vom Prä-Wert zum Post-Wert als die KG .
+Abb .
+4 gibt einen grafischen Überblick der Mittelwerte und der Differenzwerte beider Gruppen für die Skala „ Körperliche und psychische Stresssymptome “ in Form eines Säulendiagramms .
+Die dritte Hauptskala des SCI , die betrachtet wird , ist die Skala „ Umgang mit Stress ( Coping ) “ .
+Der Punktwert ergibt sich aus der Summe von fünf Subskalen , die die häufigsten Copingstrategien bezeichnen .
+Die fünf Subskalen sind „ Positives Denken “ , „ Aktive Stressbewältigung “ , „ Soziale Unterstützung “ , „ Halt im Glauben “ und „ Alkohol- und Zigarettenkonsum “ .
+Nachfolgend werden die Mittel- und Differenzwerte für die Skala „ Umgang mit Stress ( Coping ) “ in Tab .
+8 dargestellt .
+Je größer der Punktwert ist , desto besser ist der Umgang mit Stress ( Coping ) ausgeprägt .
+Es zeigt sich bei der EG nach der vierwöchigen Intervention in Form eines EMSKrafttrainings eine Punktwertsteigerung um 3,43 Punkte vom Prä-Wert ( 49,86 Punkte ) zum Post-Wert ( 53,29 Punkte ) .
+Bei der KG ist ebenfalls eine Verbesserung ohne Intervention um 1,00 Punkte vom Prä-Wert zum Post-Wert zu verzeichnen ( 50,79 Punkte zu 51,79 Punkten ) .
+Beide Gruppen haben sich in der Skala „ Umgang mit Stress ( Coping ) “ positiv verbessert .
+Die EG hat jedoch einen um 2,43 Punkte höheren , positiveren Differenzwert vom Prä-Wert zum Post-Wert als die KG .
+Abb .
+5 gibt einen grafischen Überblick der Mittelwerte und der Differenzwerte beider Gruppen für die Skala „ Umgang mit Stress ( Coping ) “ in Form eines Säulendiagramms .
+Zusammenfassend fällt auf , dass sich die Mittelwerte der EG und der KG in allen drei Hauptskalen von den Prä-Werten zu den Post-Werten verbessert haben .
+Festzuhalten ist , dass die Differenzwerte in allen drei Hauptskalen der EG im Vergleich zu den Differenzwerten in allen drei Hauptskalen der KG höher , also positiver ausgefallen sind .
+Auffällig ist zudem , dass die Prä-Werte und Post-Werte beider Gruppen trotz des durchschnittlichen Altersunterschieds der EG und der KG von 15,07 Jahren bei allen Skalen beinahe identisch sind .
+Tab .
+9 gibt die Differenzwerte beider Gruppen für die drei Hauptskalen wieder .
+In allen drei Hauptskalen sind Punktwertverbesserungen vom Prä-Wert zum Post-Wert bei beiden Gruppen zu verzeichnen .
+Um die Gesamtdifferenz der drei Hauptskalen sichtbar zu machen , wurden alle Differenzwerte positiv addiert .
+So wird der Unterschied von der EG zu der KG deutlicher .
+Die Gesamtdifferenz zwischen EG und KG in allen drei Hauptskalen vom Prä-Wert zum Post-Wert beträgt im Durchschnitt 4,30 Punkte .
+Abb .
+6 gibt einen Überblick über die Differenzwerte beider Gruppen für die Hauptskalen .
+Die Namen der Hauptskalen sind zum besseren Verständnis in Abb .
+6 verkürzt dargestellt .
+Im Folgenden geht es um eine inferenzstatistische Überprüfung der deskriptiv dargestellten Ergebnisse .
+Der eingesetzte Signifikanztest ist der zweiseitige Mann-Whitney U-Test für größere unabhängige Stichproben ( N > 20 ) mit einem festgelegten Signifikanzniveau von 5 % .
+Dieser Test überprüft die mittleren Ränge zweier unabhängiger Stichproben auf Signifikanz .
+Statistisch signifikant ist der Wert bei einer Irrtumswahrscheinlichkeit von unter 5 % .
+Für die Hypothesenprüfung bedeutet das , dass die Asymptotische Signifikanz unter einem Wert von p=0,05 bleiben muss , um signifikant zu sein .
+Dazu wird die Unterschiedshypothese aus Punkt 4.4.2 aufgegriffen und geprüft .
+Sie besagt , dass sich nach der vierwöchigen Intervention in Form eines standardisierten EMS-Krafttrainings das individuelle Stresserleben der EG bezogen auf die drei Hauptskalen ( Aktuelle Stressbelastung , Körperliche und psychische Stresssymptome und Umgang mit Stress ( Coping ) ) und das individuellen Stresserleben der KG bezogen auf die drei Hauptskalen ( Aktuelle Stressbelastung , Körperliche und psychische Stresssymptome und Umgang mit Stress ( Coping ) ) signifikant unterscheidet .
+Es wurden jeweils die Prä- und Post-Werte der EG und KG für die drei Hauptskalen miteinander verglichen .
+Für die erste Hauptskala ( Aktuelle Stressbelastung ) liegt der Wert im Prä-Vergleich bei p=0,783 .
+Das ist kein signifikanter Wert .
+Vier Wochen danach , also nach der Intervention der EG , liegt der Wert im Post-Vergleich bei p=0,963 .
+Das ist ebenfalls kein signifikantes Ergebnis .
+Das bedeutet in vollem Umfang , dass die Alternativhypothese H1A verworfen und die Nullhypothese H0A beibehalten wird .
+Somit kann davon ausgegangen werden , dass es keinen Unterschied in den Mittelwerten bei der aktuellen Stressbelastung zwischen der EG und der KG gibt ( H0A : µ1 = µ2 ) .
+Für die zweite Hauptskala ( Körperliche und psychische Stresssymptome ) ist der Wert für beide Gruppen im Prä-Vergleich p=0,644 .
+Das Ergebnis liegt über dem Signifikanzniveau von 5 % , ist also nicht signifikant .
+Nach der vierwöchigen Intervention für die EG liegt der Wert im Post-Vergleich für beide Gruppen bei p=0,782 .
+Auch dieses Ergebnis weist keine Signifikanz auf .
+Das bedeutet in vollem Umfang , dass die Alternativhypothese H1B verworfen und die Nullhypothese H0B beibehalten wird .
+Somit kann davon ausgegangen werden , dass es keinen Unterschied in den Mittelwerten bei den körperlichen und psychischen Stresssymptomen zwischen der EG und der KG gibt ( H0B : µ1 = µ2 ) .
+Für die dritte Hauptskala ( Umgang mit Stress ( Coping ) ) ist der Wert von EG und KG im Prä-Vergleich p=0,549 .
+Das bedeutet , dass es keine Signifikanz zwischen den Gruppen gibt .
+Weiterhin , nach den vier Wochen Intervention für die EG , liegt der Wert für beide Gruppen im Post-Vergleich bei p=0,612 .
+Das bedeutet auch hier in vollem Umfang , dass die Alternativhypothese H1C verworfen und die Nullhypothese H0C beibehalten wird .
+Somit kann davon ausgegangen werden , dass es keinen Unterschied in den Mittelwerten bei dem Umgang mit Stress ( Coping ) zwischen der EG und der KG gibt ( H0C : µ1 = µ2 ) .
+Es lässt sich festhalten , dass sich weder die Prä-Werte noch die Post-Werte beider Gruppen in Bezug auf die drei Hauptskalen signifikant unterscheiden .
+Es sind zwar geringe deskriptive Unterschiede für die EG im Vergleich zu der KG vorhanden , diese sind aber nach inferenzstatistischer Prüfung mittels Mann-Whitney U-Test nicht signifikant .
+An dieser Stelle erfolgt eine Diskussion auf drei Ebenen .
+Zuerst werden in Punkt 6.1 die angewandten Methoden für diese Arbeit kritisch bewertet .
+Dazu gehören die Probandenrekrutierung , der Untersuchungsablauf und dessen Durchführung .
+Weiterhin werden das Erhebungsinstrument und die durchgeführte Intervention beleuchtet .
+Danach , in Punkt 6.2 , erfolgt eine Auseinandersetzung mit den in Punkt 5 dargestellten deskriptiven und inferenzstatistischen Ergebnissen .
+Im letzten Punkt 6.3 werden Schlussfolgerungen aus der Arbeit gezogen und ein kurzer Ausblick für zukünftige Untersuchungen gegeben .
+Das Thema „ Stress “ mit seinen unterschiedlichen Facetten rückte schon lange vor Untersuchungsbeginn in den Fokus der Betrachtung .
+Das Interesse stieg weiter an , sodass bereits vor Bearbeitungsbeginn dieser Arbeit eine intensive Literaturrecherche durchgeführt wurde .
+Das Interesse ging in Richtung Stressentstehung , Folgen von Stress , Stressbewältigung und individuelles Stresserleben .
+Der Reiz lag vor allem auf einer individuellen Komponente in Bezug auf das Themengebiet .
+Denn klar ist : Jeder Mensch ist individuell .
+Individuell in seiner Ausdrucksweise , individuell in seinem Aussehen und ebenso individuell in seinem individuellen Stresserleben .
+Ähnliches Interesse weckte das EMS-Training als zeitsparende Alternative zum klassischen Krafttraining .
+Es kam die Frage auf , ob sich ein standardisiertes EMSKrafttraining positiv auf das individuelle Stresserleben auswirkt .
+Daraufhin wurde nach Studien gesucht , die diese Thematik bereits untersucht haben .
+Die Recherche fiel jedoch negativ aus .
+So wurde ein EMS-Krafttrainingsprogramm von einem Personal Trainer erstellt , um es beim Kunden zu Hause durchzuführen .
+Die Zielsetzung bestand darin , die Wirksamkeit auf das individuelle Stresserleben anhand des SCI-Fragebogens in einer Prä- und Postmessung zu untersuchen .
+Es erfolgte die Festlegung des Themas für die Arbeit und eine Kontaktaufnahme zu einer praktizierenden Allgemeinmedizinerin .
+Aufgrund der guten Verbindung war der Zugriff auf ein Probandenkollektiv zwar gewährleistet , jedoch waren die Aufklärungsgespräche sehr zeitintensiv .
+Das führte zu einem zeitlichen Engpass kurz vor Beginn der Untersuchung .
+Negativ anzumerken ist , dass zwei potentielle Probanden nach dem Aufklärungsgespräch nicht an der Studie teilnahmen , sodass insgesamt 28 Probanden verblieben .
+Alle Probanden sollten unbedingt einem Beruf mit über 35 Wochenstunden nachgehen , damit die Belastungskomponente aus der Arbeitswelt in das individuelle Stresserleben miteinfloss .
+Der Untersuchungsablauf gestaltete sich insgesamt als unkompliziert .
+Aber der Standortwechsel von Proband zu Proband war mühsam .
+Teilweise mussten große Distanzen mit dem Personenkraftwagen zurückgelegt werden .
+Die Trainingsdurchführung bei den Probanden zu Hause war hingegen unproblematisch , aber insgesamt - mit An- und Abreise , Auf- und Abbau des EMS-Geräts - sehr zeitintensiv .
+Insgesamt ist die Untersuchung mit 28 Probanden , verteilt auf eine EG und KG als gering einzuschätzen , jedoch zeitlich nicht anders zu bewältigen gewesen .
+Das SCI als Erhebungsinstrument für das individuelle Stresserleben bestehend aus drei Hauptskalen , acht Subskalen und insgesamt 54 Items eignet sich sehr gut zur Messung des individuellen Stresserlebens .
+Der Fragebogen wurde von den Probanden gut angenommen und mit Sorgfalt ausgefüllt .
+Jedoch ist erwähnenswert , dass einige Fragen von Probanden als sehr privat empfunden wurden .
+Dadurch können einige Antworten verzerrt sein .
+Da die Fragebögen bei den Probanden zu Hause abgeholt wurden und der vollständige Name in der Kopfzeile des SCI aufzuführen ist , ist eine Anonymisierung bei einer so kleinen Stichprobe nicht gewährleistet .
+Die Probanden der EG wurden vier Mal terminiert , die Probanden der KG zwei Mal .
+Alle haben zu den festgesetzten Terminen den SCI-Fragebogen ausgefüllt .
+Das vorteilhafte bei der EG bestand darin , dass bei zwei der vier Trainingseinheiten der Fragebogen ausgefüllt wurde .
+Bei der KG wurden die Fragebögen ebenfalls zu Hause abgeholt .
+Aus diesem Grunde ist der Rücklauf aller Fragebögen geschehen .
+Es sollte dadurch eine möglichst hohe Standardisierung gewährleistet werden .
+Anzumerken ist ebenfalls , dass ein postalischer Rücklauf eventuell niedriger ausgefallen wäre .
+Ebenfalls ein Ansatzpunkt ist , dass drei von vier Fragen des SCI nach Stressbelastungen in den letzten drei und sechs Monaten fragen .
+Die Intervention wurde aber nur über vier Wochen durchgeführt .
+Das spricht für eine verlängerte Dauer der Untersuchung , um einen längeren Zeitraum vergleichen zu können .
+Die Intervention in Form eines standardisierten EMS-Krafttrainings ist als positiv zu sehen .
+Das Trainingsprogramm ist leicht verständlich und für EMS-Anfänger unter Anleitung optimal umzusetzen .
+Die Betreuung durch einen Personal Trainer gewährleistet ebenfalls eine hohe Standardisierung und gute Trainingsdurchführung .
+Der zeitliche Aufwand für die Probanden ist mit 20 Minuten reiner Trainingszeit und vier TE in vier Wochen insgesamt sehr gut leistbar .
+Es wurden alle Termine wahrgenommen .
+In einigen Fällen wurden Termine verschoben , jedoch gab es keinen Ausfall .
+Als nicht optimal ist die Interventionsdauer von vier Wochen einzustufen .
+Eine längere Untersuchungsdauer von drei oder sechs Monaten mit zwei TE pro Woche könnte zu anderen Ergebnissen führen .
+Der Trainingsort spielt in diesem Zusammenhang eine wichtige Rolle .
+Die Probanden führten ihr Training zu Hause unter Anleitung durch .
+Das bedeutet für sie eine Verbindlichkeit für die Einhaltung der Termine .
+Es ist zu keinem Drop-Out gekommen .
+Eine unbeschwerte Atmosphäre ohne Blicke Anderer und ohne Anreise zur Trainingsstätte wurden - insbesondere von weiblichen Probanden - positiv gesehen .
+Ein Training alleine zu Hause durchzuführen wird häufig als beschwerlich angesehen und ist mit geringer Motivation verbunden .
+In diesem vorletzten Punkt erfolgt eine Ergebnisdiskussion im Rahmen der zu prüfenden Unterschiedshypothese .
+Das Ziel der Untersuchung war es , die Wirksamkeit einer vierwöchigen Intervention in Form eines standardisierten EMS-Krafttrainings beim Kunden zu Hause auf das individuelle Stresserleben zu messen .
+Die Unterschiedshypothese besagt , dass sich nach der vierwöchigen Intervention in Form eines standardisierten EMS-Krafttrainings das individuelle Stresserleben der EG bezogen auf die Hauptskalen ( Aktuelle Stressbelastung , Körperliche und psychische Stresssymptome und Umgang mit Stress ( Coping ) ) signifikant vom individuellen Stresserleben der KG bezogen auf die Hauptskalen ( Aktuelle Stressbelastung , Körperliche und psychische Stresssymptome und Umgang mit Stress ( Coping ) ) unterscheidet .
+Die inferenzstatistischen Ergebnisse zeigen , dass die Alternativhypothesen H1A , H1B und H1C verworfen und die Nullhypothesen H0A , H0B und H0C in vollem Umfang beibehalten werden .
+Das bedeutet , dass sich das individuelle Stresserleben der EG nach der vierwöchigen Intervention nicht signifikant vom individuellen Stresserleben der KG unterscheidet .
+In Tab. 10 sind die Einzelergebnisse des Mann-Whitney U-Tests festgehalten .
+In Bezug auf alle drei Hauptskalen sind jeweils die Prä-Werte als auch die Post-Werte nicht signifikant , weil alle über dem vorher festgelegten Signifikanzniveau von 5 % liegen .
+Anhand der Mittelwerte aus Anhang 1 ist ersichtlich , dass geringste Unterschiede der Mittelwerte bei den Skalen zwar zu erkennen sind , diese aber nicht ausreichen , um signifikant zu sein .
+Hier ist als Beispiel die Skala „ Aktuelle Stressbelastung “ zu nennen .
+Die Mittelwerte der EG liegen in der Prä- und Postmessung bei 43,86 Punkten zu 37,00 Punkten , eine Verbesserung um 6,86 Punkte .
+Die KG liegt in den Mittelwerten in der Prä- Postmessung bei 43,14 Punkten zu 37,29 Punkten .
+Das entspricht einer Verbesserung von 5,85 Punkten im Mittelwert .
+Ähnlich verhält es sich mit allen anderen Skalen .
+Beide Gruppen sind beinahe bei denselben Werten in der Prämessung gestartet und nach vier Wochen beinahe bei denselben Werten in der Postmessung angekommen .
+Das erschwert das Auffinden von signifikanten Unterschieden enorm .
+Die Grenzen der Studie sind darin zu sehen , dass eine kleine Stichprobe von insgesamt 28 Probanden , verteilt auf zwei Gruppen zu je 14 Probanden , keinen Teil einer Grundgesamtheit darstellt .
+Viele Probanden verrichten teilweise sehr unterschiedliche Tätigkeiten .
+Unter ihnen sind Angestellte , Selbstständige und Studenten .
+Der Altersunterschied zwischen EG und KG beträgt im Durchschnitt 15,07 Jahre .
+Das bereitet erhebliche Schwierigkeiten bei einem genauen Vergleich beider Gruppen .
+Trotz des großen durchschnittlichen Altersunterschieds , liegen beide Gruppen beinahe bei allen Skalen bei denselben Prä- und Post-Werten .
+Das bedeutet , dass das Stressniveau trotz steigenden Alters anhält und dass die Anforderungen aus der Lebens- und Arbeitswelt an das Individuum durchgehend intensiv bleiben .
+Ein weiterer wichtiger Aspekt in dieser Ergebnisdiskussion ist der zu kurze Untersuchungszeitraum .
+Die Untersuchung dauerte vier Wochen mit einer Trainingseinheit pro Woche .
+Wie in Punkt 3.4 beschrieben , untersuchten Tscharaktschiew und Rudolph ( 2012 , S. 55 ) die Wirkung eines klassischen , gesundheitsorientierten Krafttrainings auf verschiedene Aspekte des psychischen Wohlbefindens .
+Das klassische Krafttraining wurde sechs Mal im Monat durchgeführt und die Probanden über einen Zeitraum von drei und sechs Monaten beobachtet .
+Es soll herausgestellt werden , dass Interventionen , insbesondere in Bezug auf psychische Variablen , eine längeren Zeitraum benötigen .
+Im Blick auf diese Untersuchung könnte eine verlängerte Interventionsdauer - von drei , sechs oder zwölf Monaten und mit zwei EMS-Krafttrainingseinheiten pro Woche - zu anderen Ergebnissen bezüglich der untersuchten Variable führen .
+Es scheint , dass die Interventionsdauer mit vier Wochen zu kurz und mit einer TE pro Woche zu gering ist , um signifikante Ergebnisse zu erzielen .
+Zusammengefasst bedeutet das , dass das individuelle Stresserleben der EG - bezogen auf die drei Hauptskalen - sich trotz der vierwöchigen Intervention in Form eines standardisierten EMS-Krafttrainings nicht signifikant vom Stresserleben der KG - bezogen auf die drei Hauptskalen - unterscheidet .
+Die Schlussfolgerungen aus dieser Arbeit sind sehr vielfältig .
+Es ist klargeworden , dass die Intervention in Form eines EMS-Krafttrainings durchaus positiv zu sehen ist , jedoch für diesen kurzen Zeitraum und dieses kleine , unterschiedliche Untersuchungskollektiv nicht zu signifikanten Verbesserungen des individuellen Stresserlebens geführt hat .
+Für zukünftige Studien sollte deshalb der Zeitraum verlängert und das Probandenkollektiv vergrößert werden .
+Ein Zeitraum von drei , sechs oder sogar zwölf Monaten könnte umfassendere Ergebnisse , insbesondere im Längsschnitt liefern .
+Die Erhöhung der TE auf zwei Mal pro Woche , eventuell in Kombination mit einem moderaten Ausdauertraining , kann eine weitere Möglichkeit sein , die Wirksamkeit der Intervention zu untersuchen .
+Es sollte ein Probandenkollektiv aus denselben Lebens- und Arbeitsverhältnissen , mit selbem Alter und zusätzlich anderer Sportaktivität gewählt werden .
+Als Probandenkollektiv sind zum Beispiel Mitarbeiter aus dem Handwerk , Angestellte mit einer sitzenden Tätigkeit oder Führungskräfte mit hohem Stresslevel , zu sehen .
+Aber auch Hausfrauen , Mütter oder Lehrer .
+So kann das individuelle Stresserleben zielgruppenspezifisch besser untersucht werden .
+Die Besonderheiten bei der Durchführung dieses Trainingsprogramms liegen in der kurzen Zeiteinheit , der optimalen Betreuung und der Durchführung beim Kunden zu Hause .
+Zu überlegen gilt , ob irgendwann die gestiegenen Anforderungen und zeitlichen Bedingungen im Privat- und Arbeitslebens so intensive Beanspruchung fordern , dass Personen diese Möglichkeit der Sportaktivität vermehrt nutzen werden .
+Auch das Erhebungsinstrument kann statt des SCI der „ Stressverarbeitungsfragebogen SVF 78 “ oder „ SVF 120 “ sein .
+Die Zielvariable in dieser Arbeit ist das individuelle Stresserleben .
+Andere Fragebögen können andere Variablen , wie zum Beispiel die Stressbewältigung , besser untersuchen .
+Generell ist kritisch festzuhalten , dass die Untersuchung von psychischen Variablen in Kombination mit einem EMS-Krafttraining als Intervention zu wenig untersucht ist .
+Hier stellt sich der Wissenschaft zukünftig die Aufgabe , weitere Erkenntnisse zu gewinnen .

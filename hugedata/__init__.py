@@ -16,7 +16,10 @@ ROOT = os.path.join(backbone.ROOT, 'hugedata')
 LIT = os.path.join(ROOT, 'lit')
 UTILS = os.path.join(ROOT, 'utils')
 
+LIT_BACHELOR = os.path.join(LIT, 'bachelor')
 LIT_MASTER = os.path.join(LIT, 'master')
+
+LIT_BACHELOR051 = os.path.join(LIT_BACHELOR, 'bachelor051.txt')
 
 LIT_MASTER072 = os.path.join(LIT_MASTER, 'master072.txt')
 LIT_MASTER075 = os.path.join(LIT_MASTER, 'master075.txt')
@@ -36,4 +39,8 @@ LIT_MASTERS = [
     LIT_MASTER099,
 ]
 
-RESOURCES = LIT_MASTERS + [UTILS_ABBREVIATION]
+LIT_BACHELORS = [
+    LIT_BACHELOR051,
+]
+
+RESOURCES = LIT_MASTERS + LIT_BACHELORS + [UTILS_ABBREVIATION]
