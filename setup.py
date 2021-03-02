@@ -50,6 +50,8 @@ if __name__ == "__main__":
             'backbone.view.sentence',
             'bbview.api',
             'bbview.api.analysis',
+            'bbview.api_',
+            'bbview.api_.analysis',
             'bbview.api.data',
             'bbview.view',
             'hugedata',
