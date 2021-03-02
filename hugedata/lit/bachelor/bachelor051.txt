@@ -139,14 +139,13 @@ Es folgt eine stärkere und längere Aktivierung von Atmung , Kreislauf und Ener
 Ist die Gefahr bewältigt oder die Flucht gelungen , werden Adrenalin und Kortisol wieder abgebaut und der Normalzustand für alle Systeme kehrt zurück .
 Es gibt viele theoretische Modelle zur Entstehung , Bewertung , Bewältigung und Verarbeitung von Stress .
 Hier wird das transaktionale Stressmodell des amerikanischen Psychologen Richard Lazarus aus dem Jahr 1974 zur Beschreibung des Stressprozesses herangezogen .
-Greiner et al .
-( 2012 ) beschreiben das transaktionale Stressmodell als ein „ … in der Psychologie weithin akzeptiertes und angewandtes Modell zur Beschreibung des Stressprozesses “ ( S. 19 ) .
+Greiner el al. ( 2012 ) beschreiben das transaktionale Stressmodell als ein „ … in der Psychologie weithin akzeptiertes und angewandtes Modell zur Beschreibung des Stressprozesses “ ( S. 19 ) .
 In diesem Modell gibt es insgesamt vier Stationen , die einzeln durchlaufen werden .
 Als erste Station löst eine neutrale Situation eine primäre Bewertung aus .
 Als zweite Station - beinahe zeitgleich - geschieht eine sekundäre Bewertung .
 Als dritte Station erfolgt eine Bewältigung der Situation .
 Die letzte Station ist eine Neubewertung der Situation .
-Die Abbildung 1 ( Abb . )
+Die Abbildung 1 ( Abb.  )
 verdeutlicht die vier Stationen des transaktionalen Modells nach Lazarus .
 Es wird im Folgenden jede Station einzeln erläutert .
 Stress wird von Lazarus ( 1999 , zitiert nach Greiner et al. , 2012 , S. 19 ) als „ … Reaktion des Organismus auf überhöhte Anforderungen aus der Umwelt beschrieben “ .
@@ -194,19 +193,15 @@ Der Begriff „ Coping “ stammt aus dem englischen Sprachgebrauch ( „ to cop
 Das transaktionale Stressmodell unterscheidet zwischen problembezogenem und emotionsbezogenem Coping .
 Beide Copingstrategien wurden in Punkt 3.3.2 bereits erläutert .
 Andere Autoren nehmen eine abweichende Einteilung der Ansatzpunkte des Coping vor .
-Nach Litzcke et al .
-( 2013 , S. 46 ) kann Stressbewältigung bei den Stressoren , bei dem Menschen selbst oder bei der Stressreaktion ansetzen .
-So unterscheiden Litzcke et al .
-( 2013 , S. 47 ) zusätzlich zwischen Maßnahmen zur kurzfristigen Erleichterung und Maßnahmen der langfristigen Stressbewältigung .
-Unter kurzfristigen Maßnahmen verstehen Litzcke et al .
-( 2013 ) Maßnahmen , „ … die Auswirkungen bereits angestauter Stressreaktionen abmildern oder Stressspitzen kappen “ ( S. 47 ) , beispielsweise sich ablenken , indem die Person spazieren geht , mit Freunden telefoniert oder Musik hört .
+Nach Litzcke el al. ( 2013 , S. 46 ) kann Stressbewältigung bei den Stressoren , bei dem Menschen selbst oder bei der Stressreaktion ansetzen .
+So unterscheiden Litzcke el al. ( 2013 , S. 47 ) zusätzlich zwischen Maßnahmen zur kurzfristigen Erleichterung und Maßnahmen der langfristigen Stressbewältigung .
+Unter kurzfristigen Maßnahmen verstehen Litzcke el al. ( 2013 ) Maßnahmen , „ … die Auswirkungen bereits angestauter Stressreaktionen abmildern oder Stressspitzen kappen “ ( S. 47 ) , beispielsweise sich ablenken , indem die Person spazieren geht , mit Freunden telefoniert oder Musik hört .
 Eine weitere Möglichkeit bietet der „ Gedankenstopp “ .
 Das Ziel dieser Technik ist es , die quälenden Gedanken beim Auftreten , also so früh wie möglich , abzubrechen .
 Indem die Person sich immer wieder den Begriff „ Stopp “ leise oder laut vorsagt , soll eine Gedankenbremse hin zu anderen Gedanken führen .
 Als letzte kurzfristige Maßnahme sei hier die „ Spontane Entspannung “ genannt .
 Eine zuvor erlernte Entspannungstechnik ( Progressive Muskelentspannung oder Autogenes Training ) wird punktuell und zur Minimierung der aktuellen Erregung eingesetzt ( Litzcke et al. , 2013 , S. 54 ) .
-Langfristige Maßnahmen sind nach Litzcke et al .
-( 2013 , S. 47 ) besonders wirksam , wenn die Person Ursachen der Belastung verändern , beseitigen oder reduzieren will und kann .
+Langfristige Maßnahmen sind nach Litzcke el al. ( 2013 , S. 47 ) besonders wirksam , wenn die Person Ursachen der Belastung verändern , beseitigen oder reduzieren will und kann .
 Weiterhin , wenn eine Belastung vorhersehbar ist und die Person sich darauf vorbereiten kann .
 Eine Maßnahme dafür kann die Aktivierung von sozialer Unterstützung ( Freunde , Familie ) sein .
 So können Bedürfnisse nach praktischer Hilfe und Beruhigung erfüllt werden ( Litzcke et al. , 2013 , S. 68 ) .
@@ -228,8 +223,7 @@ In diesem Prozess werden Zucker und Fette zur Energiebereitstellung verstoffwech
 „ Die durch einen Stressor ausgelöste körperliche Aktivierung ist an sich nicht gesundheitsschädlich “ ( Kaluza , 2015 , S. 33 ) .
 Kaluza fügt hinzu , dass phasische Aktivierung eher als angenehm , leistungssteigernd und motivierend erlebt wird ( Kaluza , 2015 , S. 34 ) .
 Die Gesundheitsgefährdung ist also nicht alleine im Stress begründet .
-Stress wird von Litzcke et al .
-( 2013 ) als negativ eingestuft , wenn „ … die Ermüdungssignale übersehen werden und punktueller Stress zu Dauerstress wird .
+Stress wird von Litzcke el al. ( 2013 ) als negativ eingestuft , wenn „ … die Ermüdungssignale übersehen werden und punktueller Stress zu Dauerstress wird .
 Wachsende Anspannung und fehlende Entspannung gehen Hand in Hand “ ( S. 25 ) .
 Die damals sinnvollen körperlichen Reaktionen sind heute - in der modernen Welt - nicht mehr zeitgemäß .
 Flucht- und Kampfreaktionen sind nicht mehr in dem Maße möglich , die bereitgestellte Energie wird nicht mehr verbraucht , es ergeben sich negative gesundheitliche Folgen ( Kaluza , 2015 , S. 34 ) .
@@ -262,8 +256,7 @@ Körperliche Aktivität wird nach Mensink ( 2003 ) als „ … jede durch die Sk
 So kann unter dieser groben , weitläufigen Definition auch die körperliche Aktivität im Beruf , wie zum Beispiel Maurerarbeiten , Ziegelsteine transportieren oder Abrechnungen am Schreibtisch anfertigen , gemeint sein .
 Eine genauere Eingrenzung des Begriffs hin zum sportwissenschaftlichen Bereich ist hier sinnvoll .
 Sportaktivität wird von Klaperski , Selig und Fuchs ( 2012 ) bezeichnet , wenn „ …bei ihrer Ausübung prinzipiell größere Muskelgruppen beansprucht werden und eine regelmäßige Ausübung zur Verbesserung von Kraft , Ausdauer , Koordination oder Beweglichkeit führt “ ( S. 80 ) .
-Klaperski et al .
-befragten 427 Angestellten im Laufe von 10 Monaten an zwei Messzeitpunkten zu ihrem arbeitsbedingtem Stresserleben und ihrer Sportaktivität .
+Klaperski el al. befragten 427 Angestellten im Laufe von 10 Monaten an zwei Messzeitpunkten zu ihrem arbeitsbedingtem Stresserleben und ihrer Sportaktivität .
 Die Befunde deuten darauf hin , dass sich regelmäßige Sportaktivität positiv auf das arbeitsbedingte Stresserleben auswirkt ( Klaperski et al. , S. 80 ) .
 Eine Möglichkeit von Sportaktivität stellt das Krafttraining dar .
 „ Krafttraining ist ein zentraler Sammelbegriff , der im übergeordneten Sinne die Trainingsart mit dem generellen Ziel der Verbesserung der Kraftfähigkeiten beschreibt “ ( Schmidtbleicher , 1992 , S. 263 ) .
@@ -291,14 +284,12 @@ Zu nennen ist beispielhaft die TEST-III Studie von Kemmler , Engelke und Stengel
 Sie haben 76 Frauen über dem 70 .
 Lebensjahr über die Dauer von 54 Wochen ein 20-minütiges „ Bewegungsprogramm “ mit EMS-Applikation durchführen lassen .
 Die Effekte in Bezug auf fettfreie Körpermasse und Muskelmasse der Oberschenkel sind signifikant positiv ( Kemmler et al. , 2012 , S. 343 ) .
-In einer weiteren Studie von Kemmler et al .
-( 2015 , S. 321-327 ) wurde eine Gruppe von 46 untrainierten Männern zwischen dem 30. und dem 50 .
+In einer weiteren Studie von Kemmler el al. ( 2015 , S. 321-327 ) wurde eine Gruppe von 46 untrainierten Männern zwischen dem 30. und dem 50 .
 Lebensjahr zweigeteilt .
 Eine Gruppe trainierte ihre Kraftfähigkeit zweimal pro Woche mit einer 1-Satzmethode bis zur Ausbelastung .
 Die andere Gruppe absolvierte dreimal in zwei Wochen ein 20minütiges EMS-Krafttraining .
 Gemessen wurden die fettfreie Körpermasse , die Muskelmasse , die dynamische Maximalkraft der Beinextensoren und die isometrische Maximalkraft der Rückenextensoren .
-Kemmler et al .
-( 2015 , S. 321 ) kommen zu dem Ergebnis , dass sich die getesteten Parameter bei beiden Trainingsformen signifikant verbessert haben .
+Kemmler el al. ( 2015 , S. 321 ) kommen zu dem Ergebnis , dass sich die getesteten Parameter bei beiden Trainingsformen signifikant verbessert haben .
 Trotz langer und aufwendiger Suche in verschiedenen Datenbanken wie „ Google Scholar “ , den Online-Bibliotheken der „ Deutsche Hochschule für Prävention und Gesundheitsmanagement “ , der „ Deutsche Zeitschrift für Sportmedizin “ , der „ Zeitschrift für Sportpsychologie “ und der „ Zeitschrift für Psychologie “ konnten keine Studien gefunden werden , die positive Effekte eines standardisierten EMS-Krafttrainings auf das individuelle Stresserleben bereits untersucht haben .
 Auch hier ist ein Forschungsdefizit erkennbar .
 Der vierte Punkt dieser Arbeit schildert das methodische Vorgehen bei der vorliegenden Studie .
@@ -377,8 +368,7 @@ Die Ausschlusskriterien sind oben aufgeführt .
 Hier wird jedoch ein besonderes Augenmerk auf die EG gelegt .
 Die EG durchläuft ein EMS-Training als Intervention .
 Für das EMS-Training gelten besondere Kontraindikationen , die separat aufgeführt werden .
-Nach Vatter et al .
-( 2014 , S. 37 ) sind vor allem neuronale und akute Erkrankungen wie zum Beispiel Epilepsie , Tumor- und Krebserkrankungen , Thrombosen und kürzliche Operationen kontraindiziert .
+Nach Vatter el al. ( 2014 , S. 37 ) sind vor allem neuronale und akute Erkrankungen wie zum Beispiel Epilepsie , Tumor- und Krebserkrankungen , Thrombosen und kürzliche Operationen kontraindiziert .
 Genauso auch Herzschrittmacher und eine bestehende Schwangerschaft .
 Alle Probanden der EG wurden vorher von ihrem Hausarzt auf Belastbarkeit untersucht .
 So gehen alle Beteiligten sicher , dass keine Komplikationen für die Gesundheit auftreten .
@@ -415,8 +405,7 @@ Die Probanden trainieren einmal pro Woche 20 Minuten lang .
 Die Übungen sind so gewählt , dass alle Probanden sie ausführen können , da alle EMS-Anfänger sind .
 Für die Gestaltung eines EMS-Krafttrainings gelten dieselben Trainingsprinzipien wie bei einem klassischen Krafttraining .
 Unter den Trainingsprinzipien werden die Trainingshäufigkeit , die Belastungsdauer , die Belastungsintensität , die Belastungsdichte und der Belastungsumfang verstanden ( Vatter et al. , 2014 , S. 18 ) .
-Die empfohlene Geräteeinstellung für ein Krafttraining ist vom Hersteller voreingestellt und von Vatter et al .
-( 2014 , S. 42-43 ) genau beschrieben .
+Die empfohlene Geräteeinstellung für ein Krafttraining ist vom Hersteller voreingestellt und von Vatter el al. ( 2014 , S. 42-43 ) genau beschrieben .
 Die Einstellung wird für das standardisierte EMSKrafttrainingsprogramm beibehalten .
 Tab .
 4 veranschaulicht die empfohlene Geräteeinstellung .
@@ -488,8 +477,7 @@ Lebensjahr .
 In der EG befinden sich acht Probanden in diesem Altersabschnitt , in der KG jedoch nur zwei .
 So liegt das Durchschnittsalter aller Probanden der EG bei 48,86 Jahren .
 Das Durchschnittsalter aller Probanden der KG liegt bei 33,79 Jahren .
-Eine bessere Veranschaulichung der Altersstruktur gibt Abb .
-2 in Form eines Säulendiagramms .
+Eine bessere Veranschaulichung der Altersstruktur gibt Abb. 2 in Form eines Säulendiagramms .
 Alle Probanden der Studie füllten an zwei Messzeitpunkten den SCI-Fragebogen aus .
 Anhand von Untersuchungsplan 1 ( Tab .
 1 ) ist ersichtlich , dass der Fragebogen von der EG gekoppelt mit der ersten und vierten TE ausgefüllt wurde .
@@ -505,8 +493,7 @@ Es zeigt sich bei der EG nach der vierwöchigen Intervention in Form eines EMS-K
 Bei der KG ist ebenfalls eine Punktwertsenkung um 5,85 Punkte im Prä- undPostvergleich zu verzeichnen ( 43,14 Punkte zu 37,29 Punkten ) .
 Beide Gruppen haben sich in der Skala „ Aktuelle Stressbelastung “ positiv verbessert .
 Die EG hat einen um 1,01 Punkte höheren , positiveren Differenzwert vom Prä- zum Post-Wert als die KG .
-Abb .
-3 gibt einen grafischen Überblick der Mittelwerte und der Differenzwerte beider Gruppen für die Skala „ Aktuelle Stressbelastung “ in Form eines Säulendiagramms .
+Abb. 3 gibt einen grafischen Überblick der Mittelwerte und der Differenzwerte beider Gruppen für die Skala „ Aktuelle Stressbelastung “ in Form eines Säulendiagramms .
 Die zweite Hauptskala des SCI ist die Skala „ Körperliche und psychische Stresssymptome “ .
 Nun werden die Mittelwerte und die Differenzwerte für die Skala „ Körperliche und psychische Stresssymptome “ der EG und KG im Prä- und Postvergleich in Tab .
 7 dargestellt .
@@ -515,8 +502,7 @@ Es zeigt sich bei der EG nach der vierwöchigen Intervention in Form eines EMS-K
 Bei der KG ist ebenfalls eine Punktwertsenkung ohne Intervention um 2,50 Punkte vom Prä-Wert zum Post-Wert zu verzeichnen ( 22,93 Punkte zu 20,43 Punkten ) .
 Beide Gruppen haben sich in der Skala „ Körperliche und psychische Stresssymptome “ positiv verbessert .
 Die EG hat einen um 0,86 Punkte höheren , positiveren Differenzwert vom Prä-Wert zum Post-Wert als die KG .
-Abb .
-4 gibt einen grafischen Überblick der Mittelwerte und der Differenzwerte beider Gruppen für die Skala „ Körperliche und psychische Stresssymptome “ in Form eines Säulendiagramms .
+Abb. 4 gibt einen grafischen Überblick der Mittelwerte und der Differenzwerte beider Gruppen für die Skala „ Körperliche und psychische Stresssymptome “ in Form eines Säulendiagramms .
 Die dritte Hauptskala des SCI , die betrachtet wird , ist die Skala „ Umgang mit Stress ( Coping ) “ .
 Der Punktwert ergibt sich aus der Summe von fünf Subskalen , die die häufigsten Copingstrategien bezeichnen .
 Die fünf Subskalen sind „ Positives Denken “ , „ Aktive Stressbewältigung “ , „ Soziale Unterstützung “ , „ Halt im Glauben “ und „ Alkohol- und Zigarettenkonsum “ .
@@ -527,8 +513,7 @@ Es zeigt sich bei der EG nach der vierwöchigen Intervention in Form eines EMSKr
 Bei der KG ist ebenfalls eine Verbesserung ohne Intervention um 1,00 Punkte vom Prä-Wert zum Post-Wert zu verzeichnen ( 50,79 Punkte zu 51,79 Punkten ) .
 Beide Gruppen haben sich in der Skala „ Umgang mit Stress ( Coping ) “ positiv verbessert .
 Die EG hat jedoch einen um 2,43 Punkte höheren , positiveren Differenzwert vom Prä-Wert zum Post-Wert als die KG .
-Abb .
-5 gibt einen grafischen Überblick der Mittelwerte und der Differenzwerte beider Gruppen für die Skala „ Umgang mit Stress ( Coping ) “ in Form eines Säulendiagramms .
+Abb. 5 gibt einen grafischen Überblick der Mittelwerte und der Differenzwerte beider Gruppen für die Skala „ Umgang mit Stress ( Coping ) “ in Form eines Säulendiagramms .
 Zusammenfassend fällt auf , dass sich die Mittelwerte der EG und der KG in allen drei Hauptskalen von den Prä-Werten zu den Post-Werten verbessert haben .
 Festzuhalten ist , dass die Differenzwerte in allen drei Hauptskalen der EG im Vergleich zu den Differenzwerten in allen drei Hauptskalen der KG höher , also positiver ausgefallen sind .
 Auffällig ist zudem , dass die Prä-Werte und Post-Werte beider Gruppen trotz des durchschnittlichen Altersunterschieds der EG und der KG von 15,07 Jahren bei allen Skalen beinahe identisch sind .
@@ -538,10 +523,8 @@ In allen drei Hauptskalen sind Punktwertverbesserungen vom Prä-Wert zum Post-We
 Um die Gesamtdifferenz der drei Hauptskalen sichtbar zu machen , wurden alle Differenzwerte positiv addiert .
 So wird der Unterschied von der EG zu der KG deutlicher .
 Die Gesamtdifferenz zwischen EG und KG in allen drei Hauptskalen vom Prä-Wert zum Post-Wert beträgt im Durchschnitt 4,30 Punkte .
-Abb .
-6 gibt einen Überblick über die Differenzwerte beider Gruppen für die Hauptskalen .
-Die Namen der Hauptskalen sind zum besseren Verständnis in Abb .
-6 verkürzt dargestellt .
+Abb. 6 gibt einen Überblick über die Differenzwerte beider Gruppen für die Hauptskalen .
+Die Namen der Hauptskalen sind zum besseren Verständnis in Abb. 6 verkürzt dargestellt .
 Im Folgenden geht es um eine inferenzstatistische Überprüfung der deskriptiv dargestellten Ergebnisse .
 Der eingesetzte Signifikanztest ist der zweiseitige Mann-Whitney U-Test für größere unabhängige Stichproben ( N > 20 ) mit einem festgelegten Signifikanzniveau von 5 % .
 Dieser Test überprüft die mittleren Ränge zweier unabhängiger Stichproben auf Signifikanz .

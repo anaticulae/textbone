@@ -20,6 +20,7 @@ LIT_BACHELOR = os.path.join(LIT, 'bachelor')
 LIT_MASTER = os.path.join(LIT, 'master')
 
 LIT_BACHELOR051 = os.path.join(LIT_BACHELOR, 'bachelor051.txt')
+LIT_BACHELOR056 = os.path.join(LIT_BACHELOR, 'bachelor056.txt')
 
 LIT_MASTER072 = os.path.join(LIT_MASTER, 'master072.txt')
 LIT_MASTER075 = os.path.join(LIT_MASTER, 'master075.txt')
@@ -41,6 +42,7 @@ LIT_MASTERS = [
 
 LIT_BACHELORS = [
     LIT_BACHELOR051,
+    LIT_BACHELOR056,
 ]
 
 RESOURCES = LIT_MASTERS + LIT_BACHELORS + [UTILS_ABBREVIATION]

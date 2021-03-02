@@ -1,0 +1,573 @@
+Schon in den Anfängen des Fahrunterrichtes wird den Fahrschülern vermittelt , dass eine Fahrt unter Alkohol ein erhöhtes Unfallrisiko darstellt .
+Auf Grund des hohen Gefahrenpotentials durch Alkohol am Steuer wurde für das Fahren für Fahranfänger und Fahrer in der Probezeit im Jahre 2007 eine 0.00‰ - Grenze festgesetzt .
+Dabei begeht derjenige eine Straftat nach StVG §24c „ [ … ] wer in der Probezeit nach §2a oder vor Vollendung des 21 .
+Lebensjahres als Führer eines Kraftfahrzeuges im Straßenverkehr alkoholische Getränke zu sich nimmt oder die Fahrt antritt , obwohl er unter der Wirkung eines solchen Getränks steht “ ( StVG §24c , Vgl. Bundesministerium der Justiz und für Verbraucherschutz , 2014 ) .
+Doch mit Beendigung der Probezeit und damit der Erhöhung der erlaubten Alkoholkosumgrenze auf 0.5‰ im Blut ( ≙ 0,25 mg/l in der Atemluft ) , wobei keine Fahrauffälligkeiten vorhanden sein dürfen , scheint es viele Autofahrer nur bedingt zu interessieren , wie viel sie getrunken haben und ob sie noch in der Lage sind ein Fahrzeug zu führen , denn viele treten die Heimfahrt trotz Alkoholgenuss selber mit dem Auto an .
+71 % aller schweren Verkehrsunfälle unter Alkohol finden ab einer Promille von 1.1 statt .
+Hierbei handelt es sich laut dem Strafgesetzbuch ( StGB ) um eine Straftat nach § 316 , welches das Vergehen „ Trunkenheit im Verkehr “ regelt ( StGB , 2014 , Vgl. Schmidt , Dettmeyer , Padosch & Madea , 2004 ) .
+Um die Grenze der absoluten Fahruntüchtigkeit zu erreichen und gleichsam noch in der Lage zu sein ein Fahrzeug führen zu können , bedarf es nicht nur eines einmaligen Konsums von Alkohol .
+Hier geht man von einem bestimmten Fahrertyp aus , der regelmäßig viel Alkohol konsumiert , sogenannte » starke Trinker « oder » harte Trinker « ( Vollrath & Krems , 2011 ) .
+Fahrer die nur einen gelegentlichen Alkoholkonsum haben , erreichen auch nur in sehr seltenen Fällen höhere Alkoholisierungen ab 1.0‰ und sind daher kaum im Straßenverkehr zu finden .
+Um im Straßenverkehr beim Führen eines Fahrzeuges mit mehr als 1.0‰ aufzufallen , ist eine Gewöhnung an den Alkohol durch einen regelmäßigen Konsum notwendig .
+So zeigt sich , dass die Leistungsfähigkeit unterschiedlich , je nach Trinkverhalten und Konsum , beeinträchtigt ist ( Vollrath & Krems , 2011 ) .
+In diesem Fall spricht man von Alkoholtoleranz .
+Vollrath ( 2011 ) beschreibt Alkoholtoleranz wie folgt : „ In der Suchtforschung versteht man darunter , dass dieselbe Alkoholmengen mit der Zeit immer weniger Wirkungen haben , sodass man immer mehr trinken muss , um die gewünschte Wirkung zu erreichen. “
+Laut Krüger et al. ( 1995 ) wird Alkohol vornehmlich konsumiert , um die erwünschten Wirkungen des Alkohols zu spüren .
+Dazu gehören Veränderungen „ im Bereich des Befindens und der Sozio-Emotionalität “ ( S. 11 ) .
+Schon ab einer Promille von 0.2 stellen sich eine Verbesserung der Stimmung in Sozialsituationen , eine Verringerung von Angst- und Spannungsgefühlen , sowie eine erhöhte Erregbarkeit ein ( Krüger et al. , 1995 ) .
+Die Nebenwirkungen , die der Konsum mit sich bringt , werden hingenommen .
+Dabei handelt es sich vorwiegend um Einbußen im Leistungsbereich , welche schon bei geringeren BAKWerten im Bereich ab 0.5‰ erkennbar sind .
+Dazu gehören z.B. eine geminderte Koordinationsfähigkeit , verringerte Aufmerksamkeit , Reaktionszeit , Vigilanz , Wahrnehmung und eine zunehmende Müdigkeit , die anscheinend ohne weiteres in Kauf genommen werden ( Moskowitz & Fiorentino , 2000a , 2000b ) .
+So fanden Moskowitz und Fiorentino ( 2000a ) Befunde dafür , dass die Beeinträchtigungen für bestimmte Leistungsbereiche unterschiedlich betroffen sind .
+So ist z.B. die Fähigkeiten , die für das Fahren als solches benötigt werden oder die geteilte Aufmerksamkeit , bereits bei einer geringen BAK von 0.1‰ beeinträchtigt , während Bereiche die die kognitive Bearbeitung von Aufgaben oder die Wahlreaktionszeit betreffen , erst ab einer BAK von 0.6‰ eine Beeinträchtigung aufzeigen ( Moskowitz & Fiorentino , 2000a ) .
+Schnabel ( 2011 , S. ΧΙV ) fand in ihrer Meta-Analyse heraus , „ dass die meisten Fertigkeiten , die für das sichere Führen eines Fahrzeuges relevant sind , ab einer BAK von 0.5‰ deutlich beeinträchtigt sind. “ Ab einer Promille von 0.4 ist ein stark exponentieller Anstieg des Unfallrisikos zu verzeichnen , d.h. umso mehr Alkohol konsumiert wird , umso höher der BAK ist , umso ausgeprägter werden die Nebenwirkungen und desto schädlicher ist ein weiterer Konsum ( Krüger et al. , 1995 ; Vollrath & Krems , 2011 ) .
+Ebenso zeigt sich , dass Aufgaben , die komplexere Anforderungen benötigten , stärker betroffen sind , als einfache Aufgaben und motorische Fähigkeiten stärker betroffen sind , als kognitive Funktionen ( Schnabel , 2011 ) .
+Jedoch konnte bei der Analyse kein Anhaltspunkt dafür gefunden werden , ab welchem BAK-Wert Fahrer beeinträchtigt sind und eben nicht mehr in der Lage wären , ein Fahrzeug zu führen ( Schnabel , 2011 ) .
+Die erste umfangreiche Studie , die den Zusammenhang von Blutalkoholkonzentration und Unfallrisiko untersucht hat , war die Grand Rapids Studie von Borkenstein el al. im Jahre 1964 ( Borkenstein et al. , 1974 ) .
+Es wurde eine großangelegte Feldstudie in der Zeit von Juli 1962 - Juni 1963 im Staat Michigan ( USA ) durchgeführt .
+Dabei wurde bei allen aufgetretenen Autounfällen eine Alkoholtestung der Fahrer vorgenommen , sowie eine Befragung dieser durchgeführt .
+Zudem wurde im gleichen Zeitraum an Orten , die durch ein besonderes Unfallrisiko gekennzeichnet waren , zufällig und wahllos Fahrer kontrolliert .
+Es entstanden so vier Gruppen ( Unfallgruppe/Kontrollgruppe ; alkoholisiert/nüchtern ) , die hinsichtlich bestimmter Aspekte miteinander verglichen worden .
+So lautete ein Aspekt , ob es einen Unterschied bezüglich der Höhe des BAK zwischen den Fahrern mit Unfall gab und denen aus der Kontrollgruppe ohne Unfall .
+Zudem wurden charakteristische Eigenschaften der Gruppen , wie z.B. Alter , Geschlecht , Trinkverhalten , etc. , miteinander verglichen .
+Es konnten in die Statistik etwas über 12.000 Fahrer aufgenommen werden , wobei 9353 Daten von Unfällen beinhaltete .
+Teil der Ergebnisse waren , dass ca. 17 % derjenigen , die einen Unfall verursacht haben , unter Alkoholeinfluss standen und 11 % der zufällig kontrollierten Fahrer , Alkohol konsumiert hatten .
+Zudem zeigte sich , dass Fahrer die einen Promillewert von 0.8 hatten , viel häufiger an Unfällen beteiligt waren und ab einer Promille von 1.5 die Unfallhäufigkeit um das 18-fache höher war .
+Schaut man sich die Altersverteilung an , so fällt auf , dass vor allem die 16- 25jährigen und die ab 69jährigen in Unfälle verwickelt waren .
+Daraus lässt sich schließen , dass je geringer die Fahrpraxis ist , desto höher scheint auch die Unfallhäufigkeit zu sein und dementsprechend verhält es sich umgekehrt ( Borkenstein et al. , 1974 ; Vollrath & Krems , 2011 ) .
+Die Ergebnisse der Grand Rapids Studie lassen den Schluss zu , dass ein deutlicher Zusammenhang zwischen BAK-Werten ab 0.4‰ und der daraus resultierenden Zunahme von Unfallraten besteht .
+In einer neueren , vergleichbaren Studie von Krüger el al. im Jahre 1995 , dem Würzburger Roadside-Survey , wurden eigene Daten mit denen von Borkenstein el al. ( 1974 ) verglichen .
+Es zeigt sich , dass die berechneten Unfallkurven durchaus miteinander vergleichbar sind , wobei das Risiko unter Alkohol ein Unfall zu verursachen etwas stärker erhöht war , was auf das höhere Fahraufkommen zurück geführt werden kann ( Krüger et al. , 1995 ) .
+Ein Effekt sorgte jedoch für Überraschungen .
+Im Bereich von unter 0.5‰ ist das Risiko einen Unfall zu verursachen geringer , als das Risiko für nüchterne Fahrer .
+Dieser sogenannte „ dip “ wurde schon in anderen Studien berichtet ( Holcomb , 1938 , Lucas et al. , 1955 , McCarroll und Haddon , 1961 , zit. nach Krüger et al. , 1995 , S. 59 ) und führte zu diversen Erklärungsversuchen ( s. Einleitung , S. 7 ) .
+Eine Erklärung sind Kompensationsprozesse .
+Es scheint , dass Autofahrer in der Lage sind , bis zu einer bestimmten Promillegrenze ihre Beeinträchtigungen zu kompensieren , ja sogar zu überkompensieren .
+Doch wie funktioniert dieser Kompensationsmechanismus und welche Bedingungen müssen gegeben sein , damit eine Kompensation möglich ist ?
+Eine Ursache könnte die Entwicklung einer Alkoholtoleranz durch Erwartungslernen sein ( Vogel-Sprott , 1989 ) .
+Der Mensch ist in der Lage über die Zeit hinweg bei regelmäßigem Genuss von Alkohol eine sogenannte Toleranz zu entwickeln , die dazu führt , dass sich die Nebenwirkungen des Alkohols verringern .
+Dabei wird angenommen , dass die physiologischen Reaktionen auf den Alkohol ( z.B. Reduzierung der Körpertemperatur , Erhöhung des Pulsschlages ) einen Einfluss auf die Toleranzentwicklung haben .
+Strebt der Mensch danach die entgegengesetzten physiologischen und behavioralen Reaktionen zu zeigen , ist dieser in der Lage den Alkohol zu kompensieren .
+Dieser Effekt wird umso effektiver , umso häufiger Alkohol konsumiert wird .
+Voraussetzung , um solche Reaktionen zu zeigen , sind jedoch verlässliche Hinweisreize und die Erfahrung von positiven Konsequenzen , wenn die Beeinträchtigung durch den Alkohol kompensiert werden können .
+Das heißt es besteht ein Zusammenhang zwischen dem gezeigten Verhalten nach dem Alkoholkonsum und den Konsequenzen die das Verhalten mit sich bringt ( Vogel-Sprott , 1997 ) .
+Vogel-Sprott ( 1992 , zit. nach Vollrath , 2000 ) beschreibt dies in ihrem Modell für das Erwartungslernen , welches in Anlehnung an vorherige Untersuchungen von Bolles ( 1972 ) entstand .
+Dabei werden zwei Arten von Erwartung unterschieden , die bei der Entwicklung einer Toleranz entscheidend sind : Zum einen die „ Stimulus expectancies “ und die „ Response expectancies “ ( Vogel-Sprott , zit. nach Vollrath , 2000 , S.78 ) .
+Es handelt sich dabei zum einen um Erwartungen über eine Reaktion , die in bestimmten Situationen durch bestimmte Reize aus der Umwelt ausgelöst werden und zum anderen um Erwartungen über bestimmte Konsequenzen der Reaktionen .
+Sie unterscheidet dabei die Stimulus-Drug-OutcomeExpectancy von der Response-Outcome-Expectancy .
+Im ersten Fall ist ein Hinweisreiz ( z.B. Kneipe = Hinweis für Alkohol ) gegeben , welcher in der Person die Erwartung auslöst „ es folgt gleich die Alkoholgabe bzw. das Trinken von Alkohol “ .
+Dieser Reiz führt in der Person zu einer Vielzahl von Reaktionen , die ausgelöst werden , denen unteranderem auch kompensierenden Verhaltensweisen angehören .
+Haben diese Reaktionen wiederum positive Konsequenzen für die Person , kommt es zu einer Verstärkung der zuvor gezeigten Reaktionen .
+Grund dafür ist die Bildung von Response-Outcome-Erwartungen ( „ response expectancies “ ) .
+Denn erst wenn der Alkohol kompensiert werden kann , d.h. wenn man in der Lage ist durch angepasstes Fahrverhalten z.B. eine Polizeikontrolle zu umgehen oder den Alkohol in einer polizeilichen Kontrolle unentdeckt bleiben zu lassen ( Unterdrückung von Sprachbeeinträchtigung oder Beeinträchtigungen der Koordinationsfähigkeit , etc. ) und damit z.B. den Verlust des Führerscheins zu verhindern , lernt der alkoholisierte Fahrer , dass eine Kompensation der Nebenwirkungen positive Konsequenzen bzw. den Wegfall von negativen Konsequenzen zur Folge hat .
+Es kommt zu verstärkten Response-Outcome-Erwartungen , da gelernt wurde , dass Kompensation mit positiven Konsequenzen zusammenhängen .
+So liefert die Stimulus-Drug-Outcome-Expectancy die Grundlage für rechtzeitige Kompensation der Alkoholwirkung , was zu einer Reduktion von Nebenwirkungen des Alkohols ( nur in bestimmter Umgebung möglich ) führt .
+Voraussetzung dafür ist der vorherige Hinweisreiz „ Kneipe “ , damit das Erwartungslernen auch gelingt .
+Die Response-OutcomeErwartung verstärkt dabei die kompensierenden Reaktionen durch die positiven Konsequenzen ( bzw. durch den Wegfall negativer Konsequenzen , wie z.B. durch den Führerscheinentzug , Bußgeld , etc. ) .
+Das Erlernen von Erwartungen über Konsequenzen führt jedoch nicht alleine zum Auftreten von Alkoholtoleranz , sondern unmittelbare Konsequenzen sind notwendig .
+Wenn unter Alkoholeinfluss die Geschwindigkeit verlangsamt wird , lernt der Fahrer , dass er schneller auf Gefahrensituationen reagieren kann , die Spur besser halten kann und in der Lage ist rechtzeitig zu bremsen .
+Das heißt die Reaktionserwartungen fördern somit das Erlernen von Toleranz , was zur Folge hat , dass das Auftreten von kompensatorischen Reaktionen von aktuellen Konsequenzen abhängt .
+Eine Verbesserung der Leistung wird also dann gezeigt , wenn eine gute Fahrleistung trotz Alkohol positive Konsequenzen hat .
+Somit führt häufiges fahren unter Alkoholeinfluss zu besseren Kompensationsmechanismen , da Erfahrungen gesammelt werden können ( Vogel-Sprott , 1992 , zit. nach Vollrath , 2000 ) .
+Unter anderem stützte Vogel-Sprott ihre Annahme , dass sowohl klassische Konditionierung , als auch das operantes Lernen einen Einfluss auf die Entwicklung von Toleranz hat , auf eine Untersuchung im Jahre 1984 ( Beirness & Vogel-Sprott , 1984 ) .
+Sie untersuchten an 24 männlichen Studenten den Effekt von klassischer in Kombination mit operanter Konditionierung mit Hilfe des Tracometertest , welcher die psychomotorische Reaktionszeit in Bezug auf die Verfolgung eines Objektes messen soll .
+Es wurden vier Gruppen gebildet , welche über 4 Sitzungen die gleiche Menge an Alkohol erhielten und unter Alkoholeinfluss den Tracometertest durchführten .
+Dabei unterschieden sich die Gruppen wie folgt :
+1.) Gruppe eins erhielt eine kontingente Rückmeldung über die eigene Leistung plus eine finanzielle Belohnung ,
+2.) Gruppe zwei erhielt nur eine informelle , aber kontingente Rückmeldung ,
+3.) Gruppe drei erhielt eine nicht-kontingente finanzielle Belohnung und
+4.) Gruppe vier stellte die Kontrollgruppe dar , die weder eine Belohnung noch eine Rückmeldung über die eigene Leistung erhielt .
+Die Ergebnisse spiegelten die Vermutungen von Vogel-Sprott wieder .
+Alle Gruppen , mit Ausnahme der Kontrollgruppe , zeigten eine Verbesserung der Leistung im Tracometertest .
+Gruppe eins zeigte dabei die stärktest Verbesserung der Leistung und Gruppe drei hingegen die Geringste .
+Deutlich wurde jedoch , dass der größte Effekt und damit die stärkste Toleranzentwicklung unter der Bedingung , dass eine kontingente Rückmeldung und finanzielle Belohnung gegeben wurde , zu verzeichnen ist .
+Es lässt sich somit Schlussfolgern , dass wenn gute Leistungen auch unter dem Einfluss von Alkohol belohnt werden , die Probanden durchaus in der Lage sind , gute Leistungen im Tracometertest zu zeigen ( Beirness & Vogel-Sprott , 1984 ) .
+In einem vergleichbaren Versuch von Sdao-Jarvie und Vogel-Sprott ( 1992 ) wurden zusätzliche Bedingungen eingeführt .
+So handelte es sich diesmal um 5 Gruppen die jeweils anderen Bedingungen zugeordnet wurden .
+So erhielten die ersten 3 Gruppen zur Förderung der Kompensationsleistung in der Sitzung 1-3 nützliche Konsequenzen , um die eigene Leistung zu überprüfen .
+Die erste Gruppe erhielt eine Rückmeldung über die Leistung , die Zweite eine Rückmeldung plus finanzielle Belohnung , die Dritte sollte sich vorstellen sie bekäme eine kontingente Belohnung .
+Die vierte und fünfte Gruppe stellten die Kontrollgruppen dar , wobei Gruppe vier gar keine Konsequenzen und Gruppe fünf eine nichtkontingente finanzielle Belohnung am Ende des Versuches in Sitzung 1-3 erhielt .
+Die ersten vier Sitzungen fanden unter Alkohol statt , die fünfte hingegen unter Placebo .
+In Sitzung vier und fünf erhielten alle Gruppen eine kontingente finanzielle Belohnung und Rückmeldung .
+Getestet wurde auch hier die Kompensationsleistung mit Hilfe des Tracometertest .
+Bei der Betrachtung der Ergebnisse zeigte sich , dass die ersten drei Gruppen unter den Alkoholsitzungen ( 1-3 ) eine geringere Verlangsamung aufwiesen .
+Die Kontrollgruppen zeigten hingegen deutlich schlechtere Leistungen und waren somit deutlich langsamer .
+In der Placebositzung ( 5 ) hingegen zeigten die ersten drei Gruppen deutlich bessere Leistungen , als nüchtern , wo hingegen die Kontrollgruppen nur leichte Verbesserungen in ihrer Leistung aufwiesen .
+Zusammenfassend ist zu sagen , dass die Gruppen mit Information , kontingenter Belohnung oder mentaler Übung eine deutlich höhere Toleranz und damit eine stärkere Kompensationsleistung aufzeigten , als die Kontrollgruppen .
+Es lässt sich daraus schließen , dass eine kontingente Rückmeldung während der Übung eine bedeutende Rolle für das Zeigen von Kompensationsleistungen spielt .
+Es macht dabei keinen Unterschied , ob man die Belohnung tatsächlich erhält oder sich diese nur vorstellt ( Sdao-Jarvie & Vogel-Sprott , 1992 ) .
+Es konnte durch die zuvor beschriebene Literatur gezeigt werden , dass der Mensch durchaus in der Lage ist unter bestimmten Bedingungen Alkohol in gewissem Maße zu kompensieren ( Vgl. Beirness & Vogel-Sprott , 1984 ; Krüger el al. Vollrath , 1995 ; Sdao-Jarvie & Vogel-Sprott , 1992 ) .
+Durch dass Wissen um den Alkoholkonsum , sind Fahrer bemüht die Nebenwirkungen auszugleichen .
+Kompensationsmechanismen gelingen aber nur dann , wenn die Fahrer ihre eigene Leistung wahrnehmen .
+Gelingt es nicht , die Qualität der eigenen Leistung wahrzunehmen , kann dies auch nicht kompensiert werden ( Burian , Hensberry & Liguori , 2003 ) .
+Wenn diese Überlegungen stimmen , müsste sich dies auch in sicherheitskritischen Situationen nachweisen lassen .
+Liegen also Situationen vor , die dem Fahrer schwierig oder gefährlich erscheinen , so müsste er sich bemühen , die Alkoholwirkungen zu kompensieren , um nicht in Gefahr zu geraten .
+Dies hätte zur Folge , dass ein verändertes Fahrverhalten und damit eine Anpassung an die Schwierigkeit der Situation gezeigt werden müsste .
+Daraus ergibt sich die Hypothese I a , dass die Alkoholwirkung in einer scheinbar komplexen kritischen Situationen von den Fahrern der Alkoholgruppe kompensiert werden kann , so dass es zu keinen signifikanten Unterschieden im Unfallauftreten im Vergleich zur Placebogruppe kommt .
+Auf der anderen Seite haben in den letzten Jahrzehnten zahlreiche Studien in einem Bereich ab 0.5‰ gezeigt , dass Alkohol einen negativen Effekt auf das fahrerische Können hat ( Vgl. Borkenstein et al. , 1974 ; Krüger el al. 1995 ; Schnabel , 2011 ) .
+Ein typisches Unfallgeschehen unter Alkoholeinfluss stellt das Abkommen von der Straße auf gerader Strecke oder in Kurven dar .
+Zudem kommt es häufiger zu Kollisionen mit dem Gegenverkehr oder mit parkenden Autos ohne das auf einen äußeren Einfluss geschlossen werden kann .
+Grund hierfür kann eine gesteigerte Risikobereitschaft oder „ die Verzögerung der Blickfolge gegenüber der Geschwindigkeit von Eigen- und Umweltbedingung “ sein ( Schmidt , Dettmeyer , Padosch & Madea , 2004 , S.44 ) .
+Dies führt wiederum dazu , dass die Fahrer eine „ unangemessene Anfahrgeschwindigkeit “ haben und es zu „ abrupten Lenk- und Bremskorrekturen “ während der Fahrt kommen kann ( Schmidt , Dettmeyer , Padosch & Madea , 2004 , S. 44 ) .
+So zeigte sich , dass es vor allem im städtischen Bereich häufiger zu Unfällen im ruhenden Verkehr kommt , auf Grund der verminderten Spurhaltung ( SchlangenLinien-Fahren ) und Aufmerksamkeit ( Schmidt , Dettmeyer , Padosch & Madea , 2004 ) .
+In diesem Fall zeigt sich die negative Wirkung von Alkohol .
+Es besteht die Vermutung , dass vor allem in einfachen Fahrsituationen , die keiner zusätzlichen kognitiven Anstrengungen bedürfen und von einer großen Reizarmut geprägt sind , die Aufmerksamkeit in Bezug auf das Fahrgeschehen reduziert ist und es somit zu verzögerten Reaktionen kommt ( Krüger et al. , 1995 ) .
+Im nüchternen Zustand fällt es den meisten Autofahrern schon schwer monotone Fahrsituationen mit gleichbleibender aktiver Konzentration zu überblicken .
+Wenn keine nennenswerten Ereignisse während der Fahrt geschehen ( kein Gegenverkehr , geradeaus Fahren ohne Kreuzungen und Ampeln , keine weiteren Verkehrsteilnehmer ) , sinkt die Aufmerksamkeit stetig .
+Unter dem Einfluss von Alkohol verstärkt sich dieser Effekt , da nicht davon ausgegangen wird , dass es zu kritischen Situationen kommen könnte .
+Daraus ergibt sich , dass wenn eine Situation als einfach und gut bewältigbar erscheint , es keinen Grund für Kompensationsbemühungen gibt .
+Erscheint dann wider Erwarten eine Gefahr , so müsste sich wegen der mangelnden Kompensation die Alkoholwirkungen negativ auswirken .
+Damit ergibt sich folgenden Hypothese : Hypothese I b : Die Alkoholwirkung wird in einer scheinbar einfachen und wenig kritischen Situation von den Fahrern der Alkoholgruppe nicht kompensiert , so dass es zu signifikanten Unterschieden im Vergleich zur Placebogruppe kommt .
+Die folgende experimentelle Untersuchung widmet sich somit der Frage , auf welche Weise alkoholisierte Fahrer Kompensationsprozesse einsetzen , um kritische Situationen trotz Alkohol zu bewältigen .
+Es wird vermutet , das Fahrer in Situationen , die subjektiv als komplexer und womöglich als gefährlicher erlebt werden , eine entsprechende Erhöhung der Anstrengung und eine stärkere Konzentration auf die Bewältigung der Situation zeigen .
+Dies sollte hingegen in scheinbar einfachen Situationen nicht der Fall sein .
+Betrachtet wurde , ob Veränderungen im Fahrverhalten ( Anpassung der Geschwindigkeit , verminderte/gesteigerte Bremsreaktionszeit , Spurhaltung , etc. ) in unfallkritischen Situationen innerhalb des Stadtverkehrs zu vermehrten/verminderten Unfällen führte , wobei Alkohol- und Placebogruppe miteinander verglichen wurden .
+Die Methode wird im Folgenden ausführlich dargestellt .
+Da es sich im realen Verkehr um möglicherweise gefährliche Situationen für die Probanden handeln könnte , wurde die Studie im statistischen Fahrsimulator am Lehrstuhl für Ingenieur- und Verkehrspsychologie der Technischen Universität Braunschweig durchgeführt .
+Um die Hypothesen zu überprüfen wurde ein dreifaktorieller Versuchsplan gewählt ( s. Tab. 1 ) .
+Die unabhängige Variable A ( UV A ) stellt den Faktor Alkoholgabe dar .
+Die UV A wurde mit unabhängigen , per Zufall zugeteilten Gruppen umgesetzt und als Zwischensubjektfaktor realisiert , da sonst die kritischen Situationen in der Fahrsimulation bekannt gewesen wären und ein Lerneffekt vermutet wurde .
+Es handelte sich um eine Experimentalgruppe ( EG ) , die unter Alkoholeinfluss stand und um eine Kontrollgruppe unter Placebobedingung ( KG ) .
+Die Experimentalgruppe erhielt Wodka-Mixgetränke , welche die Probanden auf einen Promillewert von ca. 0.5‰ in der Atemluft ( Atemalkoholkonzentration = AAK ) bringen sollten .
+Die Placebo-Gruppe erhielt Mixgetränke , welche nur verschiedene Säfte enthielten , aber optisch dem alkoholischen Getränk ähnelten .
+Die UV B stellt die Art der Situation dar , die die Probanden in der Fahrsimulation durchfahren mussten .
+Die UV hatte zwei Ausprägungen , welche zum einen die „ komplexe Kreuzungssituation ( KR ) “ und zum anderen die „ einfache Fußgängersituation ( FG ) “ war .
+Die Kreuzungssituation sollte bei den Probanden dazu führen , dass sie denken , dass etwas passieren könne , um so Kompensationsmechanismen auszulösen .
+Bei der Fußgängersituation trat das kritische Ereignis völlig unvermutet auf , da die Situation einfach und unproblematisch erschien .
+Hier sollten keine Kompensationsmechanismen zu finden sein .
+Die UV B wurde wie folgt realisiert : In der Kreuzungssituation fuhren die Probanden innerhalb der Stadt an eine T-Kreuzung heran ( s. Abb. 1 ) .
+Sie mussten in der Situation nach rechts auf die Hauptstraße fahren .
+Dabei war es von Bedeutung mehrere Faktoren während der Fahrt gleichzeitig zu überwachen ( heranfahrende Autos , Fußgänger , die über den Zebrastreifen gehen , ausparkende Autos ) .
+Nachdem Abbiegen parkte von rechts ein Auto aus und nahm dem Fahrer die Vorfahrt ( s. Abb. 1 ) .
+In der Fußgängersituation fuhren die Probanden ca. 10 Minuten in der Stadt ohne nennenswerte Ereignisse .
+Nach der Einfahrt in eine Einbahnstraße mussten die Probanden an links und rechts geparkten Autos vorbei fahren .
+Am Ende der Einbahnstraße lief plötzlich ohne Vorwarnung ein Fußgänger direkt auf die Straße und stoppte vor dem Auto ( s. Abb.2 ) .
+Dieser Faktor wurde mit Messwiederholung realisiert , da es sich um zwei ganz unterschiedliche Situationen handelte .
+Deshalb erschienen Übungs- bzw. Lerneffekte als unwahrscheinlich .
+Um mögliche Zeiteffekte dennoch zu kontrollieren , wurde in zwei unabhängigen Gruppen ( UV C : Reihenfolge der Situationen ) beide Reihenfolgen als Cross-Over-Plan realisiert ( Gruppe 1 : komplexe Kreuzung- , dann einfache Fußgängersituation ; Gruppe 2 : einfache Fußgänger- , dann komplexe Kreuzungssituation ) und somit als Zwischensubjektfaktor variiert .
+Da die Erhebung der Daten im Rahmen eines größeren Versuchs stattfand , wurde außerdem ein Leistungstest durchgeführt , dessen Reihenfolge mit dem Fahrsimulatortest variiert wurde ( erst Leistung , dann Fahrsimulator und umgekehrt ) .
+Dieser Teil der Erhebung wurde von Heuer ( 2014 ) unter dem Titel „ Trotz Alkohol fit im Kopf ? !
+Kompensationsmöglichkeiten unter Alkohol im Leistungsbereich “ im Rahmen ihrer Bachelorarbeit betrachtet .
+Die zentrale abhängige Variable ( AV ) der Untersuchung war das Auftreten eines Unfalls ( ja/nein ) in den beiden kritischen Situationen .
+Anhand der aufgezeichneten Messdaten wurde manuell über das Vorliegen eines Unfalls entschieden .
+Dazu wurde der kleinste aufgetretene Abstand zwischen dem Fahrzeug und dem Fußgänger bzw. dem Vorderfahrzeug gemessen .
+Unterschritt dieser einen kritischen Wert , so lag ein Unfall vor .
+Um das Verhalten des Fahrers unmittelbar vor dem Auftreten des kritischen Ereignisses zu bewerten , wurde die Geschwindigkeit vor der jeweiligen kritischen Situation erfasst .
+Damit konnte außerdem untersucht werden , welchen Einfluss die Geschwindigkeit auf die Unfallhäufigkeit beider Gruppen hatte .
+Als weitere AV , zur Beschreibung der Reaktion des Fahrers , wurde die Bremsreaktionszeit nach Auftreten des kritischen Ereignisses gemessen .
+Neben den Daten aus dem Fahrsimulator wurden die subjektiven Daten aus den erhobenen Fragebögen ausgewertet .
+Der „ Fragebogen zum Befinden ohne Alkohol “ enthielt Fragen , die Aufschluss darüber geben sollten , wie sich der Proband zu dem Zeitpunkt fühlte ( s. Anhang A.4 ) .
+Dazu gehörten z.B. Fragen wie „ Wie stark ist momentan Ihre Anspannung ( Wie z.B. angespannt , nervös , unsicher , gereizt , erregt , empfindlich usw. sind Sie ) ? “ oder „ Wie stark sind Sie momentan aktiv ( Wie z.B. unternehmungslustig , energisch , tatkräftig , frisch , wach usw. sind Sie ) ? “ .
+Der Proband hatte die Möglichkeit auf einer 15-stufigen Antwortskala von „ 1 = sehr wenig “ bis „ 15 = sehr stark “ sein Befinden einzuschätzen ( s. Abb. 3 ) .
+Der „ Fragebogen zum Befinden mit Alkohol “ enthielt ebenfalls Fragen zum gegenwärtigen Befinden ( s. Anhang A.5 ) .
+Zusätzlich wurde erfragt , ob die Probanden selbst glauben , dass wenn Veränderungen im Verhalten im Vergleich zum Versuchsbeginn festzustellen sind , diese auch tatsächlich auf den Alkohol zurück zu führen sind .
+So heißt eine Frage „ 2.a Wie stark ist momentan Ihre Entspannung und Gelöstheit ( Wie z.B. entspannt , innerlich ruhig , locker , ausgeglichen , gelassen usw. sind Sie ) ?
+2.b Liegt es am Alkohol , dass es Ihnen so geht ? “ .
+Die b-Fragen konnten mit „ ja “ , „ nein “ oder „ ja/nein “ beantwortet werden .
+Neben der Kontrolle von Ausgangswertunterschieden sollte so das Erleben unter Alkohol untersucht werden , da dies für die Kompensationsbemühung wichtig sein könnte .
+Des Weiteren wurde mit dem „ Fragebogen zur subjektiven Einschätzung der Fahrt “ ein Instrument genutzt , welches eine Einschätzung der eigenen Leistung nach der Fahrt ermöglichte .
+Es wurde z.B. gefragt „ Wie aufmerksam waren Sie beim Fahren ? “ oder „ Wie anstrengend war die Fahrt gerade ? “ ( s. Anhang A.6 ) .
+Dabei wurde eine vergleichbare 15stufige Antwortskale wie in Abbildung 3 verwendet .
+Mit Hilfe dieser Fragen sollten subjektive Aspekte der Kompensation untersucht werden z.B. durch die Angabe einer erhöhten Anstrengung während der Fahrt , die möglicherweise objektiv nicht messbar gewesen wären .
+Bei der untersuchten Stichprobe handelte es sich ausschließlich um männliche Probanden , wobei 47 Studenten der Technischen Universität Braunschweig aus dem Bereich der MINTFächer waren ( Mathe , Ingenieurswesen , Naturwissenschaften und Technik ) , davon 56.3 % Ingenieure und 33.3 % Maschinenbauer ( die restlichen 10.4 % gehören anderen MINTFächern an ) , sowie eines ausgebildeten , berufstätigen Anlagenmechanikers .
+Der überwiegende Teil befand sich im fünften/sechsten Bachelorsemester bzw. im ersten/zweiten Mastersemester .
+Es wurden insgesamt 48 Probanden im Alter von 20-29 Jahren getestet ( M = 23.3 Jahre , SD = 2 Jahre ) .
+Alle Probanden hatten zum Zeitpunkt der Testung einen Führerschein und besaßen diesen seit mindestens 2 Jahren .
+Am häufigsten gaben die Probanden an eine jährliche Fahrleistung von 9.000 bis 12.000 km zu haben und die Gesamtfahrleistung lag im Mittel bei 66.250 gefahrenen Kilometern ( SD = 61.100 km ) .
+Die Probanden-Akquise fand zum einen über das Austeilen von Flyern statt , zum anderen über die Vorstellung der Studie innerhalb einer Vorlesung für Verkehrspsychologie an der Technischen Universität Braunschweig .
+Bei Interesse bekamen sie Flyer mit und wurden gebeten diese an Freunde/Bekannte weiterzugeben .
+Sechzig potenzielle Teilnehmer wurden per Zufall ausgewählt und via Mail kontaktiert .
+Mit Hilfe einer Online-Terminplaner-Liste wurde selbstständig das Planen von Terminen ermöglicht .
+Da es sich bei dem Versuch um eine Alkoholstudie handelte , wurden im Voraus aus ethischen Gründen weibliche Probanden ausgeschlossen .
+Eine potentielle Gefährdung für die Probandin auf Grund einer unentdeckten Schwangerschaft sollte so verhindert werden .
+Zudem durften keine Psychologiestudenten teilnehmen , da diese eventuell die Bedingungen „ Alkohol/Placebo “ vor bzw. während des Versuches erkannt hätten und so eine Störvariable für die unabhängige Variable „ Bedingung “ dargestellt hätten .
+Des Weiteren wurden Asiaten ausgeschlossen , da eine genetisch bedingte „ atypisch inaktive Form des ALDH2 “ bestehen könnte .
+Dies hätte zur Folge , dass es „ zu höheren Aldehydkonzentrationen im Blut und zum sog .
+« Flushing-Syndrom » führt ( Schimiczek & Niebergall-Roth , 2005 , S. 97 ) “ .
+Es musste kein Proband auf Grund von zu geringem oder bedenklichem Alkoholkonsum ausgeschlossen werden .
+Es mussten nach dem ersten Termin drei Probanden auf Grund von „ simulator sickness “ ausgeschlossen werden ( Vgl. Kolasinski , 1995 ) .
+Die Daten von zwei weiteren Probanden wurden nach dem zweiten Termin nicht ausgewertet , da die Bedingung zu denen sie ursprünglich per Zufall zugeordnet wurden , im Versuch vom Versuchsleiter vertauscht wurden und somit nicht in die Analyse mit einbezogen werden konnten .
+Die fünf ausgeschlossenen Probanden wurden in einem neuen Auswahlverfahren per Zufall durch neue Probanden ersetzt .
+Da der Versuch an zwei Tagen stattfand , ist es notwendig , die genutzten Materialien an den beiden Tagen zu unterscheiden .
+Die Probanden wurden schriftlich ; mit Hilfe einer Probandeninformation , instruiert , wobei hier vor allem erklärt wurde , dass es um die Leistung unter Alkohol gehe und dass unterschiedliche Dosierungen verabreicht würden .
+Dabei nahmen die Probanden an , sie würden an einem Versuch teilnehmen , der Beeinträchtigungen und Auswirkungen von Alkohol beim Fahren im Fahrsimulator untersuchen würde .
+Es war ihnen nicht bewusst , dass es sich um eine Untersuchung von Kompensationsmechanismen im Vergleich Alkohol/Placebo geht ( s. Anhang A 13 . )
+Mit Hilfe eines selbstentwickelten Probandenfragebogen wurden relevante demographische Daten des Probanden erhoben , wie Alter , Geschlecht , Studiengang , Fachsemester , Erhalt des Führerscheins , jährliche Fahrleistung ( s. Anhang A 3 ) .
+Mit dem selbst zusammengestellten „ Kurzfragebogen zum Alkoholkonsum “ , wurden im ersten Teil Informationen erhoben , die für die Berechnung der Menge an Alkohol für den zweiten Versuchstag benötigt wurde ( Alter , Geschlecht , Gewicht , Größe ) .
+Zum anderen wurden Fragen gestellt , die auf den Alkoholkonsum des Probanden eingingen .
+So sollten Informationen über den Konsum der letzten 10 Wochen gewonnen werden , um „ Nicht- oder Selten-Trinker “ aus der Studie auszuschließen .
+Im zweiten Teil wurden Fragen des Lübecker Alkoholabhängigkeits- und -missbrauchsScreening-Test ( LAST ) von Rumph , Hapke und John ( 1997 ) genutzt .
+Der LAST ist ein , mit nur sieben Fragen die jeweils mit „ ja- und nein-Antworten “ aufgebauter , sehr kurzer Screening Test zur Erfassung von Alkoholabhängigkeit und -missbrauch .
+Er zeichnet sich durch seine Sensitivität und Ökonomie im Hinblick auf den zeitlichen Aufwand aus .
+Ab einem Summenscore von 2 Punkten , wären die Probanden ausgeschlossen wurden .
+Somit diente der LAST der Selektion von Probanden mit einem bedenklichen Alkoholkonsum .
+Die Fragen des „ Kurzfragebogen zum Alkoholkonsum “ dienten der Selektion von Probanden , die eventuell einen zu geringen oder problematischen Alkoholkonsum haben .
+So war es uns möglich am ersten Versuchstag jene Probanden aus der Studie auszuschließen , die nicht geeignet für den Versuch erschienen ( s. Anhang A 10 ) .
+In der Einwilligungserklärung wurde nochmals erwähnt , dass der Proband über alle notwendigen Details der Studie vom Versuchsleiter aufgeklärt wurde und er versichert , keine alkoholbedingten psychischen oder physischen Probleme zu haben ( s. Anhang A 13 ) .
+Im Anschluss bekam der Proband eine Aufklärung zum Fahrverbot , in der ausdrücklich davon abgeraten wurde nach dem Fahrversuch aufgrund des Alkoholkonsums weder ein Fahrrad noch ein Auto zu fahren ( s. Anhang A 1 ) .
+Die Probanden erhielten zudem einen standardisierten Merkzettel auf dem die Verhaltensgrundlagen für den zweiten Termin vermerkt waren ( s. Anhang A 7 ) .
+So wurden z.B. Hinweise zum Ess- und Trinkverhalten gegeben , um eventuelle Störvariablen zu vermeiden .
+Damit alle Probanden die gleiche Strecke innerhalb der Simulation fahren , wurde eine standardisierte Fahrinstruktion , in der genau beschrieben war , wie der Fahrer sich während der Fahrt verhalten soll und auf was er achten muss , ausgehändigt ( s. Anhang A 8 ) .
+Der statistische Fahrsimulator ermöglicht durch die Darstellung der Simulation auf drei Leinwänden eine 180° Umsicht auf das Verkehrsgeschehen ( s. Abb. 4 ) .
+Dieser ist mit Lenkrad , zwei Frontsitzen , Pedalerie und eines Ganghebels , wobei es sich hier um ein Automatikgetriebe handelt , eines VW Golf III ausgestattet .
+Die Seiten- , der Rückspiegel sowie der Tacho werden über LCD-Screens realisiert .
+Die Simulation wurde mit Hilfe des SILAB 3.0 Programmes des Würzburger Institutes für Verkehrswissenschaften ( WIVW ) entworfen ( WIVW , 2014 ) .
+Es wurden für die zwei Versuchstage unterschiedliche Simulationen programmiert .
+Am ersten Versuchstag fuhren die Probanden zwei Teilabschnitte .
+Die erste befand sich außerorts auf einer Landstraße .
+Die Probanden sollten ein Gefühl dafür bekommen im Fahrsimulator zu fahren .
+Der zweite Teilabschnitt befand sich innerorts .
+Hier sollte geübt werden , wie man sich in der Stadt verhält , an Kreuzungen heranfährt und ggf .
+abbiegt .
+Dabei wurde die Simulation mit Gegenverkehr , Fußgängern und Ampelphasen programmiert .
+Es wurden zusätzlich Richtungspfeile in die Simulation eingebaut , die es den Fahrern erleichtern sollte , sich durch die Stadt zu finden .
+So wurde langsam das Fahren geübt .
+Dies diente dazu sich an den Simulator , die verändert Fahrumgebung und die Simulation zu gewöhnen .
+So sollten eventuelle Nebenwirkung , die sogenannte „ simulator sickness “ ( Vgl. Kolasinski , 1995 ) , mit Hilfe des Einfahrens zum einen erkannt , was den Ausschluss aus der Studie zur Folge hatte , bzw. durch das Üben minimiert werden .
+Zur Überprüfung , ob alle notwendigen Materialien für den ersten und zweiten Versuchstag ausgehändigt wurden , besaß der Versuchsleiter eine „ Checkliste “ , sowie Materiallisten für den 1 .
+& 2 .
+Termin .
+Mit diesen konnte nachvollzogen werden , ob bereits alle Dokumente ausgehändigt und unterschrieben worden sind ( s. Anhang A 2. , A 11. , A 12 . )
+Am zweiten Termin wurden der „ Fragebogen zum Befinden ohne Alkohol “ und der „ Fragebogen zum Befinden mit Alkohol “ ausgeteilt ( s. Abschnitt 3.4 AV ) .
+Um die gewünschten Bedingung „ Alkohol “ mit 0.5‰ zu erhalten , wurden die WodkaMixgetränke der Experimentalgruppe mit Hilfe der Widmark-Formel an das Gewicht , die Größe und das Alter des Probanden angepasst .
+So erhielten die Probanden unterschiedlich große Mengen an Alkohol , um den AAK-Wert zu erreichen .
+Die Kontrollgruppe erhielt ebenfalls 2 x ein 0.5 Liter Mixgetränk , welches aber nur verschiedene Säfte enthielt , aber optisch dem alkoholischen Getränk ähnelte .
+Es wurden für beide Getränke eine Mischung aus Maracujasaft , Orangensaft und Grenadine-Sirup genutzt .
+Zudem wurde auf die Oberflächen beider der Getränke ( sowohl bei der Experimental- , als auch Kontrollgruppe ) mit einer Pipette jeweils ca. 0.5 ml Wodka geträufelt , um das Gefühl der Probanden der Placebogruppe Alkohol zu erhalten , zu verstärken .
+Vor , während und nach der Trinkphase wurden die AAK-Werte des Probanden gemessen , um zu überprüfen ob die Experimentalgruppe den gewünschten Wert von 0.5 ‰ erreicht hatte .
+Dazu wurde das Alcotest-Gerät 7510 der Firma Dräger genutzt , welches kurz zuvor von der Physikalisch-Technischen Bundesanstalt des Fachbereiches 3.2 `` Gasanalytik und Zustandsverhalten '' geeicht worden war .
+Die Simulation des zweiten Versuchstages unterschied sich zum ersten Tag .
+Eine neue standardisierte Fahrinstruktion half dem Fahrer dabei durch die Simulation zu fahren , denn bei der zweiten Simulation wurden keine Richtungspfeile programmiert ( s. Anhang A 9 . ) .
+Am Ende des Versuches erhielt der Proband eine Quittung über den Erhalt des Versuchspersonengeldes und musste eine Verschwiegenheitserklärung unterschreiben , um die Placebobedingung nicht während der Datenerhebung zu gefährden ( s. Anhang A 14. und A .
+15 . ) .
+Die Durchführung der Studie wird im Folgenden in drei Teile unterteilt , da vorab eine Pilotstudie bzw. ein Pretest durchgeführt wurde und der Versuch an zwei Tagen stattfand .
+Bevor die Studie realisiert werden konnte , gab es eine Pilotstudie bzw. einen Pretest .
+Diese/r diente dazu die geplanten Handlungsabläufe der Versuchsleiter , die Simulationen , sowie die Leistungstests aus dem zweiten Teil der Untersuchung am realen Beispiel zu testen , um eventuelle Probleme aufzudecken und diese gegebenenfalls zu verändern .
+Es wurden innerhalb einer Woche vier studentische Versuchspersonen , die die Voraussetzungen für die Teilnahme am Versuch erfüllten ( s. 3.4 Stichprobe ) , in zwei Gruppen aufgeteilt und an insgesamt 4 Tagen getestet .
+Alle geplanten Abläufe für den ersten und zweiten Termin wurden somit durchgespielt .
+Hierbei war nicht von Bedeutung , welche Ergebnisse die Probanden während der Untersuchung erzielten oder ob die Hypothesen , so wie sie bestanden , bestätigt werden konnten .
+Ziel war es ausschließlich Herauszufinden , ob die Abläufe wie geplant durchzuführen sind und welche Verbesserungen in Bezug auf die Planung eingebracht werden könnten .
+Es stellte sich heraus , dass sowohl zum ersten Termin als auch zum zweiten Termin die Zeitplanung für die einzelnen Teilbereich umsetzbar war .
+Auch die einzelnen Handlungsabläufe , an denen sich die Versuchsleiter halten sollten , waren realisierbar .
+Veränderungen an der Simulation oder den grundlegenden Abläufen waren somit nicht erforderlich .
+Die Datenerhebung fand in einem Zeitraum von 2 Monaten im Institut für Ingenieur- und Verkehrspsychologie statt .
+Die Durchführung des ersten Termins fand in einer Einzelsitzung und des zweiten Termins in einer Paarsitzung statt , um unteranderem den Zeitaufwand für die Versuche zu minimieren .
+Der erste Versuchstag fand im Zeitraum von 1.5 Stunden statt .
+Die Probanden hatten die Möglichkeit zwischen 9 und 20 Uhr Termine wahrzunehmen .
+Dabei begrüßte der Versuchsleiter zu Anfang den Probanden , bot ihm einen Platz und etwas zu trinken an .
+Zu Beginn überreichte der Versuchsleiter dem Probanden die „ Probandeninformation “ und gab dem Proband die Möglichkeit zum Ablauf und zum Versuch fragen zu stellen .
+Anschließend folgten zwei Fragebögen , der „ Fragebogen für Probanden “ und der „ Kurzfragebogen für Alkoholkonsum “ .
+Während der Proband die Fragebögen ausfüllte , konnte der Versuchsleiter die Simulation am Computer vorbereiten , sowie die vorliegende Checkliste überprüfen , um eventuell fehlende Fragebögen oder Materialen auszuhändigen .
+Es folgte die „ Einwilligungserklärung “ und der Probanden hatte anschließend die Möglichkeit erneut Fragen zu stellen .
+Danach bekam der Proband die standardisierte „ Fahrinstruktion für den ersten Termin “ .
+Nach dem Lesen folgte die Fahrt im Fahrsimulator .
+Der Versuchsleiter erklärte dem Probanden , wie der Fahrsimulator aufgebaut ist , welche Einstellungen möglich sind und worauf der Proband achten sollte .
+Dazu gehören z.B. die optimale Sitzeinstellung , sowie das Fahrverhalten während der Fahrt im Simulator .
+Nun hatte der Proband ca. 25-30 Minuten Zeit zu fahren .
+Während sich der Proband im Fahrsimulator befand , saß der Versuchsleiter im Vorraum und verfolgte die Fahrt an den Monitoren , um gegebenenfalls in kritischen Situationen ( Proband weiß nicht , wie er durch die Simulation fahren soll ) helfend eingreifen zu können .
+An dieser Stelle war es angebracht die Alkoholmenge für den zweiten Versuchstag , wenn der Proband zu der Experimentalgruppe zugeteilt worden ist , mit der Widmark-Formel zu berechnen .
+Anschließend füllte der Proband den „ Fragebogen zur subjektiven Einschätzung der Fahrt “ aus .
+Nach der Fahrt folgte der zweite Teil der Untersuchung , der sich mit der Leistungsüberprüfung beschäftigte ( Heuer , 2014 ) .
+Wenn der Proband für die Studie geeignet erschien , wurde dieser über die nächsten Schritte informiert .
+Er erhielt den „ Merkzettel “ und am Ende verabschiedete der Versuchsleiter den Probanden .
+Der zweite Termin fand als Paarsitzung statt und dauerte ca. 3.5 Stunden .
+Dieser wurde in der Zeit von 17 - 20.30 Uhr durchgeführt , um eine annähernd realistische Trinksituation zu ermöglichen .
+Dabei begrüßten die Versuchsleiter zuerst die Probanden und berichteten über den Ablauf des Versuches .
+Danach überreichten die Versuchsleiter den Probanden den „ Fragebogen zu ihrem Befinden ohne Alkohol “ .
+Anschließend wurden die Probanden voneinander getrennt .
+Proband 1 folgte dem einen Versuchsleiter 1 in den Fahrsimulatorraum , Proband 2 blieb beim Versuchsleiter 2 im Seminarraum , wo er die Leistungstests erfüllte .
+Proband 1 im Fahrsimulator erhielt die „ Fahrinstruktion für den zweiten Termin “ .
+Während dessen startete der Versuchsleiter die Simulation .
+Nachdem fuhr der Proband sich für ca. 5-7 Minuten ein .
+Der Versuchsleiter verfolgte die Fahrt am Monitor und gab gegebenenfalls Hilfestellung .
+Daran anschließend füllte der Proband den „ Fragebogen zur subjektiven Einschätzung der Fahrt “ aus .
+Die Probanden tauschten die Räume und durchliefen jeweils die andere Versuchsbedingung .
+Es folgte nun die Trinkphase die ca. eine Stunde in Anspruch nahm .
+Dafür wurden beide Probanden wieder in den Seminarraum geführt .
+Da es sich um einen Paartermin handelte , hielten wir es für sinnvoll , dass sich die Probanden während der Trinkphase unterhalten durften .
+Zudem hatten sie die Möglichkeit Musik zu hören , in den vorliegenden Zeitschriften zu blättern oder sich mit dem Versuchsleiter zu unterhalten .
+Die soziale Interaktion und die gelockerte Atmosphäre dienten der realistischeren Gestaltung der Trinksituation .
+Der Versuchsleiter 1 betreute die Probanden während dieser Zeit .
+Er war für Atemalkohol ( AAK ) Messungen zuständig und begann diese vor der ersten Trinkphase , um sicher zu stellen , dass die Probanden einen AAK-Wert von 0.00 ‰ hatten .
+War dies nicht der Fall , musste der Versuch beendet werden .
+Der Versuchsleiter informierte anschließend die Probanden , dass im Verlauf noch 3 Messungen folgten .
+Den Probanden wurde nicht direkt nach dem Testen erzählt , welche AAK-Werte sie hatten , da der Proband der Placebogruppe nicht wissen durfte , dass er keinen Alkohol erhielt .
+Das Display des Gerätes sollte daher während der Messung abgeklebt sein .
+Es wurde den Probanden gesagt , dass sie ihre Werte am Ende des Versuches mitgeteilt bekommen .
+Anschließend brachte der Versuchsleiter 2 die Gläser mit den Getränken .
+Es ist wichtig , dass die Probanden nicht sehen , wie das Getränk gemixt wird , um die Placeboeffekt nicht zu beeinflussen , sowie darauf zu achten , dass der Proband der Experimentalgruppe auch das Getränk mit dem Alkohol erhält .
+Sollte dies nicht der Fall sein , müssten die Probanden aus der Studie ausgeschlossen werden oder neue Versuchsbedingungen per Zufall nachfolgenden Probanden zugeordnet werden .
+Die Probanden hatten 20 Minuten Zeit , um das Getränk aus zu trinken .
+Es folgt eine 10minütige Alkoholtrinkpause .
+Die Probanden bekamen vom Versuchsleiter 1 ein Glas mit etwa 50 ml Wasser , um ihren Mundbereich auszuspülen .
+Dies diente zur Reinigung von Alkoholrückständen in der Mundhöhle , damit die AAK-Werte nicht verfälscht wurden .
+Nach dieser Zeit wurde der erneut der AAK-Wert beider Probanden vom Versuchsleiter 1 gemessen .
+Dies diente zum einen der Kontrolle , ob die Gläser richtig zugeordnet wurden und auf welchem Alkoholpegel der Proband der Experimentalgruppe war .
+Zum anderen , um den Placebo-Probanden im Glauben zu lassen , dass er Alkohol bekommen hat .
+Es folgte nun die zweite Trinkphase mit anschließender Wartezeit und dem Ausspülen des Mundes .
+Danach wurde zum dritten-mal der AAK-Wert gemessen .
+Die Probanden wurden anschließend wieder von einander getrennt .
+Proband 1 folgte dem Versuchsleiter 1 in den Fahrsimulatorraum .
+Dieser erhielt erneut die Fahrinstruktion .
+In dieser Zeit bereitete der Versuchsleiter 1 die Simulation vor .
+Der Proband fuhr nun 20-25 Minuten durch die Simulation .
+Die Fahrzeiten unterschieden sich etwas je nach Fahrverhalten innerhalb der Simulation .
+Währenddessen verfolgte der Versuchsleiter an den Monitoren wie der Fahrer fuhr , um Besonderheiten und das Verhalten in den kritischen Situationen ( z.B. Ausweichen , wenn Auto auftaucht ; zu schnelles Fahren ; etc. ) zu notieren .
+Es sollten jedwede Gespräche zwischen Versuchsleiter und Proband unterbunden werden , um eventuelle Störvariablen ( Ablenkung durch den Versuchsleiter ) auszuschließen und den Versuch standardisiert ablaufen zu lassen .
+Nachdem der Proband die Simulation durchfahren hatte , füllte dieser den „ Fragenbogen zur subjektiven Einschätzung der Fahrt “ aus .
+Die Probanden wechselten erneut die Räume und durchliefen die jeweils andere Versuchsbedingung .
+Wichtig ist hierbei zu beachten , dass vor der jeweiligen Bearbeitung der Aufgabe zum vierten Mal der AAK-Wert gemessen wird .
+Auf diese Weise wurde erreicht , dass der gemessene AAK möglichst gut den AAK während des gesamten Versuchsdurchgangs wiedergab .
+Wenn beide Probanden jeweils den Test und die Fahrt bearbeitet hatten , bekamen diese vom Versuchsleiter den Fragebogen zum „ Befinden unter Alkoholeinfluss “ ausgehändigt und wurden nach dem Ausfüllen wieder in einen Raum geführt .
+Es folgte die Aufklärung über den eigentlichen Inhalt und die Ziele der Studie , sowie die getesteten AAK-Werte des alkoholisierten Fahrers durch die Versuchsleiter .
+Anschließend erhielten die Probanden ihre Versuchspersonengelder ( in Höhe von 40€ ) und mussten eine „ Quittung “ über den Erhalt bestätigen .
+Um zu gewährleisten , dass die Inhalte der Studie ( Alkohol/Placebo , sicherheitskritische Fahrsituationen ) nicht an andere Personen während der Datenerhebung weitergetragen werden , wurden die Probanden aufgefordert die „ Verschwiegenheitserklärung “ zu unterschreiben .
+Abschließend wurde der Proband der Placebogruppe verabschiedet und dem Proband der Experimentalgruppe wurde ermöglicht bis auf einen Wert von 0.3‰ im Institut auszunüchtern .
+Lehnte er dies ab , wurde auch er gleich vom Versuchsleiter verabschiedet und zur Tür hinaus gebracht .
+Zur Datenauswertung wurden zwei verschiedene Programme genutzt .
+Um die aufgezeichneten Daten des Fahrsimulators in ein Statistisches Datenprogramm übertragen zu können , wurden die Daten mit dem Programm NI DIAdem 19 transformiert .
+Es handelt sich bei dem Programm um ein Daten- und Verwaltungsprogramm mit dem man Mess- und Simulationsdaten visualisieren , analysieren und bearbeiten kann .
+Dabei werden spezifische Kenndaten , wie die Geschwindigkeit , die Spurhaltung , der Abstand zum vorausfahrenden Fahrzeug , usw. mit Hilfe eines Skriptes in verwertbare Variablen umgeformt .
+Diese Variablen wurden in dem Datenanalyse Programm IBM SPSS Statistics 21 eingefügt , um anschließend mit Hilfe von geeigneten Testverfahren die Hypothesen zu testen .
+Um zu überprüfen , ob die gewünschte Promillezahl erreicht wurde , wurde der Mittelwert beim 3 .
+Zeitpunkt der AAK-Messung ( nach der einstündigen Trinkphase/vor Beginn der ersten Aufgabe ) berechnet .
+Dort erreichten die Probanden der EG im Durchschnitt einen Promillewert von 0.45‰ ( SD : 0.12 ) und zum 4 .
+Zeitpunkt der Messung ( vor der zweiten Aufgabe ) im Durchschnitt einen Wert von 0.51‰ ( SD : 0.13 ) .
+Somit wurde die gewünschte Promillezahl von 0.5‰ für beide Zeitpunkte annähernd erreicht .
+In der Placebogruppe hatten alle Probanden eine AAK von 0.0‰ .
+Im ersten Schritt wurde geprüft , ob sich die Häufigkeit von Unfällen unter Alkohol und Placebo unterschied .
+Für die Kreuzungssituation zeigte sich im Chi-Quadrat-Test kein signifikantes Ergebnis ( χ² ( 1 ) = .762 , p = .561 ) .
+Wie Abbildung 5 zeigt , traten unter Alkohol 12 Unfälle auf ( 50 % der Fahrer ) , während es unter Placebo 9 Unfälle waren ( 38 % ) .
+Die Experimentalgruppe unterschied sich hinsichtlich der Unfallhäufigkeit nicht von der Kontrollgruppe .
+Dieses Bild änderte sich auch nicht , wenn man die Reihenfolge der Situationen berücksichtigte .
+Die Unfallhäufigkeit blieb vergleichbar .
+Wenn die Kreuzungssituation als erste kam , waren es insgesamt 10 Unfälle ( EG = 6 ; KG = 4 ) .
+An der zweiten Stelle waren es 11 Unfälle ( EG = 6 ; KG = 5 ) , wie in Abbildung 6 ersichtlich ist .
+Für die Fußgängersituation zeigte sich insgesamt ein hochsignifikantes Ergebnis im ChiQuadrat-Test ( χ² ( 1 ) = 8.4 , p = .008 ) .
+Hinzu kommt , dass sich die Ergebnisse unterscheiden , wenn diese Situation am Anfang oder als zweite auftrat .
+Wenn die Situation am Anfang auftrat , unterscheiden sich die Gruppen nicht ( χ² ( 1 ) = .987 , p = .434 ) .
+Wenn die Situation dagegen als zweite Situation auftrat , zeigte sich ein hochsignifikantes Ergebnis im ChiQuadrat-Test ( χ² ( 1 ) = 10.2 , p = .003 ) .
+Abbildung 7 zeigt die Ergebnisse .
+Beim ersten Zeitpunkt geschahen in der Alkoholgruppe 8 Unfälle , in der Placebogruppe 5 .
+Beim zweiten Zeitpunkt waren es 10 Personen in der Alkoholgruppe , aber nur 3 in der Placebogruppe .
+Um das Entstehen der Unfälle besser zu verstehen , wurde die Geschwindigkeit unmittelbar vor der kritischen Situation untersucht .
+Dies wurde mit Hilfe einer univariaten Varianzanalyse mit den Faktoren Bedingung und Reihenfolge geprüft .
+Für die Kreuzungssituation zeigt sich kein Haupteffekt der Bedingung ( F₁ , ₄₇ = 2.2 , p = .145 ) , der Reihenfolge ( F₁‚₄₇ = 1.1 , p = .301 ) und kein Interaktionseffekt ( F₁‚₄₇ = 1.1 , p = .292 ) .
+Beide Gruppen fuhren in dieser Situation ähnlich schnell an das Ereignis heran ( EG ̅ = 31.5 km/h ; KG ̅ = 28.8 km/h ) .
+In der Fußgängersituation zeigten sich keine Haupteffekte der Bedingung ( F₁‚₄₇ = .442 , p = .509 ) oder der Reihenfolge ( F₁ , ₄₇ = .06 , p = .806 ) , aber eine signifikante Interaktion ( F₁‚₄₇ = 4.4 , p = .042 ) .
+Abbildung 8 zeigt , dass die Probanden beider Gruppen etwa vergleichbar schnell fuhren , wenn der Fußgänger als erste Situation auftauchte .
+Wenn dieser jedoch erst in der zweiten Situation war , also vorher die Kreuzungssituation erlebt worden war , fuhren die Probanden der Placebogruppe 46.8 km/h , während die Probanden der Alkoholgruppe 50.2 km/h fuhren .
+Damit scheint die Geschwindigkeit vor dem Auftreten der kritischen Situation eine wichtige Rolle zu spielen .
+Um dies zu prüfen wurden für diese Situation , unabhängig von der Bedingung ( EG oder KG ) , die Geschwindigkeiten der Fahrer , die keinen Unfall hatten mit den Unfallfahrern verglichen .
+Wie die Abbildung 9 darstellt , fuhren die Probanden , die einen Unfall verursachten , schneller an die kritische Situation heran ( ̅ = 51 km/h ) , als die Probanden ohne Unfall ( ̅ = 46 km/h ) , unabhängig von dem Zeitpunkt , wann der Fußgänger auftauchte .
+Um zu beurteilen , ob sich die Reaktionszeit unter Alkohol verändert , wurde ebenfalls eine zweifaktorielle Varianzanalyse für jede der beiden Situationen durchgeführt .
+In der Kreuzungssituation zeigte sich kein signifikanter Effekt für die Bedingung ( F₁‚₄₄ = .00 , p = .987 ) .
+Der Unterschied liegt hier nur im Millisekundenbereich ( EG ̅ = 1.86s ; KG ̅ = 1.64s ) .
+Auch für die Reihenfolge der Situation ( F₁‚₄₄ = 2.2 , p = .146 ) und für die Interaktion ( F₁‚₄₄ = 2.5 , p = .119 ) zeigten sich keine deutlichen Effekte .
+Auch in der Fußgängersituation ergab sich kein Effekt für die Bedingung ( F₁‚₄₇ = .047 , p = .498 ) .
+Für die Reihenfolge ( F₁‚₄₇ = .012 , p = .913 ) und die Interaktion ( F₁‚₄₇ = .50 , p = .484 ) waren ebenfalls keine signifikanten Unterschiede erkennbar .
+Somit liegt kein signifikanter Unterschied der Bremsreaktionszeiten bezogen auf die Bedingung vor .
+Der Unterschied liegt auch wieder nur im Millisekundenbereich ( EG ̅ = 1.021s ; KG ̅ = 1.071s ) .
+Wie oben dargestellt , scheint die Geschwindigkeit direkt vor der kritischen Situation eine wesentliche Rolle bei der Unfallentstehung zu spielen .
+Um dies zusammen mit der Bremsreaktionszeit weitergehend zu untersuchen , wurden für jede der beiden Situationen zunächst bivariate Korrelationen zwischen Geschwindigkeit , Bremsreaktionszeit und dem Auftreten eines Unfalls berechnet .
+In der Kreuzungssituation zeigte sich nur für die Variable Geschwindigkeit eine signifikante Korrelation .
+Dabei ist ein hoher positiver Zusammenhang zwischen der Geschwindigkeit und der AV Unfall Kreuzung mit r = .449 zu finden ( s. Tab .
+2 ) .
+Für die Bremsreaktionszeit ergibt sich ein negativer Zusammenhang von r = -.140 , welcher aber nicht signifikant wird .
+Bei der anschließenden linearen Reggression ergeben sich zwei Modelle die betrachtet werden können .
+Diese kommen auf Grund der schrittweisen Reggressionsanalyse zustande , in der rückwärts nach und nach der schwächste Prädiktor aus der Gleichung wieder entfernt wird .
+Das heißt , es werden bei jedem Schritt alle vorhandenen Prädiktoren überprüft und die Entscheidung über eine Aufnahme oder den Ausschluss des Prädiktors nach der F-Signifikanz getroffen .
+Liegt der p-Wert für eine Prädiktor über einem kritischen Wert ( p > .100 ) , dann wird dieser Prädiktor aus der Gleichung entfernt .
+Wie Tabelle 3 zeigt , sind im Modell 1 die Prädiktoren Geschwindigkeit und Bremsreaktionszeit enthalten .
+Modell 2 hingegen beinhaltet nur noch die Geschwindigkeit .
+Obwohl für beide Modelle ein hochsignifikantes Ergebnis zu verzeichnen ist , ist der Einfluss der Geschwindigkeit , mit der an das Ereignis herangefahren worden ist , der bestimmende Effekt .
+Am Ende bleibt in der linearen Regression nur die Geschwindigkeit als Prädiktor des Unfalls übrig .
+Diese erklärt immerhin 21 % der Varianz .
+Ein vergleichbares Ergebnis zeigt sich in der Fußgängersituation .
+Allerdings ist auch hier nur für die Geschwindigkeit ein signifikantes Ergebnis in der bivariaten Korrelation zu sehen , nicht aber für die Bremsreaktionszeit ( s. Tab .
+4 ) .
+Wie bei der vorherigen Analyse ergeben sich in dieser linearen Reggression wieder zwei Modelle , in der für beide ein hochsignifikantes Ergebnis zu verzeichen ist .
+Auch hier ist der Einfluss der Geschwindigkeit der auschlaggebende Effekt .
+So bleibt zum Schluss nur die Geschwindigkeit als Prädiktor des Unfalls übrig , welche 31 % der Varianz erklärt .
+Im Folgenden werden die bedeutenden Ergebnisse aus den Fragebögen zur subjektiven Einschätzung der Fahrt und des Befindens beschrieben .
+Um zu überprüfen , ob Unterschiede in den Gruppen vorhanden sind , wurden zweifaktorielle Varianzanalysen mit den Faktoren Zeit ( Prä-Post ) , Bedingung und Reihenfolge der Situation gerechnet .
+Es werden aufgabenbezogene Ergebnisse und Ergebnisse des Befindens unterschieden .
+Um die Übersichtlichkeit zu wahren , wurden die Werte der zuvor genannten Faktoren in einer Tabellen zusammengefasst und dem Anhang hinzugefügt ( s. Anhang Tabelle B 1 .
+& 2 . ) .
+4.3.1 Aufgabenbezogene Ergebnisse In Bezug auf sie subjektive Anstrengung ist ein hochsignifikanter Effekt für die Prä-PostMessung für beide Bedingungen erkennbar .
+Sowohl die Alkohol- , als auch die Placebogruppe gaben eine höhere Anstrengung in der Postmessung an ( s. Abb. 10 ) .
+Es sind keine signifikanten Effekte für die Bedingung , die Reihenfolge oder eine Interaktion der Faktoren zu sehen .
+Für die Leistungsfähigkeit zeigt sich eine hochsignifikante Hauptwirkung für den Faktor Prä-Post .
+Hier gaben die Probanden an , sich in der Postmessung deutlich beeinträchtigter zu fühlen ( s. Abb. 11 ) .
+Für die Bedingung und die Reihenfolge sind keine signifikanten Effekte aufgetreten , auch nicht für eine Interaktion dieser Faktoren .
+Bei der Analyse der Aufmerksamkeit ist ein hochsignifikanter Effekt für beide Bedingungen im Prä-Post-Vergleich zu sehen , wie in Abbildung 12 ersichtlich ist .
+Zudem lässt sich ein signifikanter Interaktionseffekt im Test der Innersubjektfaktoren PräPost mal Reihenfolge erkennen und im Test für die Zwischensubjekteffekte für die Wechselwirkung Bedingung mal Reihenfolge .
+In beiden Bedingungen wurde eine verminderte Aufmerksamkeit im Prä-Post-Vergleich angegeben .
+Wenn man sich jedoch die Angaben für die Reihenfolge der zufahrenden Situation anschaut , wird deutlich , dass die Probanden der Kontrollgruppe , die die Reihenfolge Kreuzung und dann Fußgänger hatten , eine bessere Aufmerksamkeit angaben , als die Probanden in der anderen Reihenfolge .
+Die Probanden der Experimentalgruppe beschrieben dies genau umgekehrt und gaben eine bessere Aufmerksamkeit in der Reihenfolge Fußgänger , dann Kreuzung an , als in der anderen Reihenfolge ( s. Abb. 13 ) .
+Auch für die Schwierigkeit der Fahrt zeigt sich im Prä-Post-Vergleich ein hochsignifikantes Ergebnis für beide Bedingungen , sowie ein tendenzieller Effekt für die Wechselwirkung von Bedingung mal Reihenfolge .
+In beiden Bedingungen wurde die Schwierigkeit zum zweiten Messzeitpunkt höher eingeschätzt ( s. Abb. 14 ) .
+Bei der Einschätzung wie gut die Probanden die Fahrt gemeistert haben , ist ein hochsignifikantes Ergebnis für den Prä-Post-Vergleich beider Bedingungen zu sehen .
+So wird die Güte der Fahrt in der Post-Messung als deutlich schlechter eingeschätzt ( s. Abb. 15 ) .
+Interaktionseffekte waren nicht erkennbar .
+Für die Angabe der Motivation lässt sich weder ein Haupteffekt für die Bedingung noch für die Interaktion der Faktoren verzeichnen .
+Beide Gruppen gaben eine gleich hohe Motivation an .
+Bei der Analyse der Einschätzung der Entspannung und Gelöstheit ist kein Effekt für die Bedingung , für den Prä-Post-Vergleich oder die Reihenfolge zu verzeichnen .
+Es ist aber ein hochsignifikanter Effekt im Test für die Innersubjekteffekte für die dreifach Wechselwirkung Bedingung mal Prä-Post mal Reihenfolge zu finden , welcher in Abbildung 16 graphisch dargestellt ist .
+Zudem zeigt sich im Test für die Zwischensubjekteffekte ein tendenzieller Effekt für die Reihenfolge der Situation und für die Wechselwirkung Bedingung mal Reihenfolge , welche aber auf Grund der dreifach Wechselwirkung nicht interpretiert werden können .
+Für die Angabe der Anspannung finden sich hingegen keine signifikanten Ergebnisse , weder für den Haupteffekt Bedingung , noch für eine Wechselwirkung für die Reihenfolge oder den Prä-Post-Vergleich .
+Für die negative Stimmung lässt sich im Prä-Post-Vergleich eine signifikante Veränderung der subjektiven Einschätzung erkennen .
+Die Probanden berichteten sich nach dem Versuch weniger negativ gestimmt zu fühlen ( s. Abb. 17 ) .
+Für die positive Stimmung ist hingegen nur ein tendenzieller Effekt für die Bedingung zu sehen .
+Die Probanden der Experimentalgruppe gaben in der Postmessung eine etwas positivere Stimmung an , wohingegen die positive Stimmung der Placebogruppe auf dem gleichen Niveau blieb ( s. Abb. 18 ) .
+In Bezug auf die Passivität ist ein signifikantes Ergebnis für den Haupteffekt Bedingung und für die Wechselwirkung von Prä-Post mal Bedingung zu sehen .
+Wie die Abbildung 19 zeigt , ist jedoch nur die Wechselwirkung zu interpretieren , nicht die Hauptwirkung der Bedingung .
+So unterschieden sich die Probanden am Anfang nicht voneinander , aber in der Postmessung gaben die Probanden der Kontrollgruppe eine höhere Passivität an , während die Probanden der Experimentalgruppe eine geringere Passivität verspürten .
+Zudem ist im Test für die Zwischensubjekteffekte ein signifikantes Ergebnis für die Reihenfolge der Situation zu sehen , in der die Fußgängersituation für den Effekt verantwortlich ist .
+So zeigt Abbildung 20 , dass wenn die Fußgängersituation zuerst erlebt worden ist und dann die Kreuzungssituation , diese sowohl in der Placebo- , als auch in der Alkoholgruppe zu einer höheren Passivität in der Postmessung führte .
+Bei der Betrachtung der subjektiven Einschätzung der Aktivität lässt sich ein signifikanter Effekt für die Bedingung im Prä-Post-Vergleich verzeichnen , sowie ein tendenziellen Effekt für die Wechselwirkung von Prä-Post mal Bedingung .
+Im Test für die Zwischensubjekteffekte zeigt sich ein Effekt für die Reihenfolge der Situation .
+Beide Gruppen fühlten sich in der Postmessung weniger aktiv , wobei die Placebogruppe sich inaktiver fühlte .
+Für die Angaben nach innen und nach außen gerichtet zu sein , zeigt sich kein Haupteffekt für die Bedingung .
+Es ist nur ein tendenzieller Effekt für das Gefühl nach innen gerichtet zu sein im Prä-Post-Vergleich für beide Bedingungen zu sehen .
+Hierbei fühlten sich die Probanden in der Postmessung weniger nach innengerichtet .
+Die zentrale Frage der vorliegenden Studie war , auf welche Weise Fahrer unter Alkohol Kompensationsprozesse einsetzen , um kritische Situationen trotz Alkohol zu bewältigen .
+Ausgehend von dem in der Theorie dargestellten Modell von Vogel-Sprott ( 1992 , zit. nach Vollrath , 2000 ) wurde vermutet , dass Fahrer in Situationen , die subjektiv als komplex und möglicherweise eher gefährlich erlebt werden , sich entsprechend anstrengen und auf die Bewältigung der Situation konzentrieren , während sie dies in scheinbar einfachen Situationen nicht tun .
+Entsprechend dieser Überlegungen wurden Fahrer unter Alkohol mit einer AAK von 0.5 Promille mit Fahrern unter Placebo in einer Fahrsimulation untersucht , in der zwei kritische Situationen auftraten .
+Eine dieser Situationen entstand in einer eher komplexen Fahrsituation ( an einer Kreuzung rechts abbiegen mit einem plötzlich ausparkenden Fahrzeug ) und sollte entsprechend den Überlegungen zu Kompensationsbemühungen führen .
+Die andere der Situationen trat plötzlich in einer scheinbar harmlosen Fahrsituation ( plötzlich querender Fußgänger verdeckt durch Sichthindernis ) auf , wo man keine Kompensation erwarten würde .
+Die erste Hypothese , dass die Alkoholwirkung in einer scheinbar komplexen kritischen Situationen von den Fahrern der Alkoholgruppe kompensiert werden kann , so dass es zu keinen signifikanten Unterschieden im Unfallauftreten im Vergleich zur Placebogruppe kommt , konnte bestätigt werden .
+Bei der Berechnung der Unfallhäufigkeit zeigten sich keine signifikanten Unterschiede zwischen der Alkohol- und Placebogruppe , auch nicht bei Einbezug der Reihenfolge , in der diese Situation auftrat .
+Auch im Fahrverhalten waren keine Unterschiede zwischen den Gruppen zu finden .
+Die Probanden beider Gruppen fuhren annähernd gleich schnell und zeigten vergleichbare Bremsreaktionszeiten in dieser kritischen Situation .
+Allerdings ist bei der Interpretation der Ergebnisse zu beachten , dass keine nüchterne Kontrollgruppe verwendet wurde , weil dies den Rahmen der Arbeit gesprengt hätte .
+Theoretisch könnte in der Placebogruppe die Leistungsfähigkeit durch die Erwartung , Alkohol erhalten zu haben , ebenfalls eingeschränkt sein , so dass hier mehr Unfälle auftreten als ohne Alkohol und ohne Erwartung , Alkohol konsumiert zu haben .
+Da die Kompensation allerdings von der Erwartung , durch Alkohol beeinträchtigt zu sein , abhängig ist , hätte dies bei der Placebogruppe auch eine Kompensationsbemühung auslösen müssen .
+Damit erscheint diese Alternativerklärung eher nicht plausibel .
+Ein weiteres Gegenargument könnte sein , das Alkohol in der Konzentration von 0.5 Promille gar nicht zu negativen Wirkungen führt .
+Es finden sich in Studien Hinweise dafür , dass nicht alle Leistungsbereiche , wie z.B. die Vigilanz , die Aufmerksamkeit oder die visuelle Verarbeitung von Reizen , in gleichem Maße durch Alkohol beeinträchtigt werden .
+Der Grad der Beeinträchtigung scheint individuell zu schwanken .
+So zeigt sich , dass z.B. die Reaktionszeit und die Wahrnehmung erst ab höheren Promillewerten Beeinträchtigungen aufweisen , wohingegen schon ab 0.2 Promille Einbußen in der geteilten Aufmerksamkeit zu verzeichnen sind ( Moskowitz & Robinson , 1988 ) .
+Es könnte somit sein , dass die Leistungsbereiche , die in der vorliegenden Studie von Nöten waren , um die Fahraufgabe zu bewältigen , nicht oder nur in geringem Maße beeinträchtigt wurden , so dass keine Kompensationsmechanismen notwendig waren .
+Hier ist es hilfreich , die zweite kritische Situation zu betrachten , in der keine Kompensation auftreten sollte .
+Entsprechend der Hypothese I b zeigte sich in der zweiten kritischen Situation , die unerwartet auftrat , tatsächlich ein negativer Effekt von Alkohol im Vergleich zu Placebo .
+Besonders deutlich wurde dies , wenn diese unerwartete Situation als zweite im Versuch auftrat .
+In diesem Fall hatten 91 % der Fahrer unter Alkohol , aber nur 25 % der Fahrer unter Placebo eine Kollision mit dem Fußgänger ( in der ersten Situation waren es 62 % im Vergleich zu 42 % ) .
+Dieses Ergebnis steht im Einklang mit den Überlegungen , dass Kompensationsbemühungen unter Alkohol abhängig sind von der Einschätzung der Situation .
+Wenn die Situation harmlos und unkritisch erscheint , werden keine Kompensationsbemühungen eingesetzt .
+Das hätte zur Folge , dass sich die Alkoholwirkungen in vollem Umfang niederschlagen können , so dass hier mehr Unfälle resultieren als unter Placebo .
+Zum besseren Verständnis der Kompensationsmechanismen trägt die Analyse der Geschwindigkeit direkt vor dem Unfall und der Bremsreaktionszeiten bei .
+Während die Placebofahrer ihre mittlere Geschwindigkeit nach der ersten kritischen Situation verringerten , fuhren die Fahrer unter Alkohol eher etwas schneller .
+Diese Geschwindigkeit ist wiederum ein wesentlicher Faktor für das Entstehen bzw. die Vermeidung von Unfällen , was durch eine Regressionsanalyse belegt werden konnte .
+Die Bremsreaktionszeiten waren dagegen in beiden Gruppen vergleichbar .
+Damit scheint das häufigere Auftreten von Unfällen unter Alkohol vor allem dadurch bedingt zu sein , dass in dieser Situation zu schnell gefahren wird .
+Umgekehrt scheint die Kompensation in der Kreuzungssituation dadurch zu entstehen , dass die Fahrer unter Alkoholeinfluss vergleichbar langsam fahren wie unter Placebowirkung .
+Diese Interpretation wird wiederum durch eine Regressionsanalyse gestützt , in der sich eine hohe Korrelation zwischen der Geschwindigkeit unmittelbar vor dem Ausparken des Autos und dem Auftreten einer Kollision zeigte .
+Dass das Zusammenspiel zwischen der Anpassung der Geschwindigkeit und der Reaktionszeit für die Unfallverhinderung von großer Bedeutung ist , zeigt sich auch in anderen Studien .
+So beschreibt Martin , Solbeck , Meyers , Langille , Buczek und Pelltier ( 2013 ) , dass eine Erhöhung der Reaktionszeit , wobei hier die Zeit gemeint ist , die benötigt wird um auf ein Ereignis zu reagieren ( Ereignis erkennen , von dem Gaspedal gehen und das Bremspedal bedienen ) , schon im Millisekunden Bereich schwerwiegende Konsequenzen haben kann .
+So führt eine Erhöhung der Reaktionszeit ( was eine verlangsamte Reaktion meint ) von 100ms bei einer Geschwindigkeit von 100km/h dazu , dass noch 2,8m zurückgelegt werden , bevor überhaupt eine Reaktion im Fahrer ausgelöst wird ( Martin et al. , 2013 ) .
+Auch Harrison und Fillmore ( 2011 ) beschreiben , dass eine Reduktion der Geschwindigkeit dem Fahrer ermöglicht , schneller auf die Veränderungen in seiner Umgebung zu reagieren , was zu einer Erhöhung der Kontrolle des Fahrzeuges im Verkehr führen würde .
+In ihrer Studie zeigte sich , dass unter Alkoholeinfluss und der zusätzlich erhöhten Anforderung mittels einer zweiten Aufgabe , die eine geteilte Aufmerksamkeit des Fahrers abverlangte , eine fehlende Anpassung der Geschwindigkeit ein Zeichen für eine misslungene Kompensationsstrategie war .
+Die Folge dessen war , dass die Fahrgenauigkeit ( es kam zu häufigeren Schwankungen der Spur , zum Abkommen von der Fahrbahn ) des Fahrers beeinträchtigt war ( Harrison & Fillmore , 2011 ) .
+Die subjektiven Befunde ergänzen diese Interpretation .
+Die Alkoholfahrer berichteten von einer verminderten Aufmerksamkeit , wenn sie den Fußgänger als zweite Situation erlebt hatten , was in der anderen Reihenfolge nicht der Fall war .
+Es zeigt sich ein ähnliches Bild für die Schwierigkeit der Fahrt , welche höher eingeschätzt wird , wenn der Fußgänger als zweite Situation auftauchte .
+So könnte man annehmen , dass diejenigen , die erst die Kreuzungssituation hatten , nicht mehr mit einer kritischen Situation gerechnet haben .
+Ein Hinweis hierfür zeigt sich auch in der Einschätzung des Befindens für das Item Entspannung .
+Die Probanden der Alkoholgruppe mit dem Fußgänger als zweite Situation fühlten sich in der Postmessung deutlich entspannter als die mit Kreuzung .
+Fasst man die Interpretationen zusammen , so konnte die Untersuchung folgende Ergebnisse im Hinblick auf Kompensation von Alkoholwirkungen in kritischen Fahrsituationen liefern : Wenn Fahrer unter dem Einfluss von Alkohol den Eindruck haben , dass die Fahrsituation komplex und möglicherweise gefährlich ist , passen sie ihr Fahrverhalten an und fahren langsamer .
+Auf diese Weise können Unfälle ähnlich gut vermieden werden , wie bei den nüchternen Fahrern unter Placebo .
+In einer scheinbar ungefährlichen Situation ist diese Anpassungsleistung nicht zu finden .
+Obwohl es unter Alkoholwirkung gelingt , ähnlich schnell zu bremsen wie unter Placebo , gelingt es ihnen trotzdem nicht , eine Kollision mit dem Fußgänger zu vermeiden .
+Dass dieser Effekt vor allem dann auftritt , wenn vorher eine andere gefährliche Situation erlebt wurde , weist darauf hin , dass das Gefahrenbewusstsein für den Einsatz von Kompensation wichtig zu sein scheint .
+Fahrsimulatorstudie .
+Die Gefahr , die von Alkoholkonsum im Straßenverkehr ausgeht , wurde in zahlreichen Studien über Jahrzehnte hinweg untersucht ( Borkenstein et al. , 1974 ; Breitmeier , Seeland-Schulz , Hecker & Schneider , 2007 ; Krüger et al. , 1995 ; Schnabel , 2011 ) .
+Das Alkohol ein großes Risiko für alle Beteiligten darstellt und zu einer Herabsenkung der Promillegrenze in vielen EU-Ländern führte ist ein großer Erfolg , welcher nur erreicht werden konnte , weil Forschung in diesem Bereich betrieben wurde .
+Die meisten Studien wurden in statistischen Fahrsimulatoren durchgeführt , da es aus ethischen und sicherheitstechnischen Gründen schwierig ist , Hypothesen im Zusammenhang mit Alkohol auf den Straßen zu testen .
+Aber genau dieser Aspekt stellt ein großes Problem dar .
+Simulatorstudien spiegeln nicht in vollem Ausmaß und auch nicht in ihrer Komplexität die realen Fahrsituationen wieder , zudem mangelt es an fahrdynamischen und visuellen Eindrücken , die nicht oder nur begrenzt simuliert werden können ( Martin et al. , 2013 ) .
+So beschreibt Martin el al. ( 2013 , S .
+1240/1241 ) dies wie folgt : „ Laboratory simulations typically represent only one aspect of actual driving und require extrapolation of the effects as a predictor for other secondary tasks [ … ] .
+Even the most sophisticated driving simulators can only approximate actual driving conditions and suffer from lack of car dynamics an inadequacy of the visual scene “ .
+Der Proband muss also in der Lage sein , alle weiteren Aspekte , die mit dem Führen eines Fahrzeuges zusammenhängen , sich vorzustellen , was dazu führt , dass es zu einer unnatürlichen Fahrsituation kommt .
+Eine Studie , die im Simulator nur ein Teilaspekt des Fahrens betrachtet , birgt die Gefahr , dass keine signifikanten Ergebnisse gefunden werden können , weil der Fahrer sich ausschließlich auf eine einzige Variable konzentrieren kann und in der Lage ist die Aufgabe zu bewältigen .
+Die nur geringe Komplexität der Fahraufgabe und die unnatürliche Umgebung im Vergleich zu einer Realfahrten lassen nur bedingt Rückschlüsse auf das sonstige Fahrverhalten zu ( Martin et al. , 2013 ) .
+Würden Studien in diesem Bereich eher in einem geschlossen Parcours oder auf der Straße durchgeführt werden , würden wahrscheinlich deutlich mehr Probanden die Fahraufgabe nicht mehr bewältigen können .
+So könnte die Beeinträchtigung durch den Alkohol und eventuelle Kompensationsmechanismen realistischer widergespiegelt werden .
+Experimentalbedingung .
+In der vorliegenden Studie wurde mittels eines WodkaMixgetränkes versucht die Experimentalgruppe auf einen AAK-Wert von 0.5‰ zu bringen .
+Es konnte im Mittel über beide aufgabenrelevanten Situationen hinweg annähernd der gewünschte AAK-Wert erreicht werden .
+Trotz annähernd gleicher AAK-Werte , die im Mittel im Bereich von 0.45‰ - 0.51‰ lagen , kann es bei jedem einzelnen zu unterschiedlichen Wirkungen und Beeinträchtigungen durch den Alkohol kommen ( Moskowitz & Fiorentino , 2000a , 2000b ) .
+So wird bei jemanden , der relativ selten Alkohol konsumiert , wahrscheinlich schon bei niedrigen BAK-Werten eine Beeinträchtigung der Leistung zu sehen sein , wobei bei jemandem , der regelmäßig Alkohol konsumiert ein deutlich höherer BAK notwendig ist , was z.B.  auf eine bereits bestehende Alkoholtoleranz zurück geführt werden kann ( Huckenbeck & Bonte , 2004 , zit. nach Hansen , 2007 ) .
+Zwar wurde versucht mit Hilfe der Fragebögen im ersten Termin , diejenigen auszuschließen , die einen zu geringen oder einen zu hohen Alkoholkonsum haben , aber Veränderungen im Verhalten und in der Leistung können trotzdem individuell schwanken .
+Dabei ist eine Verknüpfung von psychischen Veränderungen und verminderten motorischen Fähigkeiten , sowie einer verlangsamten Reaktionszeit in Situationen mit denen nicht gerechnet wird , besonders riskant ( Lüllmann & Mohr , 1999 , zit. nach Hansen , 2007 ) .
+Variieren nun die Veränderungen individuell in jeder Person , so ist es schwierig allgemeingültige Aussagen über die Bereiche und den Grad der Beeinträchtigung in bestimmte Promillegrenzen zu fassen .
+Es ist zu überlegen , ob ein within-subjekt-design zur Überprüfung von Kompensationsmechanismen geeigneter erscheint , da es zu ganz individuellen Veränderung sowohl in der Leistung , als auch im Verhalten kommen kann .
+Placebobedingung .
+Ein anderer Aspekt der Studie , der kritisch beleuchtet werden muss , ist die Kontrollgruppe , die geschaffen wurde .
+Anhand der Ergebnisse im Fahrverhalten und in den Fragebögen , kann man darauf schließen , dass es möglich war den Placeboeffekt zu erzeugen .
+Im Mittel gaben die Probanden in den Fragebögen in der Postmessung an , dass sie sich signifikant aufmerksamkeits- und leistungsgemindert fühlten .
+Sie unterschieden sich in ihrer Einschätzung nicht von den Probanden der Experimentalgruppe , was nicht der Fall hätte sein dürfen , da sie ja nicht alkoholisiert waren .
+Problematisch ist bei der Generierung von Placebobedingungen , dass die Probanden annehmen , dass sie Alkohol erhalten , was ihre Erwartungshaltung in Bezug auf physische und psychische Veränderungen verändert .
+Wie bedeutend die Erwartungshaltung einer Person ist beschreiben Fillmore , Carscadden und Vogel-Sprott ( 1998 , S. 174 ) in ihrer Studie wie folgt : „ [ … ] , those who expected more impairment performed more poorly under alcohol , and under the placebo when alcohol was expected .
+[ … ] The findings call attention to expectancies as an important factor that may contribute to individual differences in cognitive functioning under alcohol and placebo “ .
+In einer vergleichbaren Studie von Marczinski und Fillmore ( 2005 ) konnte gezeigt werden , dass unter der Annahme , dass Alkohol konsumiert wurde , wie in der Alkoholbedingung Kompensationsstrategien in den Leistungstests zu verzeichnen waren .
+Dies führte dazu , dass die Probanden der Placebobedingung ähnliche Leistungen erbrachten , wie die alkoholisierten Probanden .
+Dies würde für die vorliegende Studie bedeuten , dass es sinnvoll gewesen wäre eine dritte Gruppe , eine Kontrollgruppe ohne Alkohol und ohne der Erwartung , dass Alkohol gereicht wird , als zusätzliche Vergleichsgruppe zu nutzen .
+Die Kontrollgruppe hätte nach dem Modell von Vogel-Sprott ( 1992 , zit. nach Vollrath , 2000 ) nicht die Erwartung gehabt kompensierende Reaktionen auslösen zu müssen , da sie keine Hinweisreize dafür erhalten haben .
+Dies war hingegen bei der Placebogruppe nicht der Fall .
+So wären eventuell Kompensationsmechanismen in der Kreuzungssituation in der Experimentalgruppe deutlicher erkennbar gewesen .
+Umsetzung der kritischen Situation .
+Wie zuvor beschriebenen , benötigt der Mensch , um eine Leistungssteigerung trotz Alkohol zu zeigen und damit kompensierende Reaktionen auszulösen , unmittelbare Konsequenzen für sein Verhalten .
+Ohne geeignete und aktuelle Konsequenzen können die Nebenwirkungen des Alkohols nicht rechtzeitig genug kompensiert werden ( Vogel-Sprott , 1992 , zit. nach Vollrath , 2000 ) .
+In der Studie wurden den Probanden keine Konsequenzen dargeboten .
+Das bedeutet , dass die Probanden zum einen keine direkte Rückmeldungen über ihre Fahrleistung durch die Versuchsleiter erhielten und zum anderen fehlerhaftes Fahrverhalten nicht sanktioniert wurde bzw. ein „ Nicht-Zeigen “ von Alkoholbeeinträchtigungen nicht zu positiven Konsequenzen führte ( z.B. finanzielle Belohnung bei korrekter Fahrweise , etc. ) .
+Somit war eine Verbesserung des Fahrverhaltens trotz Alkohol nicht external gefördert worden und ein Anreiz , die eigene Leistung zu verbessern , nur internal gegeben .
+Positive Konsequenzen werden aber benötigt , um kompensierende Reaktionen zu zeigen und zu verstärken ( Vgl. Beirness & Vogel-Sprott , 1984 ; Sdao-Jarvie & Vogel-Sprott , 1989 ; Vogel-Sprott , 1997 ; Vollrath , 2000 ) .
+Um tatsächlich reale Bedingungen zu schaffen , wäre es zusätzlich angebracht den Probanden Konsequenzen für richtiges bzw. falsches Fahrverhalten aufzuzeigen .
+So könnte z.B. eine finanzielle Belohnung eine positive Konsequenz sein .
+Ein anderer Punkt der kritisch betrachtet werden sollte , ist die Komplexität der kritischen Situationen .
+So zeigt sich in vielen Studien , dass je schwieriger und komplexer die zu lösenden Aufgaben sind , desto schwieriger ist es für die Teilnehmer , diese Aufgaben zu bewältigen ( Krüger et al. , 1995 ; Martin et al. , 2013 ; Schnabel , 2005 ; Vollrath & Krems , 2011 ) .
+In einer Studie von Breitmeier , Seeland-Schulze , Hecker und Schneider ( 2007 ) , konnte nachgewiesen werden , dass Beeinträchtigungen der kognitiven Funktionen und der Verarbeitung von visuellen Informationen schon in einem BAK-Bereich ab 0.3‰ deutlich zu erkennen waren .
+Mit steigender Komplexität und Dringlichkeit der zu bearbeitenden Aufgabe , stieg auch die neurophysiologische Beeinträchtigung ( Breitmeier et al. , 2007 ) .
+Die Ergebnisse dieser Studie scheinen hingegen ein kontroverses Bild zu erzeugen .
+In der vermeintlich komplexen Situation war es den Fahrern der Experimentalgruppe möglich den Alkohol soweit zu kompensieren , dass sie sich nicht signifikant von der Kontrollgruppe unterschied .
+Es könnte sein , dass es sich hierbei eher nicht um eine umfassende komplexe Aufgabe handelte , sondern diese als solche doch einfacher erscheint und sich von den Aufgaben der zuvor beschriebenen Studien unterscheidet .
+Die Fahre hatten die Aufgabe ein Fahrzeug entsprechend der Fahrinstruktion durch die Simulation zu fahren , das Gas- und Bremspedal zu betätigen und die Aufmerksamkeit auf den Straßenverkehr zu richten .
+Es kam nicht darauf an mehrere komplexe Aufgaben gleichzeitig zu bewältigen oder seine Aufmerksamkeit auf unterschiedliche Ereignisse zu richten .
+Diese geforderte Aufgabe stellt für einen etwas trainierten Fahrer eher automatisierte Prozesse dar , die umso länger die Fahrerfahrung ist , umso weniger bewusster Anstrengung bedarf und damit hochgeübt erscheint .
+Diese automatisch ablaufenden Prozesse werden hingegen bei Promillewerten bis 0.5 eher weniger von den Nebenwirkungen des Alkohols beeinflusst ( Krüger et al. , 1995 ) .
+Im realen Straßenverkehr sind die Fahrer jedoch deutlich komplexeren Situationen ausgesetzt , die eben mehrere Leistungsbereiche betreffen und die das Fahrverhalten beeinflussen können .
+In diesen Situationen werden zu den automatischen Handlungen Kontrollprozesse gefordert , die einer stetigen Überwachung und Bewertung der nächsten Handlungsabläufe bedürfen ( Krüger et al. , 1995 ) .
+Diese Prozesse sind durch den Alkoholgenuss am stärksten betroffen und Leistungseinbußen werden damit schneller deutlich .
+Es wäre demnach möglich , dass es sich in der Kreuzungssituation nicht um eine schwierige Fahraufgabe , die mehrere Fahraufgaben gleichzeitig umfasst , handelt , denn dann hätten die Alkoholwirkungen von 0.5‰ deutlichere Beeinträchtigungen aufweisen müssen und sich eine Kompensation als schwieriger erwiesen ( Krüger et al. , 1995 ) .
+Stichprobe .
+Wie anfangs schon erläutert stellen jugendliche bzw. jüngere Autofahrer ( 1824 Jahre ) im Straßenverkehr ein erhöhtes Risiko im Vergleich zur mittleren Altersgruppe ( 2549 Jahre ) auf Grund ihrer mangelnden Fahrerfahrung dar .
+Ihnen fehlt es an Lern- und Erfahrungsprozessen , die für ein routinierteres und sicheres Bewältigen von komplexen Fahrsituationen nötig ist .
+Hinzu kommt , dass gerade junge Männer ein deutlich höheres Risiko haben einen Unfall zu verursachen als Frauen ( Krampe , 2004 ) .
+Schon im nüchternen Zustand weisen diese ein problematischeres Fahrverhalten wegen erhöhter Geschwindigkeit , riskanten Fahrverhalten und Unterschätzung von kritischen Situationen auf ( Krampe , 2004 ; Krüger et al. , 1995 ; Martin et al. , 2013 ; Vollrath & Krems , 2011 ) .
+Bei der vorliegenden Studie wurden vorwiegend jüngere männliche Fahrer untersucht ( M=23.3 ) , die nur eine jährliche Fahrleistung von 3.000 - 9.000 km ( 58,2 % der Probanden ) und eine Gesamtfahrleistung von 66.250 km angaben ( SD = 61.100 ) .
+Diese doch sehr junge Gruppe an Fahrern , die eine geringe Fahrleistung im Vergleich zu älteren Fahrern haben , könnte einen Einfluss auf die Ergebnisse haben .
+So zeigt sich , dass in der Kreuzungssituation sowohl die Experimental- , als auch die Kontrollgruppe ähnlich viele Unfälle verursacht haben .
+Auch in der Fußgängersituation kam es zu vermehrten Unfällen , wobei hier die alkoholisierten Fahrer eine deutlich höhere Unfallhäufigkeit aufwiesen .
+Eine mögliche Begründung könnte sein , dass es den jungen Autofahrern an Fahrpraxis mangelte , was dazu führte , dass eine fehlerhafte Einschätzung und Erwartungshaltung des Gefahrenpotentials dieser Situationen entstand .
+In der Experimentalgruppe kommt zudem noch die Beeinträchtigung durch den Alkohol hinzu , der gerade in der scheinbar einfachen kritischen Situation einen enormen Einfluss hatte .
+Es könnte sein , dass ein Fahrer mit einer längeren Fahrerfahrung solche Art von kritischen Situationen schneller erkannt und dementsprechend sein Verhalten der Situation durch eine Verlangsamung der Geschwindigkeit angepasst hätte .
+Daher wäre es sinnvoll darüber nachzudenken ein breiteres Altersspektrum von 18-69 Jahren zur Untersuchung der Fragestellung in Betracht zu ziehen .
+So könnten Effekte auf Grund des Alters , der Fahrpraxis und der Erwartungshaltung von kritischen Situationen gezielter zugeordnet werden .
+Insgesamt ist damit die Aussagekraft von der Anlage der Studie her beschränkt auf junge Männer .
+Um Effekte zeigen zu können , erschien es jedoch sinnvoller , sich auf eine eher homogene Gruppe zu beschränken , die zudem für den Problemkreis eine sehr wichtige Zielgruppe darstellt .
+In folgenden Untersuchungen wäre es aber sicherlich interessant , auch ältere Fahrer und Frauen einzubeziehen .
+Da im Rahmen dieser Bachelorarbeit die Hypothese bezüglich der Kompensationsmechanismen und deren Auswirkung auf das Unfallauftreten bestätigt werden konnte , stellt eine erneute Überprüfung dieses Untersuchungsschwerpunktes einen sehr interessanten Ansatzpunkt für zukünftige Forschung dar .
+Es ist von Bedeutung herauszukristallisieren , wie und in welchem Umfang Kompensation von Alkohol im Straßenverkehr tatsächlich möglich ist , um bessere Vorhersagen darüber zu zulassen , mit welcher Wahrscheinlichkeit ein Unfall im Bereich von 0.5‰ eintritt und welche Kontextbedingungen dabei von Bedeutung sind .
+Es wäre interessant , diese Ergebnisse durch eine detaillierte Untersuchung von Alkoholunfällen , den sogenannten in-depth Unfallanalysen , zu unterstützen .
+Alkoholfahrer müssten entsprechend den Ergebnissen dieser Studie immer dann überrepräsentiert sein , wenn in scheinbar einfachen Fahrsituationen plötzlich kritische Ereignisse auftauchen .
+Bei komplexeren Situationen sollten nur geringe Unterschiede zu finden sein , da dort Kompensationsmechanismen eingesetzt werden .
+Da es in Deutschland erlaubt ist ein Fahrzeug mit bis zu 0.5‰ ( ohne weiter Fahrauffälligkeiten ) zu führen , sollte bei der Überprüfung von Kompensationsmechanismen in den Unfallanalysen annähernd gleiche BAK- bzw. AAK-Werte angestrebt werden .
+Die Ergebnisse der in-depth Analysen lassen sich für Präventivmaßnahmen nutzen , um Alkoholfahrern die Grenzen der Kompensationsmöglichkeiten aufzuzeigen .
+Es scheint ebenfalls angebracht zu sein eine Kontrollgruppe zu nutzen , um eine geeignetere Vergleichsgruppe zu haben .
+So ließen sich kompensierende Reaktionen , wie Vogel-Sprott es in dem Modell für das Erwartungslernen ( 1992 , zit. nach Vollrath , 2000 ) beschreibt , noch deutlicher aufdecken .
+Zudem sollte für die Probanden ein Anreiz geschaffen werden , um die eigenen Leistungen zu verbessern .
+Im normalen Straßenverkehr wäre bei Verbesserung der Leistung im Fahrverhalten die positive Konsequenz nicht aufzufallen .
+In Fahrsimulationsstudien drohen dem Fahrer aber keine Konsequenzen für fehlerhaftes Fahrverhalten und somit ist der Anreiz für eine Kompensation des Alkohols nur bedingt gegeben und die Untersuchung nur eingeschränkt zielführend .
+Würde man den Probanden z.B. eine finanzielle Belohnung bei unauffälligem Fahren versprechen , so würden sie eher angespornt sein , vorsichtig und umsichtig zu fahren , also sich so zu verhalten , wie sie es unter normalen Bedingungen tun würden , um nicht entdeckt zu werden .
