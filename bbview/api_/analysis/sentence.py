@@ -41,7 +41,13 @@ def render_sentences_mean(magics):
     for magic, floating, mean in single:
         filename = paths(magic)
         result.append(filename)
-        painted = painter.plot_render(*(floating, mean), width=30, height=10)
+        painted = painter.plot_render(
+            *(floating, mean),
+            width=30,
+            height=10,
+            title=magic,
+            xlabel='sentence number',
+        )
         raw = painter.png(painted)
         outpath = os.path.join(workdir, filename)
         utila.file_replace_binary(outpath, raw)
@@ -51,7 +57,7 @@ def render_sentences_mean(magics):
 def merged(single, magics) -> str:
     filename = paths(magics)
     items = utila.flatten([(floating, mean) for _, floating, mean in single])
-    painted = painter.plot_render(*items, width=30, height=10)
+    painted = painter.plot_render(*items, width=30, height=10, title='Merged')
     raw = painter.png(painted)
     workdir = bbview.config.renderer_workdir()
     outpath = os.path.join(workdir, filename)

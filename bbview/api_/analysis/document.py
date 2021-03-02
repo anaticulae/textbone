@@ -53,7 +53,7 @@ def paint_document_sentence_mean_length(documents):
         x.append(len(raw))
         y.append(statistics.mean(lengths))
 
-    rendered = painter.scatter_render(x, y, legend=names)
+    rendered = painter.scatter_render(x, y, legend=names, width=5, height=5)
     figure = painter.png(rendered)
     result = [
         (figure, paths(documents)),
