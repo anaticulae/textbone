@@ -14,3 +14,10 @@ def test_api_documents_no_selection(client):
     request = 'analysis/documents'
     answer = utilatest.apicall(client, request)
     assert not answer['plots']
+
+
+def test_api_documents_master72(client):
+    request = 'analysis/documents?documents%5B%5D=master072&operations%5B%5D=scatter'
+    answer = utilatest.apicall(client, request)
+    assert answer['plots']
+    assert len(answer['plots']) == 1
