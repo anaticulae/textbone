@@ -13,6 +13,7 @@ import utila
 import bbview.api.analysis
 import bbview.api.utils
 import bbview.api_.analysis.document
+import bbview.api_.analysis.sentence
 
 
 @bbview.api.analysis.api_analysis.route(
@@ -30,6 +31,10 @@ def documents():
         # action
         if 'scatter' in operation:
             rendered = bbview.api_.analysis.document.render_document_sentence_mean_length(
+                documents)
+            plotinfo.extend(rendered)
+        if 'line' in operation:
+            rendered = bbview.api_.analysis.sentence.render_sentences_mean(
                 documents)
             plotinfo.extend(rendered)
     # add file extension
