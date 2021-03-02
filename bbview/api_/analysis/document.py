@@ -64,9 +64,3 @@ def paths(documents):
     documents = '_'.join(documents)
     result = f'document_scatter_{documents}.png'
     return result
-
-
-def filename(item):
-    item = os.path.split(item)[1]
-    item = str(item).replace('.txt', '')
-    return item
