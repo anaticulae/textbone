@@ -6,15 +6,3 @@
 # use or distribution is an offensive act against international law and may
 # be prosecuted under federal law. Its content is company confidential.
 # =============================================================================
-"""Analysis
-========
-
-* View Extracted Data
-
-"""
-
-import flask
-
-api_analysis = flask.Blueprint('api_analysis', __name__)  # pylint:disable=C0103
-
-__all__ = ['api_analysis', 'document']

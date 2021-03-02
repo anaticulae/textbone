@@ -11,7 +11,7 @@ import flask
 import flask_bootstrap
 
 import bbview.config
-# from qview.api.findings import *  # pylint:disable=W0401
+from bbview.api.analysis import *  # pylint:disable=W0401
 from bbview.view.analysis import analysis_
 from bbview.view.welcome import welcome_
 
@@ -36,6 +36,6 @@ def create_application() -> flask.Flask:
     appi.register_blueprint(analysis_)
 
     # data
-    # appi.register_blueprint(api_findings, url_prefix=bbview.config.API_PREFIX)
+    appi.register_blueprint(api_analysis, url_prefix=bbview.config.API_PREFIX)
 
     return appi
