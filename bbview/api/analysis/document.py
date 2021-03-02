@@ -37,7 +37,5 @@ def documents():
             rendered = bbview.api_.analysis.sentence.render_sentences_mean(
                 documents)
             plotinfo.extend(rendered)
-    # add file extension
-    plotinfo = [f'{item}.png' for item in plotinfo]
     dumped = flask.jsonify({'plots': plotinfo})
     return dumped

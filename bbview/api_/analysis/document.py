@@ -14,6 +14,7 @@ import matplotlib.pyplot as plt
 import painter
 import utila
 
+import bbview.api.magic
 import bbview.config
 import hugedata.utils
 
@@ -24,14 +25,17 @@ def render_document_sentence_mean_length(documents):
     painted = paint_document_sentence_mean_length(documents)
     # write painted
     for fig, path in painted:
-        outpath = os.path.join(workdir, f'{path}.png')
+        outpath = os.path.join(workdir, path)
         utila.file_replace_binary(outpath, fig)
-    result = paths(documents)
+    result = [paths(documents)]
     return result
 
 
 def paint_document_sentence_mean_length(documents):
-    sources = select_sources(documents)
+    sources = [bbview.api.magic.filepath(item) for item in documents]
+    if any((not os.path.exists(item) for item in sources)):
+        utila.error(f'sources does not exists: {sources}')
+        return []
     if not sources:
         return []
     # TODO: MOVE TO PAINTER
@@ -51,36 +55,14 @@ def paint_document_sentence_mean_length(documents):
     rendered = painter.scatter_render(x, y, legend=names)
     figure = painter.png(rendered)
     result = [
-        (figure, paths(documents)[0]),
+        (figure, paths(documents)),
     ]
     return result
 
 
 def paths(documents):
-    sources = select_sources(documents)
-    if not sources:
-        return []
-    sources = [filename(item) for item in sources]
-    documents = '_'.join(sources)
-    path = [
-        f'document_scatter_{documents}',
-    ]
-    return path
-
-
-def select_sources(documents):
-    """Select file-path wich are selected by `documents`.
-
-    >>> select_sources(['master072', 'master075'])
-    ['...master...master072.txt', '...master075.txt']
-    """
-    result = []
-    for resource in hugedata.RESOURCES:
-        for item in documents:
-            if not item in str(resource):
-                continue
-            result.append(resource)
-            break
+    documents = '_'.join(documents)
+    result = f'document_scatter_{documents}.png'
     return result
 
 
