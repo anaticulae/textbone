@@ -20,9 +20,15 @@ def magicpaths(resources=None):
     return result
 
 
-def magicpath(path) -> str:
-    parentname = f'{filename(parent(parent(path)))}_{filename(parent(path))}'
-    magic = f'{parentname}_{filename(path)}'
+def magicpath(path, base=None) -> str:
+    """Determine magic name which is a difference of given `path` and
+    `base`."""
+    base = base if base else hugedata.ROOT
+    parentname = []
+    while path != base:
+        parentname.insert(0, filename(path))
+        path = parent(path)
+    magic = '_'.join(parentname)
     return magic
 
 
