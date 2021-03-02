@@ -45,9 +45,6 @@ if __name__ == "__main__":
         ],
         packages=[
             'backbone',
-            'backbone.view',
-            'backbone.view.document',
-            'backbone.view.sentence',
             'bbview.api',
             'bbview.api.analysis',
             'bbview.api_',
@@ -59,7 +56,6 @@ if __name__ == "__main__":
         entry_points={
             'console_scripts': [
                 'normalize = backbone.normalize:main',
-                'backbone_view = backbone.view.cli:main',
             ],
         },
     )
