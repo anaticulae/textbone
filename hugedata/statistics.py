@@ -16,8 +16,7 @@ def floating_sentence(sentences, size=10):
     for ranged in window(collected, size=size):
         if len(ranged) < 2:
             continue
-        result.append(statistics.stdev(ranged))
-        # result.append(statistics.mean(ranged))
+        result.append(statistics.mean(ranged))
     return result
 
 
