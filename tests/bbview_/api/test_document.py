@@ -19,15 +19,17 @@ def test_api_documents_no_selection(client):
 
 
 def test_api_documents_master72master75(testdir, client, monkeypatch):
-    request = ('analysis/documents?documents%5B%5D=master072&documents%5B%5D'
-               '=master075&operations%5B%5D=scatter')
-
+    request = ('analysis/documents?documents%5B%5D=lit_master_master072&'
+               'documents%5B%5D=lit_master_master075&operations%5B%5D=scatter')
     with tests.bbview_.utils.patch_todo(monkeypatch, testdir):
         answer = utilatest.apicall(client, request)
         assert answer['plots']
         assert len(answer['plots']) == 1
-        expected = {'plots': ['document_scatter_master072_master075.png']}
-
+        expected = {
+            'plots': [
+                'document_scatter_lit_master_master072_lit_master_master075.png',
+            ]
+        }
         request = f'plots/{expected["plots"][0]}'
         png = utilatest.get(client, request, raw=True).data
         assert len(png) == 12896
