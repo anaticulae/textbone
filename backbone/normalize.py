@@ -30,6 +30,7 @@ def main():
         content = utila.file_read(path)
         content = modern(content)
         utila.file_replace(path, content)
+    exit(utila.SUCCESS)
 
 
 NEWLINE = ':.!?'
