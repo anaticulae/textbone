@@ -11,11 +11,11 @@ import os
 import statistics
 
 import matplotlib.pyplot as plt
+import painter
 import utila
 
 import bbview.config
 import hugedata.utils
-import painter
 
 
 def render_document_sentence_mean_length(documents):
@@ -58,7 +58,6 @@ def paint_document_sentence_mean_length(documents):
 
 def paths(documents):
     sources = select_sources(documents)
-    print(sources)
     if not sources:
         return []
     sources = [filename(item) for item in sources]
@@ -66,7 +65,6 @@ def paths(documents):
     path = [
         f'document_scatter_{documents}',
     ]
-    print(path)
     return path
 
 
