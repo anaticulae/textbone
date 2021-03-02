@@ -11,11 +11,9 @@ import os
 
 import hugedata
 
-RESOURCES = hugedata.LIT_MASTERS
-
 
 def magicpaths(resources=None):
-    resources = resources if resources else RESOURCES
+    resources = resources if resources else hugedata.RESOURCES
     result = []
     for path in resources:
         result.append(magicpath(path))
