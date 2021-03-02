@@ -11,6 +11,7 @@ import flask
 import utila
 
 import bbview.api.analysis
+import bbview.api_.analysis.document
 
 
 @bbview.api.analysis.api_analysis.route(
@@ -24,8 +25,14 @@ def documents():
         # user does not select any items
         plotinfo = []
     else:
-        # action
         plotinfo = []
+        # action
+        if 'scatter' in operation:
+            rendered = bbview.api_.analysis.document.render_document_sentence_mean_length(
+                documents)
+            plotinfo.extend(rendered)
+    # add file extension
+    plotinfo = [f'{item}.png' for item in plotinfo]
     dumped = flask.jsonify({'plots': plotinfo})
     return dumped
 
