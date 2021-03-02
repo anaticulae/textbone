@@ -12,6 +12,7 @@ import os
 import flask
 import utila
 
+import bbview.api.magic
 import bbview.config
 import hugedata
 
@@ -20,12 +21,10 @@ analysis_ = flask.Blueprint('analysis', __name__)  # pylint:disable=invalid-name
 
 @analysis_.route('/analysis')
 def show_analysis():
-    documents = [os.path.split(item)[1] for item in hugedata.LIT_MASTERS]
-    # remove file extention: TODO: REPLACE WITH UTILA CODE
-    documents = [str(item).replace('.txt', '') for item in documents]
+    magics = bbview.api.magic.magicpaths()
     rendered = flask.render_template(
         'analysis/index.html',
-        documents=documents,
+        documents=magics,
     )
     return rendered
 
