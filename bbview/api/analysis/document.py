@@ -8,7 +8,6 @@
 # =============================================================================
 
 import flask
-import utila
 
 import bbview.api.analysis
 import bbview.api.utils
@@ -22,8 +21,8 @@ import bbview.api_.analysis.sentence
 )
 def documents():
     data = bbview.api.utils.getdict(flask.request.args)
-    documents, operation = data.get('documents', []), data.get('operations', [])
-    if not any((documents, operation)):
+    docs, operation = data.get('documents', []), data.get('operations', [])
+    if not any((docs, operation)):
         # user does not select any items
         plotinfo = []
     else:
@@ -31,11 +30,10 @@ def documents():
         # action
         if 'scatter' in operation:
             rendered = bbview.api_.analysis.document.render_document_sentence_mean_length(
-                documents)
+                docs)
             plotinfo.extend(rendered)
         if 'line' in operation:
-            rendered = bbview.api_.analysis.sentence.render_sentences_mean(
-                documents)
+            rendered = bbview.api_.analysis.sentence.render_sentences_mean(docs)
             plotinfo.extend(rendered)
     dumped = flask.jsonify({'plots': plotinfo})
     return dumped

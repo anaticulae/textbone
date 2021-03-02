@@ -15,7 +15,7 @@ LOCK = threading.Lock()
 
 
 @contextlib.contextmanager
-def patch_todo(monkeypatch, testdir, root=None):
+def patch_todo(monkeypatch, testdir):
     testdir.mkdir('renderer')
     workdir = os.path.join(testdir.tmpdir, 'renderer')
     with LOCK:

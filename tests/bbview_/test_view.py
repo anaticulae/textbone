@@ -9,8 +9,6 @@
 
 import utilatest
 
-import tests.bbview_
-
 
 def test_welcome(client):
     welcome = utilatest.get(client, '/')
