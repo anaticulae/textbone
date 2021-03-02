@@ -12,9 +12,8 @@ import os
 import flask
 import utila
 
-import cached
+import bbview.config
 import hugedata
-import qview.config
 
 analysis_ = flask.Blueprint('analysis', __name__)  # pylint:disable=invalid-name
 
@@ -27,3 +26,16 @@ def show_analysis():
         documents=documents,
     )
     return rendered
+
+
+@analysis_.route('/plots/<string:image>')
+def view_plot(image: str = None):
+    workdir = bbview.config.renderer_workdir()
+
+    image = os.path.join(workdir, image)
+    if not os.path.exists(image) or not utila.file_read_binary(image):
+        return 'image does not exists', 404
+
+    # Hint: contextmanager does not work here
+    response = flask.send_file(open(image, mode='rb'), mimetype='image')
+    return response
