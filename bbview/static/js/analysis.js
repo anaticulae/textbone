@@ -23,7 +23,7 @@ const update_plots = function () {
         setTimeout(() => {
             $('#plots')[0].innerHTML = ''
             response.plots.forEach(function (item) {
-                let raw = `<img src="/plots/${item.path}" class="plot"> `
+                let raw = `<img src="/plots/${item}" class="plot"> `
                 $('#plots').append(raw)
             })
         }, 500)
