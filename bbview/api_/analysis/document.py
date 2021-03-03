@@ -32,6 +32,13 @@ def render_document_sentence_mean_length(documents):
     return result
 
 
+MARKER = (
+    ('bachelor', 'd'),
+    ('master', 'x'),
+    ('utils', 'o'),
+)
+
+
 def paint_document_sentence_mean_length(documents):
     sources = [bbview.api.magic.filepath(item) for item in documents]
     if any((not os.path.exists(item) for item in sources)):
@@ -42,6 +49,7 @@ def paint_document_sentence_mean_length(documents):
     # TODO: MOVE TO PAINTER
     names = []
     x, y = [], []
+    markers = []
     for index, document in enumerate(sources):
         raw = hugedata.utils.load_sentences(
             document,
@@ -52,8 +60,16 @@ def paint_document_sentence_mean_length(documents):
         lengths = [len(item) for item in raw]
         x.append(len(raw))
         y.append(statistics.mean(lengths))
+        markers.append(marker(document))
 
-    rendered = painter.scatter_render(x, y, legend=names, width=5, height=5)
+    rendered = painter.scatter_render(
+        x,
+        y,
+        legend=names,
+        width=5,
+        height=5,
+        marker=markers,
+    )
     figure = painter.png(rendered)
     result = [
         (figure, paths(documents)),
@@ -67,3 +83,16 @@ def paths(documents):
     documents = hash(documents)
     result = f'document_scatter_{documents}.png'
     return result
+
+
+def marker(document: str) -> str:
+    """\
+    >>> marker('lit_bachelor_bachelor100')
+    'd'
+    """
+    if 'bachelor' in document:
+        return 'd'
+    if 'master' in document:
+        return 'x'
+    # default marker
+    return 'o'
