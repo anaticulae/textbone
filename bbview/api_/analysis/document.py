@@ -94,5 +94,7 @@ def marker(document: str) -> str:
         return 'd'
     if 'master' in document:
         return 'x'
+    if 'order' in document:
+        return '>'
     # default marker
     return 'o'
