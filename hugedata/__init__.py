@@ -35,6 +35,7 @@ LIT_MASTER098 = os.path.join(LIT_MASTER, 'master098.txt')
 LIT_MASTER099 = os.path.join(LIT_MASTER, 'master099.txt')
 
 TECH_BACHELOR063 = os.path.join(TECH_BACHELOR, 'bachelor063.txt')
+TECH_BACHELOR111 = os.path.join(TECH_BACHELOR, 'bachelor111.txt')
 
 ORDER_ORDER024 = os.path.join(ORDER, 'order024.txt')
 
@@ -58,6 +59,7 @@ LIT_BACHELORS = [
 
 TECH_BACHELORS = [
     TECH_BACHELOR063,
+    TECH_BACHELOR111,
 ]
 
 ORDERS = [

@@ -51,11 +51,11 @@ Diese kann von all jenen eingesehen werden , die Zugang zur Profilseite des Nutz
 Zu den Kontakten zählen sowohl Freunde als auch Bekannte , die Familie und Arbeitskollegen etc. Profilseiten sind der Ort , an dem die Interaktionspartner bestimmt und so die potenziellen Zielgruppen der Kommunikationsbeiträge festgelegt werden . 22
 Social Network Sites bieten verschiedene Kommunikationskanäle an , mithilfe derer die Nutzer mit ihren Kontakten interagieren können .
 Das kommunikative Zentrum bilden Kommentar- bzw. Newsfeed :
-Über den Kommentarfeed ( z.B. die Pinnwand bzw . Wall bei Facebook ) können Posts , sowohl vom Profileigentümer als auch von seinen Kontakten , auf der Profilseite hinterlassen werden .
+Über den Kommentarfeed ( z.B. die Pinnwand bzw.  Wall bei Facebook ) können Posts , sowohl vom Profileigentümer als auch von seinen Kontakten , auf der Profilseite hinterlassen werden .
 Statusmeldungen über den Newsfeed bieten weitere Kommunikationsanlässe , denn sie zeigen dem Nutzer die aktuellen Aktivitäten und Neuigkeiten seiner Kontakte an .
 Er erhält diese Mitteilungen in negativ chronologischer Reihenfolge und sieht daher immer das Aktuellste zuerst .
 Er kann darauf direkt reagieren , indem er internen oder externen Links folgt und z.B. Kommentare schreibt oder mit einem „ Gefällt mir “ bei Facebook Zustimmung ausdrückt . 23
-Häufig steht den Nutzern auch die Option zur Verfügung , Inhalte nur mit einem Teil der Kontaktliste zu teilen , indem diese in Unterlisten bzw. in Kreise gruppiert und entsprechend adressiert werden können ( z.B. bei Facebook bzw . Google+ ) .
+Häufig steht den Nutzern auch die Option zur Verfügung , Inhalte nur mit einem Teil der Kontaktliste zu teilen , indem diese in Unterlisten bzw. in Kreise gruppiert und entsprechend adressiert werden können ( z.B. bei Facebook bzw.  Google+ ) .
 Bei Facebook können auch einzelne Personen gezielt von der Sichtbarkeit eines Posts ausgeschlossen werden .
 Außerdem gibt es die Möglichkeit , persönliche Nachrichten zu verschicken , die , ähnlich der E-Mail , direkt adressiert werden .
 Darüber hinaus können offene oder geschlossene Gruppen gebildet werden , in denen ein themen- und mitgliederbezogener Austausch stattfinden kann.

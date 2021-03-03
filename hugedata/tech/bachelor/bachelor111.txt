@@ -1,0 +1,786 @@
+Die Entwicklungen in der Computer- und Mobilfunktechnologie der letzten Jahre haben es ermöglicht , dass man heutzutage von fast jedem Ort aus erreichbar ist und fast jeden erreichen kann .
+Technische Geräte zur Kommunikation , Unterhaltung oder Steuerung sind mittlerweile so kompakt , dass sie ein elementarer Bestandteil unseres Lebens geworden , also allgegenwärtig sind .
+Laut Iftode , Borcea und anderen [ IBR+04 ] wird noch nicht das volle Potenzial der mobil zur Verfügung stehenden Rechenleistung genutzt , denn '' our pockets and bags are still jammed with a bunch of keys [ ... ] , access cards [ and ] credit cards [ ... ] '' .
+Sie sind der Meinung , dass „ Smartphones “ die Geräteklasse sind , die die größte Chance haben eine „ Universalfernbedienung “ für die uns umgebenden Geräte zu werden und unsere Taschen wieder zu leeren , denn das Mobiltelefon ist `` for some mysterious reason [ ... ] the least likely to be left at home '' .
+Zudem läuft „ die Zeit der ’ dummen Häuser ’ “ ab [ dpa09 ] und immer mehr Unterhaltungselektronik und Steuerungs- bzw. Überwachungtechnik zieht in unsere Häuser und Wohnungen ein .
+Licht , Heizung , Musikanlage und viele andere Geräte können heute über Rechner gesteuert werden .
+Dazu stehen verschiedene Bus-Technologien zur Verfügung , die es ermöglichen , Aktoren , und damit einzelne Geräte oder Gerätegruppen , im Haushalt anzusprechen .
+Da die Technologien bereits verfügbar sind und der Mensch längst im Zeitalter der allgegenwärtigen Informationsverarbeitung , dem sogenannten „ Ubiquitous Computing “ , angekommen ist , dann erscheint es nur als logischer nächster Schritt , diese beiden Welten zu verbinden und moderne Haustechnik über „ Smartphones “ von fast jedem Ort aus zu steuern .
+Die Verbindung zwischen mobiler Welt und der Technik innerhalb der eigenen vier Wände ist keine neue Idee .
+Es existieren bereits Lösungen zur Steuerung von Gebäudetechnik mit mobilen Endgeräten .
+Die Integration dieser mobilen Endgeräte ist aber meist bei der Planung des Gesamtsystems vom Elektroinstallateur bzw. der Fachkraft zu berücksichtigen .
+Eine nachträgliche Installation durch den Endanwender gestaltet sich schwierig .
+Auch die Konﬁguration der Anwendung auf dem mobilen Endgerät kann meist nur durch eine Fachkraft erfolgen .
+Meine Anwendung soll daher Wege aufzeigen , die eine Integration mobiler Endgeräte in ein Gebäudeautomationssystem auch nachträglich mit möglichst geringem Aufwand für Fachkräfte möglich machen .
+Ziel dieser Arbeit ist eine Evaluierung der Möglichkeiten zur Integration eines mobilen Endgerätes in ein System zur Steuerung von intelligenter Gebäudetechnik .
+Es soll beispielhaft eine Anwendung zur Steuerung dieser Gebäudetechnik auf einem mobilen Endgerät entwickelt werden .
+Dazu werden Standards und Protokolle zur Vernetzung , Steuerung und Überwachung von Gebäude- und Haushaltstechnik untersucht .
+Der Schwerpunkt der Arbeit liegt in der Anbindung eines mobilen Endgerätes an ein Steuerungssystem für intelligente Gebäudetechnik .
+Der Konﬁgurationsaufwand der Anwendung soll für den Anwender möglichst gering und die Bedienung einfach und intuitiv gehalten sein .
+Die Anwendung soll beispielhaft die Steuerung und Überwachung einer Lichtquelle sowie das Auslesen eines Temperatursensors ermöglichen .
+Im folgenden Abschnitt werden die grundlegenden Technologien , die potenziell zur Erstellung des Systems in Frage kommen , beschrieben .
+Anhand dieser Grundlagen wird ermittelt , welche Technologien und Geräte im Rahmen der Erstellung des Prototypen verwendet werden .
+Zudem werden bestehende Systeme für den mobilen Zugriﬀ auf Gebäudesteuerungssysteme vorgestellt und Vor- und Nachteile dieser Anwendungen diskutiert .
+Dieser Überblick soll die Grundlage für die anschließende Anforderungsanalyse schaﬀen .
+In Kapitel 3 wird die Anwendungsumgebung analysiert und darauf basierend Anforderungen an das System deﬁniert .
+Es wird dabei auf die besonderen Gegebenheiten , die durch die Anbindung des Prototypen an ein Gebäude steuerungssystem zu beachten sind , eingegangen .
+Anwendungsfälle , die das System abbilden soll , werden identiﬁziert und deﬁniert .
+Basierend auf den zuvor speziﬁzierten Anforderungen wird in Kapitel 4 ein konzeptioneller Systementwurf erstellt .
+Hier wird insbesondere auf die Komponenten des Systems eingegangen sowie die Kommunikation zwischen mobilem Endgerät und dem Gebäudesteuerungssystem in Form von Schnittstellen und das Datenmodell speziﬁziert .
+Zudem ist der Entwurf einer Benutzeroberﬂäche für die Anwendung des mobilen Endgerätes Teil dieses Kapitels .
+Die technische Umsetzung des erarbeiteten Systementwurfs wird im Kapitel 5 beschrieben .
+Das Hauptaugenmerk liegt hierbei zum Einen auf der Art der Integration des mobilen Endgerätes in das Gebäudesteuerungssystem und zum Anderen auf der Implementierung der Smartphone-Anwendung .
+Abschließend wird das entwickelte System in Hinblick auf die Erfüllung der Anforderungen hin untersucht und bewertet .
+Der Prototyp wird zudem in diesem Abschnitt demonstriert .
+In diesem Kapitel wird auf grundlegende Begriﬀe und Technologien eingegangen , welche elementare Bestandteile des Systems darstellen .
+Die hier besprochenen Grundlagen sind Voraussetzung für die Entwicklung eines Systems zur Steuerung und Überwachung intelligenter Gebäudetechnik mit mobilen Endgeräten .
+Hierzu wird zunächst der Begriﬀ ‘ Smartphone ’ deﬁniert um diese Geräteklasse innerhalb der Klasse der mobilen Endgeräte genau abzugrenzen .
+Zudem werden die in diesem Bereich aktuell gängigen Plattformen und die für diese erhältlichen Endgeräte vorgestellt .
+Für die Auswahl des Endgerätes , das zur Umsetzung des Systems verwendet werden soll , spielen vor allem eine intuitive Bedienung sowie die Möglichkeit zur Kommunikation über Drahtlostechnologien eine übergeordnete Rolle .
+Anschließend werden gängige drahtlose Kommunikationstechnologien beschrieben und auf die Möglichkeit zur Verwendung im System , zur Kommunikation zwischen mobilem Endgerät und dem Gateway des Systems zur Gebäudeautomation hin untersucht .
+Zuletzt werden etablierte Technologien zur Gebäudeautomatisierung beschrieben und auf eine Eignung zur Verwendung mit dem zu entwickelnden System hin untersucht .
+Hier spielen vor allem die unkomplizierte Integration von mobilen Endgeräten in das Gebäudeautomationssystem und eine einfache Ansteuerung der Geräte in diesem System eine wichtige Rolle .
+Smartphones ( siehe Abbildung 2.1 ) sind mobile Endgeräte und können laut Iftode [ IBR+04 ] oder auch Lin [ LY09 ] als Kombination aus Mobiltelefon und PDA1 gesehen werden .
+Nach Zheng und Ni [ ZN06 ] weisen Smartphone charakteristische Eigenschaften , wie z.B. ein Farbdisplay , erweiterte drahtlose Kommunikationstechnologien , persistenten Speicher ( externe Speicherkarten oder eingebaute Festplatten ) , ein fortschrittliches Betriebssystem ( OS2 ) sowie andere Erweiterungen auf .
+Heutzutage gehören ein GPS-Empfänger und ein Beschleunigungssensor oder ein Gyroskop auch schon zur Standardausstattung der Smartphones der neuesten Generation .
+Laut einer Studie von Gartner [ Gar09 ] ist das Smartphone das mobile Endgerät mit den höchsten Wachstumsraten .
+Während der Absatz von Mobilfunktelefonen im zweiten Quartal 2009 weltweit um sechs Prozent zurück ging , konnte im Smartphone-Segment eine Absatzsteigerung von 27 Prozent verzeichnet werden .
+Gartner erklärt dies unter anderem mit dem Umstand , dass sich die Kunden , die sich überlicherweise im Segment der Mittelklasse der Mobilfunkgeräte umgesehen haben , nun auch verstärkt auf das höherpreisige Smartphone-Segment zurückgreifen um mehr Funktionalitäten für ihr Geld zu erhalten .
+Weitere treibende Faktoren sind laut Gartner [ Gar10b ] [ Gar10a ] berührungsempﬁndliche Bildschirme ( Touchscreen ) und die Möglichkeit der Erweiterung der Funktionalitäten des Betriebssystems durch den Erwerb von Anwendungen ( Applications , Apps ) in sogenannten AppStores .
+Die vielfältigen Kommunikationstechnologien wie z.B. UMTS , WLAN und Bluetooth , die eine nahezu lückenlose Konnektivität zu Online-Diensten oder den Datenaustausch zwischen Nutzern ermöglichen , machen diese Geräteklasse für eine immer größere Nutzergruppe attraktiv [ Gün10 ] .
+Mobiltelefone begleiten uns in unserem täglichen Leben und insbesondere Smartphones zeichnen sich durch ihre Leistungsfähigkeit , einfache Bedienung durch große Bildschirme , meist sogar Touchscreens , und Erweiterbarkeit durch Anwendungen von Drittanbietern aus .
+Das macht Smartphones zu einer geeigneten Plattform zur Verwendung in dem zu entwickelnden System .
+Im Folgenden werden nun zwei Smartphone-Plattformen genauer betrachtet .
+Es handelt sich dabei um Google ’ s Android und Apple ’ s iPhoneOS , zwei relativ jungen Plattformen , denen viel Potenzial für die kommenden Jahre zugeschrieben wird .
+Zudem wird ein Überblick über weitere am Markt vertretene Smartphone-Plattformen gegeben .
+Am 21. Oktober 2008 wurde das Android Betriebssystem von Google oﬃziell vorgestellt .
+Es wird von der Open Handset Alliance , in der Google als Mitglied vertreten ist , weiterentwickelt .
+Bei Android handelt es sich laut Google um einen `` [ ... ] software stack for mobile devices that includes an operating system , middleware and key applications '' [ Goo10b ] .
+Die Android-Plattform ist frei verfügbar und quelloﬀen .
+Für die Entwicklung von Anwendungen wird ein Eclipse3-Plugin und das auf Java SE4 basierende Android SDK5 zur Verfügung gestellt .
+Durch die Nutzung der Entwicklungsumgebung ( IDE ) Eclipse ist eine plattformübergreifende Entwicklung von Anwendungen für mobile Endgeräte , die die Android-Plattform unterstützen , möglich .
+Das Android Betriebssystem besteht aus fünf Schichten ( siehe Abbildung 2.2 ) .
+Im Kern realisiert ein Linux Kernel , aktuell der Version 2.6 , eine Abstraktion der zugrunde liegenden Hardware .
+Darauf aufbauend bieten C bzw. C++ Bibliotheken einen schnellen Zugriﬀ auf Systemfunktionalitäten 3Eclipse ist eine Gemeinschaft die sich mit Open-Source-Projekten , unter anderem zur Entwicklung einer erweiterbaren Entwicklungsumgebung ( IDE ) , befasst .
+Die zentrale Komponente ist dabei die Eclipse IDE . [ Ecl10 ]
+Des weiteren ist auch die Android Laufzeitumgebung ( Runtime ) Bestandteil der Bibliotheksschicht .
+Die Android-Laufzeitumgebung umfasst dabei eine Reihe von Kern-Bibliotheken , die einen Großteil der Kern-Bibliotheken der Programmiersprache Java abbilden .
+Ein weiterer Bestandteil der Laufzeitumgebung ist die Dalvik VM6 , welche die Ausführung und Verwaltung von Android Anwendungen steuert .
+Dem Entwickler werden in der Schicht „ Application Framework “ Java-API ’ s7 zum einfachen Zugriﬀ auf vordeﬁnierte Dienste zur Verfügung gestellt .
+In der obersten Schicht bietet Android Kernanwendungen wie z.B. einen Mail-Client , einen Browser und Anwendungen für die Telefonie . [ Goo10b ]
+Apple’s Betriebssystem für mobile Endgeräte ist iPhoneOS .
+Es ist eine vom Umfang angepasste und auf die ARM-Architektur portierte Version von Apple ’ s Betriebssystem OS X.
+OS X und iPhoneOS bauen dabei auf gleiche Grundtechnologien wie z.B. dem OS X-Kernel und den Objective-C bzw. C/C++ - Compilern , auf .
+IPhoneOS wurde zudem auf Eﬃzienz und Kompaktheit optimiert und bietet dem Entwickler mit „ Cocoa Touch “ ein ProgrammierFramework , das auf die Entwicklung von Anwendungen für Apple ’ s mobile Endgeräte wie dem iPhone , iPod Touch und iPad , zugeschnitten ist .
+Auch „ Cocoa Touch “ ist von seinem Desktop-Pendant „ Cocoa “ abgeleitet und wurde zusammen mit der Benutzeroberﬂäche ( GUI8 ) neu entworfen .
+Dadurch wird dem kleineren Formfaktor der mobilen Geräte Rechnung getragen und eine Gestensteuerung , auch mit mehreren Fingern gleichzeitig ( Multitouch ) , ermöglicht . [ App09a ]
+Wie schon Google für Android bietet auch Apple ein entsprechendes SDK zur Entwicklung von Anwendungen für die iPhone OS-Plattform an .
+Zur Distribution von Anwendungen ist eine kostenpﬂichtige Registration bei Apple ’ s „ iPhone Developer Program “ nötig [ Appa ] .
+Für die iPhone OS-Plattform wird hauptsächlich in der Programmiersprache Objective-C entwickelt .
+Es handelt sich dabei um eine Erweiterung der Programmiersprache ANSI-C zur Unterstützung des Konzeptes der Objektorientierung .
+Diese Erweiterungen basieren zum Großteil auf der Programmiersprache Smalltalk .
+Eine Mischung von Objective-C , ANSI-C und C++ ist möglich [ Appb ] .
+Als Entwicklungsumgebung wird Apple ’ s XCode verwendet , welche derzeit , genauso wie das iPhoneOS-SDK , nur für OS X verfügbar ist .
+Das iPhoneOS-SDK von Apple ist , ähnlich zu Google ’ s Android-SDK , in Schichten untergliedert .
+Die beiden unteren Schichten , `` Core OS '' und `` Core Services '' ( vgl. Abbildung 2.3 ) , bieten fundamentale Dienste , auf denen die Anwendungen aufbauen .
+Die beiden höheren Schichten , `` Media '' und '' Cocoa Touch '' , bieten eine fortschrittliche , objektorientierte Abstraktion der Konstrukte der unteren Schichten .
+Anwendungsentwickler sollten daher , so weit möglich , die oberen Schichten bevorzugen , da komplexe Funktionen hier schon gekapselt sind und somit weniger Codezeilen zu schreiben sind [ App09c ] .
+Die Entwicklung von Anwendungen für die iPhoneOS-Plattform ist zudem an Vorgaben von Apple gebunden .
+Diese Vorgaben sollen den Entwickler bei der Konzeption und der Entwicklung einer Anwendung unterstützen .
+Dazu zählen unter anderem das in der iPhoneOS-Architektur stark verwurzelte MVC-Modell9 und die `` Apple Guidelines '' , allem voran die `` iPhone Human Interface Guidelines '' .
+Diese sollen im Zusammenspiel mit den im SDK angebotenen graﬁschen Benutzerelementen dem Entwickler die Erstellung von Benutzeroberﬂächen erleichtern .
+Durch den Wiedererkennungswert der Elemente sind die Oberﬂächen zum Einen intuitiv , und zum Anderen , durch die Deﬁnition von minimalen Abmessungen , auch physisch einfach zu bedienen ( vgl. Abbildung 2.4 und Abbildung 2.5 ) .
+Neben den zuvor genauer betrachteten mobilen Plattformen Android und iPhoneOS existieren weitere Plattformen und Betriebssysteme für Smartphones .
+Dazu gehören unter anderem webOS , welches auf den aktuellen Smartphones des Unternehmens Palm eingesetzt wird , Microsoft ’ s Windows Mobile oder Nokia ’ s Symbian OS .
+Auch diese bieten Entwicklungsumgebungen und SDK ’ s zur Erweiterung des Anwendungsspektrums der Systeme .
+Von der hard- oder softwareseitigen Ausstattung unterscheiden sich die Geräte dieser Klasse kaum , so dass die Anforderungen auch von Geräten dieser mobilen Plattformen erfüllt werden .
+Eine eingehende Betrachtung dieser Plattformen würde aber den Rahmen dieser Arbeit übersteigen .
+Die beiden zuvor betrachteten mobilen Plattformen eignen sich zur Entwicklung des Prototypen , da sie eine Vielzahl von Drahtlostechnologien mitbringen und durch entsprechende SDK ’ s um zusätzliche Anwendungen erweiterbar sind .
+Es handelt sich dabei um zwei sehr junge mobile Plattformen denen für die nahe Zukunft ein großes Potential zugesprochen wird .
+Die Android-Plattform bietet eine plattformunabhängige Entwicklung und eine Vielzahl von Herstellern , die Android auf ihren Endgeräten einsetzen .
+Für die iPhoneOS-Plattform sind nur wenige verschiedene Modelle verfügbar .
+Dazu gehören unterschiedliche Versionen des iPod Touch und des iPhone .
+Die eingeschränkte Auswahl an Endgeräten bei Apple muss dabei kein Nachteil sein .
+Seit der Einführung der ersten iPhone-Version in 2007 haben sich die grundlegenden Prinzipien , wie z.B. die Eingabemethoden , und die Fähigkeiten des Displays nicht geändert .
+Im Gegensatz dazu ist das Bedienkonzept der Android-Plattform zwar auf Touch-Eingabe ausgelegt , diese aber nicht zwingend vorgeschrieben .
+Die Beschränkungen der iPhoneOS-Plattform erleichtern dem Programmierer somit die Entwicklung der Anwendung , da keine unterschiedlichen Eingabemethoden oder Auﬂösungen des Displays berücksichtigt werden müssen .
+Ein weiterer Aspekt , der für die Verwendung der iPhoneOS-Plattform spricht , ist der derzeitige Marktanteil der beiden Plattformen .
+Laut Gartner [ Gar10c ] führt im Segment der mobilen Betriebssysteme iPhoneOS mit 14,4 % klar vor Android mit 3,9 % .
+Ab April diesen Jahres kommt zudem in Deutschland mit dem iPad ein Gerät der Klasse der Tablet-PC auf den Markt , welches sich hervorragend als Info-Panel im Haushalt eignet , zudem aber auch Mobilfunktechnologien mitbringt , die einen mobilen Einsatz auch außerhalb der eigenen vier Wände ermöglicht .
+Obwohl die Android-Plattform für die Entwicklung des Prototypen genauso geeignet wäre , werde ich auf Grund der zuvor genannten Argumente auf der iPhoneOS-Plattform entwickeln .
+Der Erfolg der mobilen Endgeräte basiert zu einem sehr großen Teil auf der Unterstützung von Technologien zur drahtlosen Kommunikation .
+So ist es heutzutage vielen mobilen Endgeräten , insbesondere den schon betrachteten Smartphones , möglich , Netzwerken ohne Hilfe von Kabeln beizutreten und über diese zu kommunizieren .
+Wie auch bei den drahtgebundenen Netzwerken gibt es bei den drahtlosen Netzwerken verschiedene Technologien und Standards .
+Diese sind auf einen speziellen Zweck bzw. ein abgegrenztes Einsatzgebiet hin entwickelt und optimiert worden , so dass in diesem Feld eine Vielzahl verschiedener Technologien zur Verfügung stehen .
+Diese Heterogenität und der Umstand , dass die verschiedenen Technologien nicht immer zueinander kompatibel und somit meist auch keine nahtlosen Wechsel zwischen den Netzwerken verschiedener Technologien möglich sind [ Hub02 ] [ Bhe08 ] , macht es nötig , die vorhandenen Drahtlostechnologien genauer zu betrachten .
+Dazu werden diese Technologien in den folgenden Abschnitten vorgestellt und darauf hin untersucht , ob ein Einsatz der jeweiligen Technologie im zu entwickelnden System möglich und zweckmäßig ist .
+Insbesondere muss hierbei die Ausdehnung der jeweiligen Netze und die Möglichkeit der Anbindung an ein Gebäudesteuerungssystem betrachtet werden , da das mobile Steuern und Überwachen sowohl lokal , innerhalb des Hauses , als auch von beliebigen anderen Standorten aus vorgenommen werden kann .
+Aus diesem Grund werden zunächst Drahtlostechnologien für Mobilfunknetze betrachtet , um eine geeignete Technologie für den Zugriﬀ auf das System von unterwegs aus zu ﬁnden .
+Technologien für lokale Drahtlosnetzwerke ( WLAN10 ) werden danach betrachtet .
+Im letzten Teil wird dann anhand einiger Technologien für Nahbereichsnetzwerke ( WPAN11 ) erörtert , ob diese für einen Einsatz im System geeignet sind .
+Mobilfunknetze sind Kommunikationsnetze , die große Bereiche , z.B. Länder , ﬂächendeckend abdecken .
+Mit geeigneten mobilen Endgeräten wie Mobilfunktelefonen kann auf diese Netze zugegriﬀen und die Kommunikationsdienste genutzt werden .
+Solche Netze sind meist zellular aufgebaut und erlauben einen nahtlosen Wechsel zwischen den Zellen ohne , dass die Kommunikation unterbrochen wird .
+Zur Zeit werden in Deutschland Mobilfunknetze der zweiten ( 2G ) und dritten ( 3G ) Generation betrieben .
+GSM12 ist ein Mobilfunknetz der zweiten Generation .
+Die Ziele bei der Einführung dieses Netzes waren u.a. ein „ breites Sprach- und Datendienstangebot “ , „ Kompatibilität zu leitungsgebundenen Diensten “ und ein „ automatisches europaweites Roaming und Handover “ [ Wal01 , S. 135f. ] .
+Der Testbetrieb dieses digitalen Netzes wurde 1991 aufgenommen und ist heute einer der am weitesten verbreiteten Mobilfunkstandards [ GSM ] .
+Wie Abbildung 2.6 zeigt , ist das GSM-Netz in Funkzellen unterteilt , die einen maximalen Radius von bis zu 35km haben können .
+Diese Architektur erlaubt eine Wiederverwendung der verfügbaren Frequenzen in nicht benachbarten Zellen sowie die Nutzung relativ niedriger Sendeleistungen .
+Die in Eu 12Global System for Mobile Communications bzw. früher Groupe Speciale Mobile ropa genutzten Funkfrequenzbänder sind GSM900 und GSM1800 .
+Durch die Unterteilung dieser Frequenzbänder entstehen jeweils 124 FDM-Kanäle13 für Up- und Downlink .
+Zusätzlich zu diesem Frequenzmultiplexverfahren wird , zur Steigerung der möglichen gleichzeitigen Verbindungen , ein Zeitmultiplexverfahren ( TDM14 ) genutzt .
+Hierfür werden die Kanäle zusätzlich in acht Zeitschlitze mit jeweils 0,577ms Länge aufgeteilt [ Wal01 , S. 155ﬀ. ] .
+Somit ist ein physikalischer Kanal bei GSM900 „ durch seine Trägerfrequenz und seinen [ ... ] wiederkehrenden Zeitschlitz charakterisiert “ [ Wal01 , S. 156 ] .
+Mit GPRS15 steht zudem ein paketvermittelter Datendienst mit Datenübertragungsraten zwischen 56-114kbit/s in GSM zur Verfügung .
+Mit der Einführung der Erweiterung EDGE16 für GPRS konnte über ein verbessertes Modulationsverfahren die Datenübertragungsrate auf ca. 200 kBit/s erhöht werden .
+GSM-Mobilfunknetze , die mit der Erweiterung GPRS ausgestattet sind , werden oft auch als 2.5G-Netze bezeichnet .
+UMTS17 ist ein Mobilfunkstandard der dritten Generation ( 3G ) und somit eine „ evolutionäre Weiterentwicklung von 2G-Mobilfunksystemen , die auf GSM beruhen “ [ Leh03 , S. 65 ] .
+Es wird vom 3GPP18 gepﬂegt und ist Teil des internationalen ITU IMT-2000 Standards .
+Wie GSM setzt UMTS auf einen zellularen Netzaufbau und digitale Übertragung .
+Während GSM auf „ schmalbandigen Sprach- und Datenverkehr ausgelegt ist , sollen bei UMTS zusätzliche Dienste mit höherer Qualität [ ... ] eingeführt werden “ [ Leh03 , S. 65 ] .
+Im Gegensatz zu GSM wird bei UMTS der Frequenzbereich um 2,1 GHz genutzt .
+Die Aufteilung in gesonderte Frequenzbänder für Up- und Downlink bleibt .
+Auch das Funkzugriﬀsverfahren unterscheidet sich , da hier eine Kombination aus FDMA und W-CDMA19 genutzt wird .
+Durch diese neuen Technologien sind Datenübertragungsraten bis zu 384kbit/s möglich .
+Wird die Erweiterung HSDPA20 verwendet sind Datenübertragungsraten bis zu 14 MBit/s möglich .
+13Frequency Division Multiplexing 14Time Division Multiplexing 15General Packet Radio Service 16Enhanced Data Rates for GSM Evolution 17Universal Mobile Telecommunications System 183rd Generation Partnership Project 19Wideband Code Division Multiple Access 20High Speed Downlink Packet Access Long Term Evolution ( LTE ) ist ein Standard des 3GPP und soll ein „ mobilecommunication system that can take the telecom industry into the 2020s “ sein [ DPSB08 , S. 22 ] .
+Es ist als Nachfolger des derzeitigen Mobilfunkstandards UMTS gedacht .
+Ziel ist die Speziﬁzierung eines Mobilfunksystems durch das 3GPP , das aber nicht durch Rückwärtskompatibilität zu früheren 3GPPStandards wie WCDMA und HSPA21 beschränkt ist .
+Da der Anteil der paketvermittelten Dienste im weltweiten mobilen Datenverkehr immer wichtiger wird und mittlerweile größer ist als der Anteil der Sprachdienste [ Net09 , S. 5 ] , ist LTE von Grund auf für IP-basierte Übertragung optimiert und ist darauf ausgelegt ﬂexibel mit Bandbreiten zwischen 1-20 MHz umgehen zu können [ DPSB08 , S. 22-23 ] .
+LTE ist auf Datenraten von bis zu 300 MBit/s im Downlink bzw. 75 MBit/s im Uplink ausgelegt .
+Durch die Flexibilität bei der Nutzung des dem Netzbetreiber zur Verfügung stehenden Spektrums und durch die Nutzung von eﬃzienten Multiplexing- ( OFDM22 ) und Antennentechnologien ( MIMO23 ) soll ein kostengünstiges Mobilfunknetz mit hohen Datenraten entstehen .
+Lokale Drahtlosnetzwerke ( WLAN ) haben eine weitaus kleinere Ausdehnung als Mobilfunknetze .
+Meist ist die Reichweite auf wenige Meter bis einige 100 Meter begrenzt .
+Lokale Drahtlosnetzwerke erweitern meist ein kabelgebundenes lokales Netzwerk ( LAN ) zur Integration mobiler Endgeräte in privaten Haushalten oder Firmenstandorten .
+Sie zeichnen sich im Gegensatz zu Mobilfunknetzen durch hohe Datenübertragungsraten aus .
+Dadurch ist eine einfache , drahtlose Anbindung von Multimediageräten oder anderen durchsatzintensiven Geräten möglich .
+Die Begriﬀe WiFi und WLAN werden in Deutschland dazu verwendet um Geräte , die nach dem IEEE-802.11-Standard zertiﬁziert sind , zu bezeichnen .
+Dieser Standard wurde 1997 von der IEEE speziﬁziert und wurde mittlerweile 21High Speed Packet Access 22Orthogonal-Frequency-Division-Multiplexing 23Multiple-Input-Multiple-Output durch mehrere Erweiterungen verbessert .
+Während im ursprünglichen Standard Übertragungsraten über Infrarotlicht und Radiowellen bis zu 2 MBit/s vorgesehen waren , bietet der Standard 802.11n , der im September 2009 vorgestellt wurde , Übertragungsraten von bis zu 600 MBit/s [ Ins09 ] .
+Zur Übertragung werden nur lizenzfreie Frequenzbänder in den sog.  ISM-Bändern24 genutzt .
+Tabelle 2.1 zeigt die verschiedenen Varianten des IEEE-802.11 Standards mit deren maximalen Bruttodatenraten und den unterstützten Frequenzbereichen .
+Da es bei drahtlosen Netzwerken schwierig ist den physikalischen Zugang zu kontrollieren und zu unterbinden , sind Zugangskontroll- und Verschlüsselungsmechanismen Teil des Standards .
+Neben dem mittlerweile als unsicher geltenden WEP-Verfahren wurden als Übergangslösung die Verschlüsselungsmethode WPA und mit Verabschiedung des Standards IEEE-802.11i dessen Nachfolger WPA2 eingeführt .
+Grundsätzlich stehen zur Kommunikation zwischen Endgeräten zwei Topologien zur Verfügung .
+Im Ad-hoc-Modus kommunizieren alle Endgeräte , die sich jeweils in Reichweite beﬁnden , direkt miteinander .
+Im InfrastrukturModus hingegen läuft die gesamte Kommunikation über eine Vermittlungsinstanz , dem sog. Access-Point ( AP ) [ Leh03 , S. 122 ] .
+Wireless Personal Area Networks ( WPAN ) sind drahtlose Nahbereichsnetzwerke für eine Kommunikation von bis zu zehn Metern .
+Diese Drahtlostechniken dienen dazu , Geräte des persönlichen Arbeits- bzw. Lebensbereiches zu vernetzen und somit kurzzeitige bzw. ﬂiegend verlegte Kabelverbindungen überﬂüssig zu machen .
+Zu diesen Geräten gehören unter anderem Mobiltelefone , PDA ’ s , Drucker und Multimediageräte .
+Die Datenraten aber auch die Sendeleistungen und somit der Stromverbrauch liegen typischerweise unter denen von WLAN-Technologien .
+Das Hauptaugenmerk liegt bei den WPANTechnologien oft auf einem sehr einfachen und schnellen Verbindungsaufbau , da die Verbindungen zwischen den Geräten oft spontan initiiert werden und nur von kurzer Dauer sind .
+In diesem Bereich gibt es viele verschiedene Technologien .
+Bluetooth , vom IEEE-Konsortium als IEEE 802.15.1 standardisiert , ist in mobilen Endgeräten wie Mobilfunktelefonen oder Notebooks und Peripheriegeräten wie Druckern oder Telefon-Headsets weit verbreitet .
+Ziel dieser Technik ist hauptsächlich der Ersatz von Kabelverbindungen zwischen diesen Geräten .
+Es gibt dabei drei Klassen von Bluetoothgeräten .
+Die Sendeleistung der einzelnen Klassen liegt dabei zwischen 1mW und 100mW .
+Damit können Reichweiten zwischen einem und 100 Meter erreicht werden .
+Die Datenübertragungsraten liegen zwischen ca. 730kBit/s bis 2MBit/s [ Blu10 ] .
+Eine weitere von der IEEE unter IEEE 802.15.4 geführte Technik ist ZigBee .
+Diese soll hauptsächlich zur Verbindung von z.B. Haushaltsgeräten und Sensoren oder ähnlichen Geräten eingesetzt werden .
+Merkmale der ZigBeeTechnologie sind Datenraten von bis zu 250kBit/s über typischerweise 50 Meter .
+Zudem kann ein ZigBee-Netz aus bis zu 65500 Geräten bestehen [ Zig10 ] .
+Near Field Communication ( NFC ) , von der ISO als ISO 18092 standardisiert , ist eine Technologie zum Austausch von Daten über kurze Strecken .
+Als typische Einsatzfelder werde die Zugriﬀskontrolle , mobile Bezahlfunktionen oder Ticketing-Funktionen genannt .
+Dazu setzt NFC auf eine Kombination aus SmartCard- und Drahtlostechnologien .
+Es wird der Frequenzbereich von 13,56MHz genutzt .
+Die Technologie bietet dabei Übertragungsraten von bis zu 424kBit/s bei einer Reichweite von nur zehn Zentimetern [ Sto06 ] .
+Bisher hat NFC keine große Bedeutung erlangt und konnte sich gerade im Bereich der Zugangssteuerung nicht gegen Bluetooth durchsetzen .
+Weniger verbreitet und bekannt ist KNX-RF .
+Hierbei handelt es sich um eine Drahtlostechnik , die speziell im Bereich der Gebäudeautomation zum Einsatz kommt .
+Sie wird dazu verwendet KNX25-fähige Geräte wie zum Beispiel Aktoren zur Steuerung von Lichtquellen oder Haushaltsgeräten ohne Sanierungsaufwand am Gebäude in ein KNX-System einzubinden .
+Die Technik arbeitet im 868MHz-Band , welches in Europa für sog. Short-Range-Devices ( SRD ) reserviert und somit weniger störanfällig ist .
+Bei Sendeleistungen von ein bis 25mW werden Reichweiten von 30 Metern ( in Gebäuden ) bis 100 Metern ( Freifeld ) bei Übertragungsraten von 16 kBit/s erreicht .
+Bei KNXRF werden dabei zwei Arten von Geräten unterschieden .
+Geräte , die nicht permanent empfangsbereit sein müssen wie z.B. Sensoren unterstützen eine unidirektionale Kommunikation , d.h. sie haben keinen Empfänger und senden nur bei Bedarf .
+Die zweite Gerätekonﬁguration unterstützt bidirektionale Kommunikation und ist für alle Geräte geeignet , die jederzeit fernsteuerbar und damit empfangsbereit sein müssen . [ GK09 , S. 234 ] [ KSH09 , S. 93-96 ]
+Im Bereich der drahtlosen Kommunikationstechniken gibt es eine Vielzahl verschiedener Technologien und Standards für sehr unterschiedliche Einsatzbereiche .
+In den vorangegangenen Abschnitten wurde ein Überblick über gängige Technologien , unterteilt nach dem Merkmal der Netzausdehnung , gegeben .
+Zusammenfassend lässt sich herausstellen , dass die Technologien der drahtlosen Nahbereichsnetzwerke nicht für den zu entwickelnden Prototypen geeignet sind .
+Das liegt teilweise an den meist geringen Reichweiten dieser Technologien ( Bluetooth , NFC ) oder der mangelnden Unterstützung durch mobile Endgeräte ( ZigBee , NFC , KNX-RF ) .
+Diese Techniken eignen sich besser zur Vernetzung der Geräte der Gebäudetechnik untereinander oder für Zugriﬀssteuerungssyteme .
+Die Drahtlostechnologie WiFi bietet hingegen eine größere Netzausdehnung und ist zudem in einer Vielzahl mobiler Endgeräte und in Form eines Access Points ( AP ) in vielen Haushalten schon verfügbar .
+Beﬁndet man sich außerhalb des eigenen WiFi-Netzwerkes bieten sich die aktuellen Mobilfunktechnologien GSM und UMTS für den Zugriﬀ auf das System über das Internet an .
+Die meisten der derzeit verfügbaren Smartphones sind mit diesen Technologien ausgestattet .
+Aus diesen Gründen werde ich mich beim Prototypen auf die Unterstützung der Techniken WiFi sowie GSM und UMTS beschränken .
+Wie Frank [ Fra09 ] , Merz [ MHH10 ] und Kriesel [ KSH09 ] übereinstimmend berichten , ist die Gebäudeautomation bei Wohn- und Zweckbauten auf dem Vormarsch .
+Dabei spielen ein gestiegenes Umweltbewusstsein und vor allem eine höhere Wirtschaftlichkeit durch Energieeinsparungen , aber auch ein gesteigertes Komfort- und Sicherheitsbedürfnis der Kunden eine übergeordnete Rolle .
+Mit der konventionellen Elektroinstallation sind diese Aufgaben aber kaum noch zu lösen .
+Um komplexe Automatisierungsfunktionen , wenn z.B. beim Verlassen des Hauses zeitgleich viele Verbraucher ab- und die Alarmanlage scharf geschaltet werden sollen , mit der konventionellen Elektroinstallation umzusetzen würde es einer kaum überschaubaren Verkabelung bedürfen [ MHH10 , S. 17-18 ] .
+Zudem würde man wegen der geringen Flexibilität , vor allem in Bezug auf Veränderungen in der Gebäudenutzung , schnell an die Grenzen der konventionellen Elekroinstallation stoßen ( vgl. Abbildung 2.7 ) [ KSH09 , S. 2-3 ] .
+Das Bedürfnis nach einem einfach zu installierenden und ﬂexiblen System für die Gebäudesteuerung und -automation führte zu Beginn der 1990er Jahre dazu , dass sich oﬀene Bussysteme am Markt etablierten [ MHH10 , S. 34-35 ] .
+Durch diese ist es möglich komplexe Systeme zentral zu steuern und auf Veränderungen ﬂexibel zu reagieren .
+Das Gebiet der Gebäudeautomation und der sogenannten „ Smart Homes “ ist zudem ein stetig wachsender Forschungsbereich .
+Viele Organisationen untersuchen dabei vorhandene Technologien auf ihre Praxistauglichkeit und Grenzen und versuchen zukünftige Szenarien des Wohnens aufzuzeigen .
+Beispiele dafür sind das „ inHaus1 “ und „ inHaus2 “ der Fraunhofer-Gesellschaft [ Fra10 ] oder das „ Haus der Zukunft “ des österreichischen Bundesministerium für Verkehr , Innovation und Technologie [ Bun10 ] .
+Einige dieser Systeme sollen in den folgenden Abschnitten vorgestellt werden .
+Das Feldbussystem Konnex ( KNX ) ist ein in Europa weit verbreiteter Standard für die Gebäudeautomation .
+Er entstand durch die Vereinigung der verschiedenen europäischen Installationsbussysteme „ European Installation Bus “ ( EIB ) , „ BatiBUS “ und „ European Home Systems “ ( EHS ) im Jahr 1999 .
+Hauptsächlich basiert der daraus entstandene KNX-Standard auf dem aus Deutschland stammenden EIB [ Fra09 , S. 113 ] , der „ [ ... ] um Konﬁgurations mechanismen und Datenübertragungsmedien der anderen beiden Systeme [ ... ] erweitert “ wurde [ KSH09 , S. 15 ] .
+Mittlerweile ist KNX auch von weiteren internationalen Normungsgremien , darunter auch ISO und ANSI , anerkannt worden und somit „ [ ... ] der weltweit erste oﬀene Kommunikationsstandard für Steuerungssysteme in Heim und Gebäude “ [ KSH09 , S. 17 ] .
+Um die Notwendigkeit eines standardisierten Bussystems für die Kommunikation in Gebäudetechniktechniksystemen zu verstehen , muss man die Vorgehensweise mit der konventionellen Elekroinstallation , wie sie heute noch sehr weit verbreitet ist , betrachten .
+„ Seit den Anfängen der Nutzung elektrischer Energie werden elektrische Verbraucher [ ... ] direkt über einen Schalter mit elektrischer Energie versorgt “ [ KSH09 , S. 1 ] .
+Das heißt also , dass in der konventionellen Elektroinstallation die Stromleitung auch zur Informationsübertragung ( z.B. Ein/Aus ) genutzt wird [ Fra09 , S. 15 ] .
+Komplexe Schaltungen von Verbrauchern können also nur durch eine ebenso komplexe Verdrahtung der einzelnen Verbraucher und Schalter realisiert werden ( siehe Abbildung 2.7 ) .
+Es entstehen laut Kriesel [ KSH09 , S. 1-2 ] bestenfalls Insellösungen , z.B. eines für die Beleuchtung , ein anderes für die Heizungssteuerung , die nicht untereinander verbunden sind .
+Mit steigender Anzahl der integrierten Geräte steigt zudem der Bedarf an Leitungswegen und die Komplexität der Verdrahtung überproportional an .
+Bei dem Bussystem KONNEX ( KNX ) sind die Stromleitung und die Leitung zur Informationsübertragung voneinander getrennt ( siehe Abbildung 2.8 ) .
+Zur physikalischen Informationsübertragung können bei KNX/EIB verschiedene Medien eingesetzt werden .
+Am weitesten verbreitet ist dafür eine verdrillte Zweidrahtleitung ( KNX.TP26 ) , es kann aber auch Power Line ( KNX.PL ) , Funk ( KNX.RF ) und eingeschränkt auch Ethernet ( KNXnet/IP ) eingesetzt werden .
+Neben dieser Trennung von Strom- und Informationsleitung wird bei KNX zudem ein Schaltvorgang von zwei getrennten Geräteklassen vorgenommen .
+Sensoren wandeln dabei physikalische Größen , wie z.B. einen Tastendruck oder die Temperatur , in Informationen um und können diese weitergeben .
+Aktoren hingegen können diese Informationen verarbeiten und wieder in eine physikalische Größe umwandeln , z.B. einen Schaltkontakt schalten oder einen Jalousiemotor steuern .
+Durch diese , auch räumlich mögliche , Trennung von Schalt-Auslöser ( Sensor ) und Schalter ( Aktor ) und die Trennung von Strom- und Informationsleitungen kann das System durch die Möglichkeit der Umprogrammierung der Aktoren und Sensoren sehr ﬂexibel gehalten werden .
+Die Kommunikation der Busteilnehmer ( Sensoren und Aktoren ) erfolgt über die Busleitung .
+Alle Teilnehmer sind über einen Busankoppler an diesen angeschlossen und können Informationen der anderen Teilnehmer über Telegramme empfangen .
+Dadurch stehen sämtliche Informationen ( Zustände/Werte ) je nach Bedarf an jedem Punkt im System zur Verfügung und es ist keine zentrale Verwaltung nötig [ KSH09 , S. 4 ] .
+Das Bussystem ist dabei sehr übersichtlich strukturiert und unterteilt sich immer in Bereiche und Linien , egal wie komplex das zu erstellende System ist .
+Ein Bereich ist die übergeordnete Hierarchie .
+Insgesamt lassen sich 16 Bereiche mit jeweils 16 Linien , in denen wiederum theoretisch bis zu 256 Geräte angesprochen werden können , adressieren ( siehe Abbildung 2.9 ) .
+Die Unterteilung in Bereiche und Linien hat im Wesentlichen die Aufgabe Bereiche galvanisch und in Bezug auf die Telegrammübermittlung abzutrennen .
+Ähnlich wie bei der Segmentierung von IP-Netzen erreicht man dadurch eine geringe Belastung des Busses durch Daten- bzw. Telegrammverkehr , da nur Telegramme für linien- bzw. bereichsfremde Teilnehmer über Linien bzw. Bereiche hinweg geroutet werden .
+Zudem bleiben andere Linien und Bereiche bei Störungen einzelner Linien oder Bereiche funktionsfähig .
+Wie schon angesprochen ﬁndet die Kommunikation zwischen den Teilnehmern über Telegramme statt .
+Eine Adressierung der Teilnehmer wird über physikalische Adressen , die jeden Teilnehmer eindeutig identiﬁzieren und logische Adressen , sogenannte Gruppenadressen , realisiert .
+Durch letztere können mehrere Geräte zu einer Gruppe zusammengefasst werden .
+Meist werden die Gruppen , die in zwei oder drei Hierarchie-Stufen unterteilt sind , je nach Funktionsbereich der Geräte gebildet [ FM09a , S. 110-111 ] .
+Jedes Telegramm , das an eine solche Gruppenadresse geschickt wird , wird von allen Teilnehmern dieser Gruppe empfangen und verarbeitet .
+Die physikalischen Adressen der einzelnen Teilnehmer ergeben sich aus der Topologie des Systems .
+Ist ein Gerät zum Beispiel im Bereich 2 an der Linie 15 angeschlossen , so wären die physikalische Adressen von 2.15.0 bis 2.15.255 gültig , wobei die Adresse 2.15.0 für den Linienkoppler , der die verschiedenen Linien mit der Hauptlinie verbindet , reserviert ist .
+Ein Telegramm enthält dabei neben Quellund Zieladresse noch weitere Informationen wie z.B. Steuerungsinformationen und Nutzdaten .
+Die Übertragungsrate innerhalb des Bussystems liegt bei 9,6kBit/s [ FM09b , S. 179 ] .
+Da das System äußerst ﬂexibel ist und auch die einzelnen Busteilnehmer unter Umständen für unterschiedliche Zwecke eingesetzt werden können , ist es nötig , diese vor ihrer Verwendung zu programmieren .
+Für diese Programmierung benötigt man für die meisten Geräte einen PC , der mit dem Bussystem über ein entsprechendes Gateway ( z.B. USB oder Ethernet ) verbunden ist .
+Über die ETS27 wird eine physikalische Adresse und ein parametriertes Anwendungsprogramm konﬁguriert und auf das entsprechende Gerät übertragen .
+So ist es durch einfache Umprogrammierung zum Beispiel möglich , dass ein und derselbe Wipp-Schalter in einer Konﬁguration über eine bestimmte Gruppenadresse mehrere Lichtquellen dimmt und in einer anderen Konﬁguration unter einer anderen Gruppenadresse bei Betätigung einen bestimmten Wert sendet , z.B. für eine Klingelschaltung .
+Die Flexibilität des Systems wird zudem durch zahlreiche verfügbare Schnittstellen bzw. Gateways zu anderen Systemen erhöht .
+So ist es unter anderem möglich DALI28-Lichtsteurungssysteme oder DMX-Veranstaltungssysteme in ein KNX-System einzubinden oder über ein GSM-Gateway eine Steuerung des Systems über den SMS-Dienst zu realisieren .
+Neben dem KNX-Bussystem gibt es im Bereich der Gebäudeautomatisierung weitere Technologien , die eine intelligente Steuerung und Überwachung von Gebäudetechnik ermöglichen .
+Mit LON29 wird nachfolgend ein weiteres international standardisiertes System für die Gebäudeautomation vorgestellt .
+Die Technologie LonWorks , die den Feldbus LON einsetzt , wurde ca. 1990 von der Firma `` Echelon Corporation '' entwickelt und ist seit Dezember 2008 von der ISO als internationale Norm anerkannt .
+Die Technik basiert auf einem ähnlichen Ansatz wie KNX und steht somit in Konkurrenz zu diesem System .
+Über entsprechende Gateways können beide Welten , die sich teilweise ergänzen , aber auch verbunden werden . [ MHH10 , S. 156-157 ]
+Kerngedanke der Technologie war ursprünglich „ [ ... ] die Entwicklung einer universellen Technologie für dezentrale Netzwerke “ [ MHH10 , S. 161 ] .
+Die Grundelemente ( Knoten ) des Systems sind bei LON Sensoren , Aktoren und Controller .
+Die Informationen werden dabei lokal in den Knoten verarbeitet wodurch eine zentrale Steuereinheit überﬂüssig wird .
+Ähnlich wie bei KNX sind Strom- und Informationsleitung getrennt ( siehe Abbildung 2.10 ) .
+Die Anbindung der Knoten an ein Übertragungsmedium wird über einen Transceiver vorgenommen und kann , je nach Medium , eine Bitrate von bis zu 1,25 MBit/s erreichen .
+Als Übertragungsmedien können unter anderem verdrillte Zweidrahtleitungen ( Twisted Pair ) , Power Line , Funk oder Lichtwellenleiter verwendet werden .
+Ähnlich wie bei KNX läuft die Kommunikation zwischen den einzelnen Knoten über Telegramme .
+Übertragen werden diese über das LonTalk-Protokoll .
+Alle Teilnehmer hören dabei das Übertragungsmedium ab und können selbst auf die Busleitung über ein CSMA30 zugreifen .
+Pro Subnetz können bei LON 128 Geräte betrieben werden .
+Über Router können zudem bis zu 255 Subnetze verbunden werden .
+Diese Router bieten auch eine Filterfunktion , damit Telegramme des eigenen Subnetzes nicht weitergeleitet werden .
+Dadurch kann die Gesamtlast des Netzes gering gehalten werden .
+Die Steuerung und Überwachung intelligenter Gebäudetechnik ist prinzipiell über mehrere Wege möglich .
+Weit verbreitet sind sogenannte „ Home-Server “ , ein zentraler Rechner , bei dem alle Informationen des Gebäudeautomationssystems zusammenlaufen und dort aufbereitet werden .
+Hauptfunktion dieser Server ist die Bereitstellung einer Visualisierung des Systems .
+Auf diese Visualisierung können Info-Panels , die im Haus verteilt sein können , aber auch PCs und in einigen Fällen auch mobile Endgeräte zugreifen .
+Bietet das eingesetzte Home-Server-System einen Webserver ist auch eine Steuerung und Überwachung über einen Browser von beliebigen Standorten möglich .
+Die verschiedenen Home-Server-Systeme unterscheiden sich in ihrem Funktionsumfang erheblich und bieten meist , bis auf die über einen eventuell vorhandenen Webserver gebotenen Funktionalitäten , keine einheitlichen Zugriﬀsverfahren .
+Zudem muss die Konﬁguration meist von geschultem Fachpersonal vorgenommen werden .
+Vorteile dieser Herangehensweise sind die sehr gute Anpassbarkeit an das zugrunde liegende Gebäudeautomationssystem und eine plattformunabhängige Bereitstellung von Funktionalitäten über einen Webserver .
+Ein Beispiel eines solchen Systems ist der Gira HomeServer bzw. Gira FacilityServer ( siehe Abbildung 2.11 ) [ Gir10 ] .
+Über diese Server-Systeme können komplexe KNX/EIB-Systeme gesteuert und mit Visualisierungen dargestellt werden .
+Über einen Webserver ist der Zugriﬀ auf das System mit einer Vielzahl von Geräten über einen Web-Browser möglich .
+Eine weitere Möglichkeit zum mobilen Zugriﬀ auf Gebäudeautomationssysteme sind native Anwendungen auf dem mobilen Endgerät .
+Dabei ist zu unterscheiden , ob durch die mobile Anwendung nur auf einen , von einem Home-Server-System bereitgestellten , Webserver zugegriﬀen wird oder ein KNXnet/IP-Gateway bzw. -Router direkt angesprochen wird .
+Die Anwendung „ m .. Remote “ [ ibs10 ] stellt dabei einen Vertreter der ersten Kategorie dar und bietet somit nur eine auf das mobile Endgerät angepasste Version der Funktionalitäten , die der zugrunde liegende Webserver zur Verfügung stellt .
+Ist ein direkter Zugriﬀ auf die Schnittstelle zum Gebäudeautomationssystem möglich entfällt die ansonsten zwischengeschaltete zentrale Steuereinheit , z.B. der Home-Server .
+Die Kommunikation mit der Schnittstelle zum Gebäudeautomationssystem kann über standardisierte Protokolle und Nachrichten erfolgen .
+Ein Nachteil ist , das für die unterschiedlichen mobilen Plattformen eigene Anwendungen entwickelt werden müssen .
+Zu dieser Kategorie gehört die Anwendung „ ayControl “ [ eas10 ] .
+Mit dieser Anwendung ist es möglich direkt mit dem KNX-System über eine entsprechende Schnittstelle zu kommunizieren .
+Wegen des umfassenden Konﬁgurationsaufwands wird „ ayControl “ nur an Systemintegratoren vertrieben .
+Diese passen die Anwendung auf das entsprechende System beim Kunden an , erstellen z.B. die Benutzeroberﬂäche in einer Drittanbieteranwendung und schalten die Konﬁguration über ein Webportal von „ easyMobiz “ frei ( siehe Abbildung 2.12 ) .
+Technologien für die Gebäudeautomation erhalten Einzug in immer mehr Wohnhäuser und gewerbliche Gebäude .
+Da der Aufwand zur Erstellung komplexer Steuerungs- und Überwachungssysteme mit der konventionellen Elektroinstallation überproportional steigt wird immer häuﬁger auf standardisierte Technologien zur Gebäudeautomation zurückgegriffen .
+Diese bieten ab einer bestimmten Komplexität des Systems eine einfachere und kostengünstigere Installation und eine hohe Flexibilität für Erweiterungen und Veränderungen des Umfeldes .
+Mit KNX/EIB und LON wurden zwei stark verbreitete Systeme für die Gebäudeautomation vorgestellt .
+Auch wenn diese technisch und elektrisch nicht zueinander kompatibel sind , so basieren sie doch auf ähnlichen Grundgedanken und unterscheiden sich nur in wenigen Merkmalen .
+LON bietet dabei die schnellere Datenübertragungsrate und eine größere Auswahl bei den Instandsetzungsanwendungen .
+KNX/EIB ist hingegen bereits länger ein internationaler Standard mit einer in Europa höheren Marktdurchdringung .
+Beide Technologien wären zur Umsetzung der proto typischen Anwendung geeignet .
+Auch hier werde ich mich aus Gründen des Umfangs auf eine Technologie beschränken .
+Das KNX/EIB-System scheint mir aufgrund der höheren Akzeptanz in Europa und der größeren Auswahl an Geräten , die diese Technik unterstützen , geeigneter zur Umsetzung des Prototypen .
+Zur Steuerung und Überwachung der eben genannten Gebäudeautomationssysteme sind schon einige Anwendungen am Markt verfügbar .
+Diese setzen aber meist auf zwischengeschaltete Systeme wie z.B. einen zentralen Rechner im lokalen Netzwerk oder müssen kompliziert über Anwendungen Dritter oder Webportale der entsprechenden Anbieter konﬁguriert werden .
+Aus diesen Gründen soll ein anderer Ansatz zur Erfüllung dieser Aufgaben gefunden werden .
+Im vorherigen Kapitel wurden potenziell nutzbare Technologien besprochen und Beispielsysteme zur Steuerung von Gebäudetechnik mit mobilen Endgeräten betrachtet .
+Auf dieser Grundlage sollen nun die Anforderungen an den zu entwickelnden Prototypen formuliert werden .
+Um hier einen detaillierten Anforderungskatalog erstellen zu können , müssen auch das anvisierte Einsatzgebiet und die Rahmenbedingungen erörtert werden .
+Dadurch sollen potentielle Herausforderungen und Probleme schon vor der Konzeption des Systems ins Auge gefasst werden .
+In diesem Abschnitt soll die Umgebung , in der die prototypisch zu entwickelnde Anwendung einmal eingesetzt werden soll , genauer betrachtet werden .
+Dazu muss zum einen das spätere Einsatzgebiet herausgestellt werden .
+Es muss erarbeitet werden , welche Personengruppen in welcher Umgebung welchen Umfang an Funktionalitäten nutzen sollen .
+Zum anderen sollen auch die Rahmenbedingungen betrachtet werden .
+Hier sollen die vorausgesetzten Systeme und deren Konﬁguration und die benötigten Datenquellen , die von der Anwendung verarbeitet werden , beschrieben werden .
+Die Anwendung soll im Umfeld der Gebäudeautomation im Wohn- und Zweckbau eingesetzt werden .
+Durch den Einsatz der Anwendung soll es Technikern bzw. Systemintegratoren ermöglicht werden ein Gebäudeautomationssystem beim Kunden ohne umfangreichen Konﬁgurationsaufwand grundlegend steuern und überwachen zu können um so eventuell erste Hinweise auf eine Fehlkonﬁguration bzw. -funktion zu bekommen .
+Zudem soll über die Anwendung eine einfache Integration mobiler Endgeräte in neue und bestehende Gebäudeautomationssysteme möglich sein .
+Über die mobile Anwendung sollen Gebäudeautomationssysteme , die dem KNX-Standard entsprechen , gesteuert und überwacht werden können .
+Insbesondere sind die Grundfunktionalitäten wie z.B. das Schalten von Lichtquellen und das Auslesen von Temperatursensoren ohne zwischengeschaltete Systeme möglich .
+Die Anwendung kommuniziert über das mobile Endgerät direkt mit dem Gebäudeautomationssystem .
+Dadurch soll es Fachpersonal möglich sein , mit wenig Konﬁgurationsaufwand auf die Grundfunktionalitäten eines Gebäudeautomationssystems zuzugreifen .
+Auf der anderen Seite sollen Endanwender ohne weitreichende Kenntnisse der Systeme in der Lage sein , ein mobiles Endgerät in ein bestehendes Gebäudeautomationssystem zu integrieren .
+Durch die Erweiterung des Funktionsumfangs über die im letzten Abschnitt angesprochenen Grundfunktionalitäten hinaus , ist es dem Anwender möglich Ereignisse aus dem Gebäudeautomationssystem heraus zu empfangen ohne , dass sich das iPhone gezwungenermaßen im gleichen lokalen Netzwerk beﬁndet und die mobile Anwendung aktiv ist .
+Dazu ist aber der Einsatz eines lokalen Servers nötig , der alle Nachrichten des Gebäudeautomationssystems verarbeitet und sie an das mobile Endgerät über geeignete Techniken weiterleitet .
+Ist das mobile Endgerät mit dem lokalen Netzwerk verbunden und somit in der Lage die KNX-Telegramme zu empfangen und zu verarbeiten , so ist es auch denkbar , dass zuvor deﬁnierte Telegramme bestimmte Aktionen in der mobilen Anwendung auslösen .
+Das Anzeigen eines Live-Streams einer Webcam beim Auslösen einer im KNX-System integrierten Klingelschaltung soll als Beispiel für eine solche Funktionalität dienen .
+Zur Umsetzung des Prototyps werden bestimmte Rahmenbedingungen vorausgesetzt .
+Wie aus Kapitel 2 hervorgegangen ist , wird die Anwendung für die iPhoneOS-Plattform und insbesondere das iPhone 3GS entwickelt .
+Derzeitig ist diese Plattform in der Version 3.1.3 aktuell .
+Zudem wird eine Elektroinstallation nach KNX-Standard ISO/IEC 14543-3 mit mindestens einer Lichtquelle , einem Temperatursensor sowie den entsprechenden Aktoren und Schaltern vorausgesetzt .
+Ein KNXnet/IP-Router soll den Übergang zum Übertragungsmedium Ethernet gewährleisten .
+Die Anbindung des iPhones erfolgt über einen WLAN-Router ( siehe Abbildung 3.1 ) .
+Dieser muss die Weiterleitung von Multicast-IP-Paketen beherrschen und als VPN-Gateway agieren können .
+Da ein Gebäudeautomationssystem nach KNX-Standard intern nur eine Datenübertragungsrate von 9,6kBit/s unterstützt , unterliegt die Bandbreite zum mobilen Endgerät ihm Rahmen der Grundfunktionalitäten keinerlei besonderer Beschränkungen .
+Gerade im Hinblick auf die zuvor angesprochenen erweiterten Funktionalitäten wie z.B. der Anzeige von LiveStreams einer Webcam , ist eine Anbindung des mobilen Endgerätes über eine breitbandige mobile Drahtlostechnologie wie UMTS von Vorteil .
+Neben diesen hardwaretechnischen Voraussetzungen ergeben sich noch weitere Voraussetzungen an die Konﬁguration der verschiedenen Systeme und an die Datenquellen .
+Hier sind zwei Konﬁgurationsdateien aus der in Unterabschnitt 2.3.1 beschriebenen Software ETS zu nennen .
+In der GeräteKonﬁgurationsdatei werden Geräte , die im KNX-System verfügbar sind , aufgelistet und mit Merkmalen beschrieben ( vgl. Listing 3.1 ) .
+Zu diesen Merkmalen gehören unter anderem die physikalische Adresse im KNX-System , der Hersteller und der Gerätename sowie der verwendete Datenpunkttyp1 des Gerätes .
+Eine Pﬂege des Datenpunkttyps im ETS-Projekt ist hierbei besonders wichtig um aus diesem Merkmal geeignete Interaktionselemente für die KNXGeräte auf der Benutzeroberﬂäche der Anwendung anzuzeigen .
+In der zweiten Konﬁgurationsdatei sind die Gruppenadressen des KNX-Systems angegeben .
+1Der Datenpunkttyp ist Teil des KNX-Standards und beschreibt wie die Nutzdaten eines KNX-Telegramms zu interpretieren sind .
+So wird beispielsweise über den Datenpunkttyp `` 14.068 '' , der einem KNX-Gerät zugeordnet wird , beschrieben , dass die Nutzdaten als '' Common Temperature '' zu interpretieren sind [ KNX09 , S. 13 ] .
+Gruppen stellen dabei eine Zusammenfassung von Geräten nach Funktionen dar .
+So kann z.B. ein einzelner Temperatursensor über eine Gruppe `` Außentemperatur '' oder aber auch eine Zusammenfassung mehrerer Geräte , üblicherweise ein bzw. mehrere Schalter und ein bzw. mehrere Schaltaktoren , abgebildet werden .
+Üblicherweise werden in KNX-Systemen nicht einzelne Geräte über deren physikalische Adresse sondern Funktionen bzw. Gruppen über deren Gruppenadresse angesprochen und stellen somit die typische Form der Adressierung dar .
+Aus diesem Grund kann die Bezeichnung einer Gruppe dazu verwendet werden über eine deﬁnierte Syntax der mobilen Anwendung Parameter zum Ausführen bestimmter Funktionen , z.B. der URL einer Webcam , zu übergeben .
+Diese Syntax kann beim Einlesen der Gruppenkonﬁgurationsdatei verarbeitet werden und bei Erhalt von Nachrichten von dieser Gruppe deﬁnierte Aktionen auslösen .
+Eine weitere Datenquelle stellen die KNX-Telegramme der KNX-Geräte dar .
+Diese enthalten neben den eigentlichen Nutzdaten noch weitere Informationen über den Sender , den Empfänger und den Telegrammtyp .
+Der Telegrammtyp untergliedert sich dabei in Lese ( Read ) , Schreib- ( Write ) und Antworttelegramme ( Response ) .
+Von der mobilen Anwendung werden ausschließlich Lese- und Schreibtelegramme über den KNXnet/IP-Router an die entsprechenden Gruppenadressen gesendet wer den .
+Diese beantworten entweder die Lesetelegramme mit einem Antworttelegramm oder setzen die entsprechenden Werte der Schreibtelegramme an den Geräten der Gruppe um .
+Aus der Aufgabenstellung , intelligente Gebäudetechnik über mobile Endgeräte steuern und überwachen zu können , und der soeben analysierten Anwendungsumgebung lassen sich Anforderungen an das zu entwickelnde System ableiten .
+Die Geräte eines KNX-Systems sollen sich direkt vom mobilen Endgerät aus steuern und überwachen lassen .
+Für diesen Funktionsumfang sollen keine zusätzlichen Systeme wie z.B. Server-Anwendungen nötig sein .
+Die Konﬁguration der mobilen Anwendung soll einzig und allein über den Import von zwei deﬁnierten Konﬁgurationsdateien , die durch die Software ETS erzeugt werden , erfolgen .
+Die Benutzeroberﬂäche soll aus den Informationen der Konﬁgurationsdateien erzeugt werden und dem Anwender geeignete Präsentationsund Interaktionselemente zur Steuerung und Überwachung der KNX-Geräte zur Verfügung stellen .
+Das Auslesen und Ändern des Status bzw. der Sensorenwerte von KNXGeräten soll ausschließlich auf Anfrage der mobilen Anwendung erfolgen .
+Ist die Anwendung nicht aktiv oder nicht mit dem lokalen Netzwerk verbunden , können Telegramme des KNX-Systems ohne ein geeignetes zwischengeschaltetes System nicht verarbeitet werden .
+Eine optional zu entwickelnde Server-Anwendung kann alle Telegramme des KNX-Systems empfangen und verarbeiten .
+Sollte sich ein für diesen Dienst registriertes mobiles Endgerät nicht im lokalen Netzwerk beﬁnden soll es ausﬁndig gemacht und Meldungen an das Gerät gesendet werden .
+Aus den Erkenntnissen , die aus der zuvor besprochenen Anwendungsumgebung und den Rahmenbedingungen gezogen werden können , sind im Gesamtsystem grundlegend zwei Szenarien zu identiﬁziert .
+Zum Einen wird die iPhone-Anwendung im lokalen Netzwerk betrieben oder ist durch geeignete Technologien wie VPN mit diesem verbunden .
+Innerhalb dieses Szenarios sind alle Funktionalitäten , wie z.B. das Auslesen von Sensorenwerten , das Schalten von Aktoren oder der Empfang von Telegrammen aus dem KNX-System heraus , verfügbar .
+Das zweite Szenario beschreibt die Situation , wenn die iPhone-Anwendung nicht mit dem lokalen Netzwerk verbunden oder nicht aktiv ist .
+Da in diesem Fall ein Empfang der Telegramme des KNX-Systems nicht möglich ist , sind Zwischensysteme nötig , die die Anwendung über den Eintritt bestimmter Ereignisse innerhalb des KNX-Systems informieren .
+Die folgenden Anwendungsfälle beschreiben das Szenario , wenn die iPhoneAnwendung im lokalen Netzwerk betrieben wird .
+Für die prototypische Umsetzung des Systems wird hier nur auf einen eingeschränkten Teil der möglichen Aktionen eingegangen ( siehe Abbildung 3.2 ) .
+Die Anwendungsfälle `` Gerätestatus erfragen '' und `` Gerätestatus ändern '' umfassen generell die Möglichkeit eine Gerätegruppe innerhalb des KNX-Systems über eine Gruppenadresse anzusprechen und dessen Status abzufragen bzw. zu ändern .
+Mit dem Prototypen soll mindestens das Auslesen der Daten von Temperatursensoren und Lichtquellen sowie das Schalten von Lichtquellen möglich sein .
+Die beiden genannten Anwendungfälle beschreiben die Situation , wenn eine Anfrage oder das Ändern des Status von der iPhoneAnwendung aus initiiert wurde .
+Dazu werden von der iPhone-Anwendung Lese- bzw. Schreibtelegramme erzeugt und versendet .
+Die die im Telegramm adressierte Gruppe beantwortet Lesetelegramme daraufhin mit einem entsprechenden Antworttelegramm oder setzt den Wert , der im Schreibtelegramm übermittelt wurde , an den Aktoren um .
+Zusätzlich ist es auch denkbar , dass Telegramme , die aus dem KNX-System heraus erzeugt werden , empfangen und verarbeitet werden können .
+Dabei könnten bestimmte Telegramme vordeﬁnierte Aktionen auslösen wie z.B. das Anzeigen einer Meldung oder einer Webpage .
+Zur Umsetzung dieser Funktionalität ist aber ein Mechanismus nötig , über den die iPhone-Anwendung Informationen über die Art der auszuführenden Aktionen beim Empfang bestimmter Telegramme erhält .
+Dies wäre über eine deﬁnierte Syntax des Gruppenbezeichners möglich .
+Als letzten Anwendungsfall dieses Teilsystems betrachten wir die Aktion '' ETS-Konﬁgurationsdateien einlesen '' .
+Der Anwender übergibt der iPhoneAnwendung zwei Konﬁgurationsdateien , die durch die ETS-Software für ein KNX-System erstellt werden .
+Diese Konﬁgurationsdateien werden verarbeitet und eine Benutzeroberﬂäche mit geeigneten graﬁschen Benutzerelementen , über die die Geräte steuer- und überwachbar sind , erstellt .
+Im zweiten Szenario ist das Senden bzw. Empfangen von KNX-Telegrammen nicht möglich , da die Verbindung zum lokalen Netzwerk und somit zum KNXSystem nicht gegeben ist .
+Denkbar wäre aber die Situation , dass auch dann zuvor deﬁnierte Telegrammarten an die mobile Anwendung ausgeliefert werden sollen .
+Als Beispiel kann hier das Auslösen einer KNX-fähigen Alarmanlage dienen .
+Über eine Server-Anwendung , die im lokalen Netzwerk betrieben wird , könnten solche Telegrammarten deﬁniert und die entsprechenden Telegramme empfangen und verarbeitet werden .
+Über geeignete Techniken könnte diese Server-Anwendung zuvor registrierte iPhones ausﬁndig machen und eine entsprechende Meldung senden ( siehe Abbildung 3.2 ) .
+Im vorherigen Kapitel 3 wurden das Umfeld , in der die Anwendung betrieben wird , sowie die Rahmenbedingungen und die Anforderungen , die an das System gestellt werden , speziﬁziert .
+Anhand der zwei entworfenen Szenarien können drei Teilsysteme ermittelt werden .
+Im Szenario 1 ( vgl. Unterabschnitt 3.3.1 ) sind das die iPhone-Anwendung und das KNX-Gebäudeautomationssystem .
+Im Szenario 2 ( vgl. Unterabschnitt 3.3.2 ) wird zusätzlich eine Server-Anwendung betrieben .
+In diesem Kapitel soll nun eine geeignete System-Architektur gewählt und Schnittstellen zwischen den einzelnen Teilsystemen deﬁniert werden .
+Durch das Festlegen dieser Schnittstellen soll eine reibungslose Kommunikation zwischen den Teilsystemen sichergestellt werden .
+Im Gesamtsystem existiert mit dem KNX-Gebäudeautomationssystem ein Teilsystem , dass weitestgehend fest vorgegeben ist und im Rahmen der Systemimplementierung auch nicht verändert wird .
+Der KNX-Standard deﬁniert mit den in Abschnitt 2.3 beschriebenen Telegrammen eine Schnittstelle zur Kommunikation mit dem System und bietet mit unterschiedlichen Geräten , in unserem Fall dem KNXnet/IP-Router , einen Zugriﬀspunkt zu diesem .
+Die Beschreibung des KNX-Systems erfolgt über Konﬁgurationsdateien in deﬁnierten Austauschformaten wie CSV1 und XML2 .
+Durch die Eigenständigkeit dieses Teilsystems entsteht zwangsläuﬁg eine verteilte Architektur des Gesamtsystems .
+Die Daten werden hierbei über eine drahtlose Schnittstelle ausgetauscht .
+Die mobile Anwendung dient dabei als visuelle Repräsentation des KNX-Systems .
+Zudem ist sie für das Erzeugen und Senden von Telegrammen zum Auslesen bzw. Ändern des Status von Geräten innerhalb des KNX-Systems sowie den Empfang von Telegrammen aus dem System zuständig .
+Im zweiten Szenario kommt eine Server-Anwendung hinzu , welche alle Telegramme des KNX-Systems empfängt , verarbeitet und ggf. an mobile Endgeräte weiterleitet ( vgl. Abbildung 4.1 ) .
+Wie soeben beschrieben , sind die Komponenten und Schnittstellen des KNXSystems nicht veränderbar und müssen als gegeben hingenommen werden .
+Die beiden anderen Teilsysteme können hingegen frei entworfen werden .
+Ein geeignetes Architekturmuster für diese Teilsysteme stellt das Model-ViewController ( MVC ) Architekturmuster dar .
+Bei diesem wird jedes System in drei Schichten unterteilt ( siehe Abbildung 4.2 ) .
+Jede dieser Schichten ist in sich abgeschlossen und stellt Funktionalitäten ausschließlich über deﬁnierte Schnittstellen zur Verfügung .
+Dadurch entsteht eine klare Strukturierung und die Wiederverwendbarkeit bzw. Austauschbarkeit einzelner Komponenten wird erleichtert , wodurch die Flexibilität des Systems insgesamt steigt .
+Im MVC-Architekturmuster werden dabei alle Objekte einer der drei Rollen Daten ( Model ) , Präsentation ( View ) und Steuerung ( Controller ) zugeordnet [ App09b ] .
+Das MVC-Architekturmuster , das bei der iPhoneOS-Plattform Anwendung ﬁndet [ App09b ] , unterscheidet sich dabei etwas vom klassischen MVC-Modell .
+Während im klassischen Modell die View-Komponente direkt mit der Model-Komponente kommunizieren kann , ist die Kommunikation im modiﬁzierten Modell ausschließlich über die Controller-Komponente möglich .
+Dadurch kann die Wiederverwendbarkeit und Erweiterbarkeit der einzelnen Komponenten verbessert werden .
+Die Anwendung des MVC-Architekturmusters ist für Anwendungen , die auf der iPhoneOS-Plattform basieren , zudem obligatorisch [ App09b ] .
+Für die Server-Anwendung , die im zweiten Szenario benötigt wird , kann das MVC-Modell ebenfalls Anwendung ﬁnden , da es zu einer übersichtlichen Struktur und besser deﬁnierten Schnittstellen zwischen den einzelnen Komponenten beiträgt .
+Da eine Implementierung der ServerAnwendung den Umfang dieser Arbeit übersteigen würde , wird in den folgenden Abschnitten nur grundlegend auf die Architektur dieses Teilsystems eingegangen .
+Die Objekte der Datenschicht kapseln die Daten der Anwendung und stellen Funktionalitäten zur Verarbeitung der Daten zur Verfügung .
+Zudem wird in dieser Schicht die persistente Speicherung von Daten , die über die Laufzeit der Anwendung hinaus verfügbar sein sollen , sichergestellt .
+Im Teilsystem der iPhone-Anwendung zählen dazu die Informationen aus der Gruppenund Gerätekonﬁgurationsdatei sowie grundlegende Informationen zum KNXSystem , die der Anwender angeben muss .
+Innerhalb der Server-Anwendung werden nur wenige Informationen zum mobilen Endgerät sowie den weiterzuleitenden Telegrammarten dauerhaft benötigt .
+Zwischen den einzelnen Teilsystemen werden KNX-Telegramme bzw. Repräsentationen dieser ausgetauscht , die keiner persistenten Speicherung bedürfen .
+Wie schon zuvor angesprochen wurde , unterteilt sich die Datenschicht der iPhone-Anwendung in eine persistierte Abbildung der Informationen aus der Gruppen- und Gerätekonﬁgurationsdatei und den nicht-persistierten KNXTelegrammen .
+Die Telegramme sind im KNX-Standard beschrieben und besitzen einen festen Aufbau ( siehe Abbildung 4.3 ) .
+Für das Überwachen und Steuern von KNX-Geräten sind die drei Telegrammtypen Read , Write und Response wichtig .
+Während Read- und Write-Telegramme von der iPhone-Anwendung erzeugt und an das KNX-System gesendet werden , werden Response-Telegramme aus dem KNX-System empfangen und von der Anwendung verarbeitet .
+Die Nutzdaten werden anhand des Datenpunkttyps der Empfängergruppe des Telegramms interpretiert und verarbeitet ( vgl. Unterabschnitt 3.1.2 ) .
+Weitere wichtige Informationen in einem KNX-Telegramm sind neben dem Telegrammtyp und den Nutzdaten die Quell- und Zieladresse .
+Die Telegramme werden von einer Komponente der Datenschicht erzeugt oder verarbeitet und danach verworfen .
+Das Datenmodell der persistent zu speichernden Daten der beiden Konﬁgurationsdateien orientiert sich stark an der Topologie eines KNX-Systems ( vgl. Abbildung 2.9 ) .
+Wie im Unterabschnitt 3.1.2 herausgestellt wurde , werden über die Gruppen Funktionen des KNX-Systems abgebildet und über die Gruppenadressen angesprochen .
+Diese untergliedern sich in zwei oder üblicherweise drei Hierarchiestufen , den Haupt- , Mittel- und Untergruppen .
+Diese Hierarchie wird meist nach räumlichen und funktionalen Kriterien aufgebaut .
+So kann durch die Hauptgruppe die räumliche Trennung , z.B. „ Obergeschoss “ bzw. „ Untergeschoss “ usw. , abgebildet werden und die Mittelgruppe nach Funktionsbereichen wie „ Licht “ oder „ Jalousiesteuerung “ gegliedert sein .
+Die Untergruppen bilden dann die einzelnen , steuerbaren Funktionen wie „ Wohnzimmerlicht dimmen “ ab .
+Diese Gliederung ﬁndet sich auch im Datenmodell der iPhone-Anwendung wieder .
+Ein KNX-System wird in der Anwendung als Projekt angelegt .
+Der Anwender muss dazu einen Projektnamen und wenige Informationen wie die physikalische KNX-Adresse des KNXnet/IP-Routers angeben .
+Alle weiteren Informationen werden aus der Gruppen- bzw. Gerätekonﬁgurationsdatei gelesen .
+Listing 4.1 zeigt den typischen Aufbau einer Gruppenkonﬁgurationsdatei im CSV-Format .
+Der Aufbau einer Gerätekonﬁgurationsdatei wurde im Unterabschnitt 3.1.2 beschrieben ( vgl. Listing 3.1 ) .
+Aus diesen Informationen wird eine Datenstruktur erstellt , die das KNX-System abbildet .
+Ausgangspunkt ist dabei das Projekt .
+Analog zu den Hierarchiestufen der Gruppen sind einem Projekt eine oder mehrere Hauptgruppen zugeordnet .
+Diese enthalten eine oder mehrere Mittelgruppen , die ihrerseits wiederum aus ein oder mehreren Untergruppen bestehen .
+Die jeweiligen Gruppen sind durch einen Namen und eine Gruppennummer aus der Gruppen-Konﬁgurationsdatei gekennzeichnet .
+Jede Untergruppe hält weitere Informationen wie den Datenpunkttyp der Gruppe und weitere Geräteinformationen vor .
+Diese Datenstruktur wird zur persistenten Speicherung beim Beenden der Anwendung in ein XML-Format geschrieben und im Dateisystem des iPhones abgelegt .
+Beim erneuten Ausführen der Anwendung werden diese Daten geladen , so dass ein erneutes einlesen der Konﬁgurationsdateien überﬂüssig ist .
+Die Server-Anwendung , die im zweiten Szenario benötigt wird , muss nur wenige Daten persistent speichern .
+Dazu gehören Informationen zum mobilen Endgerät wie z.B. der festen IP-Adresse im lokalen WLAN und die Mobilfunknummer sowie Informationen zu den Gruppen , deren Telegramme weitergeleitet werden sollen .
+Diese können in einer geeigneten Struktur abgebildet und in einem Austauschformat wie XML oder CSV gespeichert werden .
+Zudem müssen Write- bzw. Response-Telegramme aus dem KNX-System empfangen und verarbeitet sowie in einer entsprechenden Repräsentation an das mobile Endgerät weitergeleitet werden können .
+Diese Telegramme können anschließend verworfen werden .
+Die Objekte der Steuerungsschicht agieren als Vermittler zwischen den Objekten der Daten- und der Präsentationsschicht und koordinieren die Abläufe innerhalb der Anwendung während der Laufzeit .
+Folglich müssen diese Objekte die Daten der Datenschicht verarbeiten und den Objekten der Präsentationsschicht bei Bedarf zur Verfügung stellen .
+Zudem muss hier auf Ereignisse wie Nutzerinteraktionen , die in der Präsentationsschicht ausgelöst werden , reagiert werden .
+Weiterhin sind die Objekte dieser Schicht für die Initialisierung aller benötigten Objekte beim Start der Anwendung zuständig .
+Dazu gehören unter anderem der Start des UDP3-Servers der Kommunikationskomponente und das Einlesen einer Projektliste , in der alle zuvor konﬁgurierten Projekte aufgeführt sind .
+Beim Beenden der Anwendung sind weitere Aktionen nötig , die von den Steuerungsobjekten koordiniert werden .
+Dazu gehören z.B. das Beenden des UDP-Servers und das persistente Speichern der Projektliste .
+Wie zuvor in Unterabschnitt 4.1.1 beschrieben wurde , ist das Projekt eine der zentralen Datenstrukturen der Anwendung und bildet ein KNX-Gebäudeautomationssystem ab .
+Zur Konﬁguration eines neuen Projektes werden Eingaben des Anwenders von der Präsentationsschicht verarbeitet .
+Dazu gehören z.B. der Projektname und die URLs , unter denen die beiden Konﬁgurationsdateien verfügbar sind .
+In einem ersten Schritt wird die Gruppenkonﬁgurationsdatei verarbeitet und eine grundlegende Datenstruktur , die alle Informationen zu den verfügbaren Haupt- , Mittel- und Untergruppen beinhaltet , aufgebaut .
+Anschließend wird diese Datenstruktur durch Informationen aus der Gerätekonﬁgurationsdatei ergänzt .
+Anschließend wird die komplette Datenstruktur unter dem angegebenen Projektnamen in ein XML-Format geschrieben und persistent im Dateisystem des iPhones abgelegt ( siehe Abbildung A.2 ) .
+Abschließend wird der Projektname zur Projektliste , welche die Namen aller konﬁgurierten Projekte enthält , hinzugefügt .
+Eine weitere wichtige Aufgabe der Steuerungsschicht ist das Zurverfügungstellen von Funktionalitäten zum Senden und Empfangen von UDP-MulticastPaketen über welche mit dem KNXnet/IP-Router kommuniziert wird .
+Dazu wird eine Serverkomponente bereitgestellt , die es ermöglicht , einer MulitcastGruppe beizutreten und entsprechende Nachrichten dieser zu empfangen bzw. an diese zu senden .
+Wie aus Unterabschnitt 4.1.1 bekannt ist , ist der Aufbau eines KNX-Telegramms über einen Standard fest deﬁniert .
+Durch den KNXnet / IP-Router werden diese Telegramme in UDP-Pakete verpackt und über die , dem KNX-Standard fest zugeteilte , Multicast-Adresse 224.0.23.12 verteilt .
+Über die Serverkomponente werden diese Daten empfangen und ausgewertet .
+Empfangsseitig werden von der iPhone-Anwendung nur Write- bzw. ResponseTelegramme verarbeitet , alle anderen Pakete werden verworfen .
+Anschließend wird ermittelt , ob der Absender des KNX-Telegramms in der Datenstruktur des aktuellen Projekts vorhanden ist .
+Ist das der Fall , werden die Nutzdaten des Telegramms in der Datenstruktur zur entsprechenden Gruppe hinzugefügt .
+Wird diese Gruppe zudem gerade in der Präsentationsschicht über die Gruppendetailansicht angezeigt , wird eine entsprechende Nachricht an das Präsentationsobjekt zur Aktualisierung der Ansicht geschickt ( siehe Abbildung A.4 ) .
+Das Senden von KNX-Telegrammen wird durch Ereignisse , die auf der Präsentationsschicht ausgelöst werden , angestoßen .
+Zum Beispiel werden bei der Auswahl eines Projektes Read-Telegramme für jede Untergruppe innerhalb dieses Projektes erzeugt und versendet .
+Zudem kann der Anwender das Senden von Read- bzw. Write-Telegrammen direkt durch die Aktionen Reload bzw. Change in der Präsentationsschicht auslösen .
+Dadurch kann der Status einer Gruppe abgefragt bzw. geändert werden .
+Abhängig vom Telegrammtyp wird ein Telegramm mit Nutzdaten ( Write ) oder ohne ( Read ) erzeugt , in ein UDP-Paket verpackt und an die KNX-Multicast-Adresse gesendet ( siehe Abbildung A.3 ) .
+Wie in Unterabschnitt 3.3.2 herausgestellt wurde , ist das direkte Ausliefern von Telegrammen an ein mobiles Endgerät nicht möglich , wenn dieses nicht mit dem lokalen Netzwerk verbunden und die mobile Anwendung nicht aktiv ist .
+Hier wird mit einem lokalen Server ein zwischengeschaltetes System nötig , welches alle Telegramme empfangen und ggf. weiterleiten kann .
+Dazu muss ein Mechanismus konzipiert werden , der es ermöglicht zu ermitteln , ob sich ein mobiles Endgerät im lokalen Netzwerk beﬁndet auf dem die mobile Anwendung aktiv ist .
+Ist dies der Fall , so soll durch die Server-Anwendung keine Mitteilung an das Endgerät weitergeleitet werden , da dieses selbst die Möglichkeit hat die Telegramme des KNX-Systems zu empfangen .
+Eine Auslieferung von Meldungen hätte in diesem Fall die Folge , dass die durch die Telegramme ausgelösten Ereignisse mehrfach in der mobilen Anwendung ausgelöst werden .
+Im anderen Fall , wenn die Anwendung nicht aktiv oder das mobile Endgerät nicht mit dem lokalen Netzwerk verbunden ist , soll die Server-Anwendung für zuvor deﬁnierte Telegramme eine Nachricht an registrierte mobile Endgeräte senden .
+Für das iPhone steht mit dem Apple Push Notiﬁcation Service ( APNS ) eine geeignete Technologie zur Verfügung , die es ermöglicht Nachrichten an eine nicht aktive Anwendung auf dem mobilen Endgerät zu senden ( siehe Abbildung 4.4 ) .
+Die Objekte der Präsentationsschicht bilden die Schnittstelle zwischen dem Anwender und dem System .
+Über diese Benutzerschnittstelle ( User Interface , UI ) können die Daten der Datenschicht präsentiert und Interaktionen des Benutzers entgegengenommen werden .
+Die Weiterverarbeitung dieser Daten ist dabei nicht Teil dieser Anwendungsschicht .
+Die Benutzerschnittstellen in dem zu entwickelnden System stellen die Daten ausschließlich graﬁsch über den Bildschirm der entsprechenden Geräte dar .
+Neben einer Benutzerschnittstelle für die iPhone-Anwendung zur Visualisierung des Systems und der Interaktion mit diesem ist zudem eine entsprechende Schnittstelle für die Server-Anwendung aus dem zweiten Szenario nötig .
+Beim Entwurf der Benutzerschnittstelle ist darauf zu achten , dass der Anwender nicht von Informationen überﬂutet wird und diese Informationen eindeutig präsentiert werden .
+Der Ansatz , durch einen minimalen Konﬁgurationsaufwand die Benutzung der mobilen Anwendung sehr einfach zu halten , würde durch eine undurchsichtige und komplizierte Benutzerschnittstelle konterkariert .
+Zudem sollten alle Interaktionselemente intuitiv bedienbar sein .
+Mit den iPhone Human Interface Guidelines [ App10b ] deﬁniert Apple Richtlinien zum Entwurf von Benutzerschnittstellen für Geräte der iPhoneOSPlattform .
+Diese Richtlinien sollen den Entwickler einer Anwendung für diese Plattform sensibilisieren , die Benutzerschnittstelle nach ergonomischen Gesichtspunkten zu entwerfen und dabei auf die Besonderheiten der Geräte wie z.B. der Bildschirmgröße und -auﬂösung oder der Eingabemethode über Berührungen und Gesten zu achten .
+So werden unter anderem minimale Abmessungen für Interaktionselemente und Schriftgrößen deﬁniert um eine Bedienung mit Fingern und eine optimale Lesbarkeit jederzeit zu gewährleisten .
+Zudem werden in diesen Richtlinien graﬁsche Benutzerelemente wie z.B. Schalter und Tabellen deﬁniert , so dass über den Wiedererkennungswert dieser Elemente die intuitive Bedienbarkeit der Anwendung erhöht wird .
+Die Benutzerschnittstelle der iPhone-Anwendung untergliedert sich in mehrere Ansichten ( siehe Abbildung 4.5 ) um zum einen die verschiedenen Funktionalitäten wie die Konﬁguration oder die Steuerung und Überwachung der Geräte voneinander abzugrenzen .
+Zum Anderen können die benötigten Informationen auf mehrere Ansichten verteilt werden , was die Übersichtlichkeit der Darstellung erhöht .
+In der iPhone-Anwendung sollen mehrere Projekte verwaltet werden können .
+Da ein Projekt den Ausgangspunkt zum Steuern und Überwachen der einzelnen Geräte bzw. Gerätegruppen darstellt , wird eine Liste mit allen konﬁgurierten Projekten auf der Start-Ansicht präsentiert .
+Diese Projekte sollen darüber hinaus unabhängig voneinander gelöscht werden können .
+Zudem können Texte zur Einleitung bzw. Beschreibung der Anwendung auf dieser Ansicht angezeigt werden ( siehe Abbildung A.7 ) .
+Auf einer weiteren Ansicht werden die Gruppen des aktuell gewählten Projektes aufgelistet ( siehe Abbildung A.8 ) .
+Wählt der Anwender auf dieser Ansicht eine der Gruppen aus , wird eine Detailansicht dieser Gruppe angezeigt ( siehe Abbildung A.9 ) .
+Die Detailansicht präsentiert übersichtlich die Informationen zur gewählten Gruppe .
+Hier wird dem Anwender der Status der Gruppe angezeigt und entsprechende Interaktionselemente zur Steuerung der Gruppe zur Verfügung gestellt .
+Diese sollten je nach Funktion , die durch die Gruppe ausgeführt werden soll , so ausgeprägt sein , dass eine intuitive Bedienung möglich ist ( siehe Abbildung 4.6 ) .
+Auf einer letzten Ansicht können , durch die Angabe weniger Informationen durch den Anwender , Projekte konﬁguriert werden ( siehe Abbildung A.10 ) .
+Da sich die iPhone-Anwendung auf wenige Ansichten beschränkt und diese sehr ﬂache Hierarchien ( siehe Abbildung 4.5 ) aufweisen , ist eine einfache und intuitive Navigation über eine sog. „ TabBar “ , einer Navigationsleiste am unteren Bildschirmrand , möglich .
+Die Server-Anwendung ist zur Konﬁguration des Dienstes zur Weiterleitung von KNX-Telegrammen auch auf eine Benutzerschnittstelle angewiesen .
+Da es sich um eine Web-Anwendung handelt , kann diese Benutzerschnittstelle über einen Browser zur Verfügung gestellt werden .
+Die Schnittstelle muss Funktionalitäten zur Registrierung von mobilen Endgeräten und Telegrammarten anbieten .
+Dies kann jeweils über ein einfach gehaltenes Formular mit Feldern zur Texteingabe realisiert werden .
+Die Zuweisung der weiterzuleitenden Telegrammarten zum jeweiligen registrierten iPhone kann über zwei Listen erfolgen .
+In einer der Listen können die verfügbaren , in der zweiten Liste die dem entsprechende iPhone zugewiesenen Telegrammarten dargestellt werden .
+Die Zuweisung wird über geeignete Interaktionselemente wie Buttons ausgeführt oder zurückgenommen .
+Nachdem im vorangegangenen Kapitel das System entworfen wurde , soll nun die Umsetzung dieses Entwurfs in einen Prototypen beschrieben werden .
+Dazu wird exemplarisch auf ausgewählte Komponenten der verschiedenen Schichten und besondere Problemstellungen während der Implementierung eingegangen .
+Ziel der Implementierung ist die Entwicklung eines lauﬀähigen Prototypen , der die im Unterabschnitt 3.3.1 beschriebenen Anwendungsfälle des ersten Szenarios ermöglicht .
+Dazu wird eine native Anwendung für die iPhoneOSPlattform nach den im vorangegangenen Kapitel erarbeiteten Entwürfen umgesetzt .
+Für den Prototypen ist dabei nur ein Teil der in Abschnitt 3.3 vorgestellten Anwendungsfälle obligatorisch .
+Dazu gehören das Auslesen des Status von Lichtquellen und Temperatursensoren .
+Zudem sollen Lichtquellen geschaltet und gedimmt werden können .
+In Hinblick auf die Konﬁguration der Anwendung ist das Einlesen deﬁnierter Konﬁgurationsdateien der Software ETS umzusetzen .
+Die Generierung graﬁscher Benutzerelemente zur Steuerung der KNX-Geräte aus den Informationen dieser Konﬁgurationsdateien ist ebenfalls Teil der Implementierung .
+Der Arbeitstitel dieser Anwendung ist „ uniKNX “ .
+In den folgenden Abschnitten wird zunächst die Entwicklungsumgebung , mit der die Anwendung erstellt wurde , vorgestellt .
+Weiterhin wird die Struktur des Software-Projektes beschrieben und abschließend auf Problemstellungen , die während der Implementierung auftraten , eingegangen .
+Als Entwicklungsumgebung ( IDE1 ) wurde Xcode in der Version 3.2.2 von Apple genutzt .
+Um native Anwendungen für die iPhoneOS-Plattform erstellen zu können wird zudem das iPhone SDK2 benötigt .
+Dieses beinhaltet alle Werkzeuge , die zur Erstellung von Anwendungen für die iPhoneOS-Plattform benötigt werden .
+Dazu gehören unter anderem eine Vielzahl von APIs3 , welche dem Entwickler viele Funktionalitäten über Schnittstellen zur Verfügung stellen .
+Zudem ist der „ iPhone Simulator “ Bestandteil des SDK .
+Auf diesem können Anwendungen getestet werden , auch ohne das die entsprechenden mobilen Endgeräte wie iPhone oder iPad verfügbar sind .
+Ein weiterer wichtiger Bestandteil des SDK ist der „ Interface Builder “ , welcher die graﬁsche Erstellung von Benutzeroberﬂächen für Anwendungen der iPhoneOS-Plattform ermöglicht .
+Für die Umsetzung des Prototypen wurde das SDK in der Version 3.1.3 benutzt .
+Programmiert wird in der Programmiersprache Objectiv-C .
+Dabei handelt es sich um eine Erweiterung der Programmiersprache C um Elemente zur Objektorientierung .
+Aufgrund dieser Abhängigkeit können innerhalb von Anwendungen für die iPhoneOS-Plattform neben Objective-C auch die Programmiersprachen C und C++ verwendet werden .
+Ausgangspunkt jeder iPhoneOS-Anwendung ist ein sogenanntes AppDelegate-Objekt .
+Delegation ist eine der wichtigen Softwaredesignmuster dieser Plattform .
+Dabei sendet ein Objekt , üblicherweise ein Framework-Objekt , das eine bestimmte Aufgabe auf generische Art und Weise löst , periodisch Nachrichten zu einer Art Stellvertreter-Objekt , welches die speziﬁsche Weiterverarbeitung der Daten übernimmt .
+Im Falle des AppDelegate gehören dazu Aufgaben des Lebenszyklusmanagements der Anwendung .
+Es bietet dem zugrunde liegenden Betriebssystem eine deﬁnierte Schnittstelle um Systemmeldungen an eine Anwendung zu übermitteln .
+So ist das AppDelegate 1Integrated Development Environment 2Software Development Kit 3Application Programming Interface Objekt zuständig für anwendungsspeziﬁsche Aufgaben , die bei deﬁnierten Systemmeldungen ausgeführt werden sollen .
+Dazu gehören unter anderem die Nachrichten über das Starten oder Beenden der Anwendung oder bei Hauptspeicherknappheit .
+Zur Strukturierung der einzelnen anwendungsspeziﬁschen Klassen und zur Abgrenzung der Komponenten wurde das Projekt innerhalb des Xcode-Projektes in verschiedene Gruppen untergliedert .
+• DataStructure • DataStructure\Helper • Controller • Controller\ViewController • Networking Diese Gruppen untergliedern die Klassen der Anwendung nach funktionalen Gesichtspunkten und sind mit Packages vergleichbar .
+So beinhaltet die Gruppe „ DataStructure “ alle Klassen zur Erzeugung von Objekten der Datenschicht und die Gruppe „ Networking “ alle Klassen , die zum Empfangen und Senden von Daten über die Drahtlosschnittstelle benötigt werden .
+Eine Übersicht über die Komponenten der Anwendung ist im Klassendiagramm im Abschnitt A.1.3 zu sehen .
+Wie schon unter Unterabschnitt 4.1.1 beschrieben wurde , werden von den Objekten der Datenschicht zwei Datenstrukturen aufgebaut .
+Bei der Datenstruktur Project handelt es sich zum einen um eine Abbildung des KNXSystems , das alle notwendigen Informationen zu diesem bereit hält .
+Zum anderen werden zur Kommunikation mit dem KNX-System Telegramme verwendet , welche in UDP-Pakete verpackt und an den KNXnet/IP-Router gesendet werden .
+Um diese Telegramme innerhalb der Anwendung abbilden zu können wurde die Struktur KnxTelegram deﬁniert .
+Die Datenstruktur Project bildet ein KNX-System innerhalb der iPhoneAnwendung ab und wird in einem zweistuﬁgen Prozess aufgebaut .
+Grundlage bildet die Gruppenkonﬁgurationsdatei der KNX-Software ETS .
+Diese bietet die Möglichkeit die Gruppen eines KNX-Projektes inklusive aller Bezeichnungen und Gruppenadressen in ein CSV-Austauschformat zu exportieren ( siehe Listing 4.1 ) .
+Die statische Klasse CSVParser ist für die Verarbeitung von Dateien im CSV-Format implementiert worden .
+Zur Verarbeitung von Gruppenkonﬁgurationsdateien steht die Klassenmethode + ( Project ) parseGroupAddressFile : ( NSString * ) filePath zur Verfügung .
+Die Gruppenkonﬁgurationsdatei wird dabei zeilenweise verarbeitet .
+Für jeden gültigen Eintrag in dieser Datei wird einem Objekt der Klasse Project eine entsprechende Haupt- , Mittel- oder Untergruppe hinzugefügt .
+Dem aufrufenden Objekt wird dieses Project-Objekt zurückgegeben .
+Durch den Import der Gerätekonﬁgurationsdatei wird die Datenstruktur Project um wichtige Informationen ergänzt .
+Die Gerätekonﬁgurationsdatei ( siehe Listing 3.1 ) wird durch die Software ETS in einem XML-Format bereitgestellt .
+Das iPhone SDK bietet mit der Klasste NSXMLParser ein Mittel zur Verarbeitung von XML-Daten .
+Es bietet diese Funktionalitäten über Delegation an .
+Das bedeutet , dass man einem Objekt der Klasse NSXMLParser XML-Daten übergibt und zudem ein Objekt einer Stellvertreter-Klasse zur Verfügung stellen muss , die die Delegate-Methoden der NSXMLParserKlasse implementiert .
+Diese Stellvertreterklasse ist in der iPhone-Anwendung die Klasse DeviceConﬁgParser .
+Das NSXMLParser-Objekt stellt die verarbeiteten Daten über diese Methoden dem Stellvertreterobjekt zur Verfügung , welches diese Daten dann weiterverarbeitet .
+Um sinnvoll mit dem NSXMLParser arbeiten zu können empﬁehlt es sich , mindestens die Delegate-Methoden aus Listing 5.1 zu implementieren .
+Mit den auf diese Art und Weise ermittelten Daten der Gerätekonﬁgurationsdatei wird das Project-Objekt ergänzt .
+Als problematisch stellte sich dabei das Verhalten des NSXMLParser bei Zeichenketten , die Umlaute enthalten , dar .
+Dieser kann die Delegation-Methode - ( void ) parser : ( NSXMLParser * ) parser foundCharacters : ( NSString * ) string ; in diesem Fall mehrfach aufrufen anstatt die komplette Zeichenkette beim erstmaligen Aufrufen dieser Methode zu übergeben .
+Gelöst wurde das Problem indem die Zeichenkette zwischengespeichert und bei mehrmaligem Aufrufen der Delegation-Methode jeweils um den nächsten Teil der Zeichenkette ergänzt wurde ( siehe Listing 5.2 ) .
+Die KNX-Telegramme stellen die zweite Datenstruktur , die in der iPhoneAnwendung eine wichtige Rolle spielen , dar .
+Diese werden von der statischen Klasse PackageProcessor erzeugt und verarbeitet .
+Mit KnxTegram wurde eine Struktur deﬁniert um einfacher auf bestimmte Bereiche innerhalb der Daten des Telegramms zugreifen zu können oder diese mit Daten zu füllen .
+So zeigt z.B. das erste Bit der Struktur die Länge des Headers oder das siebente Bit den Nachrichten-Code an ( vgl. Abbildung 4.3 ) .
+Da einige Informationen auch bit-genau in der Struktur platziert werden bzw. von festen Bitpositionen gelesen werden müssen , wurden in den Methoden der Klasse PackageProcessor sogenannte Bitshift-Operatoren genutzt um Datenbereiche , die weniger als einen Byte umfassen , zu schreiben bzw. auszulesen .
+In Listing 5.3 ist ein Beispiel für die Anwendung von Bitshift-Operatoren zu sehen .
+Die Menge der Nutzdaten , die in einem KNX-Telegramm übertragen werden können , ist variabel und kann bis zu 16 Bytes betragen .
+Im KNX-Telegramm selber ist kein Hinweis auf die Art und Weise der Interpretation der Daten gegeben .
+Aus diesem Grund ist das Feld payload der Struktur KnxTelegram als Array ausgelegt .
+Als Datentyp der einzelnen Felder wird der C-Datentyp u_int8_t , also ein nicht vorzeichenbehafteter Ganzzahlwert der in 8 Bits gespeichert wird , deﬁniert .
+Dadurch soll eine Verfälschung der Daten durch Konvertierungen vermieden werden .
+Aus dem KNX-Telegramm sollen alle nötigen Informationen wie Quell- und Zieladresse , Kommandotyp und die Nutzdaten in einer Datenstruktur vom Typ NSDictionary abgelegt werden .
+Diese Struktur bietet die Funktionalität Daten unterschiedlichster Datentypen zu Schlüsselworten abzulegen .
+Dadurch entsteht eine Sammlung von Key/Value-Paaren , auf die im späteren Verlauf sehr komfortabel zugegriffen werden kann .
+Nachteil dieser und anderer Objective-C-Strukturen ist , dass nur Objekt-Datentypen darin abgelegt werden können , nicht aber CStrukturen wie das KnxTelegram oder C-Arrays .
+So ist es unmöglich die Nutzdaten , die in einem C-Array vorliegen , direkt in einem Objekt vom Typ NSDictionary abzulegen .
+Das direkte Kopieren der Nutzdaten von einem C-Array in ein Objekt vom Typ NSData hatte während der Implementierungsphase immer eine Konvertierung bzw. Veränderung der Daten beim Auslesen aus diesem Objekt zur Folge .
+Dadurch war der ursprünglich übertragene Wert auch durch Funktionen zur Änderung der „ byte order “ nicht mehr nachvollziehbar .
+Zwei Alternativen konnten als Lösungsansatz ausgemacht werden .
+Das CArray , welches die Nutzdaten beinhaltet , kann zum Beispiel zusätzlich zu der NSDictionary-Struktur an die Komponenten , die diese Informationen brauchen , weitergegeben werden .
+Dazu müsste aber entweder die Klasse PackageProcessor diese Komponenten „ kennen “ oder als Delegate übergeben bekommen .
+Das würde die Wiederverwendbarkeit der Klasse PackageProcessor beeinträchtigen .
+Implementiert wurde der zweite Lösungsansatz .
+Hier werden die einzelnen Felder des C-Arrays payload , die jeweils vom Typ u_int8_t sind , in eine einzelne Variable eines ausreichend großen C-Datentyps geschrieben .
+Das kann je nach Länge der Nutzdaten der Typ u_int16_t bis u_int64_t sein .
+Die Daten dieser Variable lassen sich dann in ein Objekt des Datentyps NSData kopieren , ohne , dass Konvertierungen bzw. Veränderungen an den Daten festzustellen sind .
+Damit können die Nutzdaten der Struktur des Typs NSDictionary hinzugefügt werden .
+Wie schon in Unterabschnitt 4.1.2 herausgestellt wurde , übernehmen die Klassen der Steuerungsschicht wichtige Aufgaben zur Steuerung des Lebenszyklus und sind für die Koordination der Abläufe innerhalb der iPhoneAnwendung verantwortlich .
+Das AppDelegate-Objekt ist Start- und Endpunkt jeder Anwendung für die iPhoneOS-Plattform .
+Es stellt eine Art Stellvertreter der gesamten Anwendung für das zugrunde liegende Betriebssystem dar .
+An dieses Objekt werden systemrelevante Nachrichten gesendet , z.B. das die Anwendung komplett im Speicher verfügbar ist oder aber das Programm beendet werden muss , weil entweder der Anwender das Beenden ausgelöst hat oder aber ein eingehender Anruf die Anwendung zum Beenden zwingt .
+Die Delegate-Methode - ( void ) applicationDidFinishLaunching : ( UIApplication * ) application wird vom Betriebssystem aufgerufen , sobald die Anwendung in den Speicher geladen und bereit zur Ausführung ist .
+Es werden hier weitere essentielle Objekte der Steuerungsschicht initialisiert .
+Im Fall der iPhone-Anwendung sind das das MainController-Objekt , welches alle allgemeinen Abläufe koordiniert und somit die Steuerzentrale der Anwendung darstelllt , und die verschiedenen ViewController-Objekte zur Steuerung der Benutzeroberﬂächen .
+Wird die Delegate-Methode - ( void ) applicationWillTerminate : ( UIApplication * ) application aufgerufen soll die Anwendung geschlossen werden .
+Innerhalb weniger Sekunden müssen hier letzte Aufgaben wie das Speichern von Konﬁgurationsdateien abgeschlossen werden , da die Anwendung andererseits systemseitig beendet wird .
+Aufgrund von Vorgaben aus dem KNX-Standard läuft die Kommunikation mit dem KNX-System über UDP-Pakete .
+In diese Pakete werden die KNX-Telegramme verpackt und an den KNXnet/IP-Router gesendet bzw. von diesem empfangen .
+Die Klassen , die für die Kommunikation mit dem KNXnet/IP-Router und zum Laden der Konﬁgurationsdateien benötigt werden , wurden als abgegrenzte Komponente innerhalb der Steuerungsschicht realisiert und beﬁnden sich in der Gruppe Networking .
+Die Komponente erfüllt im wesentlichen zwei Aufgaben .
+Zum einen sollen die Konﬁgurationsdateien von einem Server heruntergeladen werden .
+Diese Aufgabe wurde in der Klasse Downloader sehr komfortabel durch die Funktionalitäten der Frameworks des iPhone SDK gelöst .
+Listing 5.4 zeigt alle nötigen Schritte um Daten über eine URL abzufragen .
+Zum anderen besteht die zweite Aufgabe darin eine Kommunikation über das UDP-Protokoll zu ermöglichen .
+Über das von GoogleCode zur Verfügung gestellte Projekt „ CocoaAsyncSocket “ [ Goo10a ] wird ein Framework bereitgestellt , dass die zur Kommunikation benötigten Komponenten des iPhone SDK zusammenfasst und dem Entwickler in vereinfachter Form anbietet .
+So wird dem Entwickler das Einrichten einer Warteschlange für das Senden und Empfangen von UDP-Paketen abgenommen .
+Durch die Unterstützung des Delegation-Architekturmusters und die Abarbeitung der nötigen Aufgaben in einem separaten RunLoop , einer Art Schleife die permanent Ereignisse der verschiedensten Eingabequellen abarbeitet , läuft die Kommunikation ohne die Hauptanwendung zu blockieren .
+Der UDP-Server , der für das Empfangen von UPD-Nachrichten zuständig ist , wird bei der Initialisierung eines Objektes der Klasse UDPSockets gestartet .
+Diese Klasse ist zudem das DelegateObjekt für den UDP-Server .
+Beim Start des UDP-Servers wird zunächst der Multicast-Gruppe 224.0.23.12 beigetreten und der Port 3671 abgehört .
+Diese Multicast-Gruppe ist weltweit für KNX-Anwendungen reserviert .
+Das Empfangen von Daten durch den UDP-Server löst das Aufrufen der entsprechenden Delegate-Methode am UDPSockets-Objekt aus .
+Dieses leitet die Daten über die Schnittstelle UDPHandlerInterface an das MainControllerObjekt weiter .
+Hier wird es durch die Datenschicht-Klasse PackageProcessor verarbeitet und die Informationen an den MainController zurückgegeben .
+Durch diesen werden die Informationen zum einen an das GroupDetailViewController-Objekt weitergeben , welcher nun ermitteln muss , ob die Empfängergruppe gerade vom Anwender gewählt ist und in diesem Fall den empfangenen Status der Gruppe präsentieren .
+Ist das nicht der Fall so kann die Nachricht verworfen werden .
+Des weiteren wird die Statusinformation durch den MainController in der Datenstruktur Project hinterlegt um diese dem Anwender bei Auswahl der Gruppe schnellstmöglich präsentieren zu können .
+Wie schon in Abschnitt 4.1.2 beschrieben wurde , wird das Senden von Paketen vom Anwender direkt oder indirekt über die Präsentationsschicht ausgelöst .
+Tritt ein bestimmtes Ereignis wie z.B. die Auswahl eines Projektes oder das Drücken des `` Reload '' -Buttons ein , wird das MainController-Objekt vom entsprechenden ViewController-Objekt darüber informiert .
+Diese ViewController-Objekte greifen über die Schnittstelle TelegramSenderInterface ( siehe Listing 5.5 ) auf das MainController-Objekt zu und übergeben diesem alle nötigen Informationen , z.B. Telegrammart und Gruppenadresse des Empfängers , zur Erstellung eines Telegramms .
+Dieses lässt das MainControllerObjekt dann von der PackageProcessor-Klasse der Datenschicht erstellen .
+Dieses Telegramm wird dann schließlich an das UDPSockets-Objekt übergeben , welches dann das Telegramm als Nutzdaten in ein UDP-Paket verpackt und an die entsprechende Multicast-Gruppe sendet .
+Die Klassen der Präsentationsschicht für Anwendungen der iPhoneOS-Plattform können sowohl im Quellcode als auch über die Anwendung „ Interface Builder “ ( IB ) graﬁsch deﬁniert werden .
+„ Interface Builder “ ist dabei eine Anwendung zur graﬁschen Erstellung von Benutzeroberﬂächen und arbeitet mit der Entwicklungsumgebung Xcode zusammen .
+So können unter Xcode im Quellcode erstellte und von UIViewController abgeleitete Klassen mit speziellen Container-Dateien , den sogenannten NIB-Files4 , verknüpft werden .
+Diese NIB-Files enthalten dabei eine im IB graﬁsch erstellte Benutzeroberﬂäche .
+IB stellt dazu eine Vielzahl von graﬁschen Interaktionselementen wie Buttons , Textfelder oder Schalter und Präsentationselemente wie Labels , scrollbare Text-Ansichten ( TextView ) oder Bildplatzhalter ( ImageView ) über eine Objekt-Bibliothek ( Library ) zur Verfügung .
+Diese können innerhalb des IB platziert und konﬁguriert werden .
+Neben den Attributen wie Koordinaten , Größe , Aussehen und Inhalt können auch Verbindungen zu Klassenvariablen und Methoden der mit dem NIB-File verbundenen ViewController-Klasse deﬁniert werden .
+Dazu müssen Klassenvariablen mit dem Schlüsselwort IBOutlet und Methoden mit IBAction markiert werden ( vgl. Steuerungsschicht in Abbildung 5.1 ) .
+Auf diesem Wege markierte Klassenvariablen sind dann im IB unter dem Objekt „ File ’ s Owner “ 5 verfügbar und können mit den Elementen der Benutzeroberﬂäche verknüpft werden ( siehe Abbildung 5.1 ) .
+So können die Attribute eines im IB platzierten Buttons der Klasse UIButton zur Laufzeit durch den mit diesem NIB-File verknüpften ViewController über die entsprechen 4Historisch nach „ NextSTEP Interface Builder “ benannt .
+5Hinter dem Objekt „ File ’ s Owner “ verbirgt sich ein Verweis auf den entsprechenden von UIViewController abgeleiteten ViewController .
+de Klassenvariable angesprochen und verändert werden .
+Des weiteren kann dieser Button bei festgelegten Interaktionen durch den Anwender deﬁnierte Ereignisse auslösen .
+Zum Beispiel wird beim Berühren und darauﬀolgenden Loslassen des Buttons , was einer Art „ Klick “ des Buttons entspricht , das Ereignis Touch Up Inside ausgelöst .
+Dieses Ereignis kann im IB mit einer mit dem Schlüsselwort IBAction markierten Methode verknüpft werden .
+Diese Methode wird beim Eintreten des Ereignisses am entsprechenden ViewController aufgerufen .
+Im Fall des Prototypen wurden die Benutzerschnittstellen größtenteils über IB graﬁsch erstellt und konﬁguriert .
+Eine der wenigen Ausnahmen , in denen die Elemente der Benutzeroberﬂäche nicht im IB deﬁniert und konﬁguriert werden , sind die Interaktionselemente über die die KNX-Geräte gesteuert werden sollen .
+Diese Interaktionselemente werden erst zur Laufzeit , beim Aufruf des GroupDetailView , also beim Anzeigen der Detailübersicht einer KNX-Gruppe , erzeugt und auf der Benutzeroberﬂäche platziert .
+Die Entscheidung , welches graﬁsche Interaktionselement zum Steuern einer KNX-Gruppe ( mögliche Ausprägungen sind in Abbildung 4.6 aufgeführt ) angezeigt werden soll , hängt vom Datenpunkttyp ( siehe Unterabschnitt 3.1.2 Fußnote 1 ) der jeweiligen KNX-Gruppe ab .
+So impliziert zum Beispiel der Datenpunkttyp 1001 , dass sich der Status der KNX-Gruppe , der dieser Datenpunkttyp zugeordnet ist , über einen Binärwert darstellen lässt und als „ An “ bzw. „ Aus “ zu interpretieren ist ( vgl. [ KNX09 , S. 17 ] ) .
+In diesem Fall soll ein einfacher binärer Schalter , über den die KNX-Gruppe steuerbar ist , dem Anwender präsentiert werden .
+Dazu wird im Quellcode des GroupDetailViewController ein Objekt der Klasse UISwitch erstellt , konﬁguriert und der Benutzeroberﬂäche hinzugefügt .
+Listing 5.6 zeigt den Quellcode für dieses Beispiel .
+In diesem Kapitel wird im ersten Abschnitt eingeschätzt , inwieweit die in Kapitel 4 identiﬁzierten Anforderungen vom Prototypen der iPhone-Anwendung zur Steuerung und Überwachung intelligenter Gebäudetechnik erfüllt werden .
+Im darauf folgenden Abschnitt wird das System kurz vorgestellt .
+Um eine genaue Bewertung der Ergebnisse dieser Arbeit vornehmen zu können , wird in diesem Abschnitt der Prototyp auf die Erfüllung von grundlegende Kriterien der Softwarearchitektur wie Modularität und Wiederverwendbarkeit der Komponenten hin analysiert .
+Zudem wird untersucht , ob die in Kapitel 3 gestellten Anforderungen umgesetzt wurden und die Benutzbarkeit der Anwendung gegeben ist .
+Eine modular gestaltete , komponentenbasierte Anwendung erlaubt einen einfachen Austausch einzelner Komponenten .
+Dadurch kann z.B. schnell auf veränderte Rahmenbedingungen reagiert oder die Anwendung mit wenig Aufwand für ein anderes Einsatzgebiet angepasst werden .
+Da der Zugriﬀ auf die Funktionalitäten der Komponenten , wie in Kapitel 4 entworfen , über deﬁnierte Schnittstellen abläuft , ist das Austauschen dieser Komponenten leicht umsetzbar .
+So kann z.B. die Kommunikationskomponente durch das Austauschen der entsprechenden Klassen sehr einfach auf andere Kommunikationsprotokolle umgestellt werden , insofern diese die Methoden der entsprechenden Schnittstellen implementieren .
+Zudem lässt sich die Kommunikationskomponente in andere Projekte , die eine UDP-Kommunikation benötigen , einbinden und kann über die Schnittstellen betrieben werden .
+Da sich der Prototyp mit dem Schalten bzw. Dimmen von Lichtquellen und dem Auslesen von Temperatursensoren auf einen kleinen Teil der im KNX-Standard deﬁnierten Steuerungs- und Überwachungsmöglichkeiten beschränkt , ist eine einfache Erweiterbarkeit der Anwendung essentiell .
+Auch diese Aufgabe lässt sich aufgrund der komponentenbasierten Architektur mit wenig Aufwand lösen .
+Dazu ist lediglich die Deﬁnition des zusätzlich zu unterstützenden Datenpunkttyps notwendig sowie die Zuweisung dieses Datenpunkttyps zu geeigneten Interaktions- bzw. Präsentationselementen im entsprechenden ViewController .
+Sollten keine geeigneten Elemente für die Benutzeroberﬂäche verfügbar sein , müssten diese zusätzlich implementiert werden .
+Wie aus der Beschreibung des Einsatzgebietes in Unterabschnitt 3.1.1 hervorgeht , liegt das Hauptaugenmerk auf dem Betreiben des Systems ohne zwischengeschaltete Systeme sowie einer einfachen Konﬁgurationen und Benutzbarkeit .
+Die Anwendung soll geschultem Fachpersonal einen schnellen Wechsel zwischen unterschiedlichen Gebäudeautomationssystemen , z.B. bei verschiedenen Kunden , ermöglichen und auch ungeschulten Endanwendern das Steuern und Überwachen von KNX-Technik ermöglichen .
+Von den in Abschnitt 3.3 vorgestellten Anwendungsfällen wurden im Rahmen dieser Arbeit ein Teil der Anwendungfälle des ersten Szenarios umgesetzt .
+So wird durch den Prototypen explizit das Schalten und Dimmen von Lichtquellen und das Auslesen von Temperatursensoren unterstützt .
+Implizit ist das Steuern und Überwachen aller KNX-Geräte , welche die Datenpunkttypen , die für explizit unterstützte Anwendungsfälle implementiert wurden , möglich .
+Dazu gehört unter anderem das An- und Ausschalten sowie das schrittweise bzw. prozentuale Ändern des Status von KNX-Geräten .
+Zudem wurde eine einfache Konﬁguration der Anwendung durch die Verarbeitung von Konﬁgu 6.1 .
+EVALUIERUNG DES SYSTEMS rationsdateien und die Generierung graﬁscher Benutzerelemente aus diesen Informationen umgesetzt .
+Das Senden und Empfangen KNX-konformer Telegramme ist ebenfalls möglich ( vgl. Abbildung 6.1 ) .
+Im Prototypen ist durch die integrierte Verwaltung mehrerer Projekte , welche ein KNX-Gebäudeautomationssystem repräsentieren , sogar die dauerhafte Speicherung der KNX-Konﬁgurationen verschiedener KNX-Systeme möglich und somit ein schneller Wechsel zwischen diesen Systemen gewährleistet .
+Durch die sehr einfach gehaltene Konﬁguration und die Beschränkung auf wenige , intuitiv bedienbare Benutzeroberﬂächen ist es auch dem ungeschulten Endanwender möglich ein mobiles Endgerät mit dieser Anwendung in ein entsprechendes Gebäudeautomationssytem einzubinden .
+Im Zuge der Anforderungsanalyse wird zudem meist vom mobilen Zugriﬀ auf ein Gebäudeautomationssystem gesprochen und VPN als geeignete Technologie zur sicheren Verbindung mit lokalen Netzwerken über öﬀentliche Netzwerke wie z.B. dem Internet genannt .
+Aufgrund von Beschränkungen der mir zum Testen zur Verfügung stehenden Gebäudeautomationsinstallation , konnte die Funktionalität der Anwendung außerhalb des lokalen Netzwerkes nicht getestet werden .
+Der Aufbau einer Verbindung zum lokalen Netzwerk über Technologien wie z.B. VPN ist nicht Bestandteil der prototypischen Anwendung sondern wird außerhalb dieser durch das iPhone gehandhabt .
+Auch die Weiterleitung von Multicast-Paketen über eine virtuelle Verbindung ist größtenteils von den Fähigkeiten des Routers im lokalen Netzwerk abhängig .
+Da die Konﬁgurationsdateien , die durch die Software ETS erzeugt werden , nicht alle benötigten Informationen zum KNX-Gebäudeautomationssystem enthalten , kann nicht garantiert werden , dass sich alle Funktionen dieses Systems innerhalb der Anwendung in der gleichen Art und Weise abbilden lassen .
+So kann z.B. ein Schalter mit verschiedenen Parametern programmiert werden , ohne , dass diese unterschiedlichen Parameter in einer der Konﬁgurationsdateien ersichtlich wären .
+Ein solcher Schalter lässt sich zum einen so programmieren , dass ein entsprechendes Telegramm zum Ändern des jeweiligen Gruppenstatus bei jedem Tastendruck gesendet wird .
+Dies entspricht einer typischen Schaltlogik zum An- und Ausschalten von Geräten .
+Andererseits kann dieser Schalter auch jeweils beim Drücken und beim Loslassen des Schalters ein entsprechendes Telegramm senden , was z.B. einer Klingelschaltung entsprechen würde .
+Viele Details der Parametrierung der KNX-Geräte bleiben verborgen , da die Software ETS diese Informationen nicht exportieren kann .
+Für eine genaue Abbildung des Gebäudeautomationssystems innerhalb der Anwendung wären diese aber essentiell .
+In diesem Abschnitt soll das entstandene Gesamtsystem vorgestellt werden .
+Dazu zählt die Demonstration des Verlaufs der typischen Nutzung der mobilen Anwendung vom Start über die Konﬁguration und die Auswahl eines Projektes oder einer KNX-Gruppe bis hin zur Steuerung einzelner KNXGruppen .
+Dieser Nutzungsverlauf wird mit Screenshots und Fotoserien zur Steuerung der Test-Gebäudeautomationsinstallation anschaulich präsentiert .
+Die Anwendung wird durch die Auswahl des entsprechenden Icons auf dem Home Screen des iPhones gestartet .
+Nachdem die Anwendung geladen wurde , wird dem Anwender eine Liste mit allen bereits konﬁgurierten Projekten auf dem HomeView der Anwendung angezeigt ( siehe Abbildung 6.2 ) .
+Beim ersten Anwendungsstart sind hier noch keine Projekte auswählbar .
+Diese müssen erst noch konﬁguriert werden .
+Um über die Anwendung ein Gebäudeautomationssystem überwachen und steuern zu können ist die Konﬁguration eines Projektes notwendig .
+Dieses repräsentiert das jeweilige Gebäudeautomationssystem innerhalb der Anwendung und stellt alle notwendigen Informationen zu diesem bereit .
+Ein Projekt wird in der Konﬁgurationsansicht angelegt ( siehe 1. in Abbildung 6.3 ) .
+Dafür werden nur wenige Informationen benötigt .
+Dazu gehört zum einen der Projektname .
+Da mit der Anwendung mehrere Konﬁgurationen von Gebäudeautomationssystemen verwaltet werden können , dient der Projektname als eindeutiges Unterscheidungsmerkmal .
+Des weiteren sind noch die interne KNX-Adresse , also die sogenannte physikalische Adresse , des KNXnet/IPRouters und die URL der Gruppenkonﬁgurationsdatei für den Import der Gruppenadressen nötig ( siehe 2. und 3. in Abbildung 6.3 ) .
+Die physikalische Adresse des KNXnet/IP-Routers wird für die korrekte Erzeugung von standardgemäßen KNX-Telegrammen benötigt , da innerhalb dieser Telegramme eine gültige Absenderadresse angegeben werden sollte .
+Das KNX-System ist scheinbar tolerant gegenüber nicht verfügbaren Adressen solange diese der standardisierten Syntax einer Gruppen- oder physikalischen Adresse entsprechen .
+Um eventuell auftretenden Problemen entgegen zu wirken , sollte diese Adresse angegeben werden .
+Für den Import der Gerätekonﬁgurationsdatei ist auf einer zweiten Konﬁgurationsansicht die URL zur Gerätekonﬁgurati onsdatei anzugeben und diese zu importieren ( siehe 4. und 5. in Abbildung 6.3 ) .
+Der Import der beiden Konﬁgurationsdateien , die für den Prototypen noch über einen Webserver zur Verfügung gestellt werden müssen , wird in Hinblick auf mögliche andere Importmethoden , wie z.B. dem Text-Import aus der Zwischenablage , getrennt behandelt .
+Sobald ein Projekt konﬁguriert ist , erscheint es in der Projektliste auf der Home-Ansicht .
+Jedes Projekt kann über eine Schaltﬂäche auf dem jeweiligen Listeneintrag gelöscht werden ( siehe Home-Ansicht in Abbildung 6.4 ) .
+Die Auswahl eines Listeneintrags führt den Anwender zur Gruppen-Ansicht , auf welcher die im Projekt vorhandenen Gruppen aufgelistet sind .
+Auf dieser Ansicht werden die Bezeichner der verfügbaren Gruppen ebenfalls in einer Liste , gruppiert nach Haupt- , Mittel- und Untergruppe , angezeigt ( siehe Gruppen-Ansicht in Abbildung 6.4 ) .
+Auch hier wählt der Anwender den gewünschten Listeneintrag aus und bekommt daraufhin eine GruppendetailAnsicht zur gewählten Gruppe präsentiert .
+Über diese Detailansicht werden Statusinformationen angezeigt und die Steuerungselemente für diese Gruppe zur Verfügung gestellt .
+Sollten einzelne Wahlmöglichkeiten nicht verfügbar sein , also wenn z.B. ein Projekt noch nicht vollständig konﬁguriert ist , wird der Anwender durch entsprechende Meldungen darauf hingewiesen .
+Durch diese einfache Navigation und die Verwendung einheitlicher Interaktionselemente für gleichartige Funktionen wird dem Anwender die Bedienung und das Zurechtﬁnden in der Anwendung erleichtert .
+Die Statusinformationen und Interaktionselemente zum Steuern einer Gruppe werden dem Anwender auf der Gruppendetailansicht präsentiert ( siehe Abbildung 6.5 ) .
+Neben diesen werden nur die Gruppenbezeichnung und die Gruppenadresse angezeigt .
+Auf weiterführende Informationen wird in dieser Ansicht verzichtet um den Anwender nicht mit unnötigen Informationen zu überﬂuten .
+Abbildung 6.6 bzw. Abbildung 6.7 zeigen beispielhaft das Schalten bzw. Dimmen einer Lichtquelle .
+Über die Reload-Schaltﬂäche kann der Status der Gruppe jederzeit aktualisiert werden ( siehe Reload in Abbildung 6.5 ) .
+Beim Design der Interaktionselemente zur Steuerung und Überwachung der KNX-Geräte ( siehe Interaktionselemente in Abbildung 6.5 ) wurde auf zwei Kriterien besonderen Wert gelegt .
+Zum einen wurde darauf geachtet , dass die Interaktionselemente intuitiv zu bedienen sind .
+Dies hat für den Anwender den Vorteil , dass er keine Einarbeitungszeit für die Nutzung des Systems benötigt , wie dies im Falle des Lesens eines detaillierten Benutzerhandbuches nötig wäre .
+Zum anderen wurde darauf Wert gelegt , dass die Interaktionselemente einen hohen Wiedererkennungswert haben .
+Dadurch können Anwender , die bereits mit anderen iPhone-Anwendungen Bedienungserfahrungen gesammelt haben , diese auf die prototypische Anwendung übertragen ( siehe Abbildung 6.5 ) .
+Abschließend sollen in diesem Kapitel die Ergebnisse dieser Arbeit zusammengefasst und beurteilt werden .
+Zudem wird ein Ausblick darauf gegeben , in welchen Bereichen das prototypisch entwickelte System ausbaufähig ist und wohin eine weitere Entwicklung zeigen könnte .
+Das Ziel dieser Arbeit war die Evaluierung von Möglichkeiten zur Integration mobiler Endgeräte in ein Gebäudeautomationssystem sowie die prototypische Entwicklung eines Systems zur Steuerung und Überwachung eines Gebäudeautomationssystems mit mobilen Endgeräten .
+Zur Umsetzung dieses Ziels war zunächst eine Analyse des aktuellen Stands der Technik in den relevanten Bereichen nötig .
+Dazu wurden die Bereiche Smartphones , Drahtlostechnologien und Gebäudeautomationssysteme näher betrachtet und geeignete Technologien zur Umsetzung des prototypischen Systems ermittelt .
+Mit dem iPhoneOS wurde eine relativ junge Plattform für mobile Endgeräte gewählt , welche sich durch die Integration vieler Technologien , gerade im Bereich der Drahtlostechnologien , aber auch durch strikte Vorgaben , vor allem bei den Benutzerschnittstellen , zu einem vielseitigen und dabei trotzdem intuitiv bedienbaren System entwickelt hat .
+Für den Datenaustausch zwischen dem mobilen Endgerät und dem Gebäudeautomationssystem können eine Vielzahl von Drahtlostechnologien zum Einsatz kommen .
+Die WLAN-Technologie bietet sich hier für die Anbindung des mobilen Engerätes an das Gebäudeautomationssystem über ein lokales Drahtlosnetzwerk an .
+Für die Umsetzung des prototypischen Systems wurde zudem der KNX-Standard für Gebäudeautomationssysteme , vor allem wegen der guten europaweiten Verbreitung und weltweiten Standardisierung , gewählt .
+Nachdem im weiteren Verlauf der Arbeit die Anforderungen an das System identiﬁziert wurden , konnte ein Systementwurf erstellt werden .
+Hier wurde insbesondere auf eine ﬂexible Architektur wert gelegt , welche eine einfache Weiterentwicklung und Erweiterung des Prototypen ermöglicht .
+Zudem wurden Konzepte für die einzelnen Anwendungskomponenten ausgearbeitet .
+In diesem Teil der Arbeit wurden auch Anforderungen und Konzepte vorgestellt , die über den Umfang , der zur Umsetzung des Ziels nötig ist , hinausgehen .
+Diese erweiterten Anforderungen und Konzepte sollen die Möglichkeiten für Weiterentwicklungen beispielhaft aufzeigen .
+Anschließend wurden die obligatorischen Anforderungen anhand der Entwürfe umgesetzt .
+Ein Test der Funktionalitäten war auf Grund der starken Abhängigkeit vom Gebäudeautomationssystem fester Bestandteil dieser Phase .
+Aus diesem Grund wurde in diesem Teil der Arbeit schon auf Problemstellungen , die sich während der Implementierung ergaben , eingegangen und Lösungen dieser erarbeitet .
+Abschließend wurde das System evaluiert und demonstriert .
+Dabei konnte herausgestellt werden , dass das entwickelte System die obligatorischen Anforderungen vollständig umsetzt .
+Der Prototyp ermöglicht das Steuern und Überwachen von KNX-Geräten über das iPhone .
+Darüber hinaus benötigt es keine weiteren , zwischengeschalteten Systeme .
+Die mobile Anwendung bedarf einer einfachen Konﬁguration und ist intuitiv bedienbar .
+Durch die gewählte Architektur lassen sich Erweiterungen zudem mit wenig Aufwand realisieren .
+In der Anforderungsanalyse und dem Systementwurf wurde mit dem dort beschriebenen zweiten Szenario ( siehe Unterabschnitt 3.3.2 ) schon beispielhaft eine Möglichkeit zur Weiterentwicklung des Systems aufgezeigt .
+Dabei handelt es sich um einen Dienst , welcher deﬁnierte KNX-Telegramme an iPhones ausliefert , die nicht mit dem lokalen Netzwerk verbunden sind oder auf denen die mobile Anwendung nicht aktiv ist .
+Durch eine solche Erweiterung kann die mobile Anwendung über Ereignisse , die aus dem Gebäudeautomationssystem heraus ausgelöst werden , informiert werden , obwohl ein Empfang der KNX-Telegramme nicht möglich ist .
+Zur Umsetzung dieses Dienstes könnte zum Beispiel die Apple Push Notiﬁcation Service-Technologie von Apple eingesetzt werden .
+Neben diesem Szenario ergeben sich weitere Möglichkeiten den Funktionsumfang des Systems zu erweitern oder auf neue Einsatzgebiete anzupassen .
+Hier sollte vor allem eine vielseitigere Unterstützung von Datenpunkttypen und geeigneten Interaktionselementen zur Steuerung der KNX-Geräte forciert werden .
+Im Hinblick auf Benutzerfreundlichkeit und eine intuitive Bedienung könnte auch die Darstellung der Informationen optimiert werden .
+Es wäre zum Beispiel denkbar den Status der KNX-Gruppen schon auf der Gruppenansicht darzustellen um so schnell einen Überblick über das Gebäudeautomationssystem zu bekommen .
+Praktisch wäre zudem die Möglichkeit deﬁnierte Funktionen beim Empfang von bestimmten KNX-Telegrammen auszuführen .
+So könnte zum Beispiel das Betätigen einer ins Gebäudeautomationssystem eingebundenen Klingel die Anzeige eines Videostreams einer Kamera auslösen .
+Insofern eine gemeinsame Abbildung der Topologien unterschiedlicher Standards zur Gebäudeautomation gefunden werden kann , ist auch eine Erweiterung hinsichtlich der Unterstützung anderer Gebäudeautomationsstandards , wie z.B. LON , denkbar .
+Interessant für das Hotel- bzw. Gastgewerbe könnten erweiterte Zugriﬀs- und Sicherungsfunktionen für den Zugriﬀ auf ein Gebäudeautomationssystem sein .
+So könnte durch die Anwendung das Steuern und Überwachen eines begrenzten Umfangs des Gebäudeautomationssystems temporär ermöglicht werden , also z.B. die Geräte eines Hotelzimmers über den Aufenthaltszeitraum eines Gastes durch diesen steuerbar sein .
+Die Gäste könnten die Anwendung so bequem auf ihrem eigenen mobilen Endgerät ausführen .
+Wie schon in Unterabschnitt 2.1.4 deutlich gemacht wurde , wäre die Umsetzung der mobilen Anwendung auch für andere Smartphone-Plattformen wie Android oder Windows Mobile denkbar .
+Digital Addressable Lightning Interface ( DALI ) ist ein Protokoll zur Steuerung von lichttechnischen Betriebsgeräten .
+Die Open Handset Alliance ist ein Verbund von 65 Technologie- und Mobilfunkunternehmen mit dem Ziel Innovationen im Bereich Mobilfunk voranzutreiben .
+Dazu wurde Android als erste freie und oﬀene Mobil-Plattform entwickelt [ Ope ] .
+DMX ist ein Protokoll zur Steuerung von Veranstaltungstechnik .
+Die Engeneering Tool Software ( ETS ) ist eine für Windows erhältliche Anwendung zur Programmierung von KNX-Geräten .
+Ein Gateway ermöglicht die Kommunikation zwischen Netzwerken , die unterschiedliche Protokolle benutzen .
+Es kann als Übergangspunkt zwischen unterschiedlichen Netzwerken bezeichnet werden .
+Ein Gyroskop ist ein Kreiselinstrument über das die Lage und Bewegungsrichtung eines Gegenstandes im Raum ermittelt werden kann Das Model-View-Controller-Architekturmuster ( MVC ) dient der Strukturierung von Software-Entwicklungen .
+Dabei wird die Anwendungen in drei Komponenten unterteilt : eine Präsentationskomponente , ein Datenmodell und eine Steuerungskomponente .
+Ziel dieses Musters ist eine verbesserte Wiederverwendbarkeit der einzelnen Komponenten .

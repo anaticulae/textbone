@@ -32,4 +32,4 @@ def test_api_documents_master72master75(testdir, client, monkeypatch):
         }
         request = f'plots/{expected["plots"][0]}'
         png = utilatest.get(client, request, raw=True).data
-        assert len(png) == 12057
+        assert len(png) == 12035

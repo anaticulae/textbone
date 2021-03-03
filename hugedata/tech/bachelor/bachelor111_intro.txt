@@ -1,0 +1,31 @@
+Die Entwicklungen in der Computer- und Mobilfunktechnologie der letzten Jahre haben es ermöglicht , dass man heutzutage von fast jedem Ort aus erreichbar ist und fast jeden erreichen kann .
+Technische Geräte zur Kommunikation , Unterhaltung oder Steuerung sind mittlerweile so kompakt , dass sieeinelementarerBestandteilunseresLebensgeworden , alsoallgegenwärtig sind .
+Laut Iftode , Borcea und anderen [ IBR+04 ] wird noch nicht das volle Potenzial der mobil zur Verfügung stehenden Rechenleistung genutzt , denn `` ourpocketsandbagsarestilljammedwithabunchofkeys [ ... ] , accesscards [ and ] credit cards [ ... ] '' .
+Sie sind der Meinung , dass „ Smartphones “ die Geräteklasse sind , die die größte Chance haben eine „ Universalfernbedienung “ für die uns umgebenden Geräte zu werden und unsere Taschen wieder zu leeren , denn das Mobiltelefon ist `` for some mysterious reason [ ... ] the least likely to be left at home '' .
+Zudem läuft „ die Zeit der ’ dummen Häuser ’ “ ab [ dpa09 ] und immer mehr Unterhaltungselektronik und Steuerungs- bzw. Überwachungtechnik zieht in unsere Häuser und Wohnungen ein .
+Licht , Heizung , Musikanlage und viele andere Geräte können heute über Rechner gesteuert werden .
+Dazu stehen verschiedene Bus-Technologien zur Verfügung , die es ermöglichen , Aktoren , und damit einzelne Geräte oder Gerätegruppen , im Haushalt anzusprechen .
+Da die Technologien bereits verfügbar sind und der Mensch längst im Zeitalter der allgegenwärtigen Informationsverarbeitung , dem sogenannten „ Ubiquitous Computing “ , angekommen ist , dann erscheint es nur als logischer nächster Schritt , diese beiden Welten zu verbinden und moderne Haustechnik über „ Smartphones “ von fast jedem Ort aus zu steuern .
+DieVerbindungzwischenmobilerWeltundderTechnikinnerhalbdereigenen vier Wände ist keine neue Idee .
+Es existieren bereits Lösungen zur Steuerung von Gebäudetechnik mit mobilen Endgeräten .
+Die Integration dieser mobilen Endgeräte ist aber meist bei der Planung des Gesamtsystems vom Elektroinstallateur bzw. der Fachkraft zu berücksichtigen .
+Eine nachträgliche Installation durch den Endanwender gestaltet sich schwierig .
+Auch die Konﬁguration der Anwendung auf dem mobilen Endgerät kann meist nur durch eine Fachkraft erfolgen .
+Meine Anwendung soll daher Wege aufzeigen , die eine Integration mobiler Endgeräte in ein Gebäudeautomationssystem auch nachträglich mit möglichst geringem Aufwand für Fachkräfte möglich machen .
+Ziel dieser Arbeit ist eine Evaluierung der Möglichkeiten zur Integration eines mobilen Endgerätes in ein System zur Steuerung von intelligenter Gebäudetechnik .
+Es soll beispielhaft eine Anwendung zur Steuerung dieser Gebäudetechnik auf einem mobilen Endgerät entwickelt werden .
+Dazu werden Standards und Protokolle zur Vernetzung , Steuerung und Überwachung von Gebäude- und Haushaltstechnik untersucht .
+Der Schwerpunkt der Arbeit liegt in der Anbindung einesmobilenEndgerätesaneinSteuerungssystemfür intelligenteGebäudetechnik.DerKonﬁgurationsaufwandderAnwendungsoll fürdenAnwendermöglichstgeringunddieBedienungeinfachundintuitivgehaltensein.DieAnwendungsollbeispielhaftdieSteuerungundÜberwachung einer Lichtquelle sowie das Auslesen eines Temperatursensors ermöglichen .
+ImfolgendenAbschnittwerdendiegrundlegendenTechnologien , diepotenziell zur Erstellung des Systems in Frage kommen , beschrieben .
+Anhand dieser Grundlagen wird ermittelt , welche Technologien und Geräte im Rahmen der ErstellungdesPrototypenverwendetwerden.ZudemwerdenbestehendeSysteme für den mobilen Zugriﬀ auf Gebäudesteuerungssysteme vorgestellt und Vor- und Nachteile dieser Anwendungen diskutiert .
+Dieser Überblick soll die Grundlage für die anschließende Anforderungsanalyse schaﬀen .
+InKapitel3wirddieAnwendungsumgebunganalysiertunddaraufbasierend Anforderungen an das System deﬁniert .
+Es wird dabei auf die besonderen Gegebenheiten , die durch die Anbindung des Prototypen an ein Gebäude steuerungssystem zu beachten sind , eingegangen .
+Anwendungsfälle , die das System abbilden soll , werden identiﬁziert und deﬁniert .
+Basierend auf den zuvor speziﬁzierten Anforderungen wird in Kapitel 4 ein konzeptioneller Systementwurf erstellt .
+Hier wird insbesondere auf die KomponentendesSystemseingegangensowiedieKommunikationzwischenmobilemEndgerätunddemGebäudesteuerungssysteminFormvonSchnittstellen und das Datenmodell speziﬁziert .
+Zudem ist der Entwurf einer Benutzeroberﬂäche für die Anwendung des mobilen Endgerätes Teil dieses Kapitels .
+DietechnischeUmsetzungdeserarbeitetenSystementwurfswirdimKapitel5 beschrieben .
+Das Hauptaugenmerk liegt hierbei zum Einen auf der Art der Integration des mobilen Endgerätes in das Gebäudesteuerungssystem und zum Anderen auf der Implementierung der Smartphone-Anwendung .
+Abschließend wird das entwickelte System in Hinblick auf die Erfüllung der Anforderungen hin untersucht und bewertet .
+Der Prototyp wird zudem in diesem Abschnitt demonstriert .

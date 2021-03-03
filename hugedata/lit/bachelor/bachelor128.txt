@@ -3,7 +3,8 @@ Das Wort E-Bilanz steht für elektronische Bilanz .
 Bisher wurde die Bilanz von den Unternehmen in Papierform an die Finanzverwaltung übermittelt .
 Die E-Bilanz baut sich auf der deutschen E-Government-Strategie auf .
 Sie besagt , dass die Arbeitsabläufe zwischen den Unternehmen und der Finanzverwaltung durch elektronische Unterstützung optimiert werden müssen .
-Zu diesem Zweck sollen sämtliche technische , rechtliche und organisatorische Voraussetzungen für eine Nutzung der elektronischen Verfahren geschaffen werden . 6 Bisher ausgebaute Projekte sind die elektronische Steuervoranmeldung , die elektronische Steuererklärung und die digitale Betriebsprüfung .
+Zu diesem Zweck sollen sämtliche technische , rechtliche und organisatorische Voraussetzungen für eine Nutzung der elektronischen Verfahren geschaffen werden . 6
+Bisher ausgebaute Projekte sind die elektronische Steuervoranmeldung , die elektronische Steuererklärung und die digitale Betriebsprüfung .
 Seit Ende 2011 gehört nun auch die EBilanz dazu .
 Bilanzen nach dem 31. Dezember 2011 müssen erstmals elektronisch übermittelt werden .
 Somit sind das die Bilanzen für das Wirtschaftsjahr 2012 .
@@ -24,7 +25,8 @@ XBRL ist die Abkürzung für eXtensible Business Reporting Language und dient de
 Es bietet den Vorteil , dass es nicht nur für die EBilanz genutzt werden kann , sondern auch „ im Rahmen der allgemeinen Finanzberichterstattung [ … ] . “ 12
 Beispiele für die weitere Verwendung sind die Übermittlung an den Bundesanzeiger , an verbundene Unternehmen und an die Banken .
 Die Umstellung auf XBRL muss meistens nur einmal erfolgen und spart somit wieder Zeit und Kosten .
-Aus der Drucksache 16/10188 vom Bundestag kommt deutlich heraus , dass der Bedarf an Daten in Zukunft steigen wird : „ Der Gesetzentwurf enthält ein Bündel von Maßnahmen , die dieser Zielsetzung in besonderem Maße gerecht werde : Einen Schwerpunkt bildet der Ausbau der elektronischen Kommunikation zwischen Unternehmen und Steuerbehörde , insbesondere durch papierlose Übermittlung der Steuererklärungsdaten und ergänzender Unterlagen bei den Unternehmenssteuern. “ 13 Für den steuerlichen Berater und auch für die Unternehmen heißt das , dass sie mit einer Umstellung rechnen müssen .
+Aus der Drucksache 16/10188 vom Bundestag kommt deutlich heraus , dass der Bedarf an Daten in Zukunft steigen wird : „ Der Gesetzentwurf enthält ein Bündel von Maßnahmen , die dieser Zielsetzung in besonderem Maße gerecht werde : Einen Schwerpunkt bildet der Ausbau der elektronischen Kommunikation zwischen Unternehmen und Steuerbehörde , insbesondere durch papierlose Übermittlung der Steuererklärungsdaten und ergänzender Unterlagen bei den Unternehmenssteuern. “ 13
+Für den steuerlichen Berater und auch für die Unternehmen heißt das , dass sie mit einer Umstellung rechnen müssen .
 Die inhaltlichen Anforderungen weichen zum Teil von der bisherigen Praxis ab. 14
 „ Die Technik der E-Bilanz greift [ jedoch ] nicht unmittelbar in die bestehende individuelle Buchführung des Steuerpflichtigen ein “ 15 Die Ordnungsmäßigkeit der Buchführung wird nicht verändert .
 Bereits vor der Einführung der E-Bilanz war es wichtig , die Sachverhalte „ zeitnah , vollständig und zutreffend in der ordnungsmäßigen Buchführung “ 16 zu erfassen .
@@ -32,15 +34,16 @@ Bei der elektronischen Datenübermittlung werden die Datensätze einer Prüfung 
 Mit Hilfe des Elster-Rich-Clients wird festgestellt , ob die Daten , die weitergeleitet werden , auch rechnerisch richtig sind .
 Bei allen Mussfeldern sind Angaben zu machen . 17 Bislang wurden die Bilanzen sowie die Gewinn- und Verlustrechnungen bei den zuständigen Finanzämtern in Papierform gem. § 60 ( 1 ) Einkommensteuer-Durchführungsverordnung ( EStDV ) eingereicht .
 Die Daten der Unternehmen stehen jedoch oftmals schon in digitaler Form zur Verfügung. 18
-Somit wurde im Dezember 2008 das Steuerbürokratieabbaugesetz verabschiedet , welches dafür sorgen soll , dass die nationale Steuerbürokratie mit Hilfe von modernen Informationstechnologien mehr abgebaut wird .
-Eine weitere Änderung im Gesetz ist die Erweiterung des §5 EStG um § 5b EStG. 19 § 5b Abs. 1 EStG besagt , dass Unternehmen die ihren „ Gewinn nach § 4 Abs. 1 , § 5 oder § 5a ermittel [ n ] “ 20 , den „ Inhalt der Bilanz sowie der Gewinn- und Verlustrechnung nach amtlich vorgeschriebenen Datensatz durch Datenübertragung zu übermitteln [ haben ] “ 21 Der Begriff „ Bilanz “ des Satzes 1 wird mit den Sätzen 2 und 3 des § 5b EStG konkretisiert .
-Diese Sätze sind identisch zu den Vorschriften des §60 Abs. 2 EStDV .
-„ Geringe Änderungen ergeben sich im Verhältnis zu §60 EStDV : [ die ] Verpflichtungen nach §60 EStDV werden nicht ausgeweitet. “ 22
+Somit wurde im Dezember 2008 das Steuerbürokratieabbauge setz verabschiedet , welches dafür sorgen soll , dass die nationale Steuerbürokratie mit Hilfe von modernen Informationstechnologien mehr abgebaut wird .
+Eine weitere Änderung im Gesetz ist die Erweiterung des § 5 EStG um § 5b EStG. 19 § 5b Abs. 1 EStG besagt , dass Unternehmen die ihren „ Gewinn nach § 4 Abs. 1 , § 5 oder § 5a ermittel [ n ] “ 20 , den „ Inhalt der Bilanz sowie der Gewinn- und Verlustrechnung nach amtlich vorgeschriebenen Datensatz durch Datenübertragung zu übermitteln [ haben ] “ 21 Der Begriff „ Bilanz “ des Satzes 1 wird mit den Sätzen 2 und 3 des § 5b EStG konkretisiert .
+Diese Sätze sind identisch zu den Vorschriften des § 60 Abs. 2 EStDV .
+„ Geringe Änderungen ergeben sich im Verhältnis zu § 60 EStDV : [ die ] Verpflichtungen nach § 60 EStDV werden nicht ausgeweitet. “ 22
 Die Bilanz sowie die Gewinn- und Verlustrechnung müssen nun elektronisch übermittelt werden .
 Der Anhang , der Lagebericht und der Prüfbericht können jedoch noch in Papierform eingereicht werden. 23
-In der Nachfolgenden Abbildung wird noch einmal §5b Abs. 1 EStG dargestellt .
-Ein weiterer wichtiger Punkt ergibt sich aus dem §51 Abs. 4 Nr. 1b EStG .
-Durch diesen Paragraphen wird das Bundesministerium der Finanzen dazu ermächtigt , „ den Mindestumfang der nach §5b [ EStG ] elektronisch zu übermittelnden Bilanz und Gewinn- und Verlustrechnung zu bestimm [ en ] . “ 24 Daraus entstand ein Anwendungsschreiben des BMF vom 28. 09.2011 , welches vorher von mehreren Unternehmen in einer Pilotphase getestet und hierbei immer wieder weiterentwickelt wurde letztendlich die Endversion veröffentlicht werden konnte .
+In der Nachfolgenden Abbildung wird noch einmal § 5b Abs. 1 EStG dargestellt .
+Ein weiterer wichtiger Punkt ergibt sich aus dem § 51 Abs. 4 Nr. 1b EStG .
+Durch diesen Paragraphen wird das Bundesministerium der Finanzen dazu ermächtigt , „ den Mindestumfang der nach § 5b [ EStG ] elektronisch zu übermittelnden Bilanz und Gewinn- und Verlustrechnung zu bestimm [ en ] . “ 24
+Daraus entstand ein Anwendungsschreiben des BMF vom 28. 09.2011 , welches vorher von mehreren Unternehmen in einer Pilotphase getestet und hierbei immer wieder weiterentwickelt wurde letztendlich die Endversion veröffentlicht werden konnte .
 Man kann also sagen , dass das Bundesministerium der Finanzen einige Kritikpunkte aufgenommen und verbessert hat .
 Somit wird deutlich , dass das „ Projekt E-Bilanz “ nicht gefährdet werden soll und „ die verpflichtende Einführung für die betroffenen Unternehmen – zunächst – ohne wesentliche Eingriffe in deren bisheriges Buchungsverhalten “ 25 ermöglicht wird .
 Als Taxonomien werden die gegliederten Datenschemata bezeichnet , „ die den Inhalt und die Struktur von Finanzberichten beschreiben. “ 26 Sie werden vom Bundesministerium für Finanzen wie folgt definiert : „ Eine Taxonomie ist ein Datenschema für Jahresabschlussdaten .
@@ -70,7 +73,8 @@ Sie sind zwingend auszufüllen , da sie rechnerisch mit ihren Unterpositionen ve
 Mussfelder sind die Positionen , die auf jeden Fall ausgefüllt und übermittelt werden müssen .
 Falls es nicht möglich ist , diese Felder auszufüllen , so muss ein sogenannter NIL-Wert eingetragen und dann übermittelt werden .
 NIL ist die Abkürzung für Not-in-List und wird auch Null-Wert genannt . 36
-Diese Situation entsteht , wenn in der Buchführung des Unternehmens kein Geschäftsvorfall zum Mussfeldvorliegt „ oder eine genaue Befüllung der Position sich nicht aus der Buchführung des Unternehmens ableiten lässt. “ 37 Ein Wert ist dann ableitbar , wenn er sich im Sinne des §140 AO aus den Unterlagen der Buchführung ergibt .
+Diese Situation entsteht , wenn in der Buchführung des Unternehmens kein Geschäftsvorfall zum Mussfeldvorliegt „ oder eine genaue Befüllung der Position sich nicht aus der Buchführung des Unternehmens ableiten lässt. “ 37
+Ein Wert ist dann ableitbar , wenn er sich im Sinne des § 140 AO aus den Unterlagen der Buchführung ergibt .
 Darunter zählt die Buchführung als Ganzes , also das Hauptbuch , die Nebenbücher und auch Bu chungsschlüssel mit Hilfe von maschineller Auswertung .
 Für die Einführungsphase der E-Bilanz ist die Ableitung aus dem Hauptbuch völlig ausreichend . 38
 Eine weitere Position sind Mussfelder , bei denen der Kontennachweis erwünscht ist .
@@ -111,14 +115,16 @@ Die Steuerberater müssen sich ebenfalls auf Änderungen in der Software und in 
 Sie werden dabei durch den Softwarehersteller unterstützt , mit welchem sie hauptsächlich arbeiten .
 In den meisten Fällen ist das die DATEV eG , Nürnberg , welche spezielle Seminare anbietet , um den Berater bestmöglich auf die Neuerungen in der Software durch die E-Bilanz vorzubereiten .
 Auch eigenes Informationsmaterial wird für die Steuerbüros geliefert , um die offenen Fragen zu beantworten .
-„ Nicht nur Änderungen im Zusammenhang mit der geforderten elektronischen Datenübermittlung , sondern auch das sich hierdurch stärker entwickelnde Risikomanagementsystem der Finanzverwaltung werden die zukünftige Rolle des Steuerberaters verändern. “ 51 Das Finanzamt hat die Möglichkeit die Daten zu nutzen , um eine Risikobeurteilung zu erstellen .
+„ Nicht nur Änderungen im Zusammenhang mit der geforderten elektronischen Datenübermittlung , sondern auch das sich hierdurch stärker entwickelnde Risikomanagementsystem der Finanzverwaltung werden die zukünftige Rolle des Steuerberaters verändern. “ 51
+Das Finanzamt hat die Möglichkeit die Daten zu nutzen , um eine Risikobeurteilung zu erstellen .
 Die vorgegebene Datentiefe ermöglicht es , besonders risikobehaftete Sachverhalte heraus zu finden und diese für die Betriebsprüfung zu nutzen .
 Für den Berater muss ebenfalls die Möglichkeit bestehen , die risikobehafteten Sachverhalte zu identifizieren um keine Nachteile gegenüber der Finanzverwaltung zu haben .
 Seitens der Finanzverwaltung spricht man weniger von Nachteilen , sondern eher von Vorteilen .
 Durch die Ablösung der Papierform hat die Finanzverwaltung weniger Kosten .
 Nicht nur das kein Papier mehr anfällt , zusätzlich erleichtert sich die Auswertung der Unterlagen .
 Durch die elektronische Übermittlung im XBRLFormat und die Standardisierung der Daten ist es möglich , viel schneller , einfacher und mit einem geringeren Zeitaufwand die Daten auszuwerten . 52
-Vorher wurden „ die relevanten steuerlichen Daten in verschiedener Form ( Papier oder elektronisch ) und auf unterschiedlichen Wegen [ … ] bereitgestellt. “ 53 Weitere Auswertungen , die bisher eher schwierig waren , könnten zum Beispiel die „ Analyse von Bilanzkennzahlen , [ ein ] Zeitreihenvergleich [ oder ] externe Betriebsvergleiche “ 54 sein .
+Vorher wurden „ die relevanten steuerlichen Daten in verschiedener Form ( Papier oder elektronisch ) und auf unterschiedlichen Wegen [ … ] bereitgestellt. “
+53 Weitere Auswertungen , die bisher eher schwierig waren , könnten zum Beispiel die „ Analyse von Bilanzkennzahlen , [ ein ] Zeitreihenvergleich [ oder ] externe Betriebsvergleiche “ 54 sein .
 Die Konzentration liegt dabei auf kleinen und mittelgroßen Unternehmen .
 Bei Ihnen ist die Wahrscheinlichkeit einer Betriebsprüfung höher .
 Durch die standardisierten Datensätzen können Unternehmen mit besonders auffälligen Kennzahlen schneller ermittelt werden und einer Betriebsprüfung unterzogen werden .
@@ -165,7 +171,8 @@ Das Internet wurde in den letzten Jahren immer mehr ausgebaut und hat an Bedeutu
 Der Versand von E-Mails steht schon bald vor dem Senden eines klassischen Briefes .
 Auch für den Bereich der Umfrageforschung spielt das eine wichtige Rolle .
 Online-Umfragen haben mehr und mehr Beachtung bekommen in den letzten Jahren .
-„ Eine Online-Befragung bzw. ein Web-Survey ist eine internetbasierte Befragungsmethode bei der ein Online-Fragebogen im Internet Browser ausgefüllt wird. “ 65 Sie basieren in den meisten Fällen auf einem Web-Server .
+„ Eine Online-Befragung bzw. ein Web-Survey ist eine internetbasierte Befragungsmethode bei der ein Online-Fragebogen im Internet Browser ausgefüllt wird. “ 65
+Sie basieren in den meisten Fällen auf einem Web-Server .
 Es gibt auch die Möglichkeit Papierfragebögen per E-Mail Anhang zu versenden .
 Jedoch ist diese Variante viel umständlicher .
 Die Probanden müssten erst den Fragebogen ausdrucken um ihn anschließend ausfüllen zu können .
@@ -185,7 +192,8 @@ Das ist besonders dann ein Vorteil , wenn die Ergebnisse schnell benötigt werde
 Die Zielpersonen können mit Hilfe einer E-Mail angeschrieben und die Befragung kann in wenigen Tagen dadurch abgeschlossen werden . 68
 Schon nach wenigen Stunden können die ersten Ergebnisse ausgewertet werden .
 Die meisten Plattformen für Internetbasierte Umfragen bieten eine automatische Auswertung an , so dass man sich schon einen allgemeinen , ersten Überblick verschaffen kann .
-„ Erfahrungsgemäß entscheiden sich die meisten der angeschriebenen Personen sofort für oder gegen die Teilnahme an der Befragung sobald sie die Einladung erhalten haben. “ 69 Bei einer postalischen Befragung , lassen die Probanden die Umfrage meistens ein paar Tage liegen und beantworten sie dann doch noch irgendwann .
+„ Erfahrungsgemäß entscheiden sich die meisten der angeschriebenen Personen sofort für oder gegen die Teilnahme an der Befragung sobald sie die Einladung erhalten haben. “ 69
+Bei einer postalischen Befragung , lassen die Probanden die Umfrage meistens ein paar Tage liegen und beantworten sie dann doch noch irgendwann .
 Die Dauer ist dadurch wesentlich höher .
 Bei onlinebasierten Umfragen kann eine Umfrage innerhalb von zwei Wochen abgeschlossen sein , inklusive Erinnerungsschreiben . 70
 Des Weiteren hat die Online-Befragung den Vorteil komplizierte Filter anzuwenden .
@@ -267,7 +275,8 @@ Die ersten beiden Fragenkomplexe richten sich somit eher auf allgemeine Fragen .
 Sie berühren noch nicht die E-Bilanz .
 Der dritte Fragenkomplex besteht aus vier geschlossenen Items .
 Dabei besteht ein Item aus einer Notenskala .
-Die Notenskala ist eine „ sehr empfehlenswerte Bewertungsskala [ … ] , weil diese in Deutschland jedem Befragten zumindest aus der eigenen Schulzeit vertraut ist. “ 82 Die Teilnehmer sollen damit bewerten , wie gut sie sich über die E-Bilanz informiert fühlen .
+Die Notenskala ist eine „ sehr empfehlenswerte Bewertungsskala [ … ] , weil diese in Deutschland jedem Befragten zumindest aus der eigenen Schulzeit vertraut ist. “ 82
+Die Teilnehmer sollen damit bewerten , wie gut sie sich über die E-Bilanz informiert fühlen .
 Die weiteren geschlossenen Fragen sollen ergründen , in wie weit der Informationsfluss gegeben ist .
 Ob es Mitarbeiter in den einzelnen Büros gibt , die sich besonders gut auskennen mit der EBilanz oder ob sie schon einmal ein Seminar besucht haben .
 Wichtig für die Bewertung der E-Bilanz ist es , ob man sich auch gut dafür vorbereiten konnte und genügend Wissen darüber erlangen konnte .
@@ -334,7 +343,8 @@ Rund 1.500 Mitarbeiterinnen und Mitarbeiter sind deutschlandweit bei der ECOVIS 
 Die ECOVIS ist ein Beratungsunternehmen für den Mittelstand und zählt in Deutschland zu den Top 10 der Branche .
 In einer von der Zeitschrift Markt und Mittelstand in Auftrag gegebenen Studie erzielte ECOVIS hervorragende Ergebnisse in fast allen abgefragten Bereichen und konnte sich damit an die Spitze als bester Wirtschaftsprüfer für den Mittelstand absetzen .
 Ebenfalls bekam das Unternehmen erst in diesem Jahr die Auszeichnung vom FOCUS-Spezial Arbeitgeberranking , als beliebtester Arbeitgeber mit den Schwerpunkten Steuerberatung und Wirtschaftsprüfung . 85
-Seit der Gründung 2003 hat sich die ECOVIS auf dem Markt etabliert : „ als [ ein ] Unternehmen aus Steuerberatern , Wirtschaftsprüfern , Rechtsanwälten und Unter nehmensberatern mit dem Schwerpunkt auf den speziellen Bedürfnissen von inhaber- und familiengeführten Unternehmen und Privatpersonen. “ 86 Ihr Erfolgsrezept liegt darin , das sie aus profundem Wissen zur richtigen Lösung gelangen können .
+Seit der Gründung 2003 hat sich die ECOVIS auf dem Markt etabliert : „ als [ ein ] Unternehmen aus Steuerberatern , Wirtschaftsprüfern , Rechtsanwälten und Unter nehmensberatern mit dem Schwerpunkt auf den speziellen Bedürfnissen von inhaber- und familiengeführten Unternehmen und Privatpersonen. “ 86
+Ihr Erfolgsrezept liegt darin , das sie aus profundem Wissen zur richtigen Lösung gelangen können .
 Ihre Arbeit erfolgt interdisziplinär sowie international .
 Der Vorteil , welcher daraus hervorgeht ist , dass sie somit ein größeres Leistungsspektrum anbieten können , als kleinere und mittelgroße Kanzleien direkt vor Ort .
 Hingegen zu ganz großen Wirtschaftsberatungen bieten sie immer individuelle Lösungen mit besonderem Augenmaß für den Mittelstand . 87
@@ -422,11 +432,8 @@ In der Abbildung 12 ist das Ergebnis dieser Frage dargestellt .
 52 % der befragten Mitarbeiter gaben an , dass sie einen 10 % höheren Zeitaufwand vermuten , 31 % finden sogar das es einen bis zu 20 % höheren Zeitaufwand gibt .
 Nur 4 % der Mitarbeiter vermuten einen bis zu 30 % höheren Zeitaufwand .
 13 % also 6 Mitarbeiter gaben ihre Antwort in dem Zusatzantwortfeld an .
-Folgende Antworten wurden dort angegeben : - kommt ganz drauf an , prinzipiell ca .
-2-3 h pro E-Bilanz - 15-30 min .
-- kommt auf die bebuchten Konten an - ca .
-10-15 Minuten - anfangs ca .
-½ Stunde - leider keine Erfahrungen Man kann also feststellen , dass grundsätzlich alle Mitarbeiter einen höheren Zeitaufwand vermuten beim Erstellen der E-Bilanz .
+Folgende Antworten wurden dort angegeben : - kommt ganz drauf an , prinzipiell ca. 2-3 h pro E-Bilanz - 15-30 min .
+- kommt auf die bebuchten Konten an - ca. 10-15 Minuten - anfangs ca. ½ Stunde - leider keine Erfahrungen Man kann also feststellen , dass grundsätzlich alle Mitarbeiter einen höheren Zeitaufwand vermuten beim Erstellen der E-Bilanz .
 Die nächsten beiden Fragen beziehen sich auf den Kostenaufwand .
 In der einen Frage wurde allgemein nach dem Kostenaufwand gefragt .
 Ob die Mitarbeiter vermuten , dass durch die Einführung der E-Bilanz der Kostenaufwand steigen wird .
@@ -539,7 +546,7 @@ Bei der Frage nach der Verhältnismäßigkeit zur bisherigen HGB-Bilanz ist die 
 Bei der Frage nach der Übersichtlichkeit sind die Mitarbeiter eher negativ gestimmt .
 Im Großen und Ganzen kann man also vermuten , dass die Mitarbeiter eher negativ auf die Übersichtlichkeit der EBilanz gestimmt sind .
 „ Durch die E-Bilanz wird der Bürokratieaufwand verringert “ Die E-Bilanz ist ein Baustein der E-Government-Strategie .
-Sie wurde durch das Steuerbürokratieabbaugesetz mit §5b EStG verpflichtend eingeführt .
+Sie wurde durch das Steuerbürokratieabbaugesetz mit § 5b EStG verpflichtend eingeführt .
 Wie der Name schon vermuten lässt , soll dieses Gesetz zur Modernisierung und Entbürokratisierung des Steuerverfahrens dienen . 97
 Verfahren , die auf der Basis von Papier abgearbeitet werden , sollen zukünftig modernisiert werden .
 Mit Hilfe von elektronischer Übertragung sollen die „ Unternehmen ihre steuerlichen Pflichten [ … ] schneller und kostengünstiger sowie medienbruchfrei erfüllen können. “ 98 Übertragungsfehler sollen auch vermieden werden .

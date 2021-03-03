@@ -1,7 +1,7 @@
 Schon in den Anfängen des Fahrunterrichtes wird den Fahrschülern vermittelt , dass eine Fahrt unter Alkohol ein erhöhtes Unfallrisiko darstellt .
 Auf Grund des hohen Gefahrenpotentials durch Alkohol am Steuer wurde für das Fahren für Fahranfänger und Fahrer in der Probezeit im Jahre 2007 eine 0.00‰ - Grenze festgesetzt .
-Dabei begeht derjenige eine Straftat nach StVG §24c „ [ … ] wer in der Probezeit nach §2a oder vor Vollendung des 21 .
-Lebensjahres als Führer eines Kraftfahrzeuges im Straßenverkehr alkoholische Getränke zu sich nimmt oder die Fahrt antritt , obwohl er unter der Wirkung eines solchen Getränks steht “ ( StVG §24c , Vgl. Bundesministerium der Justiz und für Verbraucherschutz , 2014 ) .
+Dabei begeht derjenige eine Straftat nach StVG § 24c „ [ … ] wer in der Probezeit nach § 2a oder vor Vollendung des 21 .
+Lebensjahres als Führer eines Kraftfahrzeuges im Straßenverkehr alkoholische Getränke zu sich nimmt oder die Fahrt antritt , obwohl er unter der Wirkung eines solchen Getränks steht “ ( StVG § 24c , Vgl. Bundesministerium der Justiz und für Verbraucherschutz , 2014 ) .
 Doch mit Beendigung der Probezeit und damit der Erhöhung der erlaubten Alkoholkosumgrenze auf 0.5‰ im Blut ( ≙ 0,25 mg/l in der Atemluft ) , wobei keine Fahrauffälligkeiten vorhanden sein dürfen , scheint es viele Autofahrer nur bedingt zu interessieren , wie viel sie getrunken haben und ob sie noch in der Lage sind ein Fahrzeug zu führen , denn viele treten die Heimfahrt trotz Alkoholgenuss selber mit dem Auto an .
 71 % aller schweren Verkehrsunfälle unter Alkohol finden ab einer Promille von 1.1 statt .
 Hierbei handelt es sich laut dem Strafgesetzbuch ( StGB ) um eine Straftat nach § 316 , welches das Vergehen „ Trunkenheit im Verkehr “ regelt ( StGB , 2014 , Vgl. Schmidt , Dettmeyer , Padosch & Madea , 2004 ) .
@@ -216,8 +216,7 @@ Am ersten Versuchstag fuhren die Probanden zwei Teilabschnitte .
 Die erste befand sich außerorts auf einer Landstraße .
 Die Probanden sollten ein Gefühl dafür bekommen im Fahrsimulator zu fahren .
 Der zweite Teilabschnitt befand sich innerorts .
-Hier sollte geübt werden , wie man sich in der Stadt verhält , an Kreuzungen heranfährt und ggf .
-abbiegt .
+Hier sollte geübt werden , wie man sich in der Stadt verhält , an Kreuzungen heranfährt und ggf. abbiegt .
 Dabei wurde die Simulation mit Gegenverkehr , Fußgängern und Ampelphasen programmiert .
 Es wurden zusätzlich Richtungspfeile in die Simulation eingebaut , die es den Fahrern erleichtern sollte , sich durch die Stadt zu finden .
 So wurde langsam das Fahren geübt .

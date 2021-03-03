@@ -30,7 +30,7 @@ def test_api_sentence_master72master75(testdir, client, monkeypatch):
         }
         request = f'plots/{expected["plots"][0]}'
         png = utilatest.get(client, request, raw=True).data
-        assert len(png) == 168135
+        assert len(png) == 168025
 
 
 def test_api_documentsentence_document_does_not_exists(client):
