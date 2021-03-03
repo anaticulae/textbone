@@ -113,8 +113,7 @@ Dazu wird ein externer Druck am Arm aufgebracht und langsam wieder abgelassen .
 Dabei werden die auftretenden Oszillationen ermittelt .
 Es soll untersucht werden , ob eine solche Messung zuverlässige Werte liefert .
 Die Programmierung wird als Sub-VI realisiert und im Hauptprogramm eingebettet .
-Das Unterprogramm soll folgende Abläufe durchführen : Dem Ventil soll ein Rampensignal vorgegeben werden , das in der Manschette zügig einen Druck von vorerst 200mmHg erzeugt und diesen dann mit mäßiger Geschwindigkeit ( ca .
-5mmHg/s ) ablässt .
+Das Unterprogramm soll folgende Abläufe durchführen : Dem Ventil soll ein Rampensignal vorgegeben werden , das in der Manschette zügig einen Druck von vorerst 200mmHg erzeugt und diesen dann mit mäßiger Geschwindigkeit ( ca. 5 mmHg / s ) ablässt .
 Während des Ablassens sollen die vom Blutgefäß auf die Manschette übertragenen Oszillationen registriert , herausgefiltert und verstärkt werden .
 Aus diesen Schwingungen sollen dann Blutdruckwerte ermittelt werden .
 Das Sub-VI ist in zwei Sequenzen aufgeteilt .
@@ -127,7 +126,7 @@ Das Rampensignal wird im dafür von LabVIEW bereitgestellten Editor erzeugt und 
 Das ermittelte Manschettendrucksignal wird zunächst mit einem Filter geglättet und anschließend aufgeteilt .
 Im ersten Vorgang wird ein Bandpassfilter angewendet .
 Aus einer vorigen Arbeit [ Höf10 ] , in der mit ähnlichen Komponenten bereits eine oszillometrische Messung realisiert wurde , können die Filtereinstellungen übernommen werden .
-So erfolgen bei diesem Filter 511 Abgriffe , der Durchlassbereich erstreckt sich von 0,8Hz bis 2Hz .
+So erfolgen bei diesem Filter 511 Abgriffe , der Durchlassbereich erstreckt sich von 0,8 Hz bis 2 Hz .
 Die hierdurch ermittelten Schwingungen während der Pulsschläge werden mit dem Faktor 2000 verstärkt und ein Offset hinzugefügt , so dass das Signal um den Wert von 150 schwingt .
 Da zu Beginn des Ablassvorganges die Oszillationskurve sehr empfindlich gegenüber Überschwingern ist , wird diese nur im Ablassbereich zwischen 180mmHg bis 5mmHg dargestellt .
 Im zweiten Vorgang wird das Manschettendrucksignal lediglich mit dem Faktor 30 auf die Einheit mmHg skaliert .
@@ -238,7 +237,7 @@ Im anschließenden Signalabschnitt sind neben den gewünschten Oszillationen Zwi
 Für die Fälle , in denen der oszillometrische Wert dem auskultatorischen Wert ähnelt , werden nach der Anpassung auch durch die Servo-Methode physiologisch sinnvolle und den auskultatorischen Werten ähnliche Blutdruckwerte ermittelt .
 Beispiele hierfür sind die Messungen Nr. 1 , 3 , 4 , 6 und 10 .
 In Abbildung 29 liegen für diese Durchläufe der auskultatorisch bestimmte und der mit dem Versuchsaufbau gemessene MAP-Wert nahe beieinander .
-In diesen Fällen sind dann auch , in Abbildung 30 sichtbar , die gemessenen Blutdruckwerte ( Systole/Diastole ) annähernd gleich .
+In diesen Fällen sind dann auch , in Abbildung 30 sichtbar , die gemessenen Blutdruckwerte ( Systole / Diastole ) annähernd gleich .
 Im Falle einer gelungenen Anpassung durch den Berechnungsfaktor liefert auch eine bestimmte Änderung des hydrostatischen Drucks ( Anheben der Versuchsanordnung um 25cm ) plausible Werte .
 • Bei länger andauernden Messungen kommt es teilweise zu einer Regelung des Manschettendrucks gegen Null .
 Dies geschieht wahrscheinlich aufgrund einer Verschlechterung des Dopplersignals .

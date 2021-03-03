@@ -1,0 +1,32 @@
+Das Schlagwort „ Digitalisierung “ ist in den aktuellen wissenschaftlichen und wirtschaftlichen Beiträgen eines der meist diskutierten Themen weltweit , wenn es um die zukünftige Gestaltung von Geschäftsprozessen geht .
+Mit der tiefgreifenden Veränderung in allen Lebensbereichen mittels neuer technologischer Entwicklungen , werden grundlegende Strukturen revolutioniert und der digitale Wandel vorangetrieben .
+Bereits im Jahr 1988 beschrieb die ehemalige Harvard Professorin Shoshana Zuboff mit ihren drei „ Gesetzen der Digitalisierung “ diese fundamentalen Veränderungen , welche aus heutiger Sicht aktueller denn je sind : 1 .
+„ Alles , was digitalisiert und in Informationen verwandelt werden kann , wird digitalisiert und in Informationen verwandelt “ 1 2 .
+„ Was automatisiert werden kann , wird automatisiert “ 2 3 .
+„ Jede Technologie , die zum Zweck der Überwachung und Kontrolle kolonisiert werden kann , wird , was immer auch ihr ursprünglicher Zweck war , zum Zwecke der Überwachung und Kontrolle kolonisiert “ 3 Die zunehmende Verbreitung von Smartphones und Tablets sind die sichtbarsten Zeichen für den digitalen Wandel .
+Sie verändern das Kommunikations- und Konsumverhalten der Menschen enorm .
+Mittlerweile werden diese Möglichkeiten nicht mehr nur für die Informationsbeschaffung eingesetzt , sie sind außerdem ein etablierter Kanal zum Einkaufen sämtlicher Güter und Dienstleistungen .
+Die mobile Verfügbarkeit von digitalen Informationen bildet dabei den Kern der Digitalisierung und ermöglicht neue Produktions- und Geschäftsprozesse für Unternehmen .
+Maßgeschneiderte Kundenwünsche als auch die zunehmende Konkurrenz auf dem internationalen Markt bestimmen den Produktionsprozess und somit den Ablauf der kompletten Wertschöpfungskette .
+Mit der Einführung von Industrie 4.0 ergibt sich für Unternehmen die Chance , den veränderten Kundenwünschen besser entsprechen und Wettbewerbsvorteile generieren zu können .
+Die Gestaltung einer digitalen Infrastruktur sowie die Nutzung neuer Technologien ermöglichen Unternehmen neue Formen der Wertschöpfung .
+Deren zukünftige Umsetzung stellt eine der zentralen Herausforderungen für den mittelfristigen Erfolg der deutschen Wirtschaft dar.4 Obwohl bereits einige Erfolgsgeschichten mit Hilfe des digitalen Wandels geschrieben wurden , ist im Mittelstand noch viel Raum für strategische Potenziale durch Digitalisierung und Industrie 4.0 vorhanden.5 Die vorliegende Bachelorarbeit soll in das umfangreiche Thema Digitalisierung und Industrie 4.0 einführen und ein Verständnis für dessen Konzepte , Wirkungsweisen und technologischen Gestaltungsmöglichkeiten vermitteln .
+Da der Mittelstand einer der wichtigsten Treiber in der deutschen Wirtschaft ist , stehen mittelständische Unternehmen innerhalb dieser Arbeit im Zentrum der Betrachtungen .
+Die Auswirkungen der Digitalisierung und Industrie 4.0 entlang der Wertschöpfungskette werden dem Leser theoretisch sowie anhand von praktischen Ansatzpunkten und Orientierungshilfen vermittelt .
+Weiterhin soll die Arbeit dazu dienen , die dargestellte Problemstellung wissenschaftlich zu untersuchen sowie Denkanstöße zu geben , um mögliche Handlungsempfehlungen für mittelständische Unternehmen abzuleiten .
+Auf Basis der Problemstellung beantwortet diese Bachelorarbeit in den folgenden Kapiteln diese Forschungsfragen : - Welche technologischen Möglichkeiten können zur Gestaltung einer digitalen Infrastruktur eingesetzt werden ?
+- Welche Auswirkungen haben die Digitalisierung und Industrie 4.0 auf die Wertschöpfungskette mittelständischer Unternehmen ?
+Die methodische Vorgehensweise dieser Arbeit erfolgt im Sinne einer Literatur-Review mit dem Ziel , das Thema „ Digitalisierung und Industrie 4.0 im Mittelstand – Gestaltungsmöglichkeiten der digitalen Infrastruktur entlang der Wertschöpfungskette “ aus theoretischer Sicht zu beschreiben .
+Die steigende Bedeutsamkeit des Themas zeigt sich vor allem im Hinblick auf Beiträge im Internet , in Foren und in der einschlägigen Literatur .
+Die für diese Arbeit verwendete Literatur ist in Form von Fachbüchern und Artikeln aus Fachzeitschriften publiziert worden .
+Zusätzlich wurde mit Hilfe verschiedener Internetquellen eine praxisorientierte Recherche betrieben , um aktuelle Erkenntnisse in die Arbeit einfließen zu lassen .
+Zu Beginn der Bachelorarbeit wurde in Kapitel eins die Problemstellung erläutert , die Zielsetzung festgelegt und die methodische Vorgehensweise aufgezeigt .
+In Kapitel zwei werden die Hintergründe und theoretischen Grundlagen der Digitalisierung und Industrie 4.0 erklärt , die im Wesentlichen zum grundsätzlichen Verständnis des Themas beitragen .
+Ferner geht das Kapitel auf den Mittelstandsbegriff ein , um eine Abgrenzung zu anderen Unternehmen herstellen zu können .
+Das dritte Kapitel bildet den ersten Hauptteil der Arbeit .
+Es wird verdeutlich , aus welchen technologischen Bausteinen eine digitale Infrastruktur im Wesentlichen besteht und welche Bedeutung diese Technologien für den Mittelstand haben .
+Mittels praxisnahen sowie aktuellen Ansatzpunkten , werden die Erkenntnisse nochmals untermauert .
+Kapitel vier beschreibt die Auswirkungen der Digitalisierung und Industrie 4.0 entlang der Wertschöpfungskette .
+Der Fokus des zweiten Hauptteils richtet sich dabei auf die Primäraktivitäten und Unterstützungsaktivitäten eines Unternehmens .
+Anhand der Ergebnisse aus diesem Kapitel , können interessante und neue Formen der Wertschöpfung abgeleitet werden .
+Abschließend erfolgen in Kapitel fünf eine Schlussbetrachtung sowie ein Ausblick auf zukünftige Handlungsempfehlungen für mittelständische Unternehmen .

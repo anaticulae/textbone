@@ -1,0 +1,36 @@
+Die vorliegende Arbeit hat sich zu Beginn mit den Fragestellungen beschäftigt , welche Technologien zur Gestaltung einer digitalen Infrastruktur existieren und wie sich die Auswirkungen der Digitalisierung und Industrie 4.0 entlang der Wertschöpfungskette bemerkbar machen .
+Im theoretischen Teil wurden zunächst die grundsätzlichen Treiber der Digitalisierung dargestellt und die Hintergründe zur Entwicklung von Industrie 4.0 erklärt .
+Daraufhin wurde der Mittelstandsbegriff mit seinen quantitativen und qualitativen Merkmalen abgegrenzt .
+Zur Beantwortung der ersten Forschungsfrage wurden innovative Technologien aufgeführt , die bei der Gestaltung einer digitalen Infrastruktur notwendig sind und ein Unternehmen zur Umsetzung von Industrie 4.0 befähigen .
+Das zentrale Element bilden hierbei die Cyber-PhysischenSysteme , bestehend aus „ Ubiquitous Computing “ , „ Internet der Dinge und Dienste “ sowie „ Cloud Computing “ .
+Es zeigt sich , dass durch eine Vernetzung der realen und virtuellen Welt enorme Wettbewerbsvorteile realisierbar sind .
+Mittelständische Unternehmen können ihre bisherigen Geschäftsmodelle weiter oder neu entwickeln .
+Der Einsatz innovativer Technologien hat allerdings zur Folge , dass riesige Datenmengen verarbeitet werden müssen .
+Durch die gezielte Analyse und Auswertung dieser Daten erhalten Unternehmen spannende Erkenntnisse über ihre Kunden , um so die Produkte und Prozesse effizienter gestalten zu können .
+Im Kontext zu Industrie 4.0 ist der Aufbau einer „ Mensch-Maschine-Interaktion “ von besonderem Interesse .
+Während Maschinen und Produktionsanlagen zunehmend intelligenter werden und eigenständige Entscheidungen treffen können , stellt sich in Zukunft die Frage , welche Rolle der Mensch in einem digitalisierten Umfeld einnehmen wird .
+Hierbei ist zu erwarten , dass die Einführung neuer Technologien viele Chancen bereithält und gleichzeitig zu Veränderungen der Aufgaben- und Anforderungsbereiche der Mitarbeiter führen wird .
+Auf Basis dieser Erkenntnisse wurde im vierten Kapitel das Instrument der Wertschöpfungskette eingesetzt , um die zweite Forschungsfrage zu beantworten .
+Es wurde deutlich , dass durch den digitalen Wandel und der Implementierung von Industrie 4.0 unmittelbare Wettbewerbsvorteile im Kernbereich der Wertschöpfung erzielt werden können .
+Für die Umsetzung digitalisierter Wertschöpfungsprozesse werden zukünftig die Unterstützungsaktivitäten von zentraler Bedeutung sein .
+Durch die zunehmende Vernetzung konnten diese Aktivitäten erweitert und an den digitalen Wandel angepasst werden , sodass vier neue Felder entstanden sind .
+Es wurde veranschaulicht , dass die Sicherstellung von Innovationsfähigkeit , das Eingehen von Koopera tionen , die Nutzung von Datenerhebungs- und Analysemethoden sowie eine effizientere Gestaltung der Arbeitswelt wesentlich zur Erreichung der Potenziale von Digitalisierung und Industrie 4.0 beitragen werden .
+Ob sich auch der Mittelstand an diese tiefgreifende Veränderung anpassen kann , wird sich in den nächsten Jahren herausstellen .
+Der digitale Wandel stellt die Unternehmen nicht nur vor technologische Herausforderungen , sondern auch vor finanzielle Entscheidungen .
+Vor allem für mittelständische Unternehmen ist die Frage nach der optimalen Finanzierung und dem Investitionsbedarf von entscheidender Bedeutung .
+An dieser Stelle sollten die Betriebe geeignete Finanzierungsmöglichkeiten prüfen , die aufgrund umfangreicher Risikobewertungen nicht dargestellt werden konnten .
+Des Weiteren ist das Thema Datenschutz kritisch zu betrachten .
+Eine gezielte Datenanalyse von Märkten , Kunden und Trends führt einerseits zu nachhaltigen Informationsvorsprüngen , erfordert andererseits jedoch eine erhöhte Sensibilität im Umgang mit personenspezifischen Daten .
+Vor allem im Hinblick auf das am 25. Mai 2018 in Kraft tretende neue Bundesdatenschutzgesetzt empfiehlt es sich für Unternehmen , frühzeitig einen Rechtsrahmen in Zusammenarbeit mit juristischen Experten zu entwickeln .
+Die Betrachtung der einzelnen Ergebnisse dieser Arbeit sollen abschließend Denkanstöße für Unternehmen aus dem Mittelstand bieten .
+Für die Gestaltung einer digitalen Infrastruktur gibt es kein allgemein gültiges Modell , weshalb sie immer individuell und an den Unternehmenszielen orientiert umgesetzt werden sollte .
+Für den Erfolg der Industrie 4.0 erscheint es jedoch sinnvoll , gemeinsame Normen und Standards zu schaffen , die zu einer schnelleren Einführung digitaler Technologien führen können .
+Hierbei existiert noch zusätzlicher Forschungsbedarf , um den digitalen Wandel voranzutreiben .
+In Zukunft entstehen durch die Digitalisierung und Industrie 4.0 neue Formen der Wertschöpfung .
+Vor allem im Hinblick auf die Beschäftigungseffekte werden die Auswirkungen interessant zu beobachten sein .
+Zum einen ist damit zu rechnen , dass einige Stellen abgebaut werden , da Maschinen bestimmte Tätigkeiten präziser und effizienter ausführen können .
+Zum anderen besteht durch die projektgebundene Zusammenarbeit mit Freelancern das Risiko , betriebsinternes Knowhow langfristig zu verlieren .
+Insgesamt könnte sich der Einsatz von digitalen Technologien jedoch positiv auf die Beschäftigung auswirken , wobei analytische und interaktive Berufe an Bedeutung gewinnen werden .
+Die Unternehmen sind gefordert , die Chancen und Potenziale des digitalen Wandels zu erkennen und eine konsequente Umsetzung geeigneter Maßnahmen anzustreben .
+Dabei sollte die Unternehmensführung ihre Mitarbeiter durch Visionen inspirieren und durch Impulse motivieren .
+Der digitale Wandel bietet letztendlich die Möglichkeit , den Raum für strategische Potenziale zu nutzen und durch neuartige Geschäftsmodelle weitere Erfolgsgeschichten zu schreiben .

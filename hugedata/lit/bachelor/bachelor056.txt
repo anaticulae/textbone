@@ -182,8 +182,7 @@ Da es sich bei dem Versuch um eine Alkoholstudie handelte , wurden im Voraus aus
 Eine potentielle Gefährdung für die Probandin auf Grund einer unentdeckten Schwangerschaft sollte so verhindert werden .
 Zudem durften keine Psychologiestudenten teilnehmen , da diese eventuell die Bedingungen „ Alkohol/Placebo “ vor bzw. während des Versuches erkannt hätten und so eine Störvariable für die unabhängige Variable „ Bedingung “ dargestellt hätten .
 Des Weiteren wurden Asiaten ausgeschlossen , da eine genetisch bedingte „ atypisch inaktive Form des ALDH2 “ bestehen könnte .
-Dies hätte zur Folge , dass es „ zu höheren Aldehydkonzentrationen im Blut und zum sog .
-« Flushing-Syndrom » führt ( Schimiczek & Niebergall-Roth , 2005 , S. 97 ) “ .
+Dies hätte zur Folge , dass es „ zu höheren Aldehydkonzentrationen im Blut und zum sog. « Flushing-Syndrom » führt ( Schimiczek & Niebergall-Roth , 2005 , S. 97 ) “ .
 Es musste kein Proband auf Grund von zu geringem oder bedenklichem Alkoholkonsum ausgeschlossen werden .
 Es mussten nach dem ersten Termin drei Probanden auf Grund von „ simulator sickness “ ausgeschlossen werden ( Vgl. Kolasinski , 1995 ) .
 Die Daten von zwei weiteren Probanden wurden nach dem zweiten Termin nicht ausgewertet , da die Bedingung zu denen sie ursprünglich per Zufall zugeordnet wurden , im Versuch vom Versuchsleiter vertauscht wurden und somit nicht in die Analyse mit einbezogen werden konnten .
