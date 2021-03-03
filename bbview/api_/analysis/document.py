@@ -47,9 +47,9 @@ def paint_document_sentence_mean_length(documents):
             document,
             remove_punctation=True,
         )
-        _, name = os.path.split(document)
+        name = bbview.api.magic.filename(document)
+        names.append(name)
         lengths = [len(item) for item in raw]
-        names.append((index, name))
         x.append(len(raw))
         y.append(statistics.mean(lengths))
 

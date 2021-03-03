@@ -40,11 +40,13 @@ def filepath(name, base=hugedata.ROOT, fileext='txt'):
 
 
 def filename(item):
+    # TODO: MOVE TO UTILA?
     item = os.path.split(item)[1]
     item = str(item).split('.')[0]
     return item
 
 
 def parent(path):
+    # TODO: MOVE TO UTILA?
     result = os.path.abspath(os.path.join(path, '..'))
     return result
