@@ -9,7 +9,7 @@
 
 utila>=2.22.2<3.0.0
 configo>=0.9.0<1.0.0
-painter>=0.8.0<1.0.0
+painter>=0.9.1<1.0.0
 
 Flask==1.1.2
 Flask-Bootstrap==3.3.7.1

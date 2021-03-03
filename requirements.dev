@@ -9,6 +9,6 @@
 
 utilatest>=0.4.0<1.0.0
 
-nltk==3.5.0
+nltk==3.5
 
-painter>=0.8.0<1.0.0
+painter>=0.9.1<1.0.0
