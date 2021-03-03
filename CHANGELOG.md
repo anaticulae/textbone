@@ -2,6 +2,28 @@
 
 Every noteable change is logged here.
 
+## v0.4.0
+
+### Feature
+
+* add bachelor111 example (cdbbed302e39)
+* add bachelor128 example (8f50fe62a4ce)
+* add bachelor076 example (e1e9a82d7738)
+* add special order marker (1cb945b466b4)
+* add order024 example (d4207ce23801)
+* use document type specific marker (54ae1a20e14c)
+* do not show file extension (ad28522d8d7d)
+* add bachelor63 example (815a32ce6822)
+* add bachelor056 example (6c9170705859)
+* add bachelor051 example (c3519e4e7cb0)
+* add labels to plot (f66725eea60b)
+
+### Fix
+
+* use hash to handle a lot of document selections (891f066cbfec)
+* support more than two resource levels (e97643fce24a)
+* use hugedata file source (f1f0ba66be84)
+
 ## v0.3.0
 
 ### Feature
