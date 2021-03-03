@@ -15,16 +15,17 @@ import tests.bbview_.utils
 def test_api_sentence_master72master75(testdir, client, monkeypatch):
     request = ('analysis/documents?documents%5B%5D=lit_master_master072'
                '&documents%5B%5D=lit_master_master075&operations%5B%5D=line')
-
     with tests.bbview_.utils.patch_todo(monkeypatch, testdir):
         answer = utilatest.apicall(client, request)
         assert answer['plots']
         assert len(answer['plots']) == 3
         expected = {
             'plots': [
-                'document_line_lit_master_master072_lit_master_master075.png',
-                'document_line_lit_master_master072.png',
-                'document_line_lit_master_master075.png',
+                f'document_line_{hash(item)}.png' for item in (
+                    'lit_master_master072_lit_master_master075',
+                    'lit_master_master072',
+                    'lit_master_master075',
+                )
             ]
         }
         request = f'plots/{expected["plots"][0]}'

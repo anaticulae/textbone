@@ -27,7 +27,7 @@ def test_api_documents_master72master75(testdir, client, monkeypatch):
         assert len(answer['plots']) == 1
         expected = {
             'plots': [
-                'document_scatter_lit_master_master072_lit_master_master075.png',
+                f'document_scatter_{hash("lit_master_master072_lit_master_master075")}.png',
             ]
         }
         request = f'plots/{expected["plots"][0]}'

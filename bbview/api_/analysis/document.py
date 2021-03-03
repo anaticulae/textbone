@@ -63,5 +63,7 @@ def paint_document_sentence_mean_length(documents):
 
 def paths(documents):
     documents = '_'.join(documents)
+    # use hash to avoid very long file names
+    documents = hash(documents)
     result = f'document_scatter_{documents}.png'
     return result

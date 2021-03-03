@@ -67,5 +67,6 @@ def merged(single, magics) -> str:
 
 def paths(documents) -> str:
     documents = documents if isinstance(documents, str) else '_'.join(documents)
+    documents = hash(documents)
     path = f'document_line_{documents}.png'
     return path
