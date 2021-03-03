@@ -13,8 +13,9 @@ import backbone
 
 ROOT = os.path.join(backbone.ROOT, 'hugedata')
 
-TECH = os.path.join(ROOT, 'tech')
 LIT = os.path.join(ROOT, 'lit')
+ORDER = os.path.join(ROOT, 'order')
+TECH = os.path.join(ROOT, 'tech')
 UTILS = os.path.join(ROOT, 'utils')
 
 LIT_BACHELOR = os.path.join(LIT, 'bachelor')
@@ -32,6 +33,8 @@ LIT_MASTER098 = os.path.join(LIT_MASTER, 'master098.txt')
 LIT_MASTER099 = os.path.join(LIT_MASTER, 'master099.txt')
 
 TECH_BACHELOR063 = os.path.join(TECH_BACHELOR, 'bachelor063.txt')
+
+ORDER_ORDER024 = os.path.join(ORDER, 'order024.txt')
 
 UTILS_ABBREVIATION = os.path.join(UTILS, 'abbreviations.txt')
 
@@ -53,4 +56,12 @@ TECH_BACHELORS = [
     TECH_BACHELOR063,
 ]
 
-RESOURCES = LIT_MASTERS + LIT_BACHELORS + TECH_BACHELORS + [UTILS_ABBREVIATION]
+ORDERS = [
+    ORDER_ORDER024,
+]
+
+UTILS = [
+    UTILS_ABBREVIATION,
+]
+
+RESOURCES = LIT_MASTERS + LIT_BACHELORS + TECH_BACHELORS + UTILS + ORDERS
