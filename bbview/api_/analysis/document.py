@@ -46,11 +46,8 @@ def paint_document_sentence_mean_length(documents):
         return []
     if not sources:
         return []
-    # TODO: MOVE TO PAINTER
-    names = []
-    x, y = [], []
-    markers = []
-    for index, document in enumerate(sources):
+    x, y, names, markers = [], [], [], []
+    for document in sources:
         raw = hugedata.utils.load_sentences(
             document,
             remove_punctation=True,
