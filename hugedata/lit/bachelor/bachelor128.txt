@@ -1,0 +1,686 @@
+„ Als E-Bilanz wird die elektronische Einreichung ( „ Übermittlung “ ) von Jahresabschlussinformationen an die Finanzverwaltung bezeichnet “ . 5
+Das Wort E-Bilanz steht für elektronische Bilanz .
+Bisher wurde die Bilanz von den Unternehmen in Papierform an die Finanzverwaltung übermittelt .
+Die E-Bilanz baut sich auf der deutschen E-Government-Strategie auf .
+Sie besagt , dass die Arbeitsabläufe zwischen den Unternehmen und der Finanzverwaltung durch elektronische Unterstützung optimiert werden müssen .
+Zu diesem Zweck sollen sämtliche technische , rechtliche und organisatorische Voraussetzungen für eine Nutzung der elektronischen Verfahren geschaffen werden . 6 Bisher ausgebaute Projekte sind die elektronische Steuervoranmeldung , die elektronische Steuererklärung und die digitale Betriebsprüfung .
+Seit Ende 2011 gehört nun auch die EBilanz dazu .
+Bilanzen nach dem 31. Dezember 2011 müssen erstmals elektronisch übermittelt werden .
+Somit sind das die Bilanzen für das Wirtschaftsjahr 2012 .
+„ Bei einem abweichenden Wirtschaftsjahr ist die elektronische Übermittlung erstmals für das Wirtschaftsjahr 2012/2013 vorzunehmen “ 7
+Für das erste Jahr , in dem eine Bilanz elektronisch weitergeleitet werden muss , hat die Finanzverwaltung eine Nichtbeanstandungsregel eingeführt .
+Das bedeutet , dass die Unterneh men ihre Bilanz , sowie die Gewinn- und Verlustrechnung auch noch in Papierform übermitteln können , ohne dass Ihnen eine Strafe droht . 8
+Ganz nach dem Motto „ Elektronik statt Papier “ sollen die Abläufe zwischen den Unternehmen und der Finanzverwaltung zukünftig komplett elektronisch erfolgen .
+Das Ziel dabei ist es , mit Hilfe von standardisierten und möglichst offenen Schnittstellen eine hohe Wirtschaftlichkeit und Effizienz sowohl für die Unternehmen selbst , als auch für die Finanzverwaltung zu gewährleisten .
+Die Vorteile , welche die elektronische Übermittlung der Bilanz bringen soll sind , dass die Unternehmen „ ihre steuerlichen Pflichten elektronisch und damit schnell , Kosten sparend und medienbruchfrei erfüllen “ 10 können .
+Die Abgabe der Unterlagen in Papierform ist oftmals sehr umfangreich und bringt Papierkosten , sowie Kosten des Transports mit sich .
+Von der Buchführung bis hin zum Steuerbescheid wird nun alles innerhalb einer elektronischen Prozesskette absolviert . 11
+Die Rückfragen und Ergänzungswünsche der Finanzverwaltung verringern sich ebenfalls .
+Dadurch , dass die übermittelten Informationen standardisiert sind , ist es schwieriger individuelle Angaben zu machen und somit aus dem Raster zu fallen .
+Die Daten sind klar strukturiert und jeder muss die gleichen Anforderungen erfüllen .
+Das erspart nochmals Zeit und Kosten .
+Das Format , welches zur Übermittlung der Unterlagen gewählt wurde , ist das XBRL-Format .
+XBRL ist die Abkürzung für eXtensible Business Reporting Language und dient dem elektronischen Datenaustausch von Unternehmensinformationen auf internationaler Ebene .
+Es bietet den Vorteil , dass es nicht nur für die EBilanz genutzt werden kann , sondern auch „ im Rahmen der allgemeinen Finanzberichterstattung [ … ] . “ 12
+Beispiele für die weitere Verwendung sind die Übermittlung an den Bundesanzeiger , an verbundene Unternehmen und an die Banken .
+Die Umstellung auf XBRL muss meistens nur einmal erfolgen und spart somit wieder Zeit und Kosten .
+Aus der Drucksache 16/10188 vom Bundestag kommt deutlich heraus , dass der Bedarf an Daten in Zukunft steigen wird : „ Der Gesetzentwurf enthält ein Bündel von Maßnahmen , die dieser Zielsetzung in besonderem Maße gerecht werde : Einen Schwerpunkt bildet der Ausbau der elektronischen Kommunikation zwischen Unternehmen und Steuerbehörde , insbesondere durch papierlose Übermittlung der Steuererklärungsdaten und ergänzender Unterlagen bei den Unternehmenssteuern. “ 13 Für den steuerlichen Berater und auch für die Unternehmen heißt das , dass sie mit einer Umstellung rechnen müssen .
+Die inhaltlichen Anforderungen weichen zum Teil von der bisherigen Praxis ab. 14
+„ Die Technik der E-Bilanz greift [ jedoch ] nicht unmittelbar in die bestehende individuelle Buchführung des Steuerpflichtigen ein “ 15 Die Ordnungsmäßigkeit der Buchführung wird nicht verändert .
+Bereits vor der Einführung der E-Bilanz war es wichtig , die Sachverhalte „ zeitnah , vollständig und zutreffend in der ordnungsmäßigen Buchführung “ 16 zu erfassen .
+Bei der elektronischen Datenübermittlung werden die Datensätze einer Prüfung unterworfen .
+Mit Hilfe des Elster-Rich-Clients wird festgestellt , ob die Daten , die weitergeleitet werden , auch rechnerisch richtig sind .
+Bei allen Mussfeldern sind Angaben zu machen . 17 Bislang wurden die Bilanzen sowie die Gewinn- und Verlustrechnungen bei den zuständigen Finanzämtern in Papierform gem. § 60 ( 1 ) Einkommensteuer-Durchführungsverordnung ( EStDV ) eingereicht .
+Die Daten der Unternehmen stehen jedoch oftmals schon in digitaler Form zur Verfügung. 18
+Somit wurde im Dezember 2008 das Steuerbürokratieabbaugesetz verabschiedet , welches dafür sorgen soll , dass die nationale Steuerbürokratie mit Hilfe von modernen Informationstechnologien mehr abgebaut wird .
+Eine weitere Änderung im Gesetz ist die Erweiterung des §5 EStG um § 5b EStG. 19 § 5b Abs. 1 EStG besagt , dass Unternehmen die ihren „ Gewinn nach § 4 Abs. 1 , § 5 oder § 5a ermittel [ n ] “ 20 , den „ Inhalt der Bilanz sowie der Gewinn- und Verlustrechnung nach amtlich vorgeschriebenen Datensatz durch Datenübertragung zu übermitteln [ haben ] “ 21 Der Begriff „ Bilanz “ des Satzes 1 wird mit den Sätzen 2 und 3 des § 5b EStG konkretisiert .
+Diese Sätze sind identisch zu den Vorschriften des §60 Abs. 2 EStDV .
+„ Geringe Änderungen ergeben sich im Verhältnis zu §60 EStDV : [ die ] Verpflichtungen nach §60 EStDV werden nicht ausgeweitet. “ 22
+Die Bilanz sowie die Gewinn- und Verlustrechnung müssen nun elektronisch übermittelt werden .
+Der Anhang , der Lagebericht und der Prüfbericht können jedoch noch in Papierform eingereicht werden. 23
+In der Nachfolgenden Abbildung wird noch einmal §5b Abs. 1 EStG dargestellt .
+Ein weiterer wichtiger Punkt ergibt sich aus dem §51 Abs. 4 Nr. 1b EStG .
+Durch diesen Paragraphen wird das Bundesministerium der Finanzen dazu ermächtigt , „ den Mindestumfang der nach §5b [ EStG ] elektronisch zu übermittelnden Bilanz und Gewinn- und Verlustrechnung zu bestimm [ en ] . “ 24 Daraus entstand ein Anwendungsschreiben des BMF vom 28. 09.2011 , welches vorher von mehreren Unternehmen in einer Pilotphase getestet und hierbei immer wieder weiterentwickelt wurde letztendlich die Endversion veröffentlicht werden konnte .
+Man kann also sagen , dass das Bundesministerium der Finanzen einige Kritikpunkte aufgenommen und verbessert hat .
+Somit wird deutlich , dass das „ Projekt E-Bilanz “ nicht gefährdet werden soll und „ die verpflichtende Einführung für die betroffenen Unternehmen – zunächst – ohne wesentliche Eingriffe in deren bisheriges Buchungsverhalten “ 25 ermöglicht wird .
+Als Taxonomien werden die gegliederten Datenschemata bezeichnet , „ die den Inhalt und die Struktur von Finanzberichten beschreiben. “ 26 Sie werden vom Bundesministerium für Finanzen wie folgt definiert : „ Eine Taxonomie ist ein Datenschema für Jahresabschlussdaten .
+Durch die Taxonomie werden die verschiedenartigen Positionen definiert , aus denen z .
+B. eine Bilanz oder eine Gewinn-und Verlustrechnung bestehen kann ( also etwa die Firma des Kaufmanns oder die einzelnen Positionen von Bilanz und Gewinn- und Verlustrechnung ) und entsprechend ihrer Beziehungen zueinander geordnet. “ 27 Vergleichbar sind die Berichtbestandteile mit Lettern aus einem Setzkasten .
+Sie dienen dabei als Vorlage für den Abschluss . 28
+Die Taxonomien werden jedes Jahr durch die Finanzverwaltung geprüft .
+Je nachdem , ob ein Änderungsbedarf besteht , wird eine neue Version durch ein amtliches BMF-Schreiben veröffentlicht .
+Anwendung findet die neue Version immer im darauffolgenden Wirtschaftsjahr ausgehend von der Veröffentlichung . 29
+Wird also Anfang des Jahres 2015 eine neue Version der Taxonomien veröffentlicht , so ist diese erstmals für das Wirtschaftsjahr 2016 , bzw. 2016/2017 bei einem abweichenden Wirtschaftsjahr , anzuwenden .
+Es bestände aber auch die Möglichkeit , die neue Version schon für das Wirtschaftsjahr 2015 , bzw. 2015/2016 anzuwenden , ist aber nicht verpflichtend .
+In diesem Zusammenhang muss jedes Unternehmen , unabhängig von der Betriebsart und -größe , die Unterlagen übermitteln .
+Man unterscheidet hierbei zwischen Kerntaxonomien , Spezialtaxonomien und Ergänzungstaxonomien .
+Kerntaxonomien enthalten alle Positionen zur Übermittlung der Bilanz und der Gewinn- und Verlustrechnung .
+Sie sind für alle Rechtsformen gültig .
+Das kann dazu führen , dass nicht immer alle Positionen von jedem Unternehmen ausgefüllt werden können . 30
+In diesem Falle sollten nur die Positionen ausgefüllt werden , zu denen auch tatsächlich ein Geschäftsvorfall vorliegt . 31
+Die Spezialtaxonomien sind für Unternehmen gedacht , welche spezielle Rechnungslegungsvorschriften besitzen .
+Dies sind insbesondere Banken und Versicherungen .
+Für andere Branchen , wie zum Beispiel die Wohnungswirtschaft , Land- und Forstwirtschaft , Krankenhäuser oder auch Verkehrsunternehmen gibt es zusätzlich die so genannten Ergänzungstaxonomien .
+Wie der Name verdeutlicht , wurden hier den Kerntaxonomien spezielle Ergänzungen für die jeweilige Branche hinzugefügt . 32
+„ Individuelle Erweiterungen der Taxonomien können nicht übermittelt werden. “ 33
+In der Kerntaxonomie sind Pflichtfelder enthalten , welche „ für jeden Jahresabschluss übertragen werden müssen. “ 34
+Darunter zählen die Summenmussfelder , Mussfelder , Mussfelder ( Kontennachweis erwünscht ) , Rechnerisch notwendig ( soweit vorhanden ) und die Auffangpositionen .
+Die ersten Pflichtfelder sind die Summenmussfelder .
+Sie sind zwingend auszufüllen , da sie rechnerisch mit ihren Unterpositionen verknüpft sind . 35
+Mussfelder sind die Positionen , die auf jeden Fall ausgefüllt und übermittelt werden müssen .
+Falls es nicht möglich ist , diese Felder auszufüllen , so muss ein sogenannter NIL-Wert eingetragen und dann übermittelt werden .
+NIL ist die Abkürzung für Not-in-List und wird auch Null-Wert genannt . 36
+Diese Situation entsteht , wenn in der Buchführung des Unternehmens kein Geschäftsvorfall zum Mussfeldvorliegt „ oder eine genaue Befüllung der Position sich nicht aus der Buchführung des Unternehmens ableiten lässt. “ 37 Ein Wert ist dann ableitbar , wenn er sich im Sinne des §140 AO aus den Unterlagen der Buchführung ergibt .
+Darunter zählt die Buchführung als Ganzes , also das Hauptbuch , die Nebenbücher und auch Bu chungsschlüssel mit Hilfe von maschineller Auswertung .
+Für die Einführungsphase der E-Bilanz ist die Ableitung aus dem Hauptbuch völlig ausreichend . 38
+Eine weitere Position sind Mussfelder , bei denen der Kontennachweis erwünscht ist .
+Für diese Positionen gelten die gleichen Vorgaben , wie für die normalen Mussfelder .
+Der Unterschied liegt darin , dass die Finanzverwaltung einen Kontennachweis fordert .
+Aus der Summen- und Saldenliste soll hervorgehen , welche Konten für die Position eine Rolle spielen .
+Diese sollte die Kontonummer , Kontobezeichnung und den Saldo zum Abschlussstichtag beinhalten .
+39 „ Die übermittelten Datensätze müssen den im Datenschema hinterlegten Rechenregeln genügen. “ 40 „ Rechnerisch notwendig , wenn vorhanden “ werden also alle die Positionen genannt , die auf der gleichen Ebene wie rechnerisch verknüpfte Mussfelder stehen .
+Die Summe der Positionen auf gleicher Ebene muss immer mit dem Wert der Oberposition identisch sein .
+Kommt es zu einer Differenz , so muss die Position „ rechnerisch notwendig , soweit vorhanden “ ausgefüllt werden , um den Unterschied nachvollziehen zu können . 41
+Die letzte Position ist die Auffangposition , welche vor Eingriffen in das Buchungsverhalten schützen und gleichzeitig zur Standardisierung beitragen soll . 42
+Deutlich wird dies durch den beschreibenden Text der Position , welcher „ Nicht zuordenbar “ oder „ ohne Zuordnung “ lautet , wenn es sich um eine Auffangposition handelt . 43
+Meistens wird eine derartige Position dann genutzt , wenn sich ein bestimmter Sachverhalt nicht aus der Buchführung ableiten lässt , aber dieser wichtig für die rechnerische Richtigkeit ist .
+Um Fragen vom Finanzamt zu vermeiden , ist es sinnvoll zusätzlich einen Kontennachweis zur jeweiligen Position beizufügen .
+In der folgenden Abbildung sind alle Felder anhand eines Beispiels noch einmal dargestellt .
+Bei der HGB-Taxonomie unterscheidet man zwischen zwei Modulen .
+Bei dem Ersten handelt es sich um das GCD-Modul .
+GCD , was für „ Global Common Data “ steht und die Stammdaten umfasst .
+Zu diesen gehören die Dokumenteninformationen , die Information zum Bericht sowie zum Unternehmen . 44
+Beispiele für Stammdaten sind das Erstellungsdatum , die Art des Berichtes , die Bilanzart , der Name des Unternehmens , die Rechtsform des Unternehmens usw. 45
+Das zweite Modul ist das GAAP-Modul , was für „ Generally Accepted Accounting Principles “ steht .
+Es wird auch als Jahresabschlussmodul bezeichnet und umfasst die „ Rechnungslegungsinformationen des jeweiligen Berichtsjahres , die übermittelt werden. “ 46 Man unterscheidet hierbei zwischen den verpflichtenden und den freiwilligen Berichtbestandteilen .
+Verpflichtend zu übermitteln sind die Bilanz , die Gewinn- und Verlustrechnung , die Ergebnisverwendungsrechnung sowie die steuerliche Gewinnermittlung für Einzelunternehmen und Personengesellschaften .
+Zu den freiwilligen Berichtbestandteilen gehören beispielsweise der Anhang und der Lagebericht .
+Diese Bestandteile können immer noch in Papierform übermittelt werden und müssen nicht zwingend per elektronischer Übermittlung an das Finanzamt weitergeleitet werden . 47
+Die Einführung eines neuen Tools bringt gewiss auch Folgen mit sich , welche jedoch nicht zwangsläufig positiv sein müssen .
+Durch die E-Bilanz haben die Unternehmen mit verschiedenen Anpassungen und Änderungen zu kämpfen .
+Als erstes muss das Unternehmen seine Software bzw. die EDV an die Anforderungen der E-Bilanz ausrichten .
+Des Weiteren ist es wichtig den Kontenrahmen an die Anforderungen der Taxonomien anzupassen .
+Eine Änderung des Buchungsverhaltens sollte eigentlich vermieden werden , aber lässt sich nicht umgehen .
+Durch die Anforderungen in den Taxonomien ist es von Vorteil seinen Leitfaden in der Buchführung zu überarbeiten .
+Dadurch , dass die auszufüllenden Mussfelder in einem gewissen Maß bekannt sind , kann man auch buchhalterisch darauf einrichten .
+Eine komplette Änderung in der Routine der Buchhaltung ist jedoch nicht erforderlich . 48
+Ein weiterer Punkt ist die „ Einbindung steuerlicher Überleitungsrechnungen. “ 49 Kleinere Unternehmen können mit einem geringeren Umstellungsaufwand rechnen , da die Buchführung oftmals in ein Steuerbüro ausgelagert .
+Dadurch ergeben sich weniger Probleme mit der Umstellung ihrer Software und der EDV .
+Möglicherweise müssen die kleineren Unternehmen ihre Daten anders aufbereiten und verarbeiten , damit es für den Steuerberater leichter ist die Daten auf die E-Bilanz anzupassen . 50
+Die Steuerberater müssen sich ebenfalls auf Änderungen in der Software und in der EDV vorbereiten und sich damit auseinandersetzen .
+Sie werden dabei durch den Softwarehersteller unterstützt , mit welchem sie hauptsächlich arbeiten .
+In den meisten Fällen ist das die DATEV eG , Nürnberg , welche spezielle Seminare anbietet , um den Berater bestmöglich auf die Neuerungen in der Software durch die E-Bilanz vorzubereiten .
+Auch eigenes Informationsmaterial wird für die Steuerbüros geliefert , um die offenen Fragen zu beantworten .
+„ Nicht nur Änderungen im Zusammenhang mit der geforderten elektronischen Datenübermittlung , sondern auch das sich hierdurch stärker entwickelnde Risikomanagementsystem der Finanzverwaltung werden die zukünftige Rolle des Steuerberaters verändern. “ 51 Das Finanzamt hat die Möglichkeit die Daten zu nutzen , um eine Risikobeurteilung zu erstellen .
+Die vorgegebene Datentiefe ermöglicht es , besonders risikobehaftete Sachverhalte heraus zu finden und diese für die Betriebsprüfung zu nutzen .
+Für den Berater muss ebenfalls die Möglichkeit bestehen , die risikobehafteten Sachverhalte zu identifizieren um keine Nachteile gegenüber der Finanzverwaltung zu haben .
+Seitens der Finanzverwaltung spricht man weniger von Nachteilen , sondern eher von Vorteilen .
+Durch die Ablösung der Papierform hat die Finanzverwaltung weniger Kosten .
+Nicht nur das kein Papier mehr anfällt , zusätzlich erleichtert sich die Auswertung der Unterlagen .
+Durch die elektronische Übermittlung im XBRLFormat und die Standardisierung der Daten ist es möglich , viel schneller , einfacher und mit einem geringeren Zeitaufwand die Daten auszuwerten . 52
+Vorher wurden „ die relevanten steuerlichen Daten in verschiedener Form ( Papier oder elektronisch ) und auf unterschiedlichen Wegen [ … ] bereitgestellt. “ 53 Weitere Auswertungen , die bisher eher schwierig waren , könnten zum Beispiel die „ Analyse von Bilanzkennzahlen , [ ein ] Zeitreihenvergleich [ oder ] externe Betriebsvergleiche “ 54 sein .
+Die Konzentration liegt dabei auf kleinen und mittelgroßen Unternehmen .
+Bei Ihnen ist die Wahrscheinlichkeit einer Betriebsprüfung höher .
+Durch die standardisierten Datensätzen können Unternehmen mit besonders auffälligen Kennzahlen schneller ermittelt werden und einer Betriebsprüfung unterzogen werden .
+Für die Finanzverwaltung ist es leichter Auffälligkeiten zu entdecken und diesen auf den Grund zu gehen . 55
+Nachdem nun die theoretischen Grundlagen der E-Bilanz im Kapitel 2 dargelegt wurden , stützt sich der nächste Teil auf die Umfrage .
+Mit Hilfe der Umfrage möchte ich herausfinden , in wie weit die Mitarbeiter der ECOVIS AG Steuerberatungsgesellschaft mbH die E-Bilanz akzeptieren und wie ihre Einstellung dazu ist .
+Als schriftliche Befragung wird die von Probanden selbständige Beantwortung von schriftlich vorgelegten Fragen bezeichnet . 56
+Man unterscheidet drei verschiedenen Varianten .
+Die erste Varianten ist eine Befragung , bei der ein Interviewer im Raum mit anwesend ist .
+Eine Gruppe von Leuten beantwortet den Fragebogen selbständig unter Aufsicht einer dritten Person .
+Die Zweite Variante wäre die der postalischen Befragung .
+Bei dieser Variante bekommen die Zielpersonen den Fragenbogen per Post geschickt und können diesen selbständig in ihrem gewohnten Umfeld beantworten .
+Die dritte Variante der schriftlichen Befragung , ist die OnlineBefragung . 57
+Die Online-Befragung , welches auch mein Instrument der Datenerhebung ist , werde ich im Nachfolgenden Kapitel genauer darstellen .
+Ein wesentlicher Vorteil einer schriftlichen Befragung ist , dass der Personalbedarf sehr niedrig ist .
+Im Gegensatz zur mündlichen Befragung , fallen keine hohen Personalkosten an .
+Selbst bei Variante eins , wo ein Interviewer mit anwesend ist , sind die Kosten für Personal sehr niedrig .
+Der Interviewer muss lediglich die Fragebögen austeilen und wieder einsammeln und aufpassen , dass unter den Zielpersonen kein Austausch von Informationen stattfindet .
+Bei einer mündlichen Befragung müssen die Interviewer selbst die Fragen stellen .
+Oftmals werden somit die schriftlichen Befragungen als kostengünstiger eingeschätzt , was nicht unbedingt der Tatsache entspricht .
+Postalische Umfragen können bei einer hohen Fallzahl sehr kostenaufwändig sein . 58
+Die Portokosten für das Versenden der Fragebögen wären enorm hoch .
+„ Um die niedrige Rücklaufquote zu verbessern , muss man [ … ] mehrere Mahn- und Nachfassaktionen durchführen. “ 59 Diese führen erneut zu hohen Portokosten .
+Ein weiterer Vorteil der schriftlichen Befragung ist , dass die Intervieweffekte entfallen .
+Folgende Vorteile werden genannt : Durch das Fehlen eines Interviewers können die Befragten ehrlicher und auch überlegter antworten .
+Sie fühlen sich nicht gezwungen , es dem Interviewer recht zu machen .
+Sie können in Ruhe überlegen , was für sie die richtige Antwort ist und müssen nicht überstürzt antworten .
+„ Die Zusicherung von Anonymität und sozialer Folgenlosigkeit der Befragung “ 60 ist für die Befragten wesentlich angenehmer .
+Es ist zu überdenken , ob es wirklich einen Vorteil darstellt , dass die Probanden mehr Zeit zum Überlegen haben .
+Oftmals sind ja die spontanen Antworten auch die ehrlichen Antworten .
+Einen Nachteil stellt die Kontrollierbarkeit der Befragten dar .
+Es ist einem nicht ersichtlich , ob die Zielperson auch die Fragen selbständig und ohne Einfluss anderer Personen beantwortet hat . 61
+Da die Probanden keinen Interviewer haben , welcher bei Fragen behilflich sein kann , ist es oftmals wichtig die Fragen einfach und leicht verständlich zu stellen .
+Komplizierte Fragestellungen sind damit ausgeschlossen . 62
+Man lässt sozusagen die Zielpersonen mit dem Fragebogen allein .
+Somit erfordert die Konstruktion eines Fragebogens im Vorfeld eine gute Strukturierung des Befragungsinhaltes , da man im Gegensatz zur mündlichen Befragung den Inhalt nicht mehr konkretisieren und ändern kann .
+Nicht nur der Inhalt ist ausschlaggebend , sondern auch das Layout des Fragebogens .
+„ Gerade diese formalen Aspekte haben wesentlichen Einfluss auf die Teilnahmemotivation von Befragten [ … ] . “ 63 Eine besonders einfache Handhabung des Fragebogens ist wichtig .
+Auch der Umfang des schriftlichen Fragebogens sollte durchdacht werden .
+Eine Befragung sollte nicht länger als 20 Minuten dauern . 64
+Man muss immer mit in Betracht ziehen , dass die Probanden , welche die Umfrage ausfüllen sollen , wenig Zeit haben .
+Umso länger der Fragebogen , desto weniger Motivation .
+Das Internet wurde in den letzten Jahren immer mehr ausgebaut und hat an Bedeutung gewonnen .
+Der Versand von E-Mails steht schon bald vor dem Senden eines klassischen Briefes .
+Auch für den Bereich der Umfrageforschung spielt das eine wichtige Rolle .
+Online-Umfragen haben mehr und mehr Beachtung bekommen in den letzten Jahren .
+„ Eine Online-Befragung bzw. ein Web-Survey ist eine internetbasierte Befragungsmethode bei der ein Online-Fragebogen im Internet Browser ausgefüllt wird. “ 65 Sie basieren in den meisten Fällen auf einem Web-Server .
+Es gibt auch die Möglichkeit Papierfragebögen per E-Mail Anhang zu versenden .
+Jedoch ist diese Variante viel umständlicher .
+Die Probanden müssten erst den Fragebogen ausdrucken um ihn anschließend ausfüllen zu können .
+Nach dem Ausfüllen müssten sie ihn wieder einscannen .
+Nicht jeder hat die Möglichkeit über einen Drucker und Scanner zu verfügen .
+Somit wird diese Variante damit ausgeschlossen .
+Einer der wesentlichen Gründe für diese Form der Umfrage sind die geringen Kosten . 66
+„ Kosten für Porto und Druck des Fragebogens sowie Gehälter für Interviewer und Kosten für die Dateneingabe [ … ] “ 67 entfallen bei einer Online-Umfrage .
+Entstehende Kosten sind für die Entwicklung des Fragebogens , für die verwendete Befragungssoftware und auch für den Server , auf dem man die Umfrage bereitstellt .
+Die Niedrigen Kosten können aber auch zu einem Nachteil führen .
+Es besteht die Gefahr , dass nur mit wenig Mühe der Fragebogen entwickelt und gestaltet wird .
+Das hat zur Folge , dass oftmals eine Beantwortung ausfällt , da viele Probanden gar keinen Anreiz sehen , den Fragebogen auszufüllen .
+Mit wenig Aufwand und in kürzester Zeit kann ein Fragebogen erstellt werden .
+Der Nachteil dabei ist wiederum , dass dadurch oftmals schlecht gemachte und wenig entwickelte Umfragen in Umlauf gebracht werden und die Probanden die Lust daran verlieren an , Umfragen teil zu nehmen .
+Ein weiterer Vorteil ist die schnelle Durchführung von Online-Befragungen .
+Das ist besonders dann ein Vorteil , wenn die Ergebnisse schnell benötigt werden .
+Die Zielpersonen können mit Hilfe einer E-Mail angeschrieben und die Befragung kann in wenigen Tagen dadurch abgeschlossen werden . 68
+Schon nach wenigen Stunden können die ersten Ergebnisse ausgewertet werden .
+Die meisten Plattformen für Internetbasierte Umfragen bieten eine automatische Auswertung an , so dass man sich schon einen allgemeinen , ersten Überblick verschaffen kann .
+„ Erfahrungsgemäß entscheiden sich die meisten der angeschriebenen Personen sofort für oder gegen die Teilnahme an der Befragung sobald sie die Einladung erhalten haben. “ 69 Bei einer postalischen Befragung , lassen die Probanden die Umfrage meistens ein paar Tage liegen und beantworten sie dann doch noch irgendwann .
+Die Dauer ist dadurch wesentlich höher .
+Bei onlinebasierten Umfragen kann eine Umfrage innerhalb von zwei Wochen abgeschlossen sein , inklusive Erinnerungsschreiben . 70
+Des Weiteren hat die Online-Befragung den Vorteil komplizierte Filter anzuwenden .
+Ohne dass der Befragte etwas merkt , werden für ihn nicht relevante Fragen einfach ausgeschlossen und nicht angezeigt .
+Dadurch wird auch das Ausfüllen des Fragebogens beschleunigt und ein vorzeitiger Abbruch verhindert . 71
+Auch die Gestaltung des Online-Fragebogens bringt viel mehr Vorteile mit sich , als die Befragung durch einen Papierfragebogen .
+Es sollte darauf geachtet werden , dass das Layout der Seiten sehr übersichtlich und auch gut lesbar ist .
+Die Schrift sollte einheitlich gehalten werden .
+Bei verschiedenen inhaltlichen Aspekten ist es wichtig , eine klare Struktur zu haben .
+Die Fragen sollen je nach Inhalt abgegrenzt werden , damit die Zielpersonen nicht durcheinander kommen und ständig das Thema wechseln müssen . 72
+Die Einbindung multimedialer Elemente ist ebenfalls möglich .
+Das können unter anderem sein , der „ Einsatz von Filmen und Audioelementen , von speziellen Fragetypen wie z.B. „ Drag-and-Drop “ zum Zuordnen von Elementen , eine individuelle Ansprache anhand personenbezogener Daten [ … ] “ 73 und noch viele weitere mehr .
+Die Palette an Möglichkeiten ist sehr groß .
+Genauso wie bei der postalischen Befragungen treten keine Intervieweffekte auf , aber dadurch kann sie auch der Interviewer bei auftretenden Fragen nicht erläutern .
+Eine weitere Gemeinsamkeit ist auch das persönliche Anschreiben .
+Zu Beginn der Umfrage erklärt der Interviewer sein Anliegen .
+Dank des persönlichen Anschreibens löst sich die erste Blockade zwischen Zielperson und Interviewer .
+Die Zielpersonen können gleich am Anfang entscheiden , ob Ihnen die Umfrage zusagt oder nicht .
+Durch das Zusenden eines personalisierten Linkes an die Zielepersonen ist die Anonymität gesichert .
+Beim Auswerten ist es nicht ersichtlich von wem welche Umfrage stammt .
+74 Einen großen Vorteil stellt die Bereitstellung von Zusatzinformationen dar .
+Wie schon erwähnt , kann die Umfrage jederzeit ausgewertet und auch kontrolliert werden .
+Man kann infolgedessen gut abschätzen , wann der richtige Zeitpunkt für ein Erinnerungsschreiben gekommen ist .
+Ebenso kann angezeigt werden , ob und nach welcher Frage die Umfrage abgebrochen wurde . 75
+Man bekommt einen Überblick , wie viele Teilnehmer an der Umfrage teilgenommen haben .
+Zu jeder Frage kann man sich dann anzeigen lassen , wie viele Teilnehmer die jeweilige Frage beantwortet haben .
+Das bringt den Vorteil , dass man nun die Frage verändern oder löschen kann .
+Die nachfolgenden Personen , die den Fragebogen beantworten , haben dann die korrigierte Variante .
+Es ist also jederzeit möglich etwas am Fragebogen zu verändern . 76
+Neben den vielen positiven Aspekten , birgt die Onlineumfrage auch negative Gesichtspunkte .
+Man muss davon ausgehen , dass auch heutzutage immer noch nicht alle einen Internetzugang besitzen .
+Besonders die älteren Leute sind online schwer zu erreichen . 77
+Onlineumfragen lassen sich besonders gut anwenden bei Unternehmensinternen Umfragen .
+Die E-Mail Adressen der Mitarbeiter stehen einem zur Verfügung und man ist sich auch sicher , dass alle Mitarbeiter einen internetfähigen Computer besitzen .
+Bei dem Datenerhebungsinstrument handelt es sich um einen Online-Fragebogen mit offenen , geschlossenen und halboffenen Fragen .
+Der Online-Fragebogen lehnt an den Fragebogen der IHK-Berlin an , welcher auch zum Teil als Vorlage der Fragen dient . 78
+Die geschlossenen Fragen bilden den größeren Teil , da diese wesentlich vorteilhafter sind . 79
+Bei diesen Fragen stehen mehrere Antwortmöglichkeiten zur Verfügung , zwischen welchen sich die Zielpersonen entscheiden müssen .
+Es ist wichtig nicht zu viele Antwortmöglichkeiten zur Auswahl zu stellen .
+Sie müssen überschaubar bleiben .
+Ist das jedoch nicht möglich , so können sie durch ein Feld , welches beispielsweise „ Sonstiges “ genannt werden kann , ergänzt werden .
+Diese Fragenform nennt man dann halboffene Fragen . 80
+Bei geschlossenen Fragen , können die Zielpersonen eine von Ihnen passend gewählte Antwort frei verbalisieren .
+Dort ist es schwierig , dann diese Fragen auszuwerten .
+Es können ganz viele unterschiedliche Antworten entstehen .
+Dadurch ist es günstiger geschlossene Fragen zu wählen . 81
+Das Erhebungsinstrument besteht aus eine Begleitschreiben und dem eigentlichen Fragebogen .
+In dem Begleitschreiben ist erläutert , um was es sich bei diesem Fragebogen handelt .
+Es wurden die Ziele , die damit erreicht werden sollen erläutert .
+Des Weiteren wurde auch auf die Anonymität hingewiesen .
+So konnten die Zielpersonen sich absichern , dass keine Veröffentlichung der Antworten mit Namen stattfindet und jeder frei antworten kann .
+Ebenfalls wurde auch betont , dass die Teilnahme an der Umfrage freiwillig ist und niemand dazu gezwungen wird mit zu machen .
+Auch die Dauer der Befragung wurde erwähnt .
+Der Online-Fragebogen wurde mit Hilfe von „ www.umfrageonline.de “ , eines internetbasierten Tools , angefertigt .
+Er besteht aus sechs Seiten und ebenso auch aus sechs Fragebogenkomplexen .
+Insgesamt besteht der Online-Fragebogen aus fünfundzwanzig Fragen .
+Davon sind achtzehn Fragen geschlossen , zwei halboffen und fünf Fragen sind offen .
+Im ersten Fragebogenkomplex werden Daten zur Persönlichkeit erhoben .
+Die Fragen sind leicht gestellt und treffen auch nicht die Intimsphäre der Befragten .
+Neben den Grundfragen zum Alter und zum Geschlecht wurden auch zwei offene Fragen gestellt zur Dauer der Betriebszugehörigkeit und zum Grad der Ausbildung .
+Bei der Fragen für das Alter wurde eine halboffene Frage gewählt .
+Es wurden sechs Antwortmöglichkeiten gegeben .
+Eine Antwortmöglichkeit ist immer jeweils eine Zeitspanne .
+Die offenen Fragen wurden gewählt , da die Aufgabenbereiche sehr komplex sind und eine Verallgemeinerung eher ungünstig ist .
+Das gilt auch für die Fragen nach dem Grad der Ausbildung .
+Es gibt vielerlei Möglichkeiten von Ausbildungen in dem Bereich .
+Somit war es leichter eine offene Frage dafür zu wählen .
+Der zweite Fragenkomplex beschäftigt sich mit den Aufgabengebieten der Teilnehmer .
+In diesem Bereich soll ersichtlich werden , welche Aufgaben die Teilnehmer erledigen und wie viele Bilanzen sie pro Jahr erstellen .
+Er besteht aus vier Items .
+Drei davon sind offene Fragen und eine geschlossene Frage .
+Die geschlossene Frage ist eine einfache Entscheidungsfrage .
+Diese soll herausfinden , ob die Teilnehmer überhaupt schon einmal eine E-Bilanz erstellt haben .
+Die offenen Fragen wurden gewählt , damit keine Einschränkung der Antwortmöglichkeit gegeben ist .
+Bei den Hauptaufgaben gibt es auch wieder sehr viele verschiedene Möglichkeiten der Beantwortung .
+Der Teilnehmer kann frei entscheiden wie er diese zu beantworten hat .
+Als kleine Hilfe ist ein Hinweis gegeben , der ein paar Beispiele für die Art der Beantwortung liefert .
+Die ersten beiden Fragenkomplexe richten sich somit eher auf allgemeine Fragen .
+Sie berühren noch nicht die E-Bilanz .
+Der dritte Fragenkomplex besteht aus vier geschlossenen Items .
+Dabei besteht ein Item aus einer Notenskala .
+Die Notenskala ist eine „ sehr empfehlenswerte Bewertungsskala [ … ] , weil diese in Deutschland jedem Befragten zumindest aus der eigenen Schulzeit vertraut ist. “ 82 Die Teilnehmer sollen damit bewerten , wie gut sie sich über die E-Bilanz informiert fühlen .
+Die weiteren geschlossenen Fragen sollen ergründen , in wie weit der Informationsfluss gegeben ist .
+Ob es Mitarbeiter in den einzelnen Büros gibt , die sich besonders gut auskennen mit der EBilanz oder ob sie schon einmal ein Seminar besucht haben .
+Wichtig für die Bewertung der E-Bilanz ist es , ob man sich auch gut dafür vorbereiten konnte und genügend Wissen darüber erlangen konnte .
+Im vierten Teil des Fragebogens sind vier geschlossene Items enthalten und ein halboffenes Item .
+In diesem Teil soll ersichtlich werden , wie das Aufwandsbefinden der Mitarbeiter ist .
+Wie ist die Einstellung der Mitarbeiter zum Aufwand der EBilanz .
+Wird ein höherer Zeitaufwand oder sogar Kostenaufwand vermutet .
+Das erste Item soll erfragen wie der Zeitaufwand sich durch die Einführung der EBilanz verändert hat .
+Die Teilnehmer können aus vier Antwortmöglichkeiten auswählen .
+Von „ kein Zeitaufwand “ bis hin zu „ mehr als 30 % “ Zeitaufwand .
+Bei diesem Item habe ich eine halboffene Frage gewählt , so dass die Möglichkeit besteht eine eigene Antwort zu ergänzen .
+Nicht nur Zeit- und Kostenaufwand werden hier erfragt , sondern auch wie sich der Bürokratieaufwand verändert hat .
+Wie hoch ist der Bürokratieaufwand zum Zeitpunkt der Einführung der E-Bilanz und wie hoch ist der Bürokratieaufwand nach der Einführung .
+Gibt es eine Veränderung nachdem man sich an das neue Tool gewöhnt hat oder bleibt es nach wie vor gleich und der Bürokratieaufwand verändert sich nicht .
+Im fünften und vorletzten Fragenkomplex soll der Aufbau und die Übersichtlichkeit der E-Bilanz beurteilt werden .
+Dieser Komplex besteht aus drei geschlossenen Items , wobei zwei Items wieder eine Notenskala darstellen .
+Hieraus soll erschlossen werden , ob die Umstrukturierung des Aufbaus der Bilanz gut ankommt bei den Mitarbeitern .
+Durch die Einführung der Taxonomien verändert sich der Aufbau der Bilanz .
+Der sechste und letzte Fragebogenkomplex befasst sich hauptsächlich mit der Bewertung der E-Bilanz .
+Er beinhaltet fünf geschlossene Fragen .
+Unter anderem die Frage nach der Bewertung der Einführung der E-Bilanz .
+Finden die Zielpersonen es von Vorteil oder eher von Nachteil oder halten sie sich dagegen über neutral .
+Eine weitere Frage beschäftigt sich damit , wie wichtig die Abgabe der Bilanz in Papierform für die Mitarbeiter noch ist .
+Diese Frage ist wieder als Notenskala angegeben .
+Auf diese Weise soll verdeutlicht werden , wie wertvoll es für die Mitarbeiter ist , immer noch die Abgabe der Papierform beizubehalten .
+Ebenso mit einer Notenskala wird die Frage gestellt , in wie weit der Vorbereitungsstand der Mitarbeiter bezüglich der E-Bilanz ist .
+Abgeschlossen wird der Fragebogen mit der Frage , ob die Mitarbeiter lieber auf die E-Bilanz verzichten wollen oder nicht .
+Diese abschließende Frage soll noch einmal verdeutlich ob die E-Bilanz gut akzeptiert und angenommen wird .
+Die Fragenbereiche drei , vier , fünf und sechs sollen also genauere Informationen darüber geben , wie die Einstellung der Mitarbeiter zur E-Bilanz ist und ob eine Akzeptanz dazu da ist .
+Im Rahmen der empirischen Studie wurden die Mitarbeiter der ECOVIS AG Steuerberatungsgesellschaft kontaktiert .
+Ziel und Aufgabe dieser Studie war es , die Akzeptanz und die Einstellung zur E-Bilanz zu ermitteln .
+Die ECOVIS AG besitzt über 130 Standorte in Deutschland und davon sind über 29 Standorte in Sachsen angesiedelt . 83
+Ich habe mich dafür entschieden die Mitarbeiter der Kanzleien in Oederan , Freiberg , Chemnitz und Dresden zu befragen .
+Diese Kanzleien arbeiten eng zusammen und mir standen die E-Mail Adressen dafür zur Verfügung .
+Der Fragebogen wurde somit an insgesamt 127 Mitarbeiter versendet .
+Im Vorfeld habe ich den Fragebogen sorgfältig entwickelt und ihn Probeweise einer Mitarbeiterin geben .
+Sie konnte mir ein Feedback geben , ob dieser Fragebogen angemessen ist und leicht verständlich .
+Auch kleine Hinweise konnten mir gegeben werden und die ein oder andere Ergänzung .
+Der Fragebogen wurde mit Hilfe der Online Befragungssoftware „ www.umfrageonline.de “ erstellt .
+Durch diese Befragungssoftware war es möglich , relativ einfach den Fragebogen per E-Mail an die Mitarbeiter zu verteilen .
+Wie im Kapitel 3.1.2 dargelegt , war diese Methode der Datenerhebung die Praktischste .
+Durch die unterschiedlichen Standorte wäre es umständlich , gewesen die Fragebögen erst per Post zu versenden .
+Außerdem besitzen die Mitarbeiter der ECOVIS AG alle einen internetfähigen Computer , so dass es in der Hinsicht , keine Probleme geben konnte .
+Die Befragung erfolgte im Zeitraum vom 02. Juni 2015 bis zum 23. Juni 2015 .
+Die Dauer der Bearbeitung des Fragebogens betrug ungefähr 10 Minuten .
+In der versandten E-Mail war ein Link zum Fragebogen enthalten und ein Begleitschreiben .
+In diesem Schreiben erläuterte ich die Umfrage .
+Es wurde auf die Bearbeitungszeit der Umfrage hingewiesen und auf das Thema .
+Das Thema der Umfrage nannte ich : „ Eine Umfrage zur E-Bilanz “ .
+So konnten die Mitarbeiter , die mit diesem Bereich nichts zu tun haben , gleich erkennen , dass sie diese Umfrage nicht beantworten müssen .
+Die Beteiligung an der Umfrage war ganz gut .
+Von 127 Mitarbeitern haben 52 teilgenommen .
+Von den 52 Teilnehmern haben lediglich 46 Teilnehmer der Fragebogen bis zum Schluss ausgefüllt .
+Ich habe jedoch alle Fragebogen mit in meiner Auswertung berücksichtigt .
+Außerdem waren unter den 52 Teilnehmern zwei Fragebögen dabei , die ich nicht für die Auswertung berücksichtigen konnte , da diese keine ordentlichen Antworten geliefert haben .
+Festgestellt habe ich es dadurch , da diese zwei Teilnehmer in den offenen Fragen nur Test hereingeschrieben haben , um den Fragebogen auszutesten .
+In diesem Kapitel werden die Ergebnisse der Umfrage graphisch dargestellt und erläutert .
+Die Fragen werden nicht chronologisch gemäß ihrer Reihenfolge im Fragebogen ausgewertet , sondern nach den sechs Fragebogenkomplexen , welche ich in Kapitel 3.2 vorgestellt habe .
+Die Zahl der Umfrageteilnehmer , welche ich auswerte , beträgt 50 .
+Die ECOVIS AG Steuerberatungsgesellschaft wurde 2003 gegründet , durch den Zusammenschluss der BayLA-Gruppe und der Grieger Mallison-Gruppe . 84
+Der Hauptsitz der ECOVIS ist in Berlin .
+Das Unternehmen besitzt ungefähr 130 Standorte in Deutschland und außerdem noch Partnerkanzleien in über 50 Ländern der Welt .
+Rund 1.500 Mitarbeiterinnen und Mitarbeiter sind deutschlandweit bei der ECOVIS beschäftigt und rund 4.500 weltweit .
+Die ECOVIS ist ein Beratungsunternehmen für den Mittelstand und zählt in Deutschland zu den Top 10 der Branche .
+In einer von der Zeitschrift Markt und Mittelstand in Auftrag gegebenen Studie erzielte ECOVIS hervorragende Ergebnisse in fast allen abgefragten Bereichen und konnte sich damit an die Spitze als bester Wirtschaftsprüfer für den Mittelstand absetzen .
+Ebenfalls bekam das Unternehmen erst in diesem Jahr die Auszeichnung vom FOCUS-Spezial Arbeitgeberranking , als beliebtester Arbeitgeber mit den Schwerpunkten Steuerberatung und Wirtschaftsprüfung . 85
+Seit der Gründung 2003 hat sich die ECOVIS auf dem Markt etabliert : „ als [ ein ] Unternehmen aus Steuerberatern , Wirtschaftsprüfern , Rechtsanwälten und Unter nehmensberatern mit dem Schwerpunkt auf den speziellen Bedürfnissen von inhaber- und familiengeführten Unternehmen und Privatpersonen. “ 86 Ihr Erfolgsrezept liegt darin , das sie aus profundem Wissen zur richtigen Lösung gelangen können .
+Ihre Arbeit erfolgt interdisziplinär sowie international .
+Der Vorteil , welcher daraus hervorgeht ist , dass sie somit ein größeres Leistungsspektrum anbieten können , als kleinere und mittelgroße Kanzleien direkt vor Ort .
+Hingegen zu ganz großen Wirtschaftsberatungen bieten sie immer individuelle Lösungen mit besonderem Augenmaß für den Mittelstand . 87
+Für die ECOVIS ist es sehr wichtig jederzeit und überall das wirtschaftliche Handeln Ihrer Mandanten zu sichern .
+Damit das gelingt , bringen sie ihr breites Wissen aus verschiedensten Wirtschaftszweigen ein . 88
+Die ECOVIS beschäftigt sich mit allen möglichen Aufgaben , die für ein erfolgreiches unternehmerisches Handeln sehr wichtig sind .
+Dazu gehört die Bereitstellung aller Unterlagen , die für das Finanzamt eine wichtige Rolle spielen .
+Außerdem gehört auch noch die Abwicklung des Rechnungs- und Belegwesen dazu .
+Sie sind darauf bedacht , diese Vorgänge mit höchster Effizienz zu bearbeiten und natürlich auch mit Hilfe von Digitalisierung und Online-Lösungen . 89
+Die Aufgaben der ECOVIS beziehen sich also zum Beispiel auf die Betriebsprüfung , Buchführung , den Jahresabschluss , Nachfolgeplanung , Personalverwaltung , Steuererklärung , Wirtschaftsprüfung , Lohnbuchhaltung und vieles mehr .
+Sie helfen den Unternehmen , möglichst die besten Ziele zu erreichen .
+Durch die Abwicklung sämtlicher unternehmerischer Arbeiten , befasst sich die ECOVIS besonders intensiv mit neuen Projekten und deren Umsetzung .
+Somit auch mit der E-Bilanz .
+Die ECOVIS beschäftigt sich mit allen möglichen Branchen der jeweiligen Region .
+Sie zeichnet aus , dass immer Mitarbeiter vor Ort sind die auf eine Branche spezialisiert sind .
+Somit können die Unternehmen bestmöglich beraten werden .
+Beispiele für Branchen sind die Agrarbranche , Bauwirtschaft und Immobilien , Handwerk , Gesundheitswesen , Hotel und Gastronomie , Unternehmer und Privatpersonen und viele mehr . 90
+Der Ablauf in einer Kanzlei der ECOVIS ist wie folgt : Die Unternehmen bringen ihre Unterlagen in die Kanzlei .
+Dort besitzt jeder Mitarbeiter seine Mandanten .
+Die Unterlagen werden von dem jeweiligen Mitarbeiter bearbeitet .
+Bei Fragen aus Sicht der Unternehmer , können diese immer auf die Mitarbeiter zu gehen .
+In jeder Kanzlei ist auch ein Steuerberater vertreten , welcher auch für die Fragen der Mandanten immer zur Verfügung steht .
+Die Unternehmen werden bestmöglich betreut und müssen sich mit neuen Dingen , wie beispielweise der E-Bilanz nicht auseinandersetzen und sind trotzdem sehr gut beraten .
+Im ersten Teil des Fragebogens ging es um die Erfassung der personenbezogenen Daten .
+Von den 50 Teilnehmern waren 9 Teilnehmer männlich und 41 weiblich .
+Die Altersverteilung ist in der nachfolgenden Abbildung dargestellt : Das Alter der Mitarbeiter variiert zwischen 18 und über 60 Jahren , wobei über 56 % der Teilnehmer jünger als 40 Jahre alt sind .
+Lediglich 44 % also 22 von 50 Teilnehmer sind älter als 40 Jahre alt .
+Der größte Teil der weiblichen Mitarbeiter mit 14 Antworten sind zwischen 40 und 50 Jahre alt .
+Bei den männlichen Mitarbeitern sind die Meisten 30-40 Jahre alt .
+In der Abbildung 6 wird deutlich , dass die Mehrzahl der Mitarbeiterinnen und Mitarbeiter schon bis hin zu 15 Jahren bei der ECOVIS beschäftigt sind .
+31 von 50 Mitarbeitern haben also angegeben bis zu 15 Jahre bei der ECOVIS zu arbeiten .
+Eine Mitarbeiterin ist noch nicht mal ein Jahr bei der ECOVIS tätig .
+15 von den 31 Mitarbeitern arbeiten seit einem Jahr bis hin zu 5 Jahren bei der ECOVIS .
+Sie ergeben den größten Anteil von den 50 Teilnehmern .
+38 % der Mitarbeiter arbeiten sogar schon länger als 15 Jahre in diesem Unternehmen .
+Davon sind drei Mitarbeiterinnen bereits länger als 25 Jahre bei der ECOVIS tätig .
+In der nächsten Abbildung wird der Grad der Ausbildung der Teilnehmer dargestellt .
+Die Befragten sind vorwiegend Steuerfachangestellte , mit 17 Nennungen .
+Darauf folgen die Mitarbeiter mit einem abgeschlossenen Studium ( 12 Nennungen ) , gefolgt von den Bilanzbuchalter/innen mit 8 Nennungen .
+Mit 74 % ist damit der größte Teil der Befragten abgedeckt .
+Weitere Nennungen waren Steuerberater/in , Steuerfachwirt/in , Industriekauffrau , Buchhalter/in und Finanzökonom/in .
+Einer der Befragten Mitarbeiter hat keine Angaben zum Grad der Ausbildung gemacht .
+Im zweiten Fragebogenkomplex wurde eine offene Frage zu den Hauptaufgaben der Teilnehmer gestellt .
+Bei 48 von 50 Teilnehmer , also 96 % , besteht die Hauptaufgabe darin , die Jahresabschlüsse der Mandanten zu erstellen .
+35 Mitarbeiter gaben an , dass zu ihren Hauptaufgaben die Buchhaltung gehört .
+Alle Mitarbeiter , die angegeben haben die Buchführung der Mandanten zu erledigen , erstellen auch Jahresabschlüsse .
+58 % der Teilnehmer gaben an , dass zu ihren Hauptaufgaben die Erstellung von Steuererklärungen gehört und 24 % haben auch noch die Lohnbuchhaltung angegeben .
+32 % der 50 Mitarbeiter haben auch noch anderen Aufgaben , wie beispielweise die Prüfung von Jahresabschlüssen , die allgemeine Steuerberatung , Nachfolgeplanung und das Schreiben von Bilanzen .
+Der größte Teil der Mitarbeiter hat seine Hauptaufgaben in der Erstellung der Jahresabschlüsse , der Finanzbuchhaltung und der Erstellung von Steuererklärungen .
+Die zweite offene Frage im Fragebogenkomplex zwei beschäftigt sich mit der Anzahl der erstellten Bilanzen im Jahr .
+Die Mitarbeiter sollten nennen , wie viele Bilanzen sie pro Jahr erstellen .
+Diese Frage beantworteten 48 von 50 Teilnehmern .
+In der Nachfolgenden Abbildung ist der Sachverhalt graphisch dargestellt .
+Diese Abbildung zeigt das der größte Teil der Mitarbeiter 11-20 Bilanzen im Jahr erstellt ( 18 Nennungen ) , gefolgt von 1-10 Bilanzen ( 15 Nennungen ) , danach kommen über 30 Bilanzen ( 10 Nennungen ) , 21-30 Bilanzen ( 3 Nennungen ) und zum Schluss kommen die Mitarbeiter die keine Bilanzen erstellen ( 2 Nennungen ) .
+Darauf wurde die Frage gestellt , ob die Mitarbeiter schon einmal eine E-Bilanz erstellt haben .
+Darauf haben wieder nur 49 Mitarbeiter geantwortet .
+Der größte Teil ( 91,84 % ) hat natürlich schon einmal eine E-Bilanz erstellt .
+Jedoch haben auch 4 Teilnehmer ( 8,16 % ) noch keine E-Bilanz bisher erstellt .
+Der zweite Fragebogenkomplex wird abgeschlossen mit der Frage nach dem verwendeten Finanzbuchhaltungs-/ERP-System .
+Bei dieser Frage ist das Ergebnis eindeutig .
+46 von 48 Mitarbeitern nannten den Softwareanbieter Datev , 4 Mitarbeiter nutzen Hannibal und ein Mitarbeiter nutzt 10it .
+Von den 4 Mitarbeitern die Hannibal nutzen , nutzen 3 auch das Softwareprogramm Datev .
+Im dritten Fragebogenkomplex meiner Umfrage sollten die Mitarbeiter Auskunft geben über den Informationsfluss zur E-Bilanz .
+In der ersten Frage sollten sie mit Hilfe einer Notenskala beantworten , wie gut sie sich über die E-Bilanz informiert fühlen .
+Diese Frage beantworteten 48 der 50 Teilnehmer .
+4,17 % fühlen sich sehr gut darüber informiert .
+Der Großteil der Befragten fühlt sich gut darüber informiert ( 62,50 % ) .
+27,08 % haben eine 3 gegeben , d.h. sie finden den Informationsfluss befriedigend , 2 ( 4,17 % ) finden die Informationen ausreichend und ein Teilnehmer ( 2,08 % ) sogar mangelhaft .
+Das arithmetische Mittel liegt also bei einer 2,375 .
+Auf die Frage , ob die Mitarbeiter schon einmal ein Seminar zur E-Bilanz besucht haben , antworteten 47,9 % mit Ja und 52,1 % mit Nein .
+Die Mehrheit besuchte also noch kein Seminar zur E-Bilanz .
+Die darauffolgende Frage sollten nur die Mitarbeiter beantworten , welche schon mal ein Seminar zur E-Bilanz besucht haben .
+Es beantworteten 24 Teilnehmer diese Frage , obwohl nur 23 Teilnehmer mit Ja geantwortet haben .
+Das Ergebnis diese Frage ist in Abbildung 11 dargestellt .
+Die Abbildung zeigt , dass trotz des Besuches eines Seminars , die Mitarbeiter nur teilweise neue Erkenntnisse erlangt haben .
+16 der 24 Mitarbeiter haben die Frage mit „ teilweise neue Erkenntnisse “ beantwortet , 7 Mitarbeiter mit „ viele neue Erkenntnisse “ und ein Mitarbeiter mit „ keine neuen Erkenntnisse .
+Die abschließende Frage zum Informationsfluss beschäftigt sich damit , ob es im Büro eine Mitarbeiterin/einen Mitarbeiter gibt , welcher sich besonders gut mit der E-Bilanz auskennt .
+Diese Frage ist eine Ja/Nein – Frage und wurde von 48 der 50 Teilnehmer beantwortet .
+70,8 % beantworteten diese Frage mit „ ja “ und der Rest , also 29,2 % mit „ nein “ .
+In den meisten Kanzleien sind also Mitarbeiter vorhanden , die sich besonders gut mit der E-Bilanz auskennen und für Fragen immer zur Verfügung stehen .
+Im vierten Teil des Umfragebogens , wurden Fragen zum Zeit- , Kosten- , und Bürokratieaufwand gestellt .
+In der ersten Fragen sollten die Mitarbeiter einschätzen , ob und wie hoch sie den Zeitaufwand vermuten .
+Also um wie viel Prozent sich der Zeitaufwand durch die Erstellung der E-Bilanz erhöht , verglichen mit dem vorherigen Zeitaufwand den man benötigt hat zur Erstellung der normalen Bilanz in Papierform .
+In der Abbildung 12 ist das Ergebnis dieser Frage dargestellt .
+52 % der befragten Mitarbeiter gaben an , dass sie einen 10 % höheren Zeitaufwand vermuten , 31 % finden sogar das es einen bis zu 20 % höheren Zeitaufwand gibt .
+Nur 4 % der Mitarbeiter vermuten einen bis zu 30 % höheren Zeitaufwand .
+13 % also 6 Mitarbeiter gaben ihre Antwort in dem Zusatzantwortfeld an .
+Folgende Antworten wurden dort angegeben : - kommt ganz drauf an , prinzipiell ca .
+2-3 h pro E-Bilanz - 15-30 min .
+- kommt auf die bebuchten Konten an - ca .
+10-15 Minuten - anfangs ca .
+½ Stunde - leider keine Erfahrungen Man kann also feststellen , dass grundsätzlich alle Mitarbeiter einen höheren Zeitaufwand vermuten beim Erstellen der E-Bilanz .
+Die nächsten beiden Fragen beziehen sich auf den Kostenaufwand .
+In der einen Frage wurde allgemein nach dem Kostenaufwand gefragt .
+Ob die Mitarbeiter vermuten , dass durch die Einführung der E-Bilanz der Kostenaufwand steigen wird .
+42 von 48 Mitarbeitern vermuten einen höheren Kostenaufwand .
+Die restlichen Mitarbeiter , also 6 Teilnehmer , vermuten keinen höheren Kostenaufwand .
+Darauf folgte die Frage , ob sich die Kosten für die Mandanten erhöhen werden und um wie viel Prozent das vermutet wird .
+In der Abbildung wird deutlich , dass der größte Teil der Mitarbeiter höhere Kosten für den Mandanten vermuten .
+45 von 48 Teilnehmer gaben an , dass sich die Kosten der Mandanten erhöhen .
+41 vermuten eine Erhöhung bis zu 10 % und 4 Personen vermuten eine Erhöhung der Kosten um bis zu 20 % .
+Lediglich 3 der befragten Personen vermuten keine höheren Kosten für den Mandanten durch die Umstellung auf die E-Bilanz .
+Die Antworten bis 30 % und mehr als 30 % wurden nicht genutzt .
+Die letzten beiden Fragen im Fragebogenkomplex 4 sollen eine Aussage über den Bürokratieaufwand geben .
+Einmal über den Bürokratieaufwand zum Zeitpunkt der Einführung der E-Bilanz und einmal danach .
+Folgende Ergebnisse sind daraus entstanden : In der Abbildung 14 wird verdeutlicht , dass die Mehrheit der Mitarbeiter einen höheren Bürokratieaufwand zum Zeitpunkt der Einführung feststellt .
+27 von 48 beantworteten die Frage mit „ hoher Bürokratieaufwand “ , 18 mit „ geringerer Bürokratieaufwand “ , eine Person mit „ kein Bürokratieaufwand “ und zwei Personen mit „ Reduzierung Bürokratieaufwand “ .
+Bei der nächsten Frage , wie sich der Bürokratieaufwand verändert hat nach dem die E-Bilanz eingeführt wurde , war das Ergebnis anders herum .
+Dort gab die Mehrheit ( 28 Nennungen ) an , dass sich der Bürokratieaufwand verringert hat .
+15 Personen fanden jedoch noch immer , dass sich der Bürokratieaufwand erhöht hat und zwei Personen waren der Meinung , dass es keinen Bürokratieaufwand mehr gibt und wiederum zwei Personen sahen eine Reduzierung des Bürokratieaufwandes .
+Im vorletzten Fragebogenkomplex geht es um den Aufbau der E-Bilanz .
+Wie beurteilen die Mitarbeiter der ECOVIS den Aufbau und die Übersichtlichkeit der EBilanz , sowie die größere Gliederungstiefe .
+Der Sachverhalt soll anhand von Notenskalen wieder gemessen werden .
+Bei der Beurteilung des Aufbaus und der Übersichtlichkeit der E-Bilanz antworteten die Teilnehmer relativ gleich .
+Sowohl bei der Übersichtlichkeit als auch beim Aufbau sind die häufigsten Antworten bei der Note 3 ( befriedigend ) , dicht gefolgt von der Note gut mit jeweils 17 Nennungen bei beiden Fragen .
+Den Aufbau findet eine Person mangelhaft und 5 Personen finden ihn nur ausreichend .
+Die Übersichtlichkeit hingegen findet keine Person mangelhaft aber auch 4 Personen nur ausreichend .
+Bei der letzten Frage im Fragebogenkomplex fünf sollen die Mitarbeiter bewerten ob die zusätzlichen Informationspflichten eher verhältnismäßig sind oder eher unverhältnismäßig .
+60,9 % finden es verhältnismäßig .
+Die restlichen 39,1 % finden die zusätzlichen Informationspflichten der E-Bilanz unverhältnismäßig .
+Im letzten Fragebogenkomplex wurden nochmal Fragen zur Bewertung der EBilanz gestellt .
+Wie die Mitarbeiter die Einführung bewerten , wie wichtig Ihnen die Beibehaltung der Abgabe der Bilanz in Papierform ist , die Einschätzung des Vorbereitungsstandes der E-Bilanz , ob es eine Erleichterung für die Mitarbeiter ist durch die E-Bilanz und ob sie nicht lieber doch wieder darauf verzichten möchten .
+Bei der Frage der Bewertung konnten die Teilnehmer auswählen zwischen : „ deutlicher Vorteil “ , „ neutral “ und „ deutlicher Nachteil “ .
+Von den 48 Mitarbeitern die diese Frage beantwortet haben , bewerten 77,1 % ( 37 Nennungen ) die Einführung der E-Bilanz neutral .
+Ein Mitarbeiter sieht die Einführung als deutlichen Vorteil und 10 Mitarbeiter als deutlichen Nachteil .
+In der nachfolgenden Abbildung ist dargestellt , wie wichtig den Mitarbeitern die Beibehaltung der Abgabe der Bilanz in Papierform ist .
+Die Ergebnisse zeigen , dass 52,08 % der Mitarbeiter es wichtig finden , die Bilanz immer noch in Papierform abzugeben .
+16,67 % empfinden es sogar noch als sehr wichtig .
+20,83 % stehen der Sache neutral gegenüber , 8,33 % finden es unwichtig und einem Teilnehmer ist es völlig unwichtig ob die Abgabe der Bilanz in Papierform beibehalten wird oder nicht .
+Es ist wichtig sich für die E-Bilanz gut vorzubereiten .
+Bei der Frage nach der Einschätzung des Vorbereitungsstandes zur E-Bilanz , schätzten 31 von 46 Teilnehmer dieser Frage ihren Vorbereitungsstand gut ein .
+13 Teilnehmer finden ihren Vorbereitungsstand eher befriedigend und 2 Teilnehmer finden ihn sogar sehr gut !
+Bei der vorletzten Frage des Fragebogens sollen die Mitarbeiter sagen , ob die EBilanz für sie eine Erleichterung darstellt .
+Bei dieser Frage liegt ein eindeutiges Ergebnis vor .
+89,1 % ( 41 Nennungen ) finden das die E-Bilanz ihnen überhaupt nicht die Arbeit erleichtert .
+Lediglich 10,9 % sehen noch ein wenig Erleichterung durch die E-Bilanz .
+Dieses Ergebnis spiegelt sich auch in der allerletzten Frage wieder .
+Dort antworteten 36 von 46 Teilnehmern auf diese Frage , mit Ja .
+Das bedeutet das 78,3 % lieber auf die E-Bilanz verzichten möchten .
+Nur 10 von den 46 Teilnehmern würden die E-Bilanz behalten .
+Im folgenden Abschnitt werden zunächst die Ergebnisse der Umfrage interpretiert und diskutiert .
+Die Interpretation erfolgt in Bezug auf die vier Hypothesen .
+Ebenfalls wird im Anschluss mit Hilfe einer Gesamtinterpretation die Fragestellung der Bachelorarbeit beantwortet .
+Zum Schluss dieses Kapitels wird die Methode kritisch gewürdigt .
+Damit ist dann der empirische Teil dieser Arbeit abgeschlossen .
+Mit Hilfe der Online-Software „ umfrageonline.com “ ist es möglich , einzelne Antworten zu filtern .
+Beispielsweise kann man die Antworten nach dem Geschlecht filtern .
+So werden einem dann alle Antworten angezeigt , die die männlichen Personen gegeben haben .
+Dadurch ist es möglich die Zusammenhänge der Fragen festzustellen .
+„ Mitarbeiter die an einem Seminar teilgenommen haben , fühlen sich besser über die E-Bilanz informiert “ Seminare dienen zum besseren Verständnis ausgewählter Themen .
+Oftmals führen Softwareanbieter die Seminare durch .
+So auch bei der ECOVIS .
+Die Seminare werden hauptsächlich von der DATEV eG angeboten .
+DATEV Seminare sind in den meisten Fällen Schulungen , welche mit Hilfe verschiedener Medien durchgeführt werden .
+Es werden zwei Arten von Seminaren unterschieden .
+Zum einen gibt es die so genannten „ Präsenz-Schulungen “ .
+Die Teilnehmer treffen sich zu einem bestimmten Termin , an einem vorher festgelegten Ort . 91
+Die Teilnehmer bekommen direkt vor Ort von einem Spezialisten die Informationen mitgeteilt und werden durch direkte Anwendung in das Thema eingeführt .
+Dadurch ist es einfacher schwierige Sachverhalte darzulegen .
+Des Weiteren gibt es auch die Online-Seminare .
+Der Referent und die Teilnehmer treffen sich zu einer bestimmten Zeit vorm Computer .
+Auf dem Bildschirm wird dann das gewählte Thema , mit Hilfe einer Präsentation dargestellt .
+Die Teilnehmer können jederzeit fragen an den Referenten stellen .
+Diese Art von Seminar spart Zeit und den Aufwand erst zu einem bestimmten Ort zu fahren . 92
+Der Vorteil von Seminaren ist , dass die Referenten konkrete , praxisnahe Problemlösungen bringen , welche direkt im Berufsalltag umsetzbar sind . 93
+Anbei gibt es immer noch Arbeitsunterlagen , die sowohl „ die theoretischen Grundlagen [ als auch ] den praxisbezogenen Einstieg in das Programm “ 94 liefern sollen .
+In den Unterlagen sind zum größten Teil auch Fallbeispiele dargestellt und genau erläutert .
+Dadurch können die Mitarbeiter gezielt nachschauen , welche Informationen für Sie relevant im Berufsalltag sind .
+Anhand der Ergebnisse der Umfrage wird deutlich , dass weniger als die Hälfte der Mitarbeiter ein Seminar besucht haben .
+47,9 % von 48 Teilnehmer nahmen an einem Seminar zum Thema E-Bilanz teil .
+Durch die Teilnahme an dem Seminar bestätigten 95,9 % , dass sie neue oder teilweise neue Erkenntnisse erlangt haben .
+( siehe Abb .
+11 ) Damit wäre bestätigt das Seminare helfen , neue Information über eine bestimmte Thematik zu erlangen .
+Die Hypothese kann bestätigt werden .
+Teilnehmer die die Frage nach der Teilnahme an einem Seminar mit Ja beantwortet haben , fühlen sich auch gut über die E-Bilanz informiert .
+Von den 23 Mitarbeitern die ein Seminar besucht haben , gaben 15 an , dass sie sich gut und 2 das sie sich sogar sehr gut über die E-Bilanz informiert fühlen .
+Lediglich 6 Teilnehmer finden die Informationen befriedigend .
+Teilnehmer die kein Seminar besucht haben , fühlen sich weniger gut darüber informiert .
+Dort gab keiner an , dass er sich sehr gut informiert fühlt .
+15 von 25 Mitarbeitern fühlen sich auch gut informiert , aber 7 Mitarbeiter nur befriedigend , zwei Mitarbeiter sogar nur ausreichend und ein Mitarbeiter findet den Informationsfluss über die E-Bilanz mangelhaft .
+Das verdeutlicht , dass durch die Teilnahme an einem Seminar , die Mitarbeiter sich besser informiert über die E-Bilanz fühlen .
+„ Die Teilnehmer haben eine positive Einstellung zur Übersichtlichkeit der E-Bilanz “ Mit Einführung der E-Bilanz kamen auch die neuen Taxonomien dazu . 95
+Durch die Taxonomien entstanden eine neue Struktur und ein neuer Inhalt der Finanzberichte . 96
+Die verschiedenen Positionen , aus welchen eine Bilanz besteht , werden anders definiert .
+Besonders durch die Einführung der Mussfelder ändert sich etwas im Aufbau der Bilanz .
+Diese Mussfelder , wie der Name schon deuten lässt , sind zwingend zu übermitteln .
+Dadurch kann eine Änderung des Buchungsverhaltens entstehen .
+Der Kontenrahmen muss an die Anforderungen der Taxonomien angepasst werden .
+Bei der Frage zur Beurteilung des Aufbaus der E-Bilanz antworten 48,94 % der Mitarbeiter mit befriedigend .
+Das macht den größten Teil der Teilnehmer aus .
+Gefolgt von 36,17 % , die den Aufbau sogar mit gut beurteilt und ein Teilnehmer findet den Aufbau sogar sehr gut .
+Somit stehen 38.3 % doch positiv dem Aufbau der EBilanz gegenüber .
+Diese Aussage wird auch durch die Frage über die Bewertung der größeren Gliederungstiefe gegenüber der HGB-Bilanz bestätigt .
+Die Frage wurde von 60,9 % , der deutlichen Mehrheit , mit verhältnismäßig beantwortet .
+Die Mitarbeiter empfinden die Gliederungstiefe der E-Bilanz somit als nicht unpassend .
+Die letzte Frage über die Übersichtlichkeit der E-Bilanz widerlegt jedoch die Hypothese .
+52,17 % bewerten die Übersichtlichkeit nur als befriedigend und 8,7 % sogar nur als ausreichend .
+Abschließend zu dieser Hypothese kann man nicht sagen , ob diese Hypothese nun wiederlegt oder bestätigt ist .
+Der größte Teil der Mitarbeiter empfindet den Aufbau der E-Bilanz als befriedigend .
+Jedoch ist das nicht die absolute Mehrheit der Teilnehmer bei dieser Frage .
+Bei der Frage nach der Verhältnismäßigkeit zur bisherigen HGB-Bilanz ist die absolute Mehrheit wiederum dafür , dass die Gliederungstiefe der E-Bilanz verhältnismäßig ist .
+Bei der Frage nach der Übersichtlichkeit sind die Mitarbeiter eher negativ gestimmt .
+Im Großen und Ganzen kann man also vermuten , dass die Mitarbeiter eher negativ auf die Übersichtlichkeit der EBilanz gestimmt sind .
+„ Durch die E-Bilanz wird der Bürokratieaufwand verringert “ Die E-Bilanz ist ein Baustein der E-Government-Strategie .
+Sie wurde durch das Steuerbürokratieabbaugesetz mit §5b EStG verpflichtend eingeführt .
+Wie der Name schon vermuten lässt , soll dieses Gesetz zur Modernisierung und Entbürokratisierung des Steuerverfahrens dienen . 97
+Verfahren , die auf der Basis von Papier abgearbeitet werden , sollen zukünftig modernisiert werden .
+Mit Hilfe von elektronischer Übertragung sollen die „ Unternehmen ihre steuerlichen Pflichten [ … ] schneller und kostengünstiger sowie medienbruchfrei erfüllen können. “ 98 Übertragungsfehler sollen auch vermieden werden .
+Fragen und Ergänzungswünsche der Finanzverwaltung werden hauptsächlich verringert .
+Durch das standardisierte Verfahren der E-Bilanz , ist es nicht mehr möglich , komplett unterschiedliche Bilanzen abzugeben .
+Es existiert eine einheitliche Vorlage , welche auch genauso angewendet werden muss .
+Durch die fehlenden Rückfragen per Brief und dementsprechend auch den fehlenden Rückantworten , wird wieder Papier und Porto gespart .
+In der Umfrage wird deutlich , dass eine Verbesserung des Bürokratieaufwandes stattgefunden hat .
+In der Abbildung 14 lässt sich dieser Sachverhalt gut ablesen .
+Zum Zeitpunkt der Einführung der E-Bilanz hat die Mehrheit dafür gestimmt , dass ein hoher Bürokratieaufwand existiert .
+Durch die ganze Umstellung auf die EBilanz mussten viele sich noch daran gewöhnen .
+Die alten Gewohnheiten mussten abgelegt werden .
+Nach dem die E-Bilanz dann eigeführt wurde , das System umgestellt und eingerichtet war und die Eingewöhnungsphase abgeschlossen war , empfanden nun die Mehrheit der Mitarbeiter , dass eine Verringerung des Bürokratieaufwandes stattgefunden hat .
+28 von 47 Mitarbeitern gaben an , dass der Bürokratieaufwand nach der Einführung geringer ist .
+Die Hypothese , dass sich durch die E-Bilanz der Bürokratieaufwand verringert , kann anhand der Umfrage bei der ECOVIS bestätigt werden .
+Trotz alledem ist es den Mitarbeitern wichtig , dass die Bilanz im Übergangszeitraum immer noch in Papierform abgegeben wird .
+25 von 48 Teilnehmer ist es wichtig und 8 von 48 Teilnehmern sogar sehr wichtig .
+Dadurch können Sie sich leichter an eine Umstellung gewöhnen .
+„ Eine positive Einstellung zur E-Bilanz haben die Mitarbeiter , welche schon länger als 10 Jahre im Unternehmen tätig sind “ Durch die lange Zeit im Unternehmen , haben die Mitarbeiter schon einige Umstellungen miterleben dürfen .
+Im Bereich der Steuern kommen sehr oft Neuerungen .
+Mit der Zeit wurden besonders im Bereich der Computersoftware große Fortschritte gemacht .
+Die Abläufe im Unternehmen werden modernisiert .
+Arbeitsschritte oftmals verbessert oder vereinfacht .
+Die Umstellung zur E-Bilanz war eine relativ große Umstellung .
+Nicht nur die Software wurde erneuert und angepasst , sondern auch das bisher angewöhnte Buchungsverhalten wurde verändert .
+In der folgenden Abbildung sind die Antworten der Mitarbeiter dargestellt , welche die Einstellung zur E-Bilanz messen .
+Insgesamt gaben 25 Mitarbeiter an über 10 Jahre im Unternehmen schon tätig zu sein .
+Von den 25 Mitarbeitern beantworteten jedoch maximal 24 Mitarbeiter die Umfrage bis zum Schluss .
+An den Ergebnissen in der Tabelle wird deutlich , dass die Hypothese nicht bestätigt werden kann .
+Bei der Frage nach dem Zeitaufwand sind sich die Mitarbeiter alle einig .
+Sie sind der Meinung , dass ein höherer Zeitaufwand durch die E-Bilanz entsteht .
+Auch bei der Frage nach dem Kostenaufwand sind sich 87,5 % einig , dass sich die Kosten erhöhen .
+Eigentlich sollte die E-Bilanz dazu dienen , die Wirtschaftlichkeit der Unternehmen zu steigern .
+Das bedeutet Kosten- und Zeitersparnisse zu sichern . 99
+Durch die Übermittlung der steuerlichen Daten in Papierform entsteht ein besonders fehleranfälliger und auch kostenintensiver Medienbruch zwischen dem Unternehmen oder Steuerbüro und der Finanzverwaltung , welcher mit Hilfe der elektronischen Übermittlung vermieden werden kann . 100
+Die Praxis zeigt anhand der Umfrage das Gegenteil .
+Die E-Bilanz ist erst für das Wirtschaftsjahr 2012 verpflichtend zu übermitteln .
+Dadurch ist das ganze System noch relativ neu .
+Am Anfang ist natürlich der Umstellungsaufwand höher , was die Ursache für die Meinung der Mitarbeiter sein kann . 101
+Auch bei der Frage nach der Erleichterung der Arbeit durch die E-Bilanz ist das Ergebnis eindeutig .
+86,3 % finden , dass die E-Bilanz überhaupt keine Erleichterung der Arbeit bringt .
+Das hängt auch wieder mit dem Umstellungsaufwand zusammen .
+Die E-Bilanz hat eine viel höhere Gliederungstiefe als die HGB-Bilanz .
+Die Taxonomien können nicht individuell erweitert werden .
+Dadurch entsteht besonders auch für die kleineren und mittelständigen Unternehmen ein erheblicher Mehraufwand .
+Das Buchungsverhalten bleibt nicht unberührt . 102
+Da die ECOVIS besonders auf kleine und mittlere Unternehmen ausgelegt ist , trifft dieser Sachverhalt hier auch zu .
+Die letzte Frage zur Messung der Einstellung der Mitarbeiter gegenüber der EBilanz lässt eindeutig die Hypothese wiederlegen .
+81,81 % der Mitarbeiter wollen lieber auf die E-Bilanz verzichten .
+Das verdeutlicht , dass die Einstellung der Mitarbeiter , welche schon länger als 10 Jahre im Unternehmen tätig sind , eher sehr negativ ist .
+Die Untersuchungsergebnisse sagen aus , dass die Mitarbeiter der ECOVIS AG Steuerberatungsgesellschaft die E-Bilanz eher weniger akzeptieren und eine eher negative Einstellung dazu haben .
+Dieser Sachverhalt lässt sich an unterschiedlichen Aspekten erkennen , welche nachfolgend noch einmal zusammengefasst dargestellt werden sollen .
+Ein Aspekt ist der Zeitaufwand .
+Alle Mitarbeiter empfinden mindestens eine Erhöhung des Zeitaufwandes um 10 % .
+Durch die Erhöhung des Zeitaufwandes erklärt sich auch der nächste Faktor .
+Man kann sagen , dass der Kostenaufwand vom Zeitaufwand abhängig ist .
+In einem Steuerbüro werden die Kosten für die Mandanten anhand der zeitlichen Aufwendung der Mitarbeiter für die jeweilige Arbeit errechnet .
+Erhöht sich somit der Zeitaufwand für die Erstellung der Bilanz , so erhöhen sich auch die Kosten für die Mandanten .
+Die Mitarbeiter haben dann länger daran zu arbeiten und es werden mehr Stunden für den Mandanten berechnet .
+Wahrscheinlich ist der Kosten- und Zeitfaktor in der Anfangsphase höher als nach ein paar Jahren der Einführung .
+Die Mitarbeiter werden sich wahrscheinlich an die neue E-Bilanz gewöhnen und diese dann auch schneller beenden .
+Ein weiterer Aspekt , anhand welchem man die Akzeptanz der Mitarbeiter gegenüber der E-Bilanz messen kann , ist die Bewertung der Einführung der E-Bilanz .
+Diese Frage kann verdeutlichen , ob sie die Einführung als deutlichen Vorteil oder Nachteil empfinden oder der Sache eher neutral gegenüber stehen .
+Die Umfrage hat ergeben , dass die Mehrheit der Mitarbeiter die Einführung als neutral bewertet .
+Lediglich ein Mitarbeiter empfindet es als deutlichen Vorteil und 10 als deutlichen Nachteil .
+Anhand dieses Ergebnisses kann man nicht genau sagen , ob es die Mitarbeiter akzeptieren oder eher negativ gegenüber stehen .
+Es lässt sich vermuten , dass die Tendenz zur negativen Einstellung neigt , da immerhin 10 von 48 Personen es als deutlichen Nachteil empfinden .
+Der nächste Aspekt wäre die Frage nach der Erleichterung der Arbeit durch die EBilanz .
+Bei dieser Frage konnten die Mitarbeiter sich dafür entscheiden , ob ihnen die Arbeit komplett erleichtert wird , ein wenig oder ob sie gar keine Erleichterung durch die E-Bilanz empfinden .
+Bei dieser Frage sind sich 41 von 46 Teilnehmern einig , dass durch die E-Bilanz keinerlei Erleichterung eintritt .
+Dieser Sachverhalt verdeutlicht , dass die E-Bilanz nicht wirklich gut bei den Mitarbeitern ankommt .
+Immerhin sollte sie dazu dienen , dass Arbeitsschritte erleichtert und vereinfacht werden .
+Über das vollelektronische Verfahren besteht die Möglichkeit , die Bilanz schneller zu erstellen , zu übermitteln und auch zu verarbeiten . 103
+Das sollte für eine Erleichterung der Arbeit im Arbeitsprozess eigentlich sorgen .
+Jedoch zeigt die Umfrage das Gegenteil .
+Die Mitarbeiter empfinden keine Erleichterung und sind damit vermutlich enttäuscht .
+Die abschließende Frage der Umfrage zeigt am deutlichsten die Ablehnung der Mitarbeiter für die E-Bilanz .
+Bei dieser Frage geht es um den Verzicht der Mitarbeiter auf die E-Bilanz .
+Auch hier sind sich die meisten einig .
+36 der 46 Teilnehmer möchten lieber auf die E-Bilanz verzichten und zur alten Variante zurückkehren .
+10 von 46 Teilnehmer möchten die elektronische Variante der Bilanz doch lieber behalten .
+Es lässt sich vermuten , dass diese Frage in fünf Jahren von den Mitarbeitern eher anders beantwortet werden würde .
+Die E-Bilanz ist noch ein recht neues Tool .
+Mit den Jahren wird es immer weiter verbessert und anschaulicher gemacht .
+In den meisten Fällen gewöhnt man sich mit der Zeit an neue Sachen und es fällt einem dann leichter etwas zu akzeptieren .
+Durch die Arbeit im Unternehmen habe ich auch gemerkt , wie negativ die Meinungen gegenüber der E-Bilanz sind .
+Kaum ein Mitarbeiter oder eine Mitarbeiterin hat eine positive Meinung dazu .
+Das bestätigt auch nochmal die Tatsache , dass die EBilanz eine geringe Akzeptanz in den Büros der ECOVIS findet .
+Die E-Bilanz wurde Ende 2011 in Deutschland eingeführt .
+Verpflichtend für alle Wirtschaftsjahre die nach dem 31.12.2011 beginnen , ist sie einzureichen .
+Die EBilanz ist also noch gar nicht so lange da .
+Erst seit vier Jahren ist diese neue Form der Übermittlung der Bilanz und Gewinn- und Verlustrechnung an das Finanzamt bekannt .
+Die Mitarbeiter der ECOVIS mussten somit erst für zwei Wirtschaftsjahre die E-Bilanz erstellen .
+Dadurch kann man sagen , dass sie noch relativ in der Eingewöhnungsphase sind .
+Alles ist noch sehr neu und ungewohnt .
+Durch die Arbeit im Unternehmen der ECOVIS bekommt man auch mit , dass manche Mitarbeiter noch relativ unsicher darin sind .
+Einige erstellen viele Bilanzen im Jahr , andere wiederum wenige .
+Umso mehr E-Bilanzen man im Jahr erstellt , desto mehr Erfahrung hat man auch und desto schneller lernt man vielleicht auch damit umzugehen .
+Würde man also die Umfrage in fünf Jahren nochmal durchführen , so könnten die Ergebnisse ganz anders aussehen , denn dann wäre die E-Bilanz schon wesentlich länger eingeführt .
+Die Teilnehmer hätten dann vielleicht ein ganz anderes Bild .
+Ebenso wird mit der Zeit auch immer mehr daran gearbeitet und weiterentwickelt .
+Fehler oder Faktoren , die die Mitarbeiter derzeit als störend empfinden , sind dann vielleicht behoben und ausgebessert .
+Des Weiteren existieren derzeit noch nicht wirklich viele Umfragen zur E-Bilanz .
+Außer die Umfrage der IHK sind keine weiteren bekannt . 104
+Es war deshalb umso schwieriger eine genaue Abgrenzung zu finden , was man mit Hilfe der Umfrage beantwortet haben möchte .
+Schlussendlich fiel die Entscheidung darauf , die Akzeptanz und die Einstellung der Mitarbeiter gegenüber der E-Bilanz herauszufinden .
+Dadurch kann in Erkenntnis gebracht werden , ob die E-Bilanz wirklich eine Erleichterung für die Mitarbeiter darstellt oder ob die Beibehaltung der Papierform für alle doch am besten gewesen wäre .
+Ein weiterer Kritikpunkt ist , dass die Umfrage nur eine Seite beleuchtet .
+Es werden hier nur die Mitarbeiter einer Steuerberatungsgesellschaft befragt und nicht auch die Mitarbeiter der Finanzverwaltung .
+Dadurch entsteht natürlich ein einseitiges Bild .
+Aus Sicht der Finanzverwaltung kann das Ganze ein ganz anderes Ergebnis hervorbringen .
+Jedoch ist es auch wichtig , mal nur eine Seite zu betrachten .
+Da meine Arbeit im Unternehmen der ECOVIS angesiedelt war , fiel die Entscheidung auf die Seite der Steuerberatungsgesellschaften .
+Bezüglich der methodischen Vorgehensweise , steht auch die Konstruktion des Fragebogens im Zentrum der Kritik .
+Der Fragebogen wurde erstellt , bevor die Ausarbeitung des Theorieteils abgeschlossen war .
+Zum einen hatte es den Vorteil , dass so genug Zeit blieb für die Auswertung des Fragebogens und für die Beant wortung .
+Zum anderen hätte man Fragen verändern können , welche durch die teilweise fehlenden Information nicht konkret genug sind oder eher uninteressant für die Auswertung .
+Beispielweise hätte man direktere Fragen zu den Taxonomien stellen können .
+Wo genau Unterschiede bestehen zur bisherigen HGB-Bilanz oder ähnliches .
+Weitere Punkte der Kritik an der Fragebogenkonstruktion sind auch , dass die Teilnehmer sich keinen Überblick über den Fragebogen verschaffen konnten .
+Es war nicht möglich erst alle Fragen anzuschauen und dann zu beantworten .
+Die Frage musste immer erst beantwortet werden , bevor die nächste Frage beantwortet werden konnte .
+Zum Vorteil hat diese Variante , dass nicht nur willkürlich Fragen zur Beantwortung ausgewählt werden .
+Alle Fragen müssen beantwortet werden .
+Dadurch ist eine bessere Auswertung möglich .
+Ein großer Nachteil ist jedoch , dass somit einige die Umfrage vielleicht nicht beantworten wollten , da sie nicht abschätzen konnten , was auf sie zukommt .
+Ein Mitarbeiter hatte sich sogar deswegen per E-Mail beschwert .
+Außerdem ist zu überlegen , ob es nicht eher Sinn macht , die persönlichen Angaben am Ende der Umfrage beantworten zu lassen .
+Einige Mitarbeiter haben bei den ersten Fragen schon abgebrochen , weil sie vielleicht keine persönlichen Angaben machen möchten .
+Andere haben deswegen vielleicht erst gar nicht angefangen die Umfrage zu beantworten .
+Wenn man gleich mit den Fragen zum Thema beginnt , regt das eher das Interesse der Teilnehmer an .
+Ebenfalls ist man eher am Anfang dazu geneigt , eine Umfrage abzubrechen .
+Hat man alle Fragen schon beantwortet , stört es einem dann weniger die persönlichen Fragen auch noch zu erledigen .
+Die Wahl des Zeitraumes , in der der Fragebogen an die Teilnehmer versandt wurde , kann man auch kritisch betrachten .
+Anfang Juni beginnt schon die Urlaubszeit und einige Mitarbeiter haben da schon ihren Urlaub eingereicht .
+Der Zeitraum der Umfrage erstreckte sich jedoch über drei Wochen .
+Erfahrungsgemäß nimmt ein Mitarbeiter maximal zwei Wochen Urlaub am Stück .
+Somit bestand immer noch die Chance an der Umfrage teil zu nehmen .
+Die Auswahl der Methode der empirischen Untersuchung lässt sich auch kritisch betrachten .
+Die Vorteile wurden schon in Kapitel 3.1. dargestellt .
+Wo Vorteile sind , existieren häufig auch Nachteile .
+Ein großer Nachteil ist die fehlende Möglichkeit das Ausfüllen des Fragebogens zu kontrollieren . 105
+Jede Person füllt selbständig den Fragebogen am Computer aus .
+Man kann nicht genau sagen ob auch wirklich die Person den Fragebogen ausgefüllt hat oder ob jemand anders am Computer saß .

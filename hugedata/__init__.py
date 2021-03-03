@@ -25,6 +25,7 @@ TECH_BACHELOR = os.path.join(TECH, 'bachelor')
 LIT_BACHELOR051 = os.path.join(LIT_BACHELOR, 'bachelor051.txt')
 LIT_BACHELOR056 = os.path.join(LIT_BACHELOR, 'bachelor056.txt')
 LIT_BACHELOR076 = os.path.join(LIT_BACHELOR, 'bachelor076.txt')
+LIT_BACHELOR128 = os.path.join(LIT_BACHELOR, 'bachelor128.txt')
 
 LIT_MASTER072 = os.path.join(LIT_MASTER, 'master072.txt')
 LIT_MASTER075 = os.path.join(LIT_MASTER, 'master075.txt')
@@ -52,6 +53,7 @@ LIT_BACHELORS = [
     LIT_BACHELOR051,
     LIT_BACHELOR056,
     LIT_BACHELOR076,
+    LIT_BACHELOR128,
 ]
 
 TECH_BACHELORS = [
