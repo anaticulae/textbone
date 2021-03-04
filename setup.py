@@ -49,6 +49,7 @@ if __name__ == "__main__":
             'bbview.api.analysis',
             'bbview.api_',
             'bbview.api_.analysis',
+            'bbview.api_.judge',
             'bbview.api.data',
             'bbview.view',
             'hugedata',
