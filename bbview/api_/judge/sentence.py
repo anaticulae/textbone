@@ -34,6 +34,7 @@ class Sentences:
 
     def __init__(self, files, skip=DATA, seed=None):
         self.sentences = None
+        self.hashed = None
         self.files = files
         self.skip = skip
         self.seed = seed
@@ -59,6 +60,13 @@ class Sentences:
         generator = random.Random(x=self.seed)  # nosec
         generator.shuffle(sentences)
         self.sentences = sentences
+        self.hashed = {
+            sentence_hash(sentence): sentence for sentence in self.sentences
+        }
+
+    def sentence_fromhash(self, number) -> str:
+        self.load_lazy()
+        return self.hashed[number]
 
     def pop(self):
         self.load_lazy()
