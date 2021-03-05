@@ -28,3 +28,7 @@ div{
 #content_limit{
     max-width: 1024px;
 }
+
+.center{
+    text-align: center;
+}
