@@ -36,7 +36,7 @@ def send():
     return 'DONE'
 
 
-SENTENCES = bbview.api_.judge_.sentence.Sentences(hugedata.RESOURCES).sentences
+SENTENCES = bbview.api_.judge_.sentence.Sentences(hugedata.RESOURCES)
 
 
 @bbview.api.judge.api_judge.route(

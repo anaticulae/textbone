@@ -53,8 +53,8 @@ class Sentences:
         random.shuffle(sentences)
         self.sentences = sentences
 
-    def __iter__(self):
-        return iter(self.sentences)
+    def pop(self):
+        return self.sentences.pop()
 
 
 def load_skip(path: str = DATA) -> set:
