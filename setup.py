@@ -54,6 +54,7 @@ if __name__ == "__main__":
             'bbview.api_.judge',
             'bbview.view',
             'hugedata',
+            'judgeddata',
         ],
         entry_points={
             'console_scripts': [
