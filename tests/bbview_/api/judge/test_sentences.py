@@ -13,6 +13,7 @@ import os
 import utila
 import utilatest
 
+import bbview.api.judge.sentence
 import bbview.api_.judge.sentence
 
 
@@ -26,12 +27,15 @@ def test_sentences_send(client, testdir, monkeypatch):
         'current': 'this is just a sentence',
     }
     judged = os.path.join(testdir.tmpdir, 'sentences')
+    utila.file_create(judged, 'this is just a sentence\n')
     with monkeypatch.context() as context:
         append = functools.partial(
             bbview.api_.judge.sentence.sentence_append,
             base=judged,
         )
         context.setattr(bbview.api_.judge.sentence, 'sentence_append', append)
+        sentences = bbview.api_.judge.sentence.Sentences(files=[judged])
+        context.setattr(bbview.api.judge.sentence, 'SENTENCES', sentences)
         sentences = utilatest.apipost(
             client,
             page='judge/sentence/send',

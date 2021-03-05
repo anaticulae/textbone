@@ -36,6 +36,8 @@ def send():
         utila.str2bool(style),
         utila.str2bool(structure),
     )
+    if not SENTENCES.sentence_inside(sentence):
+        return f'SENTENCE NOT AVAILABLE: {sentence}', 404
     bbview.api_.judge.sentence.sentence_append(judged)
     return 'DONE'
 
