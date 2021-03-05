@@ -86,6 +86,8 @@ def marker(document: str) -> str:
     """\
     >>> marker('lit_bachelor_bachelor100')
     'd'
+    >>> marker('lit_utils_utils50')
+    'o'
     """
     if 'bachelor' in document:
         return 'd'
