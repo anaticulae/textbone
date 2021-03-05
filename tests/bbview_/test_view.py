@@ -18,3 +18,9 @@ def test_welcome(client):
 def test_analysis(client):
     welcome = utilatest.get(client, '/analysis')
     assert '<h1>Analysis</h1>' in welcome
+
+
+def test_judge(client):
+    welcome = utilatest.get(client, '/judge')
+    # TODO: CHANGE HEADLINE
+    assert '<h1>Training</h1>' in welcome
