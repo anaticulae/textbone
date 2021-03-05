@@ -27,7 +27,7 @@ SentenceJudged = collections.namedtuple(
 def sentence_append(sentence: SentenceJudged, base=DATA):
     raw = sentence_raw(sentence)
     raw = raw + utila.NEWLINE
-    utila.file_append(base, raw)
+    utila.file_append(base, raw, create=True)
 
 
 class Sentences:
