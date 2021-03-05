@@ -28,6 +28,14 @@ def test_judge(client):
     assert '<h1>Training</h1>' in welcome
 
 
+def test_invalid_view(client):
+    invalid = utilatest.get(
+        client,
+        '/invalid_view',
+        expected=http.HTTPStatus.NOT_FOUND,
+    )
+
+
 def test_view_plots_not_exists(client):
     notexists = utilatest.get(
         client,

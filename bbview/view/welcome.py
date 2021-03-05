@@ -7,6 +7,8 @@
 # be prosecuted under federal law. Its content is company confidential.
 # =============================================================================
 
+import contextlib
+
 import flask
 import jinja2
 
@@ -17,7 +19,6 @@ welcome_ = flask.Blueprint('welcome', __name__)  # pylint:disable=invalid-name
 @welcome_.route('/<page>')
 def show_page(page='home'):
     """Route public pages which are visible without any permissions."""
-    try:
+    with contextlib.suppress(jinja2.TemplateNotFound):
         return flask.render_template('public/%s.html' % page)
-    except jinja2.TemplateNotFound:
-        return flask.render_template('public/error.html', errorpage=page)
+    return flask.render_template('public/error.html', errorpage=page), 404
