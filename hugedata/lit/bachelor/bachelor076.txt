@@ -349,7 +349,8 @@ Die gesammelten Daten über das Produkt werden bereits während der Herstellung 
 Zusätzlich kann die Rüstzeit der Maschine verringert werden , indem sie die benötigen Informationen bereits vorab erhält .
 Im Anschluss wird automatisch die Qualität des Werkstücks geprüft und mit einem RFID-Chip versehen , der von der Prüfstation ausgelesen wird .
 Diese Daten werden zurück an das Leitsystem übermittelt , sodass eine automatische Anpassung vorgenommen werden kann. 134
-Im Ergebnis führt der hohe Vernetzungsgrad innerhalb der Produktion zu einer steigenden Output-Rate bei gleichzeitig sinkenden fixen Stückkosten , einer Verbesserung der Qualität , mehr Flexibilität durch Automatisierung und schnellere Produktionsabläufe durch verringerte Rüstzeiten.135 Die Einführung von Industrie 4.0 ermöglicht somit die Herstellung von Produkten in „ Losgröße 1 “ zu den Stückkosten einer Serienproduktion .
+Im Ergebnis führt der hohe Vernetzungsgrad innerhalb der Produktion zu einer steigenden Output-Rate bei gleichzeitig sinkenden fixen Stückkosten , einer Verbesserung der Qualität , mehr Flexibilität durch Automatisierung und schnellere Produktionsabläufe durch verringerte Rüstzeiten.135
+Die Einführung von Industrie 4.0 ermöglicht somit die Herstellung von Produkten in „ Losgröße 1 “ zu den Stückkosten einer Serienproduktion .
 Die Losgröße beschreibt die Anzahl einer Produktart oder Baugruppe , die ohne Umrüstung oder Unterbrechung des Produktionsprozesses hergestellt werden kann. 136
 Durch die Aufhebung der klassischen Zielkonflikte , wie in Abbildung neun dargestellt , ist zukünftig eine kundenindividuelle Produktion in „ Losgröße 1 “ möglich .
 Die Veränderung der Wertschöpfung im Bereich der Produktion wird somit erheblich durch den Einfluss digitaler Technologien bestimmt .
