@@ -45,6 +45,8 @@ if __name__ == "__main__":
         ],
         packages=[
             'backbone',
+            'backbone.judge',
+            'backbone.train',
             'bbview.api',
             'bbview.api.analysis',
             'bbview.api.data',
