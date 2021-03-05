@@ -56,7 +56,7 @@ class Sentences:
 def load_skip(path: str = DATA) -> set:
     loaded = utila.file_read(path)
     splitted = loaded.splitlines()
-    skip = {item.split()[0] for item in splitted}
+    skip = {int(item.split()[0]) for item in splitted if item}
     return skip
 
 
