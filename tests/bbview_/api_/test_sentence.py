@@ -48,6 +48,8 @@ def test_sentences_skip(testdir):
         False,
         True,
         False,
+        False,
+        False,
     )
     bbview.api_.judge.sentence.sentence_append(sentence, sentence_file)
 

@@ -20,7 +20,7 @@ DATA = os.path.join(backbone.ROOT, 'judgeddata/sentence')
 
 SentenceJudged = collections.namedtuple(
     'SentenceJudged',
-    'sentence, slang, noscience, complicated, nocontent',
+    'sentence, slang, noscience, complicated, nocontent, style, structure',
 )
 
 
@@ -72,8 +72,11 @@ def load_skip(path: str = DATA) -> set:
 
 def sentence_raw(sentence: SentenceJudged) -> str:
     """\
-    >>> sentence_raw(SentenceJudged('Hier spricht Helm .', True, True, False, False))
-    '... 1 1 0 0'
+    >>> sentence_raw(SentenceJudged(
+    ...     'Hier spricht Helm .',
+    ...     True, True, False, False, False, False,
+    ... ))
+    '... 1 1 0 0 0 0'
     """
     items = [item for item in sentence]
     items[0] = sentence_hash(items[0])

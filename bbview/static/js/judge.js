@@ -16,13 +16,17 @@ class Judge {
         let noscience = $('#noscience')[0].checked
         let complicated = $('#complicated')[0].checked
         let nocontent = $('#nocontent')[0].checked
+        let structure = $('#structure')[0].checked
+        let style = $('#style')[0].checked
         let current = judge.current
         let result = {
             'current': current,
-            'slang': slang,
-            'noscience': noscience,
             'complicated': complicated,
             'nocontent': nocontent,
+            'noscience': noscience,
+            'slang': slang,
+            'structure': structure,
+            'style': style,
         }
         post('/judge/sentence/send', result, function () {
             judge.next_sentence()
@@ -44,6 +48,8 @@ class Judge {
         $('#nocontent')[0].checked = false
         $('#noscience')[0].checked = false
         $('#slang')[0].checked = false
+        $('#structure')[0].checked = false
+        $('#style')[0].checked = false
     }
 
     download_sentences() {
@@ -53,8 +59,6 @@ class Judge {
             judge.next_sentence()
         })
     }
-
-
 }
 
 const judge = new Judge()

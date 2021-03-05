@@ -24,6 +24,8 @@ def send():
     nocontent = flask.request.form.get('nocontent', '')
     noscience = flask.request.form.get('noscience', '')
     slang = flask.request.form.get('slang', '')
+    style = flask.request.form.get('style', '')
+    structure = flask.request.form.get('structure', '')
 
     judged = bbview.api_.judge.sentence.SentenceJudged(
         sentence,
@@ -31,6 +33,8 @@ def send():
         utila.str2bool(noscience),
         utila.str2bool(complicated),
         utila.str2bool(nocontent),
+        utila.str2bool(style),
+        utila.str2bool(structure),
     )
     bbview.api_.judge.sentence.sentence_append(judged)
     return 'DONE'
