@@ -10,7 +10,7 @@
 import flask
 import utila
 
-import bbview.api_.judge_.sentence
+import bbview.api_.judge.sentence
 import hugedata
 
 
@@ -25,18 +25,18 @@ def send():
     noscience = flask.request.form.get('noscience', '')
     slang = flask.request.form.get('slang', '')
 
-    judged = bbview.api_.judge_.sentence.SentenceJudged(
+    judged = bbview.api_.judge.sentence.SentenceJudged(
         sentence,
         utila.str2bool(slang),
         utila.str2bool(noscience),
         utila.str2bool(complicated),
         utila.str2bool(nocontent),
     )
-    bbview.api_.judge_.sentence.sentence_append(judged)
+    bbview.api_.judge.sentence.sentence_append(judged)
     return 'DONE'
 
 
-SENTENCES = bbview.api_.judge_.sentence.Sentences(hugedata.RESOURCES)
+SENTENCES = bbview.api_.judge.sentence.Sentences(hugedata.RESOURCES)
 
 
 @bbview.api.judge.api_judge.route(
