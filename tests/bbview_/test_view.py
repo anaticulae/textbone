@@ -7,6 +7,8 @@
 # be prosecuted under federal law. Its content is company confidential.
 # =============================================================================
 
+import http
+
 import utilatest
 
 
@@ -24,3 +26,12 @@ def test_judge(client):
     welcome = utilatest.get(client, '/judge')
     # TODO: CHANGE HEADLINE
     assert '<h1>Training</h1>' in welcome
+
+
+def test_view_plots_not_exists(client):
+    notexists = utilatest.get(
+        client,
+        '/plots/image_does_not_exists',
+        expected=http.HTTPStatus.NOT_FOUND,
+    )
+    assert notexists == 'image does not exists'
