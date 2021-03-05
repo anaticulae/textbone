@@ -2,6 +2,32 @@
 
 Every noteable change is logged here.
 
+## v0.5.0
+
+### Feature
+
+* return resource not found for invalid sentence transmission (8d29363994e4)
+* add method to check if sentence exists (a1fc40f29c52)
+* add slang data provider (d94b50e00dd1)
+* judge some data (0c06fcb4cc9a)
+* add access by sentence hash (8b84d0ee4087)
+* add option to control randomizing sentences (447245a47ee9)
+* add style and syntax field (9909be9565ab)
+* move send button to next line (4a1cfbe66714)
+* make sentence API more robust (f2439976a7e4)
+* catch information that all sentences are judged (f15cb7a063e3)
+* add judge view (8a206437704c)
+* add sentence judge API (a61df4fb2fed)
+* add sentence judge package (37dbe95f3310)
+
+### Fix
+
+* add lazy loading to improve test discovery (14cfd2c080a8)
+* change return value of error page to 404 (c962d12b546d)
+* allow creating skipped file if not exists (7d6a6a80fdb5)
+* ensure correct data type (bbe8166c7c74)
+* adjust sentences boundary (8b35ce317b49)
+
 ## v0.4.0
 
 ### Feature
