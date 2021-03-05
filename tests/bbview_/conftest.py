@@ -20,7 +20,6 @@ utilatest.setup(bbview.config.API_PREFIX)
 def app(testdir):
     """Create and configure a new app instance for each test."""
     appi = bbview.app.create_application()
-
     with appi.app_context():
         yield appi
 
