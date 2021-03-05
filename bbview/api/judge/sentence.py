@@ -20,17 +20,17 @@ import hugedata
 )
 def send():
     sentence = flask.request.form['current']
-    slang = utila.str2bool(flask.request.form['slang'])
-    noscience = utila.str2bool(flask.request.form['noscience'])
-    complicated = utila.str2bool(flask.request.form['complicated'])
-    nocontent = utila.str2bool(flask.request.form['nocontent'])
+    complicated = flask.request.form.get('complicated', '')
+    nocontent = flask.request.form.get('nocontent', '')
+    noscience = flask.request.form.get('noscience', '')
+    slang = flask.request.form.get('slang', '')
 
     judged = bbview.api_.judge_.sentence.SentenceJudged(
         sentence,
-        slang,
-        noscience,
-        complicated,
-        nocontent,
+        utila.str2bool(slang),
+        utila.str2bool(noscience),
+        utila.str2bool(complicated),
+        utila.str2bool(nocontent),
     )
     bbview.api_.judge_.sentence.sentence_append(judged)
     return 'DONE'
