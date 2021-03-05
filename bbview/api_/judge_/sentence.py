@@ -25,12 +25,8 @@ SentenceJudged = collections.namedtuple(
 
 
 def sentence_append(sentence: SentenceJudged, base=DATA):
-    result = [item for item in sentence]
-    result[0] = sentence_hash(result[0])
-    result = [str(item) for item in result]
-    raw = ' '.join(result) + utila.NEWLINE
-    raw = raw.replace('False', '0')
-    raw = raw.replace('True', '1')
+    raw = sentence_raw(sentence)
+    raw = raw + utila.NEWLINE
     utila.file_append(base, raw)
 
 
@@ -64,9 +60,18 @@ def load_skip(path: str = DATA) -> set:
     return skip
 
 
-def sentence_raw(raw: SentenceJudged) -> str:
-    result = ' '.join(raw)
-    return result
+def sentence_raw(sentence: SentenceJudged) -> str:
+    """\
+    >>> sentence_raw(SentenceJudged('Hier spricht Helm .', True, True, False, False))
+    '... 1 1 0 0'
+    """
+    items = [item for item in sentence]
+    items[0] = sentence_hash(items[0])
+    items = [str(item) for item in items]
+    raw = ' '.join(items)
+    raw = raw.replace('False', '0')
+    raw = raw.replace('True', '1')
+    return raw
 
 
 def sentence_hash(raw: str):
