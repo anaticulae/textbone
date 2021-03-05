@@ -68,6 +68,14 @@ class Sentences:
         self.load_lazy()
         return self.hashed[number]
 
+    def sentence_inside(self, sentence):
+        hashid = sentence_hash(sentence)
+        try:
+            self.sentence_fromhash(hashid)
+        except KeyError:
+            return False
+        return True
+
     def pop(self):
         self.load_lazy()
         return self.sentences.pop()
