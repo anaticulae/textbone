@@ -158,7 +158,7 @@ Dadurch ist eine einfache , drahtlose Anbindung von Multimediageräten oder ande
 Die Begriﬀe WiFi und WLAN werden in Deutschland dazu verwendet um Geräte , die nach dem IEEE-802.11-Standard zertiﬁziert sind , zu bezeichnen .
 Dieser Standard wurde 1997 von der IEEE speziﬁziert und wurde mittlerweile 21High Speed Packet Access 22Orthogonal-Frequency-Division-Multiplexing 23Multiple-Input-Multiple-Output durch mehrere Erweiterungen verbessert .
 Während im ursprünglichen Standard Übertragungsraten über Infrarotlicht und Radiowellen bis zu 2 MBit/s vorgesehen waren , bietet der Standard 802.11n , der im September 2009 vorgestellt wurde , Übertragungsraten von bis zu 600 MBit/s [ Ins09 ] .
-Zur Übertragung werden nur lizenzfreie Frequenzbänder in den sog.  ISM-Bändern24 genutzt .
+Zur Übertragung werden nur lizenzfreie Frequenzbänder in den sog. ISM-Bändern24 genutzt .
 Tabelle 2.1 zeigt die verschiedenen Varianten des IEEE-802.11 Standards mit deren maximalen Bruttodatenraten und den unterstützten Frequenzbereichen .
 Da es bei drahtlosen Netzwerken schwierig ist den physikalischen Zugang zu kontrollieren und zu unterbinden , sind Zugangskontroll- und Verschlüsselungsmechanismen Teil des Standards .
 Neben dem mittlerweile als unsicher geltenden WEP-Verfahren wurden als Übergangslösung die Verschlüsselungsmethode WPA und mit Verabschiedung des Standards IEEE-802.11i dessen Nachfolger WPA2 eingeführt .

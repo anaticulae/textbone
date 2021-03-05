@@ -349,7 +349,7 @@ Psychoedukation ist im Rahmen der Aufklärung über die Folgen eines abrupten Tr
 Medikamente sollten im stationären Bereich verwendet werden , um körperlichen Entzugssymptomen und anderen Folgeerkrankungen entgegenwirken zu können .
 Dabei soll jedoch auch die abhängig machende Wirkung der verwendeten Medikamente wie z.B. Benzodiazepine beachtet werden und die Tablettengabe daher eine Dauer von vier Wochen nicht überschreiten .
 Medikamente können und sollten vor allem mit anderen Therapieverfahren kombiniert werden .
-Hierbei kommt es vor allem auf die diagnostische Abklärung an , z.B.  durch Zuhilfenahme des bereits angesprochenen AUDIT-Fragebogens , wodurch zahlreiche psychische Folgeerkrankungen erfasst werden können .
+Hierbei kommt es vor allem auf die diagnostische Abklärung an , z.B. durch Zuhilfenahme des bereits angesprochenen AUDIT-Fragebogens , wodurch zahlreiche psychische Folgeerkrankungen erfasst werden können .
 Bei Komorbiditäten ist die parallele Behandlung beider Erkrankungen am wirkungsvollsten .
 Hierbei kann auch der Einsatz einer medikamentösen Behandlung eine entscheidende Rolle spielen .
 Bei Patienten mit Depression wird die Behandlung mit der KVT als am wirksamsten beschrieben , zudem die zusätzliche Gabe von Antidepressiva .
@@ -727,10 +727,10 @@ Es gibt keine Standardisierung der Instrumente , sondern diese werden an das Ein
 Somit wird dem Forschenden möglichst viel Spielraum in der Gestaltung der Situation gelassen .
 Die Aufgabe der qualitativen Sozialforschung ist es , den Menschen als agierendes Wesen in seiner Umwelt durch Zuhilfenahme von Feldforschungen , Gruppeninterviews , Tonband- und Videoaufzeichnungen von Alltagsmomenten zu erforschen .
 Alle Verfahren erwirken eine Beobachtung des Handelnden aus seiner Sicht und nicht aus der Sicht der Wissenschaft .
-Dies ermöglicht eine Interpretation der subjektiven Sichtweise des agierenden Menschen und auch die Analyse des implizierten Wissens sowie die jenseits derer liegenden Intentionen interaktiver Erzeugung von Bedeutungen ( Rosenthal 2015 , S.  13 ff . ) .
+Dies ermöglicht eine Interpretation der subjektiven Sichtweise des agierenden Menschen und auch die Analyse des implizierten Wissens sowie die jenseits derer liegenden Intentionen interaktiver Erzeugung von Bedeutungen ( Rosenthal 2015 , S. 13 ff . ) .
 „ Neben den Möglichkeiten der quantitativen Sozialforschung mit ihrem Fokus auf verallgemeinerbaren Ergebnissen bietet die qualitative Sozialforschung hier den Zugang zu subjektiven Deutungen und Lebenswelten von Einzelnen und Gruppen .
 Sie eignet sich daher besonders gut für patientInnenorientierte bzw. klientInnenorientierte Forschungsvorhaben. “ ( Gahleitner 2014 , S. 78 ) „ Die qualitativen Studien richten ihr Erkenntnisinteresse weniger auf den Beweis durch die ‚ große Zahl ‘ , sondern auf das Verstehen von sozialem Handeln , dessen Beschreibung und Rekonstruktion anhand weniger Einzelfälle .
-[ ... ] Die Forschungslogik ist also eine des induktiven Schließens. “ ( Schaffer 2009 , S. 59 ) Lamnek und Krell ( 2010 , S.  19 ff . )
+[ ... ] Die Forschungslogik ist also eine des induktiven Schließens. “ ( Schaffer 2009 , S. 59 ) Lamnek und Krell ( 2010 , S. 19 ff . )
 entwickelten zentrale Prinzipien qualitativer Sozialforschung : Aufgrund vorab formulierter Forschungsfragen und Hypothesen können nur Informationen aus dem gewählten Forschungsfeld aufgenommen und interpretiert werden .
 Durch nicht vorformulierte Antwortmöglichkeiten kann der Befragte frei antworten .
 Es ist wichtig , den Wahrnehmungstrichter weit offen zu halten , um auch unerwartete Antworten zu ermöglichen .
@@ -802,7 +802,8 @@ In diesem Sinne wird versucht theoretische Konstrukte zu gewinnen , indem Bezieh
 Insbesondere geht es darum , besonders wichtige und erklärungsmächtige Kategorien zu entdecken , welche zur Erklärung der Zusammenhänge im Zentrum stehen können .
 [ ... ] Triangulation ( externer Vergleich ) : Die gewonnenen theoretischen Konstrukte werden mit anderen Zugriffen auf den Forschungsgegenstand verglichen ( z.B. mit den Ergebnissen einer quantitativen Untersuchung ) .
 Auf diese Weise können die bisherigen Ergebnisse unterstützt werden .
-Es können sich aber auch Widersprüche zeigen , die dazu führen , dass man z.B. nochmals mit veränderten Kategorien in die Codierungsphase einsteigt. “ ( Moser 2012 , S. 124 ) Nachfolgend sollen die Ergebnisse der Konsumtagebücher und Fragebögen im Kontext der leitenden Fragestellung interpretiert werden .
+Es können sich aber auch Widersprüche zeigen , die dazu führen , dass man z.B. nochmals mit veränderten Kategorien in die Codierungsphase einsteigt. “ ( Moser 2012 , S. 124 )
+Nachfolgend sollen die Ergebnisse der Konsumtagebücher und Fragebögen im Kontext der leitenden Fragestellung interpretiert werden .
 Dies erfolgt zur besseren Übersichtlichkeit in der Reihenfolge der gewählten Überschriften .
 Hinweis : Die Autorin betont , dass in der vorliegenden Interpretation der ausgewerteten Daten nicht von wirklicher Validität ausgegangen werden kann , da sich die Ergebnisse auf die Aussagen von 12 Bezugsbetreuern und 9 Klienten ( 17 Konsumtagebüchern ) beziehen .
 Somit kann auch die Interpretation nur in Bezug auf diese Stichprobe erfolgen .

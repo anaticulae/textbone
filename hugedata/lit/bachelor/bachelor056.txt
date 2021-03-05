@@ -222,9 +222,7 @@ Es wurden zusätzlich Richtungspfeile in die Simulation eingebaut , die es den F
 So wurde langsam das Fahren geübt .
 Dies diente dazu sich an den Simulator , die verändert Fahrumgebung und die Simulation zu gewöhnen .
 So sollten eventuelle Nebenwirkung , die sogenannte „ simulator sickness “ ( Vgl. Kolasinski , 1995 ) , mit Hilfe des Einfahrens zum einen erkannt , was den Ausschluss aus der Studie zur Folge hatte , bzw. durch das Üben minimiert werden .
-Zur Überprüfung , ob alle notwendigen Materialien für den ersten und zweiten Versuchstag ausgehändigt wurden , besaß der Versuchsleiter eine „ Checkliste “ , sowie Materiallisten für den 1 .
-& 2 .
-Termin .
+Zur Überprüfung , ob alle notwendigen Materialien für den ersten und zweiten Versuchstag ausgehändigt wurden , besaß der Versuchsleiter eine „ Checkliste “ , sowie Materiallisten für den 1. & 2. Termin .
 Mit diesen konnte nachvollzogen werden , ob bereits alle Dokumente ausgehändigt und unterschrieben worden sind ( s. Anhang A 2. , A 11. , A 12 . )
 Am zweiten Termin wurden der „ Fragebogen zum Befinden ohne Alkohol “ und der „ Fragebogen zum Befinden mit Alkohol “ ausgeteilt ( s. Abschnitt 3.4 AV ) .
 Um die gewünschten Bedingung „ Alkohol “ mit 0.5‰ zu erhalten , wurden die WodkaMixgetränke der Experimentalgruppe mit Hilfe der Widmark-Formel an das Gewicht , die Größe und das Alter des Probanden angepasst .
@@ -236,8 +234,7 @@ Vor , während und nach der Trinkphase wurden die AAK-Werte des Probanden gemess
 Dazu wurde das Alcotest-Gerät 7510 der Firma Dräger genutzt , welches kurz zuvor von der Physikalisch-Technischen Bundesanstalt des Fachbereiches 3.2 `` Gasanalytik und Zustandsverhalten '' geeicht worden war .
 Die Simulation des zweiten Versuchstages unterschied sich zum ersten Tag .
 Eine neue standardisierte Fahrinstruktion half dem Fahrer dabei durch die Simulation zu fahren , denn bei der zweiten Simulation wurden keine Richtungspfeile programmiert ( s. Anhang A 9 . ) .
-Am Ende des Versuches erhielt der Proband eine Quittung über den Erhalt des Versuchspersonengeldes und musste eine Verschwiegenheitserklärung unterschreiben , um die Placebobedingung nicht während der Datenerhebung zu gefährden ( s. Anhang A 14. und A .
-15 . ) .
+Am Ende des Versuches erhielt der Proband eine Quittung über den Erhalt des Versuchspersonengeldes und musste eine Verschwiegenheitserklärung unterschreiben , um die Placebobedingung nicht während der Datenerhebung zu gefährden ( s. Anhang A 14. und A. 15. ) .
 Die Durchführung der Studie wird im Folgenden in drei Teile unterteilt , da vorab eine Pilotstudie bzw. ein Pretest durchgeführt wurde und der Versuch an zwei Tagen stattfand .
 Bevor die Studie realisiert werden konnte , gab es eine Pilotstudie bzw. einen Pretest .
 Diese/r diente dazu die geplanten Handlungsabläufe der Versuchsleiter , die Simulationen , sowie die Leistungstests aus dem zweiten Teil der Untersuchung am realen Beispiel zu testen , um eventuelle Probleme aufzudecken und diese gegebenenfalls zu verändern .
@@ -369,8 +366,7 @@ Der Unterschied liegt auch wieder nur im Millisekundenbereich ( EG ̅ = 1.021s ;
 Wie oben dargestellt , scheint die Geschwindigkeit direkt vor der kritischen Situation eine wesentliche Rolle bei der Unfallentstehung zu spielen .
 Um dies zusammen mit der Bremsreaktionszeit weitergehend zu untersuchen , wurden für jede der beiden Situationen zunächst bivariate Korrelationen zwischen Geschwindigkeit , Bremsreaktionszeit und dem Auftreten eines Unfalls berechnet .
 In der Kreuzungssituation zeigte sich nur für die Variable Geschwindigkeit eine signifikante Korrelation .
-Dabei ist ein hoher positiver Zusammenhang zwischen der Geschwindigkeit und der AV Unfall Kreuzung mit r = .449 zu finden ( s. Tab .
-2 ) .
+Dabei ist ein hoher positiver Zusammenhang zwischen der Geschwindigkeit und der AV Unfall Kreuzung mit r = .449 zu finden ( s. Tab. 2 ) .
 Für die Bremsreaktionszeit ergibt sich ein negativer Zusammenhang von r = -.140 , welcher aber nicht signifikant wird .
 Bei der anschließenden linearen Reggression ergeben sich zwei Modelle die betrachtet werden können .
 Diese kommen auf Grund der schrittweisen Reggressionsanalyse zustande , in der rückwärts nach und nach der schwächste Prädiktor aus der Gleichung wieder entfernt wird .
@@ -382,17 +378,15 @@ Obwohl für beide Modelle ein hochsignifikantes Ergebnis zu verzeichnen ist , is
 Am Ende bleibt in der linearen Regression nur die Geschwindigkeit als Prädiktor des Unfalls übrig .
 Diese erklärt immerhin 21 % der Varianz .
 Ein vergleichbares Ergebnis zeigt sich in der Fußgängersituation .
-Allerdings ist auch hier nur für die Geschwindigkeit ein signifikantes Ergebnis in der bivariaten Korrelation zu sehen , nicht aber für die Bremsreaktionszeit ( s. Tab .
-4 ) .
+Allerdings ist auch hier nur für die Geschwindigkeit ein signifikantes Ergebnis in der bivariaten Korrelation zu sehen , nicht aber für die Bremsreaktionszeit ( s. Tab. 4 ) .
 Wie bei der vorherigen Analyse ergeben sich in dieser linearen Reggression wieder zwei Modelle , in der für beide ein hochsignifikantes Ergebnis zu verzeichen ist .
 Auch hier ist der Einfluss der Geschwindigkeit der auschlaggebende Effekt .
 So bleibt zum Schluss nur die Geschwindigkeit als Prädiktor des Unfalls übrig , welche 31 % der Varianz erklärt .
 Im Folgenden werden die bedeutenden Ergebnisse aus den Fragebögen zur subjektiven Einschätzung der Fahrt und des Befindens beschrieben .
 Um zu überprüfen , ob Unterschiede in den Gruppen vorhanden sind , wurden zweifaktorielle Varianzanalysen mit den Faktoren Zeit ( Prä-Post ) , Bedingung und Reihenfolge der Situation gerechnet .
 Es werden aufgabenbezogene Ergebnisse und Ergebnisse des Befindens unterschieden .
-Um die Übersichtlichkeit zu wahren , wurden die Werte der zuvor genannten Faktoren in einer Tabellen zusammengefasst und dem Anhang hinzugefügt ( s. Anhang Tabelle B 1 .
-& 2 . ) .
-4.3.1 Aufgabenbezogene Ergebnisse In Bezug auf sie subjektive Anstrengung ist ein hochsignifikanter Effekt für die Prä-PostMessung für beide Bedingungen erkennbar .
+Um die Übersichtlichkeit zu wahren , wurden die Werte der zuvor genannten Faktoren in einer Tabellen zusammengefasst und dem Anhang hinzugefügt ( s. Anhang Tabelle B 1. & 2. ) .
+In Bezug auf sie subjektive Anstrengung ist ein hochsignifikanter Effekt für die Prä-PostMessung für beide Bedingungen erkennbar .
 Sowohl die Alkohol- , als auch die Placebogruppe gaben eine höhere Anstrengung in der Postmessung an ( s. Abb. 10 ) .
 Es sind keine signifikanten Effekte für die Bedingung , die Reihenfolge oder eine Interaktion der Faktoren zu sehen .
 Für die Leistungsfähigkeit zeigt sich eine hochsignifikante Hauptwirkung für den Faktor Prä-Post .
@@ -478,30 +472,26 @@ Auf diese Weise können Unfälle ähnlich gut vermieden werden , wie bei den nü
 In einer scheinbar ungefährlichen Situation ist diese Anpassungsleistung nicht zu finden .
 Obwohl es unter Alkoholwirkung gelingt , ähnlich schnell zu bremsen wie unter Placebo , gelingt es ihnen trotzdem nicht , eine Kollision mit dem Fußgänger zu vermeiden .
 Dass dieser Effekt vor allem dann auftritt , wenn vorher eine andere gefährliche Situation erlebt wurde , weist darauf hin , dass das Gefahrenbewusstsein für den Einsatz von Kompensation wichtig zu sein scheint .
-Fahrsimulatorstudie .
 Die Gefahr , die von Alkoholkonsum im Straßenverkehr ausgeht , wurde in zahlreichen Studien über Jahrzehnte hinweg untersucht ( Borkenstein et al. , 1974 ; Breitmeier , Seeland-Schulz , Hecker & Schneider , 2007 ; Krüger et al. , 1995 ; Schnabel , 2011 ) .
 Das Alkohol ein großes Risiko für alle Beteiligten darstellt und zu einer Herabsenkung der Promillegrenze in vielen EU-Ländern führte ist ein großer Erfolg , welcher nur erreicht werden konnte , weil Forschung in diesem Bereich betrieben wurde .
 Die meisten Studien wurden in statistischen Fahrsimulatoren durchgeführt , da es aus ethischen und sicherheitstechnischen Gründen schwierig ist , Hypothesen im Zusammenhang mit Alkohol auf den Straßen zu testen .
 Aber genau dieser Aspekt stellt ein großes Problem dar .
 Simulatorstudien spiegeln nicht in vollem Ausmaß und auch nicht in ihrer Komplexität die realen Fahrsituationen wieder , zudem mangelt es an fahrdynamischen und visuellen Eindrücken , die nicht oder nur begrenzt simuliert werden können ( Martin et al. , 2013 ) .
-So beschreibt Martin el al. ( 2013 , S .
-1240/1241 ) dies wie folgt : „ Laboratory simulations typically represent only one aspect of actual driving und require extrapolation of the effects as a predictor for other secondary tasks [ … ] .
+So beschreibt Martin el al. ( 2013 , S . 1240/1241 ) dies wie folgt : „ Laboratory simulations typically represent only one aspect of actual driving und require extrapolation of the effects as a predictor for other secondary tasks [ … ] .
 Even the most sophisticated driving simulators can only approximate actual driving conditions and suffer from lack of car dynamics an inadequacy of the visual scene “ .
 Der Proband muss also in der Lage sein , alle weiteren Aspekte , die mit dem Führen eines Fahrzeuges zusammenhängen , sich vorzustellen , was dazu führt , dass es zu einer unnatürlichen Fahrsituation kommt .
 Eine Studie , die im Simulator nur ein Teilaspekt des Fahrens betrachtet , birgt die Gefahr , dass keine signifikanten Ergebnisse gefunden werden können , weil der Fahrer sich ausschließlich auf eine einzige Variable konzentrieren kann und in der Lage ist die Aufgabe zu bewältigen .
 Die nur geringe Komplexität der Fahraufgabe und die unnatürliche Umgebung im Vergleich zu einer Realfahrten lassen nur bedingt Rückschlüsse auf das sonstige Fahrverhalten zu ( Martin et al. , 2013 ) .
 Würden Studien in diesem Bereich eher in einem geschlossen Parcours oder auf der Straße durchgeführt werden , würden wahrscheinlich deutlich mehr Probanden die Fahraufgabe nicht mehr bewältigen können .
 So könnte die Beeinträchtigung durch den Alkohol und eventuelle Kompensationsmechanismen realistischer widergespiegelt werden .
-Experimentalbedingung .
 In der vorliegenden Studie wurde mittels eines WodkaMixgetränkes versucht die Experimentalgruppe auf einen AAK-Wert von 0.5‰ zu bringen .
 Es konnte im Mittel über beide aufgabenrelevanten Situationen hinweg annähernd der gewünschte AAK-Wert erreicht werden .
 Trotz annähernd gleicher AAK-Werte , die im Mittel im Bereich von 0.45‰ - 0.51‰ lagen , kann es bei jedem einzelnen zu unterschiedlichen Wirkungen und Beeinträchtigungen durch den Alkohol kommen ( Moskowitz & Fiorentino , 2000a , 2000b ) .
-So wird bei jemanden , der relativ selten Alkohol konsumiert , wahrscheinlich schon bei niedrigen BAK-Werten eine Beeinträchtigung der Leistung zu sehen sein , wobei bei jemandem , der regelmäßig Alkohol konsumiert ein deutlich höherer BAK notwendig ist , was z.B.  auf eine bereits bestehende Alkoholtoleranz zurück geführt werden kann ( Huckenbeck & Bonte , 2004 , zit. nach Hansen , 2007 ) .
+So wird bei jemanden , der relativ selten Alkohol konsumiert , wahrscheinlich schon bei niedrigen BAK-Werten eine Beeinträchtigung der Leistung zu sehen sein , wobei bei jemandem , der regelmäßig Alkohol konsumiert ein deutlich höherer BAK notwendig ist , was z.B. auf eine bereits bestehende Alkoholtoleranz zurück geführt werden kann ( Huckenbeck & Bonte , 2004 , zit. nach Hansen , 2007 ) .
 Zwar wurde versucht mit Hilfe der Fragebögen im ersten Termin , diejenigen auszuschließen , die einen zu geringen oder einen zu hohen Alkoholkonsum haben , aber Veränderungen im Verhalten und in der Leistung können trotzdem individuell schwanken .
 Dabei ist eine Verknüpfung von psychischen Veränderungen und verminderten motorischen Fähigkeiten , sowie einer verlangsamten Reaktionszeit in Situationen mit denen nicht gerechnet wird , besonders riskant ( Lüllmann & Mohr , 1999 , zit. nach Hansen , 2007 ) .
 Variieren nun die Veränderungen individuell in jeder Person , so ist es schwierig allgemeingültige Aussagen über die Bereiche und den Grad der Beeinträchtigung in bestimmte Promillegrenzen zu fassen .
 Es ist zu überlegen , ob ein within-subjekt-design zur Überprüfung von Kompensationsmechanismen geeigneter erscheint , da es zu ganz individuellen Veränderung sowohl in der Leistung , als auch im Verhalten kommen kann .
-Placebobedingung .
 Ein anderer Aspekt der Studie , der kritisch beleuchtet werden muss , ist die Kontrollgruppe , die geschaffen wurde .
 Anhand der Ergebnisse im Fahrverhalten und in den Fragebögen , kann man darauf schließen , dass es möglich war den Placeboeffekt zu erzeugen .
 Im Mittel gaben die Probanden in den Fragebögen in der Postmessung an , dass sie sich signifikant aufmerksamkeits- und leistungsgemindert fühlten .
@@ -539,7 +529,6 @@ Im realen Straßenverkehr sind die Fahrer jedoch deutlich komplexeren Situatione
 In diesen Situationen werden zu den automatischen Handlungen Kontrollprozesse gefordert , die einer stetigen Überwachung und Bewertung der nächsten Handlungsabläufe bedürfen ( Krüger et al. , 1995 ) .
 Diese Prozesse sind durch den Alkoholgenuss am stärksten betroffen und Leistungseinbußen werden damit schneller deutlich .
 Es wäre demnach möglich , dass es sich in der Kreuzungssituation nicht um eine schwierige Fahraufgabe , die mehrere Fahraufgaben gleichzeitig umfasst , handelt , denn dann hätten die Alkoholwirkungen von 0.5‰ deutlichere Beeinträchtigungen aufweisen müssen und sich eine Kompensation als schwieriger erwiesen ( Krüger et al. , 1995 ) .
-Stichprobe .
 Wie anfangs schon erläutert stellen jugendliche bzw. jüngere Autofahrer ( 1824 Jahre ) im Straßenverkehr ein erhöhtes Risiko im Vergleich zur mittleren Altersgruppe ( 2549 Jahre ) auf Grund ihrer mangelnden Fahrerfahrung dar .
 Ihnen fehlt es an Lern- und Erfahrungsprozessen , die für ein routinierteres und sicheres Bewältigen von komplexen Fahrsituationen nötig ist .
 Hinzu kommt , dass gerade junge Männer ein deutlich höheres Risiko haben einen Unfall zu verursachen als Frauen ( Krampe , 2004 ) .

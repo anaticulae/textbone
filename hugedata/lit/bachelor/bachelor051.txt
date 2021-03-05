@@ -145,8 +145,7 @@ Als erste Station löst eine neutrale Situation eine primäre Bewertung aus .
 Als zweite Station - beinahe zeitgleich - geschieht eine sekundäre Bewertung .
 Als dritte Station erfolgt eine Bewältigung der Situation .
 Die letzte Station ist eine Neubewertung der Situation .
-Die Abbildung 1 ( Abb.  )
-verdeutlicht die vier Stationen des transaktionalen Modells nach Lazarus .
+Die Abbildung 1 ( Abb. ) verdeutlicht die vier Stationen des transaktionalen Modells nach Lazarus .
 Es wird im Folgenden jede Station einzeln erläutert .
 Stress wird von Lazarus ( 1999 , zitiert nach Greiner et al. , 2012 , S. 19 ) als „ … Reaktion des Organismus auf überhöhte Anforderungen aus der Umwelt beschrieben “ .
 Laut dem transaktionalen Modell läuft die Reaktion auf das Stressprogramm nicht bei allen Menschen in allen Belastungssituationen stereotypisch gleich ab ( Kaluza , 2015 , S. 31 ) .
@@ -281,11 +280,9 @@ Damit lässt sich in kurzer Zeit ein Ganzkörpertraining absolvieren .
 Das EMS-Training findet mit einem Personal Trainer als 1:1 Einheit statt und dauert je nach Trainingszustand und Zielsetzung der Person zwischen 10-20 Minuten ( Vatter et al. , 2014 , S. 28 ) .
 Es gibt diverse Studien zu positiven Auswirkungen durch EMS-Training auf Kraftzuwachs , Fettabbau , Muskelmasseaufbau und Körperzusammensetzung .
 Zu nennen ist beispielhaft die TEST-III Studie von Kemmler , Engelke und Stengel ( 2012 , S. 343349 ) .
-Sie haben 76 Frauen über dem 70 .
-Lebensjahr über die Dauer von 54 Wochen ein 20-minütiges „ Bewegungsprogramm “ mit EMS-Applikation durchführen lassen .
+Sie haben 76 Frauen über dem 70. Lebensjahr über die Dauer von 54 Wochen ein 20-minütiges „ Bewegungsprogramm “ mit EMS-Applikation durchführen lassen .
 Die Effekte in Bezug auf fettfreie Körpermasse und Muskelmasse der Oberschenkel sind signifikant positiv ( Kemmler et al. , 2012 , S. 343 ) .
-In einer weiteren Studie von Kemmler el al. ( 2015 , S. 321-327 ) wurde eine Gruppe von 46 untrainierten Männern zwischen dem 30. und dem 50 .
-Lebensjahr zweigeteilt .
+In einer weiteren Studie von Kemmler el al. ( 2015 , S. 321-327 ) wurde eine Gruppe von 46 untrainierten Männern zwischen dem 30. und dem 50. Lebensjahr zweigeteilt .
 Eine Gruppe trainierte ihre Kraftfähigkeit zweimal pro Woche mit einer 1-Satzmethode bis zur Ausbelastung .
 Die andere Gruppe absolvierte dreimal in zwei Wochen ein 20minütiges EMS-Krafttraining .
 Gemessen wurden die fettfreie Körpermasse , die Muskelmasse , die dynamische Maximalkraft der Beinextensoren und die isometrische Maximalkraft der Rückenextensoren .
@@ -304,8 +301,7 @@ Zuerst erfolgt eine deskriptive , dann eine inferenzstatistische Auswertung .
 Ein Testverfahren muss objektiv , valide und reliabel sein .
 Eines der wichtigsten Merkmale eines objektiven , validen und reliablen Testverfahrens ist die Standardisierung .
 Unter Standardisierung versteht Stangl ( 2016 ) „ … eine Vereinheitlichung der Untersuchungsmethode , der Durchführung , Auswertung oder Interpretation der erhobenen Daten .
-Die Standardisierung ist auch eine Voraussetzung für die Objektivität eines Testverfahrens “ ( o .
-S . ) .
+Die Standardisierung ist auch eine Voraussetzung für die Objektivität eines Testverfahrens “ ( o.S. ) .
 Das Prinzip der Standardisierung gilt auch für das Erhebungsinstrument des SCI in Form eines Fragebogens für diese Arbeit .
 Der klare Vorteil einer Befragung per Fragebogen ist , dass alle Beteiligten die gleichen Fragen gestellt bekommen , was wiederum ein hohes Maß an Standardisierung gewährleistet ( Pieter , 2015 , S. 133 ) .
 Genau wie das Erhebungsinstrument zum individuellen Stresserleben , folgt auch das EMSKrafttrainingsprogramm dem Prinzip der Standardisierung .
@@ -315,8 +311,7 @@ Dazu werden eine EG und eine KG auf das individuelle Stresserleben anhand des SC
 Die EG durchläuft eine Intervention in Form eines standardisierten EMSKrafttrainingprogramms für die Dauer von vier Wochen , insgesamt vier Trainingseinheiten .
 Die KG durchläuft keine Intervention .
 Beide Gruppen erhalten vor und nach den vier Interventionswochen den SCI-Fragebogen zum Ausfüllen .
-Tabelle 1 ( Tab . )
-gibt einen detaillierten Überblick über den Ablauf der Studienzeit für einen Zeitraum von insgesamt acht Wochen .
+Tabelle 1 ( Tab. ) gibt einen detaillierten Überblick über den Ablauf der Studienzeit für einen Zeitraum von insgesamt acht Wochen .
 Der Untersuchungsplan 1 sieht eine Einteilung in drei Phasen vor .
 Die Studie beginnt mit der Vorbereitungsphase .
 Diese erstreckt sich vom 1. Februar bis zum 14. Februar , in Kalenderwoche ( KW ) 5 und 6 .
@@ -327,21 +322,17 @@ Alle Dokumente werden von der „ Deutsche Hochschule für Prävention und Gesun
 In der Vorbereitungsphase werden die Probanden ausgesucht und die Vorgehensweise mit ihnen besprochen .
 Sie werden über den Studienverlauf , den Fragebogen , die Intervention und die Trainingsform aufgeklärt .
 An dieser Stelle können die Probanden Fragen stellen und sich über Risiken informieren .
-Die Interventionsphase erstreckt sich vom 15. Februar bis zum 13. März , was den Beginn der 7. bis zum Ende der 10 .
-KW markiert .
-In der 7 .
-KW wird mit den Probanden der EG die Prä-Befragung , gekoppelt mit der ersten Trainingseinheit , durchgeführt .
+Die Interventionsphase erstreckt sich vom 15. Februar bis zum 13. März , was den Beginn der 7. bis zum Ende der 10. KW markiert .
+In der 7. KW wird mit den Probanden der EG die Prä-Befragung , gekoppelt mit der ersten Trainingseinheit , durchgeführt .
 Mit der KG wird lediglich die Prä-Befragung durchgeführt .
 Ab dem 22. Februar bis einschließlich dem 06. März , in KW 8 und 9 , werden mit der EG zwei weitere TE durchgeführt .
 Vom 07. März bis 13. März , in KW 10 , erfolgt für die EG die vierte TE mit anschließender Post-Befragung mittels SCI und dem Dokument „ Nachbefragung “ .
 Die KG führt in KW 10 die Post-Befragung mittels SCI-Fragebogen und dem Dokument „ Nachbefragung “ durch .
 Nach den beiden vorangegangenen Phasen folgt die Phase der Nachbereitung .
-Sie fällt in die 11. und 12 .
-KW , vom 14. März bis zum 27. März .
+Sie fällt in die 11. und 12. KW , vom 14. März bis zum 27. März .
 Hier werden die gewonnenen Daten aus beiden Gruppen mittels statistischer Verfahren ausgewertet .
 Die Phase der Vor- und Nachbereitung gehört nicht zur Intervention selbst , soll aber die Vorgehensweise bei der Studie verdeutlichen .
-Nun wird anhand von Tab .
-2 ein Überblick über die Vorgehensweise bei der Messung selbst veranschaulicht .
+Nun wird anhand von Tab. 2 ein Überblick über die Vorgehensweise bei der Messung selbst veranschaulicht .
 Die Messung ist für beide Gruppen eine klassische Prä-Post-Messung .
 Bei der EG erfolgt eine Erfassung des individuellen Stresserlebens vor und nach der Durchführung des vierwöchigen EMS-Krafttrainingsprogramms .
 Für die EG wird der Termin für die erste Trainingseinheit und das erste Ausfüllen des Fragebogenpakets festgesetzt ( e1 ) .
@@ -354,8 +345,7 @@ Die Probanden der KG füllen bei ( k1 ) das erste Fragebogenpaket aus .
 Vier Wochen darauf ( k2 ) wird das zweite Fragebogenpaket ausgefüllt .
 Zwei Wochen vor Beginn der Studie wurden die Probanden im Arbeitsumfeld einer praktizierenden Allgemeinmedizinerin rekrutiert .
 Es erfolgte eine Aufteilung der Personen durch Losverfahren in eine EG und eine KG .
-Folgende Tab .
-umfasst die Ein- und Ausschlusskriterien der Probanden .
+Folgende Tab. umfasst die Ein- und Ausschlusskriterien der Probanden .
 Die Einschlusskriterien sind für alle Probanden gleich : Alle betreiben nicht mehr als eine Stunde Gesamtpensum an Sportaktivität in der Woche .
 Alle Probanden sind berufstätig und haben eine Arbeitswoche von mehr als 35 Stunden .
 Ihr Alter soll zwischen 20 und 65 Jahren liegen .
@@ -407,8 +397,7 @@ Für die Gestaltung eines EMS-Krafttrainings gelten dieselben Trainingsprinzipie
 Unter den Trainingsprinzipien werden die Trainingshäufigkeit , die Belastungsdauer , die Belastungsintensität , die Belastungsdichte und der Belastungsumfang verstanden ( Vatter et al. , 2014 , S. 18 ) .
 Die empfohlene Geräteeinstellung für ein Krafttraining ist vom Hersteller voreingestellt und von Vatter el al. ( 2014 , S. 42-43 ) genau beschrieben .
 Die Einstellung wird für das standardisierte EMSKrafttrainingsprogramm beibehalten .
-Tab .
-4 veranschaulicht die empfohlene Geräteeinstellung .
+Tab. 4 veranschaulicht die empfohlene Geräteeinstellung .
 Das EMS-Gerät wird auf das Kräftigungsprogramm „ Basis “ eingestellt .
 Die Impulsfrequenz beträgt dabei 85 Hertz .
 Die bipolare Impulsart wird für das EMS-Training ausgewählt und bleibt unverändert .
@@ -417,8 +406,7 @@ So ergibt sich eine Zeit unter Spannung von 10 Minuten für die Muskulatur bei 2
 Das entspricht 300 Impulsen insgesamt , 150 mit und 150 ohne Stromzufuhr .
 So wird das Stromniveau nach subjektivem Empfinden im Training nachreguliert .
 Das Trainingsprogramm besteht aus insgesamt 10 Übungen , die alle Hauptmuskelgruppen erreichen .
-In Tab .
-5 sind die Übungen und die Zielmuskulatur aufgezeigt .
+In Tab. 5 sind die Übungen und die Zielmuskulatur aufgezeigt .
 Alle Übungen werden stehend vollzogen , es werden keine weiteren Hilfsmittel benötigt .
 Die Probanden stehen in der „ Ausgangsposition “ .
 Dabei wird der Oberkörper leicht nach vorne geneigt , die Knie etwas gebeugt , das Gesäß wird ein wenig zurück geschoben , die Oberarme sind auf Taillenhöhe und die Unterarme im 90° Winkel im Ellenbogen gebeugt .
@@ -468,26 +456,21 @@ In EG und KG sind 21 Angestellte , 4 Selbstständige und 3 Studenten .
 Die Einteilung der Altersstruktur erfolgt in drei Altersabschnitte .
 Der erste Altersabschnitt zählt die Probanden unter 30 Jahre .
 Davon gibt es in der EG einen , in der KG fünf .
-Der zweite Altersabschnitt wird vom 30. bis zum 45 .
-Lebensjahr angegeben .
+Der zweite Altersabschnitt wird vom 30. bis zum 45. Lebensjahr angegeben .
 Davon gibt es in der EG fünf Probanden , in der KG sieben Probanden .
-Der dritte Lebensabschnitt beginnt beim 45 .
-Lebensjahr und endet mit dem 64 .
-Lebensjahr .
+Der dritte Lebensabschnitt beginnt beim 45. Lebensjahr und endet mit dem 64. Lebensjahr .
 In der EG befinden sich acht Probanden in diesem Altersabschnitt , in der KG jedoch nur zwei .
 So liegt das Durchschnittsalter aller Probanden der EG bei 48,86 Jahren .
 Das Durchschnittsalter aller Probanden der KG liegt bei 33,79 Jahren .
 Eine bessere Veranschaulichung der Altersstruktur gibt Abb. 2 in Form eines Säulendiagramms .
 Alle Probanden der Studie füllten an zwei Messzeitpunkten den SCI-Fragebogen aus .
-Anhand von Untersuchungsplan 1 ( Tab .
-1 ) ist ersichtlich , dass der Fragebogen von der EG gekoppelt mit der ersten und vierten TE ausgefüllt wurde .
+Anhand von Untersuchungsplan 1 ( Tab. 1 ) ist ersichtlich , dass der Fragebogen von der EG gekoppelt mit der ersten und vierten TE ausgefüllt wurde .
 Das EMS-Training wurde bei den Kunden zu Hause durchgeführt .
 Auch mit den Probanden der KG wurden beide Zeitpunkte im Vorfeld festgelegt und eingehalten .
 Aufgrund dessen ist der Rücklauf aller 28 Fragebögen an beiden Messzeitpunkten - komplett ausgefüllt und verwertbar - zustande gekommen .
 Der Punktwert für die Hauptskala „ Aktuelle Stressbelastung “ wird aus der Summe der drei Subskalen gewonnen .
 Die drei Subskalen sind „ Stress durch Unsicherheit “ , „ Stress durch Überforderung “ und „ Stress durch Verlust und tatsächlich eingetretene negative Ereignisse “ .
-Nun werden die Mittelwerte und die Differenzwerte für die Skala „ Aktuelle Stressbelastung “ der EG und KG im Prä- und Postvergleich in Tab .
-6 dargestellt .
+Nun werden die Mittelwerte und die Differenzwerte für die Skala „ Aktuelle Stressbelastung “ der EG und KG im Prä- und Postvergleich in Tab. 6 dargestellt .
 Je größer der Punktwert ist , desto höher ist die aktuelle Stressbelastung .
 Es zeigt sich bei der EG nach der vierwöchigen Intervention in Form eines EMS-Krafttrainings eine Punktwertsenkung um 6,86 Punkte vom Prä-Wert ( 43,86 Punkte ) zum Post-Wert ( 37,00 < 30 Jahre 30 - 45 Jahre 46 - 64 Jahre EG Anzahl Probanden Altersstruktur Probanden Punkte ) .
 Bei der KG ist ebenfalls eine Punktwertsenkung um 5,85 Punkte im Prä- undPostvergleich zu verzeichnen ( 43,14 Punkte zu 37,29 Punkten ) .
@@ -495,8 +478,7 @@ Beide Gruppen haben sich in der Skala „ Aktuelle Stressbelastung “ positiv v
 Die EG hat einen um 1,01 Punkte höheren , positiveren Differenzwert vom Prä- zum Post-Wert als die KG .
 Abb. 3 gibt einen grafischen Überblick der Mittelwerte und der Differenzwerte beider Gruppen für die Skala „ Aktuelle Stressbelastung “ in Form eines Säulendiagramms .
 Die zweite Hauptskala des SCI ist die Skala „ Körperliche und psychische Stresssymptome “ .
-Nun werden die Mittelwerte und die Differenzwerte für die Skala „ Körperliche und psychische Stresssymptome “ der EG und KG im Prä- und Postvergleich in Tab .
-7 dargestellt .
+Nun werden die Mittelwerte und die Differenzwerte für die Skala „ Körperliche und psychische Stresssymptome “ der EG und KG im Prä- und Postvergleich in Tab. 7 dargestellt .
 Je größer der Punktwert ist , desto stärker sind die körperlichen und psychischen Stresssymptome ausgeprägt .
 Es zeigt sich bei der EG nach der vierwöchigen Intervention in Form eines EMS-Krafttrainings eine Punktwertsenkung um 3,36 Punkte vom Prä-Wert 43,86 43,14 37 37,29 -6,86 -5,85 EG KG Aktuelle Stressblastung Präwert Postwert Differenzwert ( 23,57 Punkte ) zum Post-Wert ( 20,21 Punkte ) .
 Bei der KG ist ebenfalls eine Punktwertsenkung ohne Intervention um 2,50 Punkte vom Prä-Wert zum Post-Wert zu verzeichnen ( 22,93 Punkte zu 20,43 Punkten ) .
@@ -506,8 +488,7 @@ Abb. 4 gibt einen grafischen Überblick der Mittelwerte und der Differenzwerte b
 Die dritte Hauptskala des SCI , die betrachtet wird , ist die Skala „ Umgang mit Stress ( Coping ) “ .
 Der Punktwert ergibt sich aus der Summe von fünf Subskalen , die die häufigsten Copingstrategien bezeichnen .
 Die fünf Subskalen sind „ Positives Denken “ , „ Aktive Stressbewältigung “ , „ Soziale Unterstützung “ , „ Halt im Glauben “ und „ Alkohol- und Zigarettenkonsum “ .
-Nachfolgend werden die Mittel- und Differenzwerte für die Skala „ Umgang mit Stress ( Coping ) “ in Tab .
-8 dargestellt .
+Nachfolgend werden die Mittel- und Differenzwerte für die Skala „ Umgang mit Stress ( Coping ) “ in Tab. 8 dargestellt .
 Je größer der Punktwert ist , desto besser ist der Umgang mit Stress ( Coping ) ausgeprägt .
 Es zeigt sich bei der EG nach der vierwöchigen Intervention in Form eines EMSKrafttrainings eine Punktwertsteigerung um 3,43 Punkte vom Prä-Wert ( 49,86 Punkte ) zum Post-Wert ( 53,29 Punkte ) .
 Bei der KG ist ebenfalls eine Verbesserung ohne Intervention um 1,00 Punkte vom Prä-Wert zum Post-Wert zu verzeichnen ( 50,79 Punkte zu 51,79 Punkten ) .
@@ -517,8 +498,7 @@ Abb. 5 gibt einen grafischen Überblick der Mittelwerte und der Differenzwerte b
 Zusammenfassend fällt auf , dass sich die Mittelwerte der EG und der KG in allen drei Hauptskalen von den Prä-Werten zu den Post-Werten verbessert haben .
 Festzuhalten ist , dass die Differenzwerte in allen drei Hauptskalen der EG im Vergleich zu den Differenzwerten in allen drei Hauptskalen der KG höher , also positiver ausgefallen sind .
 Auffällig ist zudem , dass die Prä-Werte und Post-Werte beider Gruppen trotz des durchschnittlichen Altersunterschieds der EG und der KG von 15,07 Jahren bei allen Skalen beinahe identisch sind .
-Tab .
-9 gibt die Differenzwerte beider Gruppen für die drei Hauptskalen wieder .
+Tab. 9 gibt die Differenzwerte beider Gruppen für die drei Hauptskalen wieder .
 In allen drei Hauptskalen sind Punktwertverbesserungen vom Prä-Wert zum Post-Wert bei beiden Gruppen zu verzeichnen .
 Um die Gesamtdifferenz der drei Hauptskalen sichtbar zu machen , wurden alle Differenzwerte positiv addiert .
 So wird der Unterschied von der EG zu der KG deutlicher .
