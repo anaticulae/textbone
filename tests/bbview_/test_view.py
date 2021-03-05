@@ -29,7 +29,7 @@ def test_judge(client):
 
 
 def test_invalid_view(client):
-    invalid = utilatest.get(
+    utilatest.get(
         client,
         '/invalid_view',
         expected=http.HTTPStatus.NOT_FOUND,
