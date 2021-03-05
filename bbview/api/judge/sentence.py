@@ -44,6 +44,9 @@ SENTENCES = bbview.api_.judge_.sentence.Sentences(hugedata.RESOURCES)
     methods=['GET'],
 )
 def next_sentences():
-    sentences = [SENTENCES.pop() for _ in range(10)]
+    try:
+        sentences = [SENTENCES.pop() for _ in range(10)]
+    except IndexError:
+        sentences = ['ALL SENTENCE JUDGE, ADD MORE!']
     dumped = flask.jsonify({'sentences': sentences})
     return dumped
