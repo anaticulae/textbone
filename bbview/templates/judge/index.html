@@ -1,0 +1,43 @@
+{% extends 'base.html' %}
+
+{% block styles %}
+{{ super() }}
+<link rel="stylesheet" type="text/css" media="screen" href="{{ url_for('static', filename='css/judge.css') }}">
+{% endblock %}
+
+{% block content %}
+
+<h1>Training</h1>
+
+<div id="content_limit" class="row-md-8 themed-grid-col">
+    <h2>Sentences</h2>
+    <div class="row-md-8 themed-grid-col">
+        <div id="sentences">Loading...</div>
+    </div>
+    <div class="row-md-8 themed-grid-col">
+        <label class="btn btn-default bigbutton" for="slang">
+            Umgangssprache<br />
+            <input id="slang" type="checkbox">
+        </label>
+        <label class="btn btn-default bigbutton" for="noscience">
+            Unwissenschaftlich<br />
+            <input id="noscience" type="checkbox">
+        </label>
+        <label class="btn btn-default bigbutton" for="complicated">
+            Kompliziert<br />
+            <input id="complicated" type="checkbox">
+        </label>
+        <label class="btn btn-default bigbutton" for="nocontent">
+            Kein Inhalt<br />
+            <input id="nocontent" type="checkbox">
+        </label>
+        <label class="btn btn-default bigbutton" id="add_sentence">Senden</label>
+    </div>
+</div>
+
+{% endblock %}
+
+{% block scripts %}
+{{ super() }}
+<script type="text/javascript" src="{{ url_for('static', filename='js/judge.js') }}"></script>
+{% endblock %}

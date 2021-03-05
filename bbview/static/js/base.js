@@ -36,3 +36,15 @@ const request = function (url, params, callback, error = undefined) {
         }
     });
 }
+
+const post = function (url, data, callback) {
+    let call = `${API}${url}`
+    $.ajax({
+        type: 'POST',
+        url: call,
+        data: data,
+        success: function (response) {
+            callback(response)
+        },
+    })
+}
