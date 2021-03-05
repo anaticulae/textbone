@@ -32,10 +32,11 @@ def sentence_append(sentence: SentenceJudged, base=DATA):
 
 class Sentences:
 
-    def __init__(self, files, skip=DATA):
+    def __init__(self, files, skip=DATA, seed=None):
         self.sentences = None
         self.files = files
         self.skip = skip
+        self.seed = seed
         self.loaded = False
 
     def load_lazy(self):
@@ -55,7 +56,8 @@ class Sentences:
                 item for item in sentences if sentence_hash(item) not in skipped
             ]
         # randomize
-        random.shuffle(sentences)
+        generator = random.Random(x=self.seed)  # nosec
+        generator.shuffle(sentences)
         self.sentences = sentences
 
     def pop(self):
