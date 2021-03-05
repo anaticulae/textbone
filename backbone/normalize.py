@@ -9,7 +9,6 @@
 
 import argparse
 import os
-import re
 
 import nltk.tokenize
 import utila
@@ -31,49 +30,6 @@ def main():
         content = modern(content)
         utila.file_replace(path, content)
     exit(utila.SUCCESS)
-
-
-NEWLINE = ':.!?'
-SPACES = '()[];,/“„”"\'‘‚’'
-PATTERN = [
-    ('vgl .', 'vgl.'),
-    ('z. B.', 'z.B.'),
-    ('bzw .', 'bzw. '),
-    ('ebd .', 'ebd. '),
-    ('Kap .', 'Kap. '),
-    ('Abb .', 'Abb. '),
-    ('mind .', 'mind. '),
-    ('v . a .', 'v.a. '),
-    ('z . T .', 'z.T. '),
-    ('S .', 'S. '),
-    ('https :', 'https:'),
-    ('http :', 'http:'),
-    ('// www .', '//www.'),
-    ('www .', 'www.'),
-    (' ff . ', 'ff.'),
-]
-
-
-def replace(content: str) -> str:
-    lines = content.splitlines()
-    for char in NEWLINE:
-        lines = [item.replace(char, f' {char}\n') for item in lines]
-    for char in SPACES:
-        lines = [item.replace(char, f' {char} ') for item in lines]
-    # normalize whitespaces
-    for char in SPACES:
-        lines = [re.sub('[ ]+', ' ', item) for item in lines]
-    # remove empty lines and white space line start
-    lines = [item.strip() for item in lines if item.strip()]
-    for token, replacement in PATTERN:
-        lines = [item.replace(token, replacement).strip() for item in lines]
-    # normalize whitespaces
-    for char in SPACES:
-        lines = [re.sub('[ ]+', ' ', item).strip() for item in lines]
-    # add final newline
-    lines = lines + ['']
-    content = utila.NEWLINE.join(lines)
-    return content
 
 
 def modern(content: str) -> str:
