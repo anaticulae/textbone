@@ -75,4 +75,5 @@ def sentence_raw(sentence: SentenceJudged) -> str:
 
 
 def sentence_hash(raw: str):
+    # TODO: MAKE HASH-SEED INDEPENDENT
     return hash(raw)
