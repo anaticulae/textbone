@@ -33,15 +33,24 @@ def sentence_append(sentence: SentenceJudged, base=DATA):
 class Sentences:
 
     def __init__(self, files, skip=DATA):
+        self.sentences = None
+        self.files = files
+        self.skip = skip
+        self.loaded = False
+
+    def load_lazy(self):
+        if self.loaded:
+            return
+        self.loaded = True
         files = [
             hugedata.utils.load_sentences(item, remove_punctation=False)
-            for item in files
+            for item in self.files
         ]
         sentences = utila.flatten(files)
         sentences = [' '.join(sentence) for sentence in sentences]
-        if skip:
+        if self.skip:
             # skip already judged items
-            skipped = load_skip(skip)
+            skipped = load_skip(self.skip)
             sentences = [
                 item for item in sentences if sentence_hash(item) not in skipped
             ]
@@ -50,6 +59,7 @@ class Sentences:
         self.sentences = sentences
 
     def pop(self):
+        self.load_lazy()
         return self.sentences.pop()
 
 
