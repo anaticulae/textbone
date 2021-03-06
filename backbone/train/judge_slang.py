@@ -7,6 +7,8 @@
 # be prosecuted under federal law. Its content is company confidential.
 # =============================================================================
 
+import pickle
+
 import knlp
 import nltk
 import pandas as pd
@@ -16,6 +18,7 @@ import sklearn.model_selection
 import sklearn.svm
 import utila
 
+import backbone.judge
 import judgeddata.data
 
 
@@ -48,12 +51,13 @@ def train_slang():
     X_train, X_test, y_train, y_test = sklearn.model_selection.train_test_split(
         X_tfidf,
         judgement,
-        test_size=0.05,
+        test_size=0.25,
         random_state=0,
     )
 
     classifier = sklearn.svm.SVC(kernel='linear')
     classifier.fit(X_train, y_train)
+    dump_slang(vectorizer, classifier)
 
     y_pred = classifier.predict(X_test)
 
@@ -71,6 +75,13 @@ def train_slang():
         decided = classifier.predict(Xdif)
         if decided[0] == 1:
             utila.log(sentence)
+
+
+def dump_slang(vectorizer, classifier):
+    dumped = pickle.dumps((vectorizer, classifier))
+    outpath = backbone.judge.SLANG
+    utila.log(f'write slang: {outpath}')
+    utila.file_replace_binary(outpath, dumped)
 
 
 if __name__ == "__main__":
