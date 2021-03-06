@@ -448,8 +448,7 @@ Selbstbeobachtungsverfahren dienen der Exploration von dysfunktionalen Verhalten
 Beobachtungsaufgaben können somit zur Verhaltensänderung und Selbstkontrolle eingesetzt werden , indem aus der Selbstbeobachtung Ziele abgeleitet werden .
 Die Beobachtung findet durch die handelnde Person selbst statt , welche ein bestimmtes Verhalten zeigt , dass aufmerksam registriert und aufgezeichnet werden soll .
 Es werden demnach Bewertungen und Entscheidungen über das eigene Verhalten verlangt ( Margraf und Schneider 2009c , S. 223 ) .
-„ Die Selbstbeobachtung setzt voraus , dass die Person in der Lage ist , einzelne Elemente im Verhaltensablauf zu differenzieren , sie als zusammengehörig zu sehen und evtl.
-bereits in einen Vergleich zu früheren Verhaltensabläufen zu setzen .
+„ Die Selbstbeobachtung setzt voraus , dass die Person in der Lage ist , einzelne Elemente im Verhaltensablauf zu differenzieren , sie als zusammengehörig zu sehen und evtl. bereits in einen Vergleich zu früheren Verhaltensabläufen zu setzen .
 Der interessierende Ausschnitt des Verhaltens wird also nicht nur beobachtet , sondern auch registriert und festgehalten. “ ( Margraf und Schneider 2009a , S. 631 ) Der Klient muss ausführlich instruiert werden sowie die benötigte Aufmerksamkeits- und Wahrnehmungsleistung vollbringen , sein Zielverhalten differenzieren und das Problemverhalten regelmäßig und zuverlässig registrieren können .
 Zudem muss er motiviert sein , das Zielverhalten erreichen zu wollen und den jetzigen Zustand zu verändern ( Linden und Hautzinger 2008 , S. 255 ) .
 Selbstbeobachtung erfordert ein kontinuierliches Vorgehen sowie Ausdauer des Klienten .
@@ -471,7 +470,8 @@ Daher sind Reliabilität , Objektivität und Validität von großer Bedeutung .
 Meist führt die Beobachtung und Registrierung des Verhaltens bereits zu einer Verhaltensänderung .
 Erwünschte Ziele bzw. positives Verhalten sollten erst nach der Ausführung dokumentiert werden , um die Verhaltenskette nicht zu unterbrechen ( Reinecker und Borg-Laufs 1999 , S. 314 f. ) .
 „ Die Selbstbeobachtung eigenen Verhaltens unterbricht die Verhaltenskette und setzt kognitive Prozesse des Vergleichs mit eigenen Standards und der Bewertung in Gang .
-Motivationale Prozesse , die Bereitschaft zur Veränderung und auch das damit verbundene konkrete Verhalten können dadurch angestoßen werden. “ ( Margraf und Schneider 2009a , S. 636 ) Die Förderung der Reflexionsfähigkeit des Klienten steht im Vordergrund .
+Motivationale Prozesse , die Bereitschaft zur Veränderung und auch das damit verbundene konkrete Verhalten können dadurch angestoßen werden. “ ( Margraf und Schneider 2009a , S. 636 )
+Die Förderung der Reflexionsfähigkeit des Klienten steht im Vordergrund .
 Der Klient übernimmt dabei die Verantwortung , selbst sein Handeln zu explorieren , um dann Veränderungsschritte einleiten zu können .
 Der Klient soll dabei unterstützt werden , seine Persönlichkeit besser kennenzulernen , mit seinen Eigenschaften umzugehen und sie zu akzeptieren oder verändern zu wollen .
 Das erfordert die Unterstützung des Therapeuten durch Psychoedukation und gemeinsames Auswerten des gewählten Selbstbeobachtungsverfahrens .
@@ -779,7 +779,7 @@ Die Aufgaben der qualitativen Analyse reichen von der Hypothesen- und Theoriebil
 Im Hinblick auf die Auswertung der Erhebung wird in dieser Arbeit von den drei beschriebenen Interpretationsgrundformen nur die Zusammenfassung im Rahmen der Kategorienbildung angewendet .
 Die Daten der in dieser Arbeit verwendeten Fragebögen werden nach dem Ansatz der qualitativen Methode zunächst transkribiert , anschließend generalisiert und auf die Grundaussage reduziert .
 Danach findet die Kategorienbildung statt .
-Abschließend werden Sie in tabellarischer Form zum besseren Vergleich gegenübergestellt ( ebd . S 71 ff. ) .
+Abschließend werden Sie in tabellarischer Form zum besseren Vergleich gegenübergestellt ( ebd. S 71 ff. ) .
 Die Werte der Konsumtagebücher werden innerhalb ihrer zugeordneten Gruppe „ PE '' , „ KV '' oder „ KG '' untersucht und verglichen .
 Nicht vorhandene Konsumtagebücher können selbstredend nicht ausgewertet werden .
 Auch wenn manche Datensätze unvollständig zurückgegeben wurden oder ganz fehlen , wurden keine weiteren Daten hinzugefügt , damit das Ergebnis messbar bleibt .
@@ -790,7 +790,8 @@ Die inhaltsanalytische Zusammenfassung bietet die Möglichkeit der induktiven Ka
 Dabei sollen Interpretationsregeln formuliert werden und die Differenzierung einzelner Analyseschritte zur Zusammenfassung des vorliegenden Materials erfolgen ( Mayring 2015 , S. 68 f. ) .
 „ Zentral für die Inhaltsanalyse ist die Konstruktion eines Systems von Kategorien , mit Hilfe dessen der Text neu gruppiert wird , indem Textabschnitte allgemeineren Kategorien zugeordnet werden .
 Mit Hilfe der Kategorien wird das Material in Einheiten zergliedert , die dann bearbeitet werden können .
-[ ... ] Der Text wird bei diesen Verfahren neu gegliedert und nicht in seiner sequenziellen Struktur rekonstruiert. “ ( Rosenthal 2015 , S. 230 ) Das zu erforschende Material wird möglichst ohne theoretische Vorüberlegung der auswertenden Person gesichtet und verschafft somit einen Überblick von möglichen Kategorien .
+[ ... ] Der Text wird bei diesen Verfahren neu gegliedert und nicht in seiner sequenziellen Struktur rekonstruiert. “ ( Rosenthal 2015 , S. 230 )
+Das zu erforschende Material wird möglichst ohne theoretische Vorüberlegung der auswertenden Person gesichtet und verschafft somit einen Überblick von möglichen Kategorien .
 Der qualitative Teil besteht aus den empirischen und offenen Kategorien des Datenmaterials , wodurch sie zu einer Sammlung von Merkmalsausprägungen analytisch zusammengefasst werden ( Lamnek und Krell 2010 , S. 471 ) .
 „ Mit dem Kategoriensystem werden die Regeln der Codierung festgelegt .
 Damit werden Merkmale des Kommunikationsinhaltes in numerische Daten überführt .

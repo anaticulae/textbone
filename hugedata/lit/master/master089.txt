@@ -143,7 +143,7 @@ Er selektiert , ordnet und arrangiert die Geschehnisse überlieferter oder frei 
 Wo dies nicht der Fall ist , spricht Aristoteles ( vgl. ebd. [ Kap. 9 ] ) von episodischen als den schlechtesten Handlungen .
 Aristoteles rühmt die Leistung Homers , der sich gehütet hat , in der Ilias den gesamten trojanischen Krieg darzustellen , obgleich dieser ein Anfang und ein Ende hat .
 Die Handlung wäre andernfalls zu umfangreich oder kompliziert ausgefallen ( vgl. ebd. [ Kap. 23 ] ) .
-Stattdessen führt Homer die wesentlichen Taten und Ereignisse20 , die ihrerseits jeweils in sich geschlossene , parataktisch nebeneinander stehende Episoden darstellen , zu einer einheitlichen Handlung zusammen ( vgl. ebd. [ Kap. 8 ] ; [ Kap. 26 ] ) .
+Stattdessen führt Homer die wesentlichen Taten und Ereignisse 20 , die ihrerseits jeweils in sich geschlossene , parataktisch nebeneinander stehende Episoden darstellen , zu einer einheitlichen Handlung zusammen ( vgl. ebd. [ Kap. 8 ] ; [ Kap. 26 ] ) .
 Letztere ist in ihrem Kern – es geht um Achilles Zorn – nicht länger als die einer Tragödie , durch die Ausgestaltung weiterer Ereignisse in zusätzlichen Episoden dennoch umfangreicher .
 Ebenso die Odyssee :
 „ Er [ Homer ] hat sich [ … ] einen einzigen Teil vorgenommen und die anderen Ereignisse in zahlreichen Episoden behandelt , wie im Schiffskatalog und in den übrigen Episoden , durch die er seine Dichtung auseinanderzieht “ ( ebd. [ Kap. 23 ] ; vgl. hierzu auch [ Kap. 17 ] ) . 21
@@ -250,7 +250,7 @@ Wirkung in diesem Sinne meint die ursächliche , eindeutig identifizierbare und 
 Auch ist der eindeutige Nachweis von Medieneffekten in der Praxis problematisch , da die aussagekräftigsten Resultate gewöhnlich innerhalb spezifischer Versuchsreihen und somit unter höchst künstlichen Bedingungen erbracht werden ( vgl. Perse 2001 : 22 ) .
 Umfassende Erklärungen für die Wirkung von Medien stehen bislang aus .
 In den vergangenen Jahrzehnten verschob sich der Fokus des Untersuchungsinteresses von den Gefahren des Medienkonsums und seinen negativen Folgen hin zu den positiven Effekten des Medieneinflusses :
-Während in der Frühphase der Medienwirkungsforschung in der ersten Hälft des 20. Jahrhunderts das Medium und die Suche nach Kausalbeziehungen zwischen den Darstellungen in den Massenmedien und den Einstellungen der Zuschauer im Mittelpunkt stehen40 , rückt in den siebziger Jahren der Rezipient als aktiver Konstrukteur von Bedeutung im Prozess der Mediennutzung in den Vordergrund ( vgl. McQuail 62010 : 456-459 ) .
+Während in der Frühphase der Medienwirkungsforschung in der ersten Hälft des 20. Jahrhunderts das Medium und die Suche nach Kausalbeziehungen zwischen den Darstellungen in den Massenmedien und den Einstellungen der Zuschauer im Mittelpunkt stehen 40 , rückt in den siebziger Jahren der Rezipient als aktiver Konstrukteur von Bedeutung im Prozess der Mediennutzung in den Vordergrund ( vgl. McQuail 62010 : 456-459 ) .
 Der rezipientenorientierte Ansatz in der Medienwirkungsforschung41 untersucht die kommunikationsrelevanten Motive der Mediennutzung ( vgl. Bonfadelli 2004 : 33 ) und ist eng verknüpft mit konstruktivistischen Überlegungen .
 Letztere beziehen sich sowohl auf das Medium als ein Wirklichkeit konstruierendes und vermittelndes als auch auf den Rezipienten , der sich die Medienwirklichkeit vor dem Hintergrund und in Wechselwirkung mit seiner subjektiv konstruierten Realität sinnhaft aneignet ( vgl. McQuail 62010 : 459 ) .
 Die sinnliche Erfassung und kognitive Verarbeitung von Medienbotschaften wird in der vorliegenden Arbeit in diesem Sinne begriffen als ein subjektiver , aktiver und konstruktiver Prozess .
@@ -583,7 +583,7 @@ Aufgrund der langen Zeitdauer , die Menschen in der westlichen Welt Fernsehen sc
 Der Psychologe formuliert diesen Gedanken in seiner Jahrzehnte später erscheinenden Abhandlung Social Cognitive Theory of Mass Communication ( 2001 ) , in der er das Prinzip des Modelllernens auf die Medienwirkung überträgt .
 Bandura betont auch hier den wesentlichen Unterschied zwischen dem Erwerb und der konkreten Ausführung erlernten Wissens und bestimmt Massenmedien dementsprechend einerseits als Lehrer , andererseits als ein bestimmtes Verhalten stimulierende Motivatoren ( vgl. Bandura 32009 : 113 ) .
 Die Effekte massenmedialer Kommunikation resümiert Bandura wie folgt : “ In sum , modeling influences serve diverse functions – as tutors , motivators , inhibitors , disinhibitors , moral engagers and disengagers , social prompters , emotion arousers , and shapers of values and public conceptions of reality ” ( ebd. : 108 ) .
-Die Befunde Banduras belegen , dass Medien eine wichtige Sozialisationsinstanz70 darstellen .
+Die Befunde Banduras belegen , dass Medien eine wichtige Sozialisationsinstanz 70 darstellen .
 In der Rezeption von Spielfilmen , ebenso wie im Hören von Geschichten , erfolgt Lernen im Kontext eines positiven Gefühlszustandes inzidentell ( vgl. Lukesch 1996 : 55 ff .) .
 Sinnliche Wahrnehmung und Kognition gehen in der Rezeption mündlicher und audiovisueller Narrationen eine machtvolle Allianz ein .
 Diese vermag es , soziales Verhalten zu imprägnieren und fortlaufend zu re-imprägnieren .
@@ -603,7 +603,7 @@ Für dieses narrativ strukturierte Gedächtnis stellt der Mythos eine sinnstifte
 Symbolische Objektivationen wie die Sprache binden den Einzelnen an einen gemeinsamen Handlungsraum mit bestimmten Regeln und schaffen hierdurch Vertrauen .
 Die für die Kohärenz der sozialen Wirklichkeit notwendige Weitergabe dieser Regeln begründet das Wissen um eine geteilte Vergangenheit , welches wiederum Erinnerung stiftet .
 Beide Aspekte , sowohl die Sozial- als auch die Zeitdimension , die „ in einen fortschreitenden Gegenwartshorizont Bilder und Geschichten einer anderen Zeit einschließt [ … ] , fundieren Zugehörigkeit oder Identität , ermöglichen dem Einzelnen , ‚ wir ’ sagen zu können “ ( ebd. : 16 ) .
-Sie konstituieren die Kultur71 einer Gruppe von Menschen .
+Sie konstituieren die Kultur 71 einer Gruppe von Menschen .
 Eine Kultur zeichnet sich für Jan Assmann durch ihre konnektive Struktur aus , deren charakteristische Grundprinzipien die Vergegenwärtigung und Wiederholung von Handlungen sind ( vgl. ebd. : 17 ) .
 Einzelne Handlungen ordnen sich hierdurch zu wiedererkennbaren Mustern , die als Wesenszüge einer Kultur beschreibbar werden .
 Den Zusammenhang von Erinnerung , Identität und Traditionsbildung erforscht Assmann in Das kulturelle Gedächtnis .

@@ -253,5 +253,4 @@ Vom Nutzen und Nachteil der Historie für das Leben . 22
 Es spricht nichts gegen Fragen im Titel : Albert E. Wood , What , if Anything , is a Rabbit ?
 23 – Albert Einstein et al. , Can Quantum-Mechanical Description of Physical Reality be Considered Complete ? 24
 Vier Arten von Literatur nachweisen werden Ihnen häuﬁg begegnen : Monographien , Aufsätze in Zeitschriften , Beiträge in Sammelbänden und Werke in Werkausgaben eines Autors .
-Hier ein Vorschlag für die Form von Literaturnachweisen für Literaturverzeichnisse bei Zitation nach Autor und Jahr ( also nach Nachnamen und Erscheinungsdaten geordnet ) : Auf diese Werke können Sie am einfachsten in der Form Autor Jahr , Seite ( n ) verweisen : Laudan 1984 , S. 12 – 14 .
-Merton 1938 , S.322 . Feyerabend 1965 , S. 202 [ Erscheinungsjahr des Sammelbandes ] Merton 1973 , S. 260 – 266 [ Erscheinungsjahr der Werkausgabe ] .
+Hier ein Vorschlag für die Form von Literaturnachweisen für Literaturverzeichnisse bei Zitation nach Autor und Jahr ( also nach Nachnamen und Erscheinungsdaten geordnet ) : Auf diese Werke können Sie am einfachsten in der Form Autor Jahr , Seite ( n ) verweisen : Laudan 1984 , S. 12 – 14 . Merton 1938 , S.322 . Feyerabend 1965 , S. 202 [ Erscheinungsjahr des Sammelbandes ] Merton 1973 , S. 260 – 266 [ Erscheinungsjahr der Werkausgabe ] .

@@ -397,7 +397,7 @@ In diesem Kapitel soll nun eine geeignete System-Architektur gewählt und Schnit
 Durch das Festlegen dieser Schnittstellen soll eine reibungslose Kommunikation zwischen den Teilsystemen sichergestellt werden .
 Im Gesamtsystem existiert mit dem KNX-Gebäudeautomationssystem ein Teilsystem , dass weitestgehend fest vorgegeben ist und im Rahmen der Systemimplementierung auch nicht verändert wird .
 Der KNX-Standard deﬁniert mit den in Abschnitt 2.3 beschriebenen Telegrammen eine Schnittstelle zur Kommunikation mit dem System und bietet mit unterschiedlichen Geräten , in unserem Fall dem KNXnet/IP-Router , einen Zugriﬀspunkt zu diesem .
-Die Beschreibung des KNX-Systems erfolgt über Konﬁgurationsdateien in deﬁnierten Austauschformaten wie CSV1 und XML2 .
+Die Beschreibung des KNX-Systems erfolgt über Konﬁgurationsdateien in deﬁnierten Austauschformaten wie CSV 1 und XML 2 .
 Durch die Eigenständigkeit dieses Teilsystems entsteht zwangsläuﬁg eine verteilte Architektur des Gesamtsystems .
 Die Daten werden hierbei über eine drahtlose Schnittstelle ausgetauscht .
 Die mobile Anwendung dient dabei als visuelle Repräsentation des KNX-Systems .

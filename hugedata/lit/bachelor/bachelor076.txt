@@ -49,7 +49,7 @@ Für einen Großteil der wissenschaftlichen Literatur und veröffentlichten Stud
 Im Hinblick auf die weiterführenden Kapitel dieser Arbeit erscheint diese Definition als zielführend , da zum einen betriebswirtschaftliche Aspekte berücksichtigt werden und zum anderen die technische Ausrichtung erkennbar ist : „ Der Begriff Industrie 4.0 steht für die vierte industrielle Revolution , eine neue Stufe der Organisation und Steuerung der gesamten Wertschöpfungskette über den Lebenszyklus von Produkten .
 Dieser Zyklus orientiert sich an den zunehmend individualisierten Kundenwünschen und erstreckt sich von der Idee , dem Auftrag über die Entwicklung und Fertigung , die Auslieferung eines Produkts an den Endkunden bis hin zum Recycling , einschließlich der damit verbundenen Dienstleistungen .
 Basis ist die Verfügbarkeit aller relevanten Informationen in Echtzeit durch Vernetzung aller an der Wertschöpfung beteiligten Instanzen sowie die Fähigkeit , aus den Daten den zu jedem Zeitpunkt optimalen Wertschöpfungsfluss abzuleiten .
-Durch die Verbindung von Menschen , Objekten und Systemen entstehen dynamische , echtzeitoptimierte und selbst organisierende , unternehmensübergreifende Wertschöpfungsnetzwerke , die sich nach unterschiedlichen Kriterien wie bspw.Kosten , Verfügbarkeit und Ressourcenverbrauch optimieren lassen. “ 27
+Durch die Verbindung von Menschen , Objekten und Systemen entstehen dynamische , echtzeitoptimierte und selbst organisierende , unternehmensübergreifende Wertschöpfungsnetzwerke , die sich nach unterschiedlichen Kriterien wie bspw. Kosten , Verfügbarkeit und Ressourcenverbrauch optimieren lassen. “ 27
 Ein zentrales Merkmal der dargestellten Definition ist somit die Optimierung der Wertschöpfungskette hin zu unternehmensübergreifenden Wertschöpfungsnetzwerken .
 Durch die Nutzung neuer digitaler Technologien kann systematisch eine digitale Infrastruktur aufgebaut werden die alle an der Wertschöpfung beteiligten Instanzen miteinander verbindet .
 Ein erheblicher Anteil der Wertschöpfung wird innerhalb der deutschen Volkswirtschaft von mittelständischen Unternehmen realisiert . 28
@@ -92,9 +92,11 @@ Erstmals wurde der Begriff 1990 von Mark Weiser während seiner Forschungsarbeit
 In seinem später publizierten Aufsatz „ The Computer of the 21st Century “ prägte er den Begriff mit folgende Worten: 46
 „ In the 21st century the technology revolution will move into the everyday , the small and the invisible “ 47
 Nach seiner Vision ersetzt die technologische Entwicklung den Großrechner zukünftig durch kleine , intelligente und unsichtbare Objekte die in ein effizientes System eingebunden werden – das sog. Embedded Computing .
-Durch eine zusätzliche Vernetzung dieser Objekte über das Internet entsteht das UbiCom und bildet somit die Basistechnologie innerhalb von CPS.48 Die folgende Abbildung stellt die technologische Entwicklung der Computertechnik bis hin zur Allgegenwärtigkeit des Computers grafisch dar .
+Durch eine zusätzliche Vernetzung dieser Objekte über das Internet entsteht das UbiCom und bildet somit die Basistechnologie innerhalb von CPS . 48
+Die folgende Abbildung stellt die technologische Entwicklung der Computertechnik bis hin zur Allgegenwärtigkeit des Computers grafisch dar .
 Im Hinblick auf die stetige Weiterentwicklung der Computertechnik kann diese Technologie einen entscheidenden Wettbewerbsfaktor für den Unternehmenserfolg darstellen – insbesondere für die mittelständischen Unternehmen .
-Im Gegensatz zu Großunternehmen fehlt es einer Vielzahl von mittelständischen Unternehmen noch an einer technologischen Basisinfrastruktur , um eine unternehmensübergreifende Vernetzung im Sinne von Industrie 4.0 überhaupt zu ermöglichen.49 Die vernetzten und mit Intelligenz ausgestatteten Objekte im Rahmen von UbiCom stellen dabei eine grundlegende Voraussetzung für eine erfolgreiche Standardisierung der IT-Systeme dar .
+Im Gegensatz zu Großunternehmen fehlt es einer Vielzahl von mittelständischen Unternehmen noch an einer technologischen Basisinfrastruktur , um eine unternehmensübergreifende Vernetzung im Sinne von Industrie 4.0 überhaupt zu ermöglichen . 49
+Die vernetzten und mit Intelligenz ausgestatteten Objekte im Rahmen von UbiCom stellen dabei eine grundlegende Voraussetzung für eine erfolgreiche Standardisierung der IT-Systeme dar .
 Erste Anhaltspunkte für eine erfolgreiche Implementierung von IT-Standards bietet hier das „ Mittelstand 4.0 – Kompetenzzentrum eStandards “ .
 Das Kompetenzzentrum mit Sitz in Köln ist ein Teil der Initiative Mittelstand-Digital des Bundesministeriums für Wirtschaft und Energie und wird unter anderem durch das Fraunhofer-Institut für Angewandte Informationstechnik ( FIT ) getragen.50 Im Mittelpunkt des Kompetenzzentrums eStandards steht , dass der enorme Stellenwert von technologischen Standards erkannt wird , um darauf basierende Lösungen zu entwickeln , umzusetzen oder anzupassen .
 Das Fraunhofer FIT bringt insbesondere ihr technologisches Knowhow in Bezug auf eine vernetzte Produktion und Industrie 4.0 ein .
@@ -120,7 +122,7 @@ Auf Basis dieser Technologie können im Internet der Dinge sämtliche physische 
 Diese ermöglicht die Kommunikation untereinander , worin der entscheidende Unterschied zum UbiCom liegt .
 Das Internet der Dinge und Dienste beschreibt eine Erweiterung des Internets der Dinge .
 Im IoTS sind die Objekte über Sensoren und Mikrochips in der Lage , andere IT-Systeme und Gegenstände mit Informationen zu beliefern sowie bereitgestellte Dienste von jedem Ort der Welt abzurufen und zu verwenden.58 Basierend auf diesen Informationen entstehen somit intelligente Produkte ( Smart Products ) , die mit dem Internet „ verschmelzen “ .
-Bereits heute generieren , neben Smartphones und Tablets , immer mehr Alltagsgegenstände wie bspw.Fahrzeuge , Kühlschränke und sogar Zahnbürsten permanent Daten .
+Bereits heute generieren , neben Smartphones und Tablets , immer mehr Alltagsgegenstände wie bspw. Fahrzeuge , Kühlschränke und sogar Zahnbürsten permanent Daten .
 Diese gilt es zu verarbeiten , um den Nutzern entsprechende Dienste anbieten zu können .
 Eine mögliche Lösung in Bezug auf die Datenverarbeitung bieten sog. Cloud-Plattformen , welche unter anderem durch das Softwareunternehmen SAP angeboten werden . 59
 Alle Gegenstände im IoTS haben eine zentrale Gemeinsamkeit – die intelligente Vernetzung jedes einzelnen Objekts über eine eigene IP-Adresse .
@@ -145,7 +147,7 @@ Vor allem im Hinblick auf die Globalisierung und den dadurch gestiegenen Wettbew
 Durch den Einsatz von IoTS ergibt sich eine Vielzahl von Anwendungsfeldern , wie zum Beispiel im Bereich der vorausschauenden Instandhaltung , dem sog. Predictive Maintenance .
 In der Vergangenheit musste eine Produktionsanlage erst ausfallen , bis diese repariert werden konnte .
 Durch die zunehmende Vernetzung erkennen intelligente Systeme heute eine Störung bevor diese überhaupt auftritt .
-Das wird ermöglicht indem bspw.Maschinen oder IT-Systeme mit Sensoren ausgestattet werden , die den Produktionsablauf der Anlage permanent überwachen .
+Das wird ermöglicht indem bspw. Maschinen oder IT-Systeme mit Sensoren ausgestattet werden , die den Produktionsablauf der Anlage permanent überwachen .
 Sie messen zum Beispiel die Temperatur , Feuchtigkeit oder die Vibration und werten diese Daten über eine spezielle Wartungs-Software aus . 67
 Sobald diese Sensoren eine Fehlermeldung feststellen , erhalten der Hersteller oder dessen Service-Partner proaktiv eine Rückmeldung und können dem Kunden den Austausch wichtiger Komponenten noch vor deren Ausfall anbieten.68 Der wesentlichen Vorteile von Predictive Maintenance ist eine enorm verbesserte Wirtschaftlichkeit .
 Durch die neuen Technologien werden Stillstandzeiten verringert und Wartungskosten gesenkt , da die Techniker keine Routinekontrollen durchführen müssen , sondern nur bei Bedarf agieren .
@@ -174,11 +176,12 @@ Die konfigurierbaren Rechnerressourcen werden demnach durch einen Cloud-Service-
 Um einen Cloud-Services von anderen Modellen zu unterscheiden , wurden gemäß der NIST Definition die fünf folgenden Eigenschaften herausgestellt , mit denen das Cloud Computing charakterisiert werden kann : 75
 On-Demand Self-Service ( Selbstbedienung nach Bedarf ) : Ein Anwender kann sich je nach Bedarf die notwendige Rechenleistung , Speicher oder Software selbst beschaffen .
 Die Bereitstellung der Ressourcen findet automatisch und ohne Interaktion mit dem CSP statt . 76
-Broad network access ( Netzwerkzugriff ) : Der Anwender kann mit beliebigen Endgeräten wie bspw.PCs , Smartphones oder Tablets auf die Ressourcen zugreifen .
+Broad network access ( Netzwerkzugriff ) : Der Anwender kann mit beliebigen Endgeräten wie bspw. PCs , Smartphones oder Tablets auf die Ressourcen zugreifen .
 Diese werden über ein Netzwerk - in der Regel – das Internet zur Verfügung gestellt . 77
 Ressource Pooling ( Ressourcen-Bündelung ) : Die Ressourcen , welche für die Bereitstellung eines Cloud-Services benötigt werden , sind gebündelt und können mehreren Anwendern gleichzeitig aber unabhängig voneinander zur Verfügung gestellt werden .
 Dabei wissen die Anwender oft nicht , wo sich die Ressourcen befinden .
-Hier sollten Unternehmen im Sinne des Datenschutzes vertraglich festhalten , an welchem Speicherort sich das Rechenzentrum befindet.78 Rapid elasticity ( Skalierbarkeit / Elastizität ) : Cloud-Services können schnell und zu jeder Zeit bereitgestellt oder auch entfernt werden .
+Hier sollten Unternehmen im Sinne des Datenschutzes vertraglich festhalten , an welchem Speicherort sich das Rechenzentrum befindet .78
+Rapid elasticity ( Skalierbarkeit / Elastizität ) : Cloud-Services können schnell und zu jeder Zeit bereitgestellt oder auch entfernt werden .
 Für den Anwender erscheint daher die Menge an Ressourcen oft unbegrenzt. 79
 Measured service ( Messbarkeit ) : Die tatsächliche Nutzung der Ressourcen kann gemessen und überwacht werden .
 Damit kann der Anwender jederzeit seinen Verbrauch einsehen und ihn automatisch optimieren .
@@ -187,7 +190,8 @@ So ermöglicht Cloud Computing eine hohe Transparenz zwischen Anwender und Anbie
 Auf Basis dieser Charakterisierung von Cloud Computing kann weiterhin differenziert werden , in welcher Form die Bereitstellung von den Ressourcen und Services erfolgen kann .
 Das NIST unterscheidet drei Servicemodelle:81 Infrastructure-as-a-Service ( IaaS ) oder Hardware-Komponenten als Dienst : Der Anwender erhält eigene Rechnerkapazitäten innerhalb der Cloud und hat damit Zugriff auf virtualisierte Komponenten zur Datenverarbeitung , zum Datentransport und zur Datenspeicherung .
 Dabei mietet sich der Anwender die komplette IT-Infrastruktur wie Serverleistung , Rechenkapazität , Speicher oder Netzwerkdienste von einem Cloud-Anbieter .
-Auf dieser Basis kann er eigene Services nach individuellem Gebrauch aufbauen.82 Beispiele für eine IaaS bieten die virtuellen Server der Amazone Elastic Computer Cloud ( EC2 ) oder der Dienst „ Infrastructure-as-aService “ von Fujitsu an.83 Platform-as-a-Service ( PaaS ) oder Technische Frameworks als Dienst : Das PaaS-Modell baut auf der Infrastruktur auf , enthält jedoch weitere Leistungen .
+Auf dieser Basis kann er eigene Services nach individuellem Gebrauch aufbauen.82 Beispiele für eine IaaS bieten die virtuellen Server der Amazone Elastic Computer Cloud ( EC2 ) oder der Dienst „ Infrastructure-as-aService “ von Fujitsu an . 83
+Platform-as-a-Service ( PaaS ) oder Technische Frameworks als Dienst : Das PaaS-Modell baut auf der Infrastruktur auf , enthält jedoch weitere Leistungen .
 Ein Anbieter von PaaS stellt dabei grundlegende Schnittstellen auf einer kompletten Plattform bereit , die von dem Anwender gemietet werden .
 Der Anwender kann beispielsweise auf Basis der angebotenen Infrastruktur eigene Programme entwickeln und ausführen .
 So können ohne hohen Aufwand und mit geringen Investitionen eigene Ideen umgesetzt und getestet werden .
@@ -208,7 +212,8 @@ Doch auch Unternehmen greifen verstärkt auf solche Services von externen Anbiet
 Dadurch können beispielsweise mehrere Unternehmensbereiche- und Standorte mit den notwendigen Ressourcen versorgt und Kosteneinsparungen erzielt werden .
 Dabei kann die Cloud vom Unternehmen selbst aber auch von dritten externen Dienstleistern betrieben werden. 90
 Community Cloud : In dieser Form verwalten mehrere Unternehmen die Infrastruktur einer Cloud , um die Ressourcen gemeinsam zu nutzen und branchenspezifische Lösungen zu entwickeln.91 Hybride Cloud : Das letzte Liefermodell beschreibt eine Mischform aus Public-Cloud-Umgebungen sowie Private- und Community-Cloud-Lösungen und wird als Hybride Cloud bezeichnet .
-Viele Unternehmen nutzen diese Form der Cloud , um geschäftskritische Anwendungen und Unternehmensprozesse in einer privaten Cloud auszuführen , während andere Dienste über eine Public oder Community-Cloud bezogen werden.92 In der nachfolgenden Abbildung sind die Service- und Liefermodelle grafisch dargestellt , welche die zentralen Elemente des Cloud Computing beschreiben .
+Viele Unternehmen nutzen diese Form der Cloud , um geschäftskritische Anwendungen und Unternehmensprozesse in einer privaten Cloud auszuführen , während andere Dienste über eine Public oder Community-Cloud bezogen werden . 92
+In der nachfolgenden Abbildung sind die Service- und Liefermodelle grafisch dargestellt , welche die zentralen Elemente des Cloud Computing beschreiben .
 Eine Vielzahl von mittelständischen Unternehmen nutzt diese technologische Möglichkeit noch nicht. 93
 Dabei können durch die Umsetzung einer Cloud Computing-Strategie neue , effizientere Unternehmensprozesse gestaltet werden – vor allem im Bereich der eigenen Wertschöpfung .
 Eine Cloud Computing-Strategie verfolgt dabei im Wesentlichen zwei Ziele , welche von mittelständischen Unternehmen besonders berücksichtig werden sollten .
@@ -237,7 +242,7 @@ Im Anhang unter Punkt C befindet sich eine solche Gegenüberstellung , die alle 
 Die Umsetzung von Cloud Computing bietet zahlreiche Nutzenpotenziale für mittelständische Unternehmen , um auf die veränderten Markt- und Kundenanforderungen reagieren zu können .
 Demgegenüber entstehen bei vielen Unternehmen aber auch Bedenken hinsichtlich der Datensicherheit und des Investitionsbedarfs .
 Unternehmen im Mittelstand verfügen in der Regel über weniger Budget für Investitionen in neue Technologien als Großunternehmen und können daher nicht jedem Trend gerecht werden .
-Jedoch erübrigen sich beim Cloud Computing umfangreiche ( Anfangs- ) Investitionen bspw.in Infrastruktur , Hardware und Lizenzen .
+Jedoch erübrigen sich beim Cloud Computing umfangreiche ( Anfangs- ) Investitionen bspw. in Infrastruktur , Hardware und Lizenzen .
 Damit können Anschaffungskosten minimiert und fixe in variable Betriebskosten umgewandelt werden .
 Daraus resultiert eine niedrigere Kapitalbindung sowie höhere Liquidität .
 Dies ist gerade für den Mittelstand ein wesentlicher Grund für Cloud Computing. 100
@@ -261,14 +266,14 @@ An dieser Stelle kommen die Analytics-Dienste zum Einsatz , welche die gewonnene
 Dadurch können zum einen Produktionsprozesse optimiert und zum anderen frühzeitig Qualitätsprobleme identifiziert werden .
 Zusätzlich erhalten die Mitarbeiter eine übersichtliche Darstellung der relevanten Analysedaten , wodurch gezielte Problemlösungen entwickelt werden können. 106
 Auch andere Bereiche der Wertschöpfungskette können von Big Data und Analytics-Diensten profitieren .
-Die Studie „ Big Data Use Cases 2015 – Getting real on data monetization “ stellt heraus , dass sich die Datenmengen bspw.in den Bereichen Marketing/Vertrieb , Finanzwesen , Personalwesen und bei der Kundenanalyse gewinnbringend einsetzen lassen .
+Die Studie „ Big Data Use Cases 2015 – Getting real on data monetization “ stellt heraus , dass sich die Datenmengen bspw. in den Bereichen Marketing/Vertrieb , Finanzwesen , Personalwesen und bei der Kundenanalyse gewinnbringend einsetzen lassen .
 Die Nutzung von Big Data senkt nicht nur Kosten , sie führt darüber hinaus zu einer durchschnittlichen Umsatzsteigerung von acht Prozent. 107
 Eine spezifische Kundenanalyse kann gerade mittelständischen Unternehmen einen entscheidenden Wissensvorsprung im Wettbewerb liefern .
 In der Praxis gibt es für Big Data und Analytics-Konzepte keine einheitliche Lösung , sondern ist immer individuell nach dem jeweiligen Unternehmen und der Branche anzuwenden. 108
 Das amerikanische IT- und Beratungsunternehmen IBM hat allerdings die folgenden Schritte ( Abb .
 6 ) herausgearbeitete , wie mittelständische Unternehmen die Kundenanalyse mit Hilfe von Big Data umsetzen können : Neben der gezielten Identifikation des Kunden bieten Big Data und Analytics-Dienste noch weitere Chancen für die Unternehmen .
 Das Fraunhofer-Institut für intelligente Analyse- und Informationssysteme ( IAIS ) hat auf Basis einer Studie zum Innovationspotenzial von Big Data die folgenden drei zentralen Chancen für deutsche Unternehmen herausgestellt : Eine gestiegene Effizienz der Unternehmensführung durch Big Data : Zum Beispiel kann durch Auswertung von Verkaufszahlen prognostiziert werden , wann ein bestimmtes Produkt nachbestellt werden muss. 109
-Individualisierung von Prozessen und Dienstleistungen durch Big Data : Während ein Kunde bspw.in einem Online-Shop aktiv ist , lernt das System das Nutzerverhalten zu erkennen und kann künftig auf deren Basis dem Kunden individualisierte Angebote unterbreiten. 110
+Individualisierung von Prozessen und Dienstleistungen durch Big Data : Während ein Kunde bspw. in einem Online-Shop aktiv ist , lernt das System das Nutzerverhalten zu erkennen und kann künftig auf deren Basis dem Kunden individualisierte Angebote unterbreiten. 110
 Intelligente Produkte durch Big Data : Durch die zunehmende Digitalisierung werden auch in Zukunft immer mehr Produkte und Maschinen mit Big-Data-Software ausgestattet , um auf relevante Informationen zu reagieren und entsprechend autonom Entscheidungen zu treffen.111 Die Steuerung der Produktionsanlage wird überwiegend durch intelligente Systeme und technische Entwicklungen vorgenommen .
 Im Zuge der Umsetzung von Industrie 4.0 spielt der Faktor Mensch jedoch auch eine wesentliche Rolle .
 Die Integration des Menschen in den Steuerungsprozess wird in Zukunft über innovative Technologien ermöglicht und im Rahmen einer Mensch-Maschine-Interaktion beschrieben .
@@ -294,7 +299,7 @@ Die prozessrelevanten Ziele beschreiben eine schnellere Informationsbereitstellu
 Im Bereich der Produktion und Logistik können somit Suchzeiten im Lager minimiert , Wartungs- und Serviceprozesse optimiert sowie die Qualität der Arbeit verbessert werden .
 Die Voraussetzung für den Einsatz von AR ist hierbei eine vollkommen vernetzte Produktion. 115
 Die Anwendungsmöglichkeiten und Einsatzgebiete von AR sind vielfältig und versprechen in Zukunft ein enormes Potenzial in allen Unternehmensbereichen .
-Aus dem Bereich der Logistik setzen bspw.Unternehmen auf AR-Anwendungen , um mit Datenbrillen sogenannte Pick-by Vision-Verfahren darzustellen. 116
+Aus dem Bereich der Logistik setzen bspw. Unternehmen auf AR-Anwendungen , um mit Datenbrillen sogenannte Pick-by Vision-Verfahren darzustellen. 116
 Unter Pick-by-Vision versteht man eine Kommissionier-Methode , die unter Verwendung von AR-Technologie Informationen in visueller Form bereitstellt. 117
 Im Lager kann der Mitarbeiter zum Beispiel relevante Informationen über einen Auftrag in Echtzeit abrufen und gelangt über eine Navigationsfunktion direkt zum Lagerort des Artikels .
 Zusätzlich erscheinen im Display der Brille Informationen über Art , Ort und Menge der Ware. 118
@@ -332,7 +337,8 @@ In diesem Zusammenhang werden die Unterstützungsaktivitäten für diese Arbeit 
 - „ Innovation und Transformation “ : Dieser Bereich bezieht sich auf die hohe Bedeutung der Forschung und Entwicklung und beinhaltet zusätzlich die Transformation der Geschäftsmodelle mit Hilfe digitaler Technologien und Innovationen. 126
 - „ Vernetzung und Kooperation “ : Diese Aktivitäten beziehen sich auf die Integration von Kooperationspartnern in den Wertschöpfungsprozess durch zunehmende Vernetzung. 127
 - „ Daten und Analytik “ : Dieser Bereich stellt eine neue Unterstützungsaktivität dar und ergibt sich aus der Umsetzung eines Industrie 4.0 –Ansatzes. 128
-- „ Organisation der Arbeit “ : Diese Aktivität beschreibt den Zusammenhang zwischen digitalen Technologien und ihren Auswirkungen auf die bisherige Personalarbeit. 129 Die Primäraktivitäten leisten einen direkten Beitrag zur Erstellung eines Produktes oder einer Dienstleistung und setzten sich aus den Bereichen Produktion , Logistik , Marketing und Vertrieb sowie den Service zusammen. 130
+- „ Organisation der Arbeit “ : Diese Aktivität beschreibt den Zusammenhang zwischen digitalen Technologien und ihren Auswirkungen auf die bisherige Personalarbeit. 129
+Die Primäraktivitäten leisten einen direkten Beitrag zur Erstellung eines Produktes oder einer Dienstleistung und setzten sich aus den Bereichen Produktion , Logistik , Marketing und Vertrieb sowie den Service zusammen. 130
 Im Bereich der Leistungserstellung wird eine Veränderung von Wertschöpfungsprozessen vor allem durch eine vernetzte und automatisierte Produktion erreicht .
 Durch die Einführung digitaler Technologien können sich neben den hergestellten Produkten auch die Produktionsprozesse deutlich verändern. 131
 Durch den Einbau von Sensoren werden Produkte zunehmend intelligenter und können über das IoTS direkt mit der Produktionsanlage kommunizieren .
@@ -404,14 +410,14 @@ Die Gestaltung dieser Beziehung umfasst alle Distributions- und Kommunikationska
 Für die Zielerreichung nutzen die Unternehmen verschiedene Möglichkeiten der Informationsbeschaffung und greifen vermehrt auf neue Technologien wie Big Data und Analytics-Dienste sowie auf mobile Endgeräte ( mobile Devices ) zurück . 150
 Das klassische CRM kann somit durch die Nutzung von Mobile Devices erweitert werden und führt zur Integration des Mobile Marketing in bestehende CRM-Systeme .
 Der Vorteil für Unternehmen im Mobile Marketing liegt in der ständigen und ortsungebundenen Erreichbarkeit der Kunden über Smartphones oder Tablets .
-Dadurch können Unternehmen ihre Botschaften individuell auf den Kunden anpassen und bspw.standortbezogen werben .
+Dadurch können Unternehmen ihre Botschaften individuell auf den Kunden anpassen und bspw. standortbezogen werben .
 Der Kunde kann auf Informationen unmittelbar reagieren , wodurch eine direkte Interaktion mit dem Unternehmen ermöglicht wird .
 Die Voraussetzung hierfür ist , dass der Kunde einer Standortermittlung zugestimmt hat . 151
 Zusätzlich kann der Kunde durch die direkte Kommunikation einen wertvollen Beitrag zur Marktforschung leisten , wodurch er aktiv zur Entwicklung von Produkt- und Dienstleistungsinnovationen beitragen kann.152 In Bezug auf den operativen Marketing-Mix und den dargestellten CRM-Ansatz werden im Folgenden Nutzenpotenziale durch die Digitalisierung anhand der „ 4 P´s “ ( nach deutscher Übersetzung ) erläutert : Produktpolitik : Das zentrale Ziel der Produktpolitik ist es , die Bedürfnisse und Vorstellungen des Kunden mit den Produkten und Dienstleistungen des Unternehmens zu erfüllen.153 Die Anforderungen der Kunden an die Produkte und Dienstleistungen werden in Zukunft verstärkt durch Individualisierung und Personalisierung geprägt sein .
 Mit Hilfe digitaler Technologien haben die Unternehmen die Möglichkeit , diesen Anforderungen gerecht zu werden .
 Sie können auf der Basis von vorliegenden Kundeninformationen neue Angebote erstellen und den Kunden in die Leistungserstellung integrieren .
 Außerdem ermöglichen intelligente und vernetzte Produktionsanlagen die Bündelung verschiedener Kundenaufträge , um maßgeschneiderte Produkte mit möglichst geringem Aufwand herstellen zu können .
-154 Die Nutzenpotenziale ergeben sich auch im Business-to-Business-Bereich ( B2B ) , indem bspw.die Analyse von Sensordaten in Produktionsanlagen oder Maschinen dazu beiträgt , den Verbrauch an Ressourcen zu erkennen .
+154 Die Nutzenpotenziale ergeben sich auch im Business-to-Business-Bereich ( B2B ) , indem bspw. die Analyse von Sensordaten in Produktionsanlagen oder Maschinen dazu beiträgt , den Verbrauch an Ressourcen zu erkennen .
 Dadurch können automatisch Nachbestellungen bei dem Zulieferer ausgelöst werden . 155
 Preis- und Konditionenpolitik : Die voranschreitende Digitalisierung hat erheblichen Einfluss auf die Transparenz in allen Unternehmensbereichen .
 Dies ermöglicht den Kunden eine steigende Vergleichbarkeit von Produkten- und Dienstleistungen , was im schlimmsten Fall zu einem Wechsel an die Konkurrenz führt .
@@ -426,7 +432,7 @@ Gleichzeitig sollen die Kosten für Personal , Transport und Logistik reduziert 
 Diese Ziele stehen teilweise im Konflikt miteinander .
 Daher besteht die Herausforderung von Unternehmen darin , die Distributionsorgane und Distributionskanäle auf die Möglichkeiten der Digitalisierung anzupassen . 157
 Durch digitale Technologien entstehen für den Vertrieb ganz neue Ansätze für die Kommunikation und Interaktion mit dem Kunden .
-So können bspw.Produktinformationen über Videos vermittelt werden , ohne dass ein Mitarbeiter vor Ort sein muss .
+So können bspw. Produktinformationen über Videos vermittelt werden , ohne dass ein Mitarbeiter vor Ort sein muss .
 Des Weiteren bieten Produktsimulationen eine neue Form der Kundenintegration , wobei das Produkt mit Hilfe von Virtual und Augmented Reality erlebbar gemacht wird .
 Sowohl durch die Kunden-Kommunikation über digitale Kanäle , als auch durch die gezielte Auswertung der daraus gewonnenen Informationen , werden nachhaltige Wettbewerbsvorteile generiert .
 Zusätzlich kann das Image des Unternehmens verbessert werden . 158
@@ -475,7 +481,7 @@ Das Unternehmen profitiert somit von der Kreativität der Kunden .
 Dadurch ist sie ein zentraler Treiber für die digitale Transformation . 170
 Das Change-Management ist Teil der Unternehmensstrategie und führt zu grundlegenden Veränderungen der bisherigen Strukturen , Prozesse und Verhaltensweisen auf allen Ebenen .
 Dabei zielt das Change-Management auf eine strategische Neuausrichtung des Unternehmens ab .
-Diese Neuausrichtung wird bspw.durch die Einführung neuer Technologien , Transformation von Geschäftsmodellen oder der Erschließung neuer Märkte erreicht .
+Diese Neuausrichtung wird bspw. durch die Einführung neuer Technologien , Transformation von Geschäftsmodellen oder der Erschließung neuer Märkte erreicht .
 Im Zuge des digitalen Wandels betreffen die genannten Veränderungen alle Unternehmen .
 Die daraus resultierenden Herausforderungen gilt es zu bewältigen .
 Die Voraussetzung für den Erfolg liegt dabei besonders im Verhalten sowie in der Akzeptanz der Mitarbeiter und sollte daher frühzeitig im Unternehmen kommuniziert werden . 171
@@ -493,7 +499,7 @@ Die Nutzung von Daten ermöglicht es den Unternehmen somit ihre Kunden nicht nur
 Durch die Digitalisierung und Industrie 4.0 verschmelzen zunehmend die Grenzen zwischen physischen Produkten und Dienstleistungen .
 Auf Basis der steigenden Vernetzung und Kooperationen ergeben sich vielfältige Chancen für die Zusammenarbeit innerhalb und zwischen verschiedenen Unternehmen .
 Die steigende Vernetzung führt zum Aufbau einer digitalen Netzwerkorganisation , in der alle Mitglieder ihr Knowhow teilen können und dadurch Synergieeffekte erzielt werden .
-Diese Synergieeffekte können dabei innerhalb der Organisation , bspw.zwischen räumlich getrennten Teams , oder zwischen verschiedenen Unternehmen im B2B-Bereich erzielt werden . 176
+Diese Synergieeffekte können dabei innerhalb der Organisation , bspw. zwischen räumlich getrennten Teams , oder zwischen verschiedenen Unternehmen im B2B-Bereich erzielt werden . 176
 Die klassische Zusammenarbeit ( in Bezug auf die Kommunikation ) innerhalb der Organisation wird überwiegend durch E-Mail , Telefon- und Videokonferenzen gesteuert .
 Die Nutzung von digitalen Technologien wie zum Beispiel Cloud Computing wird dabei zunehmend an Bedeutung gewinnen .
 Durch die Unterstützung von Augmented-oder Virtual-Reality-Technologie wird die Zusammenarbeit verschiedener Teams und Unternehmen vereinfacht und ist dabei sogar über zeitlich-räumliche Grenzen hinweg möglich . 177
@@ -544,7 +550,7 @@ Zu den Rahmenbedingungen zählen die Personalpolitik , Personalorganisation , Pe
 Des Weiteren sind die zentralen Aspekte des PM die Bereiche der Personalbedarfsdeckung , Personalbetreuung sowie letztendlich Personalfreisetzung . 190
 Anhand dieser Grafik werden im weiteren Verlauf verschiedene Entwicklungen und Ansatzpunkte aufgeführt , wie die Arbeitswelt im Mittelstand organisiert werden kann .
 Im Rahmen der Digitalisierung erfordert die Personalpolitik klare Grundsätze und Strategien , wie Veränderungen in die Unternehmenskultur integriert und welche Ziele damit erreicht werden sollen .
-Die Rolle der Ethik ist hierbei ein wichtiges Thema , denn durch die Nutzung digitaler Technologien , wie bspw.Big Data-Anwendungen , können zahlreiche Personaldaten erfasst und in Datenbanken abgespeichert werden . 191
+Die Rolle der Ethik ist hierbei ein wichtiges Thema , denn durch die Nutzung digitaler Technologien , wie bspw. Big Data-Anwendungen , können zahlreiche Personaldaten erfasst und in Datenbanken abgespeichert werden . 191
 In diesem Zusammenhang ist häufig von der Metapher des „ gläsernen Mitarbeiters “ zu lesen .
 Diesen Aspekt sollten Unternehmen aus datenschutzrechtlichen Gründen beachten. 192
 Weiterhin ist zu klären , wie neue Modell der Zusammenarbeit in die bestehende Kultur integriert werden können .
@@ -557,11 +563,11 @@ Marktdurchdringungsstrategie : Bei dieser Strategie wird vom Unternehmen eine Be
 Die Produkte beziehen sich dabei zum Beispiel auf aktuelle Arbeitszeitmodelle , Entlohnungssysteme oder Recruitingsysteme .
 An dieser Stelle ist zu prüfen , ob eine Markdurchdringung durch die Unterstützung digitaler Technologien optimiert werde kann . 195
 Diversifikationsstrategie : Die Ausrichtung einer Diversifikationsstrategie liegt in der Erschließung neuer Arbeitsmärkte mit neuen Produkten .
-Durch die zunehmende Vernetzung können Unternehmen bspw.auf internationalen Arbeitsmärkten agieren , indem sie neue Technologie nutzen .
+Durch die zunehmende Vernetzung können Unternehmen bspw. auf internationalen Arbeitsmärkten agieren , indem sie neue Technologie nutzen .
 Eine Möglichkeit ist zum Beispiel die Kommunikation über virtuelle Konferenzen , wobei sich die Teilnehmer an verschiedenen Orten aufhalten können . 196
 Produktentwicklungsstrategie : Innerhalb dieser Strategie gilt es für Unternehmen zu prüfen , inwieweit neuartige digitale Technologien den bisherigen Arbeitsmarkt bzw. das Zusammenarbeiten verändern oder verbessern können .
 Der Fokus liegt hierbei auf neuen Arbeitstechniken- und Mittel , sodass die Arbeitsprozesse optimiert werden .
-Diese neuen Arbeitstechniken- und Mittel ergeben sich bspw.durch die Nutzung von Cloud Computing oder Big Data-Anwendungen . 197
+Diese neuen Arbeitstechniken- und Mittel ergeben sich bspw. durch die Nutzung von Cloud Computing oder Big Data-Anwendungen . 197
 In einer digitalen Arbeitswelt muss neben der grundsätzlichen Personalpolitik auch die Frage beantwortet werden , wie sich das PM in Zukunft organisieren wird .
 In der Literatur gehen die Ansätze vom Personalmanagement als Shared Service Center , d.h. die Zusammenfassung interner Dienstleistungen an einer zentralen Stelle , bis hin zur Auflösung der Personalabteilung . 198
 Der Einzug digitaler Technologien ermöglicht in Zukunft , dass die allgemeine Personalarbeit immer häufiger in dem Verantwortungsbereich der Führungskräfte oder sogar der einzelnen Mitarbeiter liegen wird .
@@ -581,7 +587,7 @@ Personalplanung : Die bisherige Personalplanung wird überwiegend von Menschen u
 Mit dem Ausbau einer digitalen Infrastruktur könnte in Zukunft die Personalplanung mit Cyber-Physischen-Systemen vernetzt werden .
 Denkbar wäre zum Beispiel , dass einzelne Prozesse mit spezifischen Daten zum Personalbedarf versorgt werden .
 Auf dieser Grundlage kann das System dahinter den tatsächlichen Bedarf an Mitarbeiter ermitteln und automatisch Personalanforderungen auslösen . 202
-Personalbeschaffung : In Bezug auf die bereits erwähnte Marktentwicklungsstrategie ergeben sich neue Modelle der Zusammenarbeit bspw.mit Freelancern oder Crowdworkern und somit auch neue Ansatzpunkte der Personalbeschaffung .
+Personalbeschaffung : In Bezug auf die bereits erwähnte Marktentwicklungsstrategie ergeben sich neue Modelle der Zusammenarbeit bspw. mit Freelancern oder Crowdworkern und somit auch neue Ansatzpunkte der Personalbeschaffung .
 In Bereichen , in denen spezielles Fachwissen erforderlich ist , könnten zum Beispiel externe Mitarbeiter über verschiedene Plattformen hinzugewonnen werden .
 Diese Mitarbeiter werden in der Regel über Werkverträge mit zeitlicher Befristung eingestellt , was für die Unternehmen wiederum bedeutet , dass ein häufiger Wechsel von unterschiedlichem Personal stattfindet .
 In diesem Zusammenhang muss eruiert werden , inwieweit sich dieser Personalwechsel auf die Unternehmenskultur auswirkt und welches Verhältnis zwischen den Kosten und dem Nutzen besteht .

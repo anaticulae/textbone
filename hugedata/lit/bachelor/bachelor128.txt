@@ -81,8 +81,9 @@ Eine weitere Position sind Mussfelder , bei denen der Kontennachweis erwünscht 
 Für diese Positionen gelten die gleichen Vorgaben , wie für die normalen Mussfelder .
 Der Unterschied liegt darin , dass die Finanzverwaltung einen Kontennachweis fordert .
 Aus der Summen- und Saldenliste soll hervorgehen , welche Konten für die Position eine Rolle spielen .
-Diese sollte die Kontonummer , Kontobezeichnung und den Saldo zum Abschlussstichtag beinhalten .
-39 „ Die übermittelten Datensätze müssen den im Datenschema hinterlegten Rechenregeln genügen. “ 40 „ Rechnerisch notwendig , wenn vorhanden “ werden also alle die Positionen genannt , die auf der gleichen Ebene wie rechnerisch verknüpfte Mussfelder stehen .
+Diese sollte die Kontonummer , Kontobezeichnung und den Saldo zum Abschlussstichtag beinhalten . 39
+„ Die übermittelten Datensätze müssen den im Datenschema hinterlegten Rechenregeln genügen. “ 40
+„ Rechnerisch notwendig , wenn vorhanden “ werden also alle die Positionen genannt , die auf der gleichen Ebene wie rechnerisch verknüpfte Mussfelder stehen .
 Die Summe der Positionen auf gleicher Ebene muss immer mit dem Wert der Oberposition identisch sein .
 Kommt es zu einer Differenz , so muss die Position „ rechnerisch notwendig , soweit vorhanden “ ausgefüllt werden , um den Unterschied nachvollziehen zu können . 41
 Die letzte Position ist die Auffangposition , welche vor Eingriffen in das Buchungsverhalten schützen und gleichzeitig zur Standardisierung beitragen soll . 42
