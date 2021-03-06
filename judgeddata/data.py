@@ -22,7 +22,15 @@ def slang() -> list:
     return collect_byid(attribute=0)
 
 
-def collect_byid(attribute: int) -> list:
+def noslang():
+    """\
+    >>> len(noslang())>0
+    True
+    """
+    return collect_byid(attribute=0, positive=False)
+
+
+def collect_byid(attribute: int, positive: bool = True) -> list:
     sentences = bbview.api_.judge.sentence.Sentences(
         hugedata.RESOURCES,
         skip=None,
@@ -34,7 +42,7 @@ def collect_byid(attribute: int) -> list:
     for line in splitted:
         hashed, judged = line.split(maxsplit=1)
         judged = judged.split()
-        if judged[attribute] == '0':
+        if judged[attribute] == ('0' if positive else '1'):
             continue
         hashed = int(hashed)
         sentence = sentences.sentence_fromhash(hashed)
