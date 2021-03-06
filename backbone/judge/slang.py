@@ -8,5 +8,5 @@
 # =============================================================================
 
 
-def decide(sentence: str) -> float:
+def decide(sentence: str) -> float:  # pylint:disable=W0613
     pass

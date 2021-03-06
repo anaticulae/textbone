@@ -31,15 +31,15 @@ def noslang():
 
 
 def sentences(skip=None):
-    sentences = bbview.api_.judge.sentence.Sentences(
+    result = bbview.api_.judge.sentence.Sentences(
         hugedata.RESOURCES,
         skip=skip,
     )
-    return sentences
+    return result
 
 
 def collect_byid(attribute: int, positive: bool = True) -> list:
-    sentences = bbview.api_.judge.sentence.Sentences(
+    sentences_ = bbview.api_.judge.sentence.Sentences(
         hugedata.RESOURCES,
         skip=None,
         seed=5889,
@@ -53,6 +53,6 @@ def collect_byid(attribute: int, positive: bool = True) -> list:
         if judged[attribute] == ('0' if positive else '1'):
             continue
         hashed = int(hashed)
-        sentence = sentences.sentence_fromhash(hashed)
+        sentence = sentences_.sentence_fromhash(hashed)
         collected.append(sentence)
     return collected
