@@ -10,7 +10,7 @@
 import argparse
 import os
 
-import nltk.tokenize
+import knlp
 import utila
 
 DESCRIPTION = """\
@@ -34,8 +34,8 @@ def main():
 
 def modern(content: str) -> str:
     collected = []
-    for sentence in nltk.tokenize.sent_tokenize(content, language='german'):
-        raw = nltk.tokenize.word_tokenize(sentence, language='german')
+    for sentence in knlp.sent_tokenize(content):
+        raw = knlp.word_tokenize(sentence)
         line = ' '.join(raw)
         collected.append(line)
     result = utila.NEWLINE.join(collected)
