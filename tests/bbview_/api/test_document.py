@@ -7,6 +7,7 @@
 # be prosecuted under federal law. Its content is company confidential.
 # =============================================================================
 
+import utila
 import utilatest
 
 import tests.bbview_.utils
@@ -32,4 +33,4 @@ def test_api_documents_master72master75(testdir, client, monkeypatch):
         }
         request = f'plots/{expected["plots"][0]}'
         png = utilatest.get(client, request, raw=True).data
-        assert len(png) == 12035
+        assert utila.near(len(png), 12035, diff=1000)
