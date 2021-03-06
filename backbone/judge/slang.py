@@ -29,7 +29,8 @@ def decide(sentence: str) -> float:  # pylint:disable=W0613
     """
     global SLANG_CLASSIFIER, SLANG_VECTORIZER  # pylint:disable=global-statement
     if SLANG_CLASSIFIER is None:
-        assert os.path.exists(backbone.judge.SLANG), 'require slang training'
+        assert os.path.exists(backbone.judge.SLANG), (
+            f'require slang training {backbone.judge.SLANG}')
         slang = utila.file_read_binary(backbone.judge.SLANG)
         SLANG_VECTORIZER, SLANG_CLASSIFIER = pickle.loads(slang)
     normalized = knlp.normalize_sentence(sentence)
