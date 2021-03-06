@@ -72,6 +72,7 @@ class Sentences:
         return self.hashed[number]
 
     def sentence_inside(self, sentence):
+        self.load_lazy()
         hashid = sentence_hash(sentence)
         try:
             self.sentence_fromhash(hashid)
@@ -82,6 +83,14 @@ class Sentences:
     def pop(self):
         self.load_lazy()
         return self.sentences.pop()
+
+    def __getitem__(self, index):
+        self.load_lazy()
+        return self.sentences[index]
+
+    def __len__(self):
+        self.load_lazy()
+        return len(self.sentences)
 
 
 def load_skip(path: str = DATA) -> set:
