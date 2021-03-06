@@ -52,7 +52,10 @@ class Sentences:
         sentences = [' '.join(sentence) for sentence in sentences]
         if self.skip:
             # skip already judged items
-            skipped = load_skip(self.skip)
+            if not isinstance(self.skip, list):
+                skipped = load_skip(self.skip)
+            else:
+                skipped = [sentence_hash(item) for item in self.skip]
             sentences = [
                 item for item in sentences if sentence_hash(item) not in skipped
             ]
