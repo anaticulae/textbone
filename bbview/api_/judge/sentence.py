@@ -11,6 +11,7 @@ import collections
 import os
 import random
 
+import knlp
 import utila
 
 import backbone
@@ -55,7 +56,10 @@ class Sentences:
             if not isinstance(self.skip, list):
                 skipped = load_skip(self.skip)
             else:
-                skipped = [sentence_hash(item) for item in self.skip]
+                skipped = [
+                    sentence_hash(knlp.normalize_sentence(item))
+                    for item in self.skip
+                ]
             sentences = [
                 item for item in sentences if sentence_hash(item) not in skipped
             ]
@@ -64,7 +68,8 @@ class Sentences:
         generator.shuffle(sentences)
         self.sentences = sentences
         self.hashed = {
-            sentence_hash(sentence): sentence for sentence in self.sentences
+            sentence_hash(knlp.normalize_sentence(sentence)): sentence
+            for sentence in self.sentences
         }
 
     def sentence_fromhash(self, number) -> str:
@@ -73,6 +78,7 @@ class Sentences:
 
     def sentence_inside(self, sentence):
         self.load_lazy()
+        sentence = knlp.normalize_sentence(sentence)
         hashid = sentence_hash(sentence)
         try:
             self.sentence_fromhash(hashid)
@@ -82,6 +88,7 @@ class Sentences:
 
     def pop(self):
         self.load_lazy()
+        # TODO: POP/REMOVE SELF.HASHED ALSO?
         return self.sentences.pop()
 
     def __getitem__(self, index):
@@ -108,13 +115,19 @@ def sentence_raw(sentence: SentenceJudged) -> str:
     ... ))
     '... 1 1 0 0 0 0'
     """
-    items = [item for item in sentence]
-    items[0] = sentence_hash(items[0])
-    items = [str(item) for item in items]
-    raw = ' '.join(items)
-    raw = raw.replace('False', '0')
-    raw = raw.replace('True', '1')
-    return raw
+    raw, *judgement = sentence
+    raw = knlp.normalize_sentence(raw)
+    raw = sentence_hash(raw)
+    judgement = ' '.join([config_raw(item) for item in judgement])
+    result = f'{raw} {judgement}'
+    return result
+
+
+def config_raw(item):
+    item = str(item)
+    item = item.replace('False', '0')
+    item = item.replace('True', '1')
+    return item
 
 
 def sentence_hash(raw: str):

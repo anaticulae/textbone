@@ -15,8 +15,8 @@ import utila
 import bbview.api_.judge.sentence
 
 SENTENCES = """\
-No Helm for telm .
-No Space after Mace ?
+no helm for telm
+no space after mace
 """
 
 
