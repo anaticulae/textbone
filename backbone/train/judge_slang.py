@@ -7,7 +7,7 @@
 # be prosecuted under federal law. Its content is company confidential.
 # =============================================================================
 
-import pickle
+import pickle  # nosec
 
 import knlp
 import nltk

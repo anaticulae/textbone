@@ -8,7 +8,7 @@
 # =============================================================================
 
 import os
-import pickle
+import pickle  # nosec
 
 import knlp
 import pandas
@@ -32,7 +32,7 @@ def decide(sentence: str) -> float:  # pylint:disable=W0613
         assert os.path.exists(backbone.judge.SLANG), (
             f'require slang training {backbone.judge.SLANG}')
         slang = utila.file_read_binary(backbone.judge.SLANG)
-        SLANG_VECTORIZER, SLANG_CLASSIFIER = pickle.loads(slang)
+        SLANG_VECTORIZER, SLANG_CLASSIFIER = pickle.loads(slang)  # nosec
     normalized = knlp.normalize_sentence(sentence)
     doc = pandas.Series(normalized)
     xnew = SLANG_VECTORIZER.transform(doc)
