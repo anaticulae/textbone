@@ -14,3 +14,5 @@ import nltk_data
 __version__ = '0.5.0'
 
 ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), '..'))
+
+from backbone.judge.slang import decide as slang_decide  # isort:skip
