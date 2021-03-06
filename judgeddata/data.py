@@ -30,6 +30,14 @@ def noslang():
     return collect_byid(attribute=0, positive=False)
 
 
+def sentences(skip=None):
+    sentences = bbview.api_.judge.sentence.Sentences(
+        hugedata.RESOURCES,
+        skip=skip,
+    )
+    return sentences
+
+
 def collect_byid(attribute: int, positive: bool = True) -> list:
     sentences = bbview.api_.judge.sentence.Sentences(
         hugedata.RESOURCES,
