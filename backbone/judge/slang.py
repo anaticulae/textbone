@@ -11,7 +11,6 @@ import os
 import pickle  # nosec
 
 import knlp
-import pandas
 import sklearn.feature_extraction.text
 import sklearn.svm
 import utila
@@ -34,7 +33,7 @@ def decide(sentence: str) -> float:  # pylint:disable=W0613
         slang = utila.file_read_binary(backbone.judge.SLANG)
         SLANG_VECTORIZER, SLANG_CLASSIFIER = pickle.loads(slang)  # nosec
     normalized = knlp.normalize_sentence(sentence)
-    doc = pandas.Series(normalized)
+    doc = [normalized]
     xnew = SLANG_VECTORIZER.transform(doc)
     xnew = xnew.todense()
     decided = SLANG_CLASSIFIER.predict(xnew)

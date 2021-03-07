@@ -11,7 +11,6 @@ import pickle  # nosec
 
 import knlp
 import nltk
-import pandas as pd
 import sklearn.feature_extraction.text
 import sklearn.metrics
 import sklearn.model_selection
@@ -67,7 +66,7 @@ def train_slang():
     data = judgeddata.data.sentences(skip=slang)
     for sentence in data:
         normalized = knlp.normalize_sentence(sentence)
-        doc = pd.Series(normalized)
+        doc = [normalized]
         Xnew = vectorizer.transform(doc)
         # Xnew = Xnew.todense()
         Xdif = tfidf.fit_transform(Xnew).todense()
