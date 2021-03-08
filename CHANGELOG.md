@@ -2,6 +2,24 @@
 
 Every noteable change is logged here.
 
+## v0.6.0
+
+### Feature
+
+* connect trained model with slang determiner (06b090eed2ce)
+* save trained result (16a79b6ca4eb)
+* add slang trainer (385069115d5b)
+* judge more sentences (fb89fce259ad)
+* normalize hashed sentences (5997afc4098c)
+* add sentence provider (5f8790966122)
+* add magic methods to ease using (31435e2e85e2)
+* add option to select negative column (5c265bba5ea3)
+* add slang detection interface (f7c0703bd647)
+
+### Fix
+
+* make assertion more explicit (22474d6a6f8d)
+
 ## v0.5.0
 
 ### Feature
