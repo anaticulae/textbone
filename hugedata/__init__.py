@@ -40,6 +40,7 @@ TECH_BACHELOR111 = os.path.join(TECH_BACHELOR, 'bachelor111.txt')
 ORDER_ORDER024 = os.path.join(ORDER, 'order024.txt')
 
 UTILS_ABBREVIATION = os.path.join(UTILS, 'abbreviations.txt')
+UTILS_ROMAN = os.path.join(UTILS, 'roman.txt')
 
 LIT_MASTERS = [
     LIT_MASTER072,
@@ -68,6 +69,7 @@ ORDERS = [
 
 UTILS = [
     UTILS_ABBREVIATION,
+    UTILS_ROMAN,
 ]
 
 RESOURCES = LIT_MASTERS + LIT_BACHELORS + TECH_BACHELORS + UTILS + ORDERS
