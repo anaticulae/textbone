@@ -170,11 +170,9 @@ Der Klient ist der Auftraggeber , auch wenn der Therapeut klare Ziele vor Augen 
 Wenn diese Ziele nicht den Wünschen des Klienten entsprechen , kann dieser die Therapie beenden .
 Der Therapeut hat die Aufgabe , die Ziele des Klienten hinsichtlich seiner Erwartungen und deren Umsetzbarkeit zu prüfen .
 Gegebenenfalls kann auch er die Therapie ablehnen .
-Transparenz wird hergestellt , indem der Therapeut den Therapieprozess gemeinsam mit dem Klienten wiederholt reflektiert , um Fortschritte und ggf.
-Stagnation gemeinsam zu erkennen und weitere Schritte der Therapie einleiten zu können ( Rössler 2005 , S. 72 f. ) .
+Transparenz wird hergestellt , indem der Therapeut den Therapieprozess gemeinsam mit dem Klienten wiederholt reflektiert , um Fortschritte und ggf. Stagnation gemeinsam zu erkennen und weitere Schritte der Therapie einleiten zu können ( Rössler 2005 , S. 72 f. ) .
 Schwartz et al. ( 2015 , S. 60 ff . )
-stellen mehrere Fehler der Therapeuten vor , welche den Beziehungsaufbau schädigen und ggf.
-zum Verlust des Klienten führen können : Bei der therapeutischen Beziehung ist darauf zu achten , dass es sich um eine professionelle Arbeitsbeziehung handelt .
+stellen mehrere Fehler der Therapeuten vor , welche den Beziehungsaufbau schädigen und ggf. zum Verlust des Klienten führen können : Bei der therapeutischen Beziehung ist darauf zu achten , dass es sich um eine professionelle Arbeitsbeziehung handelt .
 Die Verantwortung , auf das Einhalten der Rollen zu achten , obliegt dem Therapeuten .
 Klienten versuchen durch sogenannte Beziehungstests die Standfestigkeit des Therapeuten zu prüfen .
 Hierbei ist es unerlässlich , dass der Therapeut diesen Test erkennt und Aufweichtendenzen hinsichtlich der Rollenverteilung entgegenwirkt ( Rössler 2005 , S. 72 f. ) .
@@ -216,7 +214,7 @@ Viele Klienten der ADV gGmbH führen schädlichen Alkoholkonsum durch .
 Einige somatische Erkrankungen und auch psychische Beeinträchtigungen , die in der S3-Leitlinie ( S3-LL ) beschrieben werden , sind auf den illegalen Substanzkonsum der Klienten übertragbar .
 In der im Weiteren beschriebenen S3-LL geht es um Alkoholkranke .
 Dennoch existieren große Parallelen zu Konsumenten illegaler Drogen , sodass in dieser Arbeit die S3-LL als Grundlage für die Bewertung der Wirksamkeit verhaltenstherapeutischer Maßnahmen dienen soll .
-Das „ S '' steht dabei für die Stufenklassifikation .
+Das „ S “ steht dabei für die Stufenklassifikation .
 Die Klassifikationen sind Abbildung 1 zu entnehmen ( AWMF online 2017 ) .
 Den Auftrag zur Entwicklung der S3-LL gaben die Deutsche Gesellschaft für Suchtforschung ( DG-Sucht ) und die Deutsche Gesellschaft für Psychiatrie und Psychotherapie , Psychosomatik und Nervenheilkunde ( DGPPN ) .
 Neben der bereits erwähnten Leitlinie „ Screening , Diagnose und Behandlung alkoholbezogener Störungen '' wurde auch die S3-LL für schädlichen und abhängigen Tabakkonsum entwickelt .
@@ -236,18 +234,17 @@ Für jede einzelne Empfehlung konnte zwischen drei Empfehlungsgraden unterschied
 Zusätzlich wurden Behandlungsempfehlungen ausgesprochen , die der guten klinischen Praxis entsprechen und Expertenkonsens widerspiegeln ( so genannter Klinischer Konsenspunkt KKP ) .
 Diesen klinischen Empfehlungen liegt keine systematische Literaturrecherche zugrunde .
 Die Graduierung der Empfehlungen basierte auf der identifizierten Evidenz , der klinischen Expertise und den Patientenpräferenzen .
-Sie schloss damit auch explizit subjektiv wertende Elemente ein . ''
+Sie schloss damit auch explizit subjektiv wertende Elemente ein .
 Ziel von Behandlungsleitlinien ist es , eine strukturierte Entscheidungshilfe zur Verfügung zu stellen .
 Im Unterschied zu verbindlichen Richtlinien geben die S3-Leitlinien Handlungsempfehlungen zur individuellen Behandlung von Patienten ( Hoch et al. 2016 , S. 6 ) .
-`` S3-Leitlinien liefern adäquate und aktuelle Informationen für Behandler , Betroffene und Organe des Gesundheitssystems .
+S3-Leitlinien liefern adäquate und aktuelle Informationen für Behandler , Betroffene und Organe des Gesundheitssystems .
 Die evidenzbasierten Handlungsempfehlungen können dabei helfen , die Qualität der Behandlung und Betreuung von Erkrankten zu verbessern .
 In Anbetracht der enormen Verbreitung , gesundheitlicher Risiken und Folgekosten alkohol- und tabakbezogener Störungen [ ... ] kommt den beiden S3-Leitlinien auch eine gesellschaftliche Bedeutung zu .
-Sie bilden eine Grundlage für gezielte Fort- und Weiterbildung , strukturelle Verbesserungen , optimierte Versorgungsabläufe ( z.B. Disease-Managemet-Programme ) und dadurch eine sinnvolle Allokation von personellen und monetären Ressourcen im Gesundheitssystem . ''
-( ebd. , S. 11 ) Die Ergebnisse der S3-Leitlinie zur Behandlung von alters- und geschlechtsspezifischen Personen ( Kinder und Jugendliche sowie schwangere Frauen und ältere Menschen ) sind bei der Klientel der ADV gGmbH selten bis gar nicht relevant .
+Sie bilden eine Grundlage für gezielte Fort- und Weiterbildung , strukturelle Verbesserungen , optimierte Versorgungsabläufe ( z.B. Disease-Managemet-Programme ) und dadurch eine sinnvolle Allokation von personellen und monetären Ressourcen im Gesundheitssystem . ( ebd. , S. 11 )
+Die Ergebnisse der S3-Leitlinie zur Behandlung von alters- und geschlechtsspezifischen Personen ( Kinder und Jugendliche sowie schwangere Frauen und ältere Menschen ) sind bei der Klientel der ADV gGmbH selten bis gar nicht relevant .
 Die meisten Klienten der ADV gGmbH und somit auch die Probanden der folgenden Erhebung sind Frauen und Männer zwischen 25 und 50 Jahren .
 Daher wird hier nicht näher auf die Ergebnisse der S3-Leitlinie im Hinblick auf spezielle Altersgruppen oder das weibliche Geschlecht eingegangen .
-Im Rahmen der Kurzintervention werden Menschen mit problematischem Trinkverhalten in spezielle Settings zur Reduktion ihrer Trinkmenge oder ggf.
-zum Abstinenzaufbau vermittelt .
+Im Rahmen der Kurzintervention werden Menschen mit problematischem Trinkverhalten in spezielle Settings zur Reduktion ihrer Trinkmenge oder ggf. zum Abstinenzaufbau vermittelt .
 Eine Kurzintervention dauert bis zu 60 Minuten und maximal fünf Sitzungen .
 Personalisiertes Feedback , individuelle Zielfindung und konkrete Ratschläge sind dabei die Inhalte , die durch schriftliches Infomaterial im Rahmen der Psychoedukation erweitert werden können .
 Die Kurzintervention ist wie folgt bewertet worden : In der Allgemeinen Wirksamkeit sowie bei der Anwendung bei riskantem Konsum erhält sie den Empfehlungsgrad ( EG ) A .
@@ -594,8 +591,8 @@ Das Konsumtagebuch „ Phase 2 '' ist ebenso aufgeteilt , jedoch befindet sich i
 Da das Tagebuch nur aus einer Seite besteht , kann der Klient es jederzeit mit sich tragen , beispielsweise gefaltet in der Hosentasche , was es ihm ermöglicht , jederzeit Eintragungen vorzunehmen .
 Das Konsumtagebuch wurde als Vorlage vorbereitet und nach Anregungen der Bezugsbetreuer in der Teamsitzung bei der Vorstellung des Vorhabens dieser Arbeit überarbeitet .
 „ Ein Befragungsinstrument muss sehr sorgfältig konstruiert werden , um Probleme wie beispielsweise Antwortverzerrungen [ ... ] so gering wie möglich zu halten .
-Bei der Entwicklung eines schriftlichen standardisierten Fragebogens ( zum Selbstausfüllen ) sind folgende Konstruktionskriterien zu beachten : Für die Fragebogenkonstruktion ist es von grundsätzlicher Notwendigkeit , darauf zu achten , dass der Fragebogen leicht auszufüllen ist ( er muss einfach gestaltet und selbsterklärend sein ) und dass die Befragung generell auch von anderen Forschern zu einem späteren Zeitpunkt nachvollzogen und ggf.
-repliziert werden kann. “ ( Raithel 2008 , S. 67 ) „ Qualitative Datenerhebungstechniken sind nicht oder nur teilweise strukturiert , d.h. sie arbeiten mit nicht- oder teilstandardisierten Instrumenten und lassen somit den Forschenden wie den Untersuchungsteilnehmenden viel Raum , um jeweils fall- und situationsspezifisch mehr oder minder viele Details des untersuchten Sachverhaltes in die Datenerhebung einzubeziehen und vor allem auch flexibel zu entscheiden , welche Aspekte der Erfahrungswirklichkeit bzw. Lebenswelt [ ... ] einen wie großen Stellenwert für das Forschungsproblem haben .
+Bei der Entwicklung eines schriftlichen standardisierten Fragebogens ( zum Selbstausfüllen ) sind folgende Konstruktionskriterien zu beachten : Für die Fragebogenkonstruktion ist es von grundsätzlicher Notwendigkeit , darauf zu achten , dass der Fragebogen leicht auszufüllen ist ( er muss einfach gestaltet und selbsterklärend sein ) und dass die Befragung generell auch von anderen Forschern zu einem späteren Zeitpunkt nachvollzogen und ggf. repliziert werden kann. “ ( Raithel 2008 , S. 67 )
+„ Qualitative Datenerhebungstechniken sind nicht oder nur teilweise strukturiert , d.h. sie arbeiten mit nicht- oder teilstandardisierten Instrumenten und lassen somit den Forschenden wie den Untersuchungsteilnehmenden viel Raum , um jeweils fall- und situationsspezifisch mehr oder minder viele Details des untersuchten Sachverhaltes in die Datenerhebung einzubeziehen und vor allem auch flexibel zu entscheiden , welche Aspekte der Erfahrungswirklichkeit bzw. Lebenswelt [ ... ] einen wie großen Stellenwert für das Forschungsproblem haben .
 Die Offenheit des Vorgehens soll eine optimale Annäherung an den Untersuchungsgegenstand gewährleisten und die Chance erhöhen , dass sich auch neue und unerwartete Inhalte in den erhobenen Daten zeigen. “ ( Döring und Bortz 2016 , S. 322 ) Anhand der in Kapitel 5 genannten Forschungsfragen und Hypothesen wurden für den Fragebogen für die Therapeuten die folgenden zehn Fragen erarbeitet : Der in dieser Arbeit verwendete Kontingenzvertrag ist angelehnt an den Non-Suizid-Vertrag ( s. Anhang S. 96 ) , mit dem am Standort Bugenhagenstraße der ADV gGmbH gearbeitet wird .
 Er ist mit dem Titel „ Vertrag zum Führen des Konsumtagebuchs '' versehen und beinhaltet damit im Titel bereits die Aufgabenstellung .
 Der Vertrag wurde an die in Kapitel 4 beschriebenen Merkmale von Fliegel et al. ( 1998 ) angelehnt und an die Erhebung angepasst .
@@ -618,8 +615,7 @@ Vorteil der Erhebung an einem Standort : Die Erreichbarkeit der untersuchten Per
 Des Weiteren können im Rahmen der Teamsitzung die Bekanntgabe des Vorhabens und die bevorstehende Intervention stattfinden .
 Da die teilnehmenden Therapeuten die Klienten für die Erhebung selbst auswählen , kann das Ergebnis optimiert werden .
 Die Bezugsbetreuer kennen ihre Klienten am besten und können so gut einschätzen , wer die Aufgabe der Erhebung erfüllen kann .
-Allerdings kann dieser Umstand auch negative Folgen auf die Erhebung haben , da die Stichprobe nicht zufällig gewählt ist und die Bezugsbetreuer ggf.
-einen ihrer kompetentesten und zuverlässigsten Klienten für die Erhebung auswählen , um ein optimales Ergebnis ihrerseits zu erreichen .
+Allerdings kann dieser Umstand auch negative Folgen auf die Erhebung haben , da die Stichprobe nicht zufällig gewählt ist und die Bezugsbetreuer ggf. einen ihrer kompetentesten und zuverlässigsten Klienten für die Erhebung auswählen , um ein optimales Ergebnis ihrerseits zu erreichen .
 Zu den vorbereiteten Unterlagen zählen einheitliche Konsumtagebücher für Phase 1 und Phase 2 sowie die Fragebögen für die Bezugstherapeuten .
 Weitere Vorlagen bestehen aus dem Kontingenzvertrag und einem Handout mit den wichtigsten Fakten über die zugeteilte Intervention ( Anhang S. 93 / 94 ) .
 Das Handout dient der Wissensvermittlung an die Therapeuten , um möglichst gleiche Voraussetzungen für alle beteiligten Klienten zu erreichen .
@@ -634,11 +630,10 @@ Von der Ausgabe der ersten Konsumtagebücher bis zur Intervention ist ein Zeitra
 Es gilt der gleiche Zeitraum für alle an der Erhebung teilnehmenden Personen .
 An einem im Vorfeld für alle teilnehmenden Therapeuten festgelegten Termin findet im Rahmen der Teamsitzung der Theorie-Input zu den Interventionen statt .
 Dabei werden die Konsumtagebücher für die zweite Phase aus- sowie die Therapeuten nach dem Zufallsprinzip in die drei Gruppen „ Psychoedukation “ ( PE ) , „ Kontingenzvertrag “ ( KV ) und „ Kontrollgruppe “ ( KG ) eingeteilt .
-Anschließend soll das vollständige Datenmaterial ( Konsumtagebücher , Fragebogen des Therapeuten und ggf.
-der Kontingenzvertrag ) zur Auswertung abgegeben werden .
+Anschließend soll das vollständige Datenmaterial ( Konsumtagebücher , Fragebogen des Therapeuten und ggf. der Kontingenzvertrag ) zur Auswertung abgegeben werden .
 Vor der eigentlichen Datenerhebung findet ein Pretest mit zwei Klienten der Autorin statt .
 Dieser dient dazu , das ausgewählte Instrument auf Anwendbarkeit , Verständlichkeit und Vollständigkeit sowie auf Qualität zu prüfen .
-Der Pretest wird in dieser Arbeit mit „ Testphase '' bezeichnet .
+Der Pretest wird in dieser Arbeit mit „ Testphase “ bezeichnet .
 Die Mindestgröße ist in der vorliegenden Arbeit auf zwei begrenzt , da beide gewählten verhaltenstherapeutischen Methoden einmal angewendet werden sollen .
 Beide Klienten erhalten nacheinander die zwei Konsumtagebücher sowie eine der beiden Interventionen : Klient 1 erhält die Intervention „ Psychoedukation “ und Klient 2 den Kontingenzvertrag .
 In Phase 1 wird den Klienten durch die Autorin das erste Konsumtagebuch ausgehändigt .
