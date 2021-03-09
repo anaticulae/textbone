@@ -2,6 +2,12 @@
 
 Every noteable change is logged here.
 
+## v0.6.1
+
+### Fix
+
+* add roman numbers example (7f6378c15176)
+
 ## v0.6.0
 
 ### Feature
