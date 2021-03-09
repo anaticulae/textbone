@@ -14,5 +14,7 @@ painter>=0.9.1<1.0.0
 nltk_data>=0.1.2<1.0.0
 knlp>=0.3.0<1.0.0
 
+scikit_learn==0.23.2
+
 Flask==1.1.2
 Flask-Bootstrap==3.3.7.1
