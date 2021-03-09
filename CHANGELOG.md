@@ -2,6 +2,12 @@
 
 Every noteable change is logged here.
 
+## v0.6.2
+
+### Fix
+
+* fix master99 (100d6adc8f18)
+
 ## v0.6.1
 
 ### Fix
