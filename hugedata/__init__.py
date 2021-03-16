@@ -20,6 +20,7 @@ UTILS = os.path.join(ROOT, 'utils')
 
 LIT_BACHELOR = os.path.join(LIT, 'bachelor')
 LIT_MASTER = os.path.join(LIT, 'master')
+LIT_DISS = os.path.join(LIT, 'diss')
 TECH_BACHELOR = os.path.join(TECH, 'bachelor')
 
 LIT_BACHELOR051 = os.path.join(LIT_BACHELOR, 'bachelor051.txt')
@@ -34,6 +35,8 @@ LIT_MASTER089 = os.path.join(LIT_MASTER, 'master089.txt')
 LIT_MASTER098 = os.path.join(LIT_MASTER, 'master098.txt')
 LIT_MASTER099 = os.path.join(LIT_MASTER, 'master099.txt')
 
+LIT_DISS266 = os.path.join(LIT_DISS, 'diss266.txt')
+
 TECH_BACHELOR063 = os.path.join(TECH_BACHELOR, 'bachelor063.txt')
 TECH_BACHELOR111 = os.path.join(TECH_BACHELOR, 'bachelor111.txt')
 
@@ -41,6 +44,10 @@ ORDER_ORDER024 = os.path.join(ORDER, 'order024.txt')
 
 UTILS_ABBREVIATION = os.path.join(UTILS, 'abbreviations.txt')
 UTILS_ROMAN = os.path.join(UTILS, 'roman.txt')
+
+LIT_DISS = [
+    LIT_DISS266,
+]
 
 LIT_MASTERS = [
     LIT_MASTER072,
@@ -72,4 +79,4 @@ UTILS = [
     UTILS_ROMAN,
 ]
 
-RESOURCES = LIT_MASTERS + LIT_BACHELORS + TECH_BACHELORS + UTILS + ORDERS
+RESOURCES = LIT_DISS + LIT_MASTERS + LIT_BACHELORS + TECH_BACHELORS + UTILS + ORDERS
