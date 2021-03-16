@@ -2,6 +2,12 @@
 
 Every noteable change is logged here.
 
+## v0.6.3
+
+### Fix
+
+* adjust number list pattern (197a3e1fe3f0)
+
 ## v0.6.2
 
 ### Fix
