@@ -9,17 +9,15 @@
 
 import string
 
-import nltk
+import knlp
 import utila
 
 
 def load_sentences(path: str, remove_punctation: bool = False) -> list:
     document = utila.file_read(path)
     lines = [sentence for sentence in document.splitlines() if sentence.strip()]
-    # TODO: REPLACE WITH GERMAN PACKGE
-    sentences = [
-        list(nltk.word_tokenize(line, language='german')) for line in lines
-    ]
+    # TODO: USE GERMAN TOKENIZER
+    sentences = [knlp.word_tokenize(line) for line in lines]
     if remove_punctation:
         sentences = [[
             item for item in sentence if item not in string.punctuation
