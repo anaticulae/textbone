@@ -71,7 +71,7 @@ Der Zeilenabstand sollte in Abhängigkeit von der Schriftgröße und der Zeilenl
 ( Die Wahl von 12-Punkt-Schriften und die Unterscheidung einzeilig / zweizeilig stammt wohl aus Schreibmaschinenzeiten und stellt eine sinnlose Einschränkung dar , wenn man Textverarbeitungs- oder Textsatzprogramme verwendet . )
 Literatur : Jan Tschichold , Ausgewählte Aufsätze über Fragen der Gestalt des Buches und der Typographie , Basel 21993 ( Klassiker der Typographie ) . – Hans Peter Willberg , Friedrich Forssman , Lesetypographie , Mainz 1997 ( umfangreiches Handbuch ) .
 Auf dem Deckblatt einer Arbeit sollten sich die Informationen ﬁnden , die die Dozentin oder der Dozent bzw. das Prüfungsamt benötigt , um die Arbeit ein- und zuzuordnen .
-Dies sind besonders : ( 1 ) Personendaten : vollständiger Name , Matrikelnummer , Kontaktdaten ( bes. E-mail-Adresse ) ; ( 2 ) Titel der Arbeit ; ( 3 ) die für die Prüfungsverwaltung relevanten Daten : Art der Arbeit ( Hausarbeit , Bachelorarbeit usw. ) , Studiengang und Prüfungsordnung , ggfs. Zuordnung zu Seminaren oder Modulen ; ( 4 ) Name ( n ) des Dozenten bzw. der Gutachter .
+Dies sind besonders : (1) Personendaten : vollständiger Name , Matrikelnummer , Kontaktdaten ( bes. E-mail-Adresse ) ; (2) Titel der Arbeit ; (3) die für die Prüfungsverwaltung relevanten Daten : Art der Arbeit ( Hausarbeit , Bachelorarbeit usw. ) , Studiengang und Prüfungsordnung , ggfs. Zuordnung zu Seminaren oder Modulen ; (4) Name ( n ) des Dozenten bzw. der Gutachter .
 Eine eigene Titelseite darüberhinaus ist , zumal bei kürzeren Arbeiten , nicht unbedingt nötig ; bei kurzen Arbeiten können die Informationen auch einfach am Kopf der ersten Seite stehen .
 Manche Ratschläge hinsichtlich des Stils gelten ( leider ) im akademischen Kontext nur begrenzt .
 Der akademische Ausdruck zielt v.a. auf Eindeutigkeit und Bestimmtheit .
@@ -89,10 +89,10 @@ Lesen Sie den fertigen Text laut .
 ( George-Louis Buﬀon soll sich seine Texte vorlesen lassen haben , um festzustellen , an welchen Stellen der Vorleser stockte , um diese Stellen dann zu überarbeiten . )
 Kritisieren Sie mit Kommilitonen gegenseitig Ihre Texte .
 Für die überarbeitung empfehlen sich vier Schritte :
-( 1 ) Prüfen Sie die Gliederung des Textes und die einzelnen Absätze daraufhin , ob diese jeweils einen ( und nur einen ) erkennbaren Gegenstand ( bzw. allgemeiner : eine bestimmte Funktion ) haben .
-( 2 ) überprüfen Sie die einzelnen Sätze und Wörter auf die üblichen Fehler ( Satzanschlüsse , Konjunktionen , Modusfehler , überﬂüssige Adjektive usw. ) .
-( 3 ) Prüfen sie den Text daraufhin , ob er sich eindeutig von vorne nach hinten lesen läßt ( ob eingeführte Begriﬀe beim ersten Auftreten erläutert werden , Namen beim ersten Mal mit Vornamen auftreten usw. ) und ergänzen Verweise ( ‘ s.o. ’ , ‘ s.u. ’ , ‘ wie gesagt ’ etc. ) .
-( 4 ) Prüfen Sie abschließend Rechtschreibung sowie Typographie ( Worttrennung und Seitenumbruch , bes. überschriften am Fuß von Seiten ) .
+(1) Prüfen Sie die Gliederung des Textes und die einzelnen Absätze daraufhin , ob diese jeweils einen ( und nur einen ) erkennbaren Gegenstand ( bzw. allgemeiner : eine bestimmte Funktion ) haben .
+(2) überprüfen Sie die einzelnen Sätze und Wörter auf die üblichen Fehler ( Satzanschlüsse , Konjunktionen , Modusfehler , überﬂüssige Adjektive usw. ) .
+(3) Prüfen sie den Text daraufhin , ob er sich eindeutig von vorne nach hinten lesen läßt ( ob eingeführte Begriﬀe beim ersten Auftreten erläutert werden , Namen beim ersten Mal mit Vornamen auftreten usw. ) und ergänzen Verweise ( ‘ s.o. ’ , ‘ s.u. ’ , ‘ wie gesagt ’ etc. ) .
+(4) Prüfen Sie abschließend Rechtschreibung sowie Typographie ( Worttrennung und Seitenumbruch , bes. überschriften am Fuß von Seiten ) .
 Umberto Eco , Wie man eine wissenschaftliche Abschlußarbeit schreibt : Doktor- , Diplomund Magisterarbeit in den Geistes- und Sozialwissenschaften , Heidelberg 1988 ( zahlreiche Auflagen ) .
 Unter einem Referat wird hier die Wiedergabe des Inhalts und bes. des Gedankengangs akademischer Texte verstanden .
 Das Ziel von Referaten ist , den Leser über die wesentlichen Aussagen und Argumentationen dieser Texte ins Bild zu setzen .
@@ -212,9 +212,9 @@ Referate und Textwiedergaben stehen sinnvollerweise in indirekter Rede .
 In indirekter Rede kann man eine Aussage referieren , ohne zugleich auszudrücken , ob man sie für richtig oder falsch hält .
 Die indirekte Rede wird durch den Konjunktiv I ausgedrückt , wenn dieser eindeutig ist , sonst durch den Konjunktiv II .
 Vergleichen Sie folgende drei Varianten :
-( 1 ) Duhem behauptet , es gibt keine experimenta crucis . ( Ind. )
-( 2 ) Duhem behauptet , es gebe keine experimenta crucis . ( Koni. I )
-( 3 ) Duhem behauptet , es gäbe keine experimenta crucis . ( Koni. II )
+(1) Duhem behauptet , es gibt keine experimenta crucis . ( Ind. )
+(2) Duhem behauptet , es gebe keine experimenta crucis . ( Koni. I )
+(3) Duhem behauptet , es gäbe keine experimenta crucis . ( Koni. II )
 Nur die zweite Variante ist korrekt .
 Die erste Variante ist uneindeutig : sie kann sowohl als wertfreie wie auch als zustimmende Wiedergabe der Ansicht Duhems gelesen werden .
 Die dritte Variante impliziert , daß Duhem ( nach Ansicht des Referenten ) unrecht hat .

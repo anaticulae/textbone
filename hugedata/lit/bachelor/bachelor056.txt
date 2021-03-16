@@ -92,7 +92,7 @@ In Sitzung vier und fünf erhielten alle Gruppen eine kontingente finanzielle Be
 Getestet wurde auch hier die Kompensationsleistung mit Hilfe des Tracometertest .
 Bei der Betrachtung der Ergebnisse zeigte sich , dass die ersten drei Gruppen unter den Alkoholsitzungen ( 1-3 ) eine geringere Verlangsamung aufwiesen .
 Die Kontrollgruppen zeigten hingegen deutlich schlechtere Leistungen und waren somit deutlich langsamer .
-In der Placebositzung ( 5 ) hingegen zeigten die ersten drei Gruppen deutlich bessere Leistungen , als nüchtern , wo hingegen die Kontrollgruppen nur leichte Verbesserungen in ihrer Leistung aufwiesen .
+In der Placebositzung (5) hingegen zeigten die ersten drei Gruppen deutlich bessere Leistungen , als nüchtern , wo hingegen die Kontrollgruppen nur leichte Verbesserungen in ihrer Leistung aufwiesen .
 Zusammenfassend ist zu sagen , dass die Gruppen mit Information , kontingenter Belohnung oder mentaler Übung eine deutlich höhere Toleranz und damit eine stärkere Kompensationsleistung aufzeigten , als die Kontrollgruppen .
 Es lässt sich daraus schließen , dass eine kontingente Rückmeldung während der Übung eine bedeutende Rolle für das Zeigen von Kompensationsleistungen spielt .
 Es macht dabei keinen Unterschied , ob man die Belohnung tatsächlich erhält oder sich diese nur vorstellt ( Sdao-Jarvie & Vogel-Sprott , 1992 ) .
@@ -331,17 +331,17 @@ Zeitpunkt der Messung ( vor der zweiten Aufgabe ) im Durchschnitt einen Wert von
 Somit wurde die gewünschte Promillezahl von 0.5‰ für beide Zeitpunkte annähernd erreicht .
 In der Placebogruppe hatten alle Probanden eine AAK von 0.0‰ .
 Im ersten Schritt wurde geprüft , ob sich die Häufigkeit von Unfällen unter Alkohol und Placebo unterschied .
-Für die Kreuzungssituation zeigte sich im Chi-Quadrat-Test kein signifikantes Ergebnis ( χ² ( 1 ) = .762 , p = .561 ) .
+Für die Kreuzungssituation zeigte sich im Chi-Quadrat-Test kein signifikantes Ergebnis ( χ² (1) = .762 , p = .561 ) .
 Wie Abbildung 5 zeigt , traten unter Alkohol 12 Unfälle auf ( 50 % der Fahrer ) , während es unter Placebo 9 Unfälle waren ( 38 % ) .
 Die Experimentalgruppe unterschied sich hinsichtlich der Unfallhäufigkeit nicht von der Kontrollgruppe .
 Dieses Bild änderte sich auch nicht , wenn man die Reihenfolge der Situationen berücksichtigte .
 Die Unfallhäufigkeit blieb vergleichbar .
 Wenn die Kreuzungssituation als erste kam , waren es insgesamt 10 Unfälle ( EG = 6 ; KG = 4 ) .
 An der zweiten Stelle waren es 11 Unfälle ( EG = 6 ; KG = 5 ) , wie in Abbildung 6 ersichtlich ist .
-Für die Fußgängersituation zeigte sich insgesamt ein hochsignifikantes Ergebnis im ChiQuadrat-Test ( χ² ( 1 ) = 8.4 , p = .008 ) .
+Für die Fußgängersituation zeigte sich insgesamt ein hochsignifikantes Ergebnis im ChiQuadrat-Test ( χ² (1) = 8.4 , p = .008 ) .
 Hinzu kommt , dass sich die Ergebnisse unterscheiden , wenn diese Situation am Anfang oder als zweite auftrat .
-Wenn die Situation am Anfang auftrat , unterscheiden sich die Gruppen nicht ( χ² ( 1 ) = .987 , p = .434 ) .
-Wenn die Situation dagegen als zweite Situation auftrat , zeigte sich ein hochsignifikantes Ergebnis im ChiQuadrat-Test ( χ² ( 1 ) = 10.2 , p = .003 ) .
+Wenn die Situation am Anfang auftrat , unterscheiden sich die Gruppen nicht ( χ² (1) = .987 , p = .434 ) .
+Wenn die Situation dagegen als zweite Situation auftrat , zeigte sich ein hochsignifikantes Ergebnis im ChiQuadrat-Test ( χ² (1) = 10.2 , p = .003 ) .
 Abbildung 7 zeigt die Ergebnisse .
 Beim ersten Zeitpunkt geschahen in der Alkoholgruppe 8 Unfälle , in der Placebogruppe 5 .
 Beim zweiten Zeitpunkt waren es 10 Personen in der Alkoholgruppe , aber nur 3 in der Placebogruppe .

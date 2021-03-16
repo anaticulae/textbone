@@ -11,12 +11,12 @@ BERG , Achim ( 2013 ) : BITCOM. Pressekonferenz – Nutzung sozialer Netzwerke i
 BERGHAUS , Margot ( 2004 ) : Luhmann leicht gemacht. Eine Einführung in die Systemtheorie. 2. überarb. und erg. Auflage. Köln : Böhlau .
 BERNAU , Patrick ( 14.1.2008 ) : Selbstdarstellung im Netz. Ich zeige alles von mir. http://www.faz.net/aktuell/wirtschaft/netzwirtschaft/selbstdarstellung-im-netz-ichzeige-alles-von-mir-1512771.html ( Stand : 15.7.2014 ) .
 BLECH , Jörg / Bonstein , Julia et al. ( 2.3.2009 ) : Nackt unter Freunden. http://www.spiegel.de/spiegel/print/d-64385862.html ( Stand : 15.7.2014 ) .
-BLUMBERG , Kerstin / Möhring , Wiebke / Schneider , Beate ( 2009 ) : Risiko und Nutzen der Informationspreisgabe in Sozialen Netzwerken. In : Web 2.0. Neue Kommunikations- und Interaktionsformen als Herausforderung der Medienethik. Zeitschrift für Kommunikationsökologie und Medienethik 11 ( 1 ) ( 2009 ) , S. 16 - 24 .
+BLUMBERG , Kerstin / Möhring , Wiebke / Schneider , Beate ( 2009 ) : Risiko und Nutzen der Informationspreisgabe in Sozialen Netzwerken. In : Web 2.0. Neue Kommunikations- und Interaktionsformen als Herausforderung der Medienethik. Zeitschrift für Kommunikationsökologie und Medienethik 11 (1) ( 2009 ) , S. 16 - 24 .
 BOYD , danah ( 2007 ) : Why Youth ( Heart ) Social Network Sites : The Role of Networked Publics in Teenage Social Life. In : Buckingham , David ( Hg. ) : MacArthur Foundation Series on Digital Learning – Youth , Identity , and Digital Media Volume. Cambridge , MA : MIT Press , S. 1 - 26 .
 BOYD , danah ( 2011 ) : Social Network Sites as Networked Publics. Affordances , Dynamics , and Implications. In : Papacharissi , Zizi ( Hg. ) : A Networked Self. Identity , Community , and Culture on Social Network Sites. New York : Routledge , S. 39 - 58 .
 BURKE , Moira / Marlow , Cameron / Lento , Thomas ( 2009 ) : Feed Me : Motivating Newcomer Contribution in Social Network Sites. In : Proc. CHI 2009 , S. 945 - 995 .
 BUSEMANN , Katrin ( 2013 ) : Wer nutzt was im Social Web? Ergebnisse der ARD/ZDFOnlinestudie 2013. In : Media Perspektiven 8 ( 2013 ) , S. 391 - 399 .
-CHRISTOFIDES , Emily / Muise , Amy / Desmarais , Serge ( 2009 ) . Information Disclosure and Control on Facebook : Are They Two Sides of the Same Coin or Two Different Processes? In : Cyberpsychology & Behavior 12 ( 3 ) ( 2009 ) , S. 341 - 345 .
+CHRISTOFIDES , Emily / Muise , Amy / Desmarais , Serge ( 2009 ) . Information Disclosure and Control on Facebook : Are They Two Sides of the Same Coin or Two Different Processes? In : Cyberpsychology & Behavior 12 (3) ( 2009 ) , S. 341 - 345 .
 CLEMENS , Iris ( 2012 ) : Erziehungswissenschaft als Kulturwissenschaft. Die Potenziale der Netzwerktheorie für eine kulturwissenschaftliche und kulturtheoretische Ausrichtung der Erziehungswissenschaft. https://elearning.unibayreuth.de/course/index.php?categoryid=1491 ( Stand : 19.7.1014 ) .
 DEBATIN , Bernhard / Lovejoy , Jennette P. ( 2009 ) : Facebook and Online Privacy : Attitudes , Behaviors , and Unintended Consequences. In : Journal of ComputerMediated Communication 15 ( 2009 ) , S. 83 - 108 .
 DEY , Ratan / Jelveh , Zubin / Ross , Keith ( 2012 ) . Facebook Users Have Become Much More Private : A Large-Scale Study. 4th IEEE International Workshop on Security and Social Networking ( SESOC ) , Lugano , Switzerland. http://cis.poly.edu/~ratan/facebookusertrends.pdf ( Stand : 15.7.2014 ) .
@@ -31,7 +31,7 @@ GATTERBURG , Angela ( 21.4.2009 ) : Ich bin viele. http://www.spiegel.de/spiegel
 GRAFF , Bernd ( 17.5.2010 ) : Der entblößte Mensch. http://www.sueddeutsche.de/digital/online-netzwerke-der-entbloesste-mensch1.179128 ( Stand : 15.7.2014 ) .
 GREINER , Ulrich ( 27.4.2000 ) : Versuch über die Intimität. http://www.zeit.de/2000/18/200018.intimitaet_.xml ( Stand : 15.7.2014 ) .
 GRIMM , Petra / Zöllner , Olliver ( Hgg. ) ( 2012 ) : Schöne neue Kommunikationswelt oder Ende der Privatheit? Die Veröffentlichung des Privaten in Social Media und populären Medienformaten. Stuttgart : Steiner ( Medienethik , 11 ) .
-GRIMMELMANN , James ( 2008 ) : Facebook and the Social Dynamics of Privacy. In : Iowa Law Review 95 ( 4 ) ( 2008 ) , S. 1 - 52 .
+GRIMMELMANN , James ( 2008 ) : Facebook and the Social Dynamics of Privacy. In : Iowa Law Review 95 (4) ( 2008 ) , S. 1 - 52 .
 GROSS , Ralph / Acquisti , Alessandro ( 2005 ) : Information Revelation and Privacy in Online Social Networks. ( The Facebook Case ) . In : Proc. ACM WPES 2005 , S. 71 - 80 .
 GRUSCHKE , Daniel ( 15.11.2012 ) : Über Post-Privacy. http://www.carta.info/50913/uberpost-privacy/ ( Stand : 15.7.2014 ) .
 HELLER , Christian ( 2011 ) : Post-Privacy. Prima leben ohne Privatsphäre. München : Beck .
@@ -57,7 +57,7 @@ LUHMANN , Niklas ( 2002 ) : Das Erziehungssystem der Gesellschaft. Frankfurt a.M
 LUHMANN , Niklas ( 2004 ) : Die Realität der Massenmedien. 2. Auflage. Wiesbaden : VS Verlag für Sozialwissenschaften .
 LUHMANN , Niklas ( 2005a ) : Soziologische Aufklärung 2. Aufsätze zur Theorie der Gesellschaft. 5. Auflage. Wiesbaden : VS Verlag für Sozialwissenschaften .
 LUHMANN , Niklas ( 2005b ) : Soziologische Aufklärung 5. Konstruktivistische Perspektiven. 3. Auflage. Wiesbaden : VS Verlag für Sozialwissenschaften .
-MARWICK , Alice E. / boyd , danah ( 2011 ) : I tweet honestly , I tweet passionately : Twitter users , context collapse , and the imagined audience. In : New Media & Society 13 ( 1 ) ( 2011 ) , S. 114 - 133 .
+MARWICK , Alice E. / boyd , danah ( 2011 ) : I tweet honestly , I tweet passionately : Twitter users , context collapse , and the imagined audience. In : New Media & Society 13 (1) ( 2011 ) , S. 114 - 133 .
 MÜNKER , Stefan ( 2009 ) : Emergenz digitaler Öffentlichkeiten. Die Sozialen Medien im Web 2.0. Frankfurt a.M. : Suhrkamp .
 O ’REILLY , Tim ( 2007 ) : What is Web 2.0 : Design Pattern and Business Models for the Next Generation of Software. MPRA Paper Nr. 4580 ( communications & strategies , 65 ) , S. 17 - 37 .
 OXFORD Dictionaries ( 2014 ) : Oxford Dictionaries Word of the Year 2013. http://blog.oxforddictionaries.com/press-releases/oxford-dictionaries-word-of-theyear-2013/ ( Stand : 15.7.2014 ) .
@@ -76,10 +76,10 @@ STEGBAUER , Christian ( 2008 ) : Netzwerkanalyse und Netzwerktheorie. Einige Anm
 STEINSCHADEN , Jakob ( 2010 ) : Phänomen Facebook. Wie eine Webseite unser Leben auf den Kopf stellt. Wien : Ueberreuter .
 TADDICKEN , Monika ( 2011 ) : Selbstoffenbarung im Social Web. Ergebnisse einer Internet-repräsentativen Analyse des Nutzerverhaltens in Deutschland. In : Publizistik 56 ( 2011 ) , S. 281 - 303 .
 TADDICKEN , Monika / Schenk , Michael ( 2011 ) : Selbstoffenbarung und Privatsphäre im Social Web. In : Wolling , Jens / Will , Andreas / Schumann , Christina ( Hgg. ) : Medieninnovationen. Wie Medienentwicklungen die Kommunikation in der Gesellschaft verändern. Band 38. Konstanz : UVK ( Schriftenreihe der Deutschen Gesellschaft für Publizistik- und Kommunikationswissenschaft ) , S. 319 - 332 .
-TUFEKCI , Zeynep ( 2008 ) . Can You See Me Now? Audience and Disclosure Regulation in Online Social Network Sites. In : Bulletin of Science , Technology & Society 28 ( 1 ) ( 2008 ) , S. 20 - 36 .
-UTZ , Sonja / Kramer , Nicole C. ( 2009 ) . The privacy paradox on social network sites revisited : The role of individual characteristics and group norms. In : Cyberpsychology : Journal of Psychosocial Research on Cyberspace , 3 ( 2 ) ( 2009 ) . http://www.cyberpsychology.eu/view.php?cisloclanku=2009111001&article=2 ( Stand : 12.7.2014 ) .
+TUFEKCI , Zeynep ( 2008 ) . Can You See Me Now? Audience and Disclosure Regulation in Online Social Network Sites. In : Bulletin of Science , Technology & Society 28 (1) ( 2008 ) , S. 20 - 36 .
+UTZ , Sonja / Kramer , Nicole C. ( 2009 ) . The privacy paradox on social network sites revisited : The role of individual characteristics and group norms. In : Cyberpsychology : Journal of Psychosocial Research on Cyberspace , 3 (2) ( 2009 ) . http://www.cyberpsychology.eu/view.php?cisloclanku=2009111001&article=2 ( Stand : 12.7.2014 ) .
 WANHOFF , Thomas ( 2011 ) : Wa ( h ) re Freunde. Wie sich unsere Beziehungen in sozialen Online-Netzwerken verändern. Heidelberg : Spektrum .
 WATZLAWICK , Paul / Beavin , Janet H. / Jackson , Don D. ( 1969 ) : Menschliche Kommunikation. Formen , Störungen , Paradoxien. Bern etc.: Huber .
 WHITE , Harrison C. ( 2008 ) : Identity and control. How social formations emerge. 2. Auflage. Princeton/Oxford : Princeton University Press .
-WILSON , Robert E. / Gosling , Samuel D. / Graham , Lindsay T. ( 2012 ) : A Review of Facebook Research in the Social Sciences. In : Perspectives on Psychological Science 7 ( 3 ) ( 2012 ) , S. 203 - 220 .
+WILSON , Robert E. / Gosling , Samuel D. / Graham , Lindsay T. ( 2012 ) : A Review of Facebook Research in the Social Sciences. In : Perspectives on Psychological Science 7 (3) ( 2012 ) , S. 203 - 220 .
 ZIMMER , Michael ( 3.2.2014 ) : Mark Zuckerberg’s theory of privacy. http://www.washingtonpost.com/lifestyle/style/mark-zuckerbergs-theory-ofprivacy/2014/02/03/2c1d780a-8cea-11e3-95dd-36ff657a4dae_story.html ( Stand : 15.7.2014 ) .

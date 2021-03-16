@@ -32,7 +32,7 @@ Die inhaltlichen Anforderungen weichen zum Teil von der bisherigen Praxis ab. 14
 Bereits vor der Einführung der E-Bilanz war es wichtig , die Sachverhalte „ zeitnah , vollständig und zutreffend in der ordnungsmäßigen Buchführung “ 16 zu erfassen .
 Bei der elektronischen Datenübermittlung werden die Datensätze einer Prüfung unterworfen .
 Mit Hilfe des Elster-Rich-Clients wird festgestellt , ob die Daten , die weitergeleitet werden , auch rechnerisch richtig sind .
-Bei allen Mussfeldern sind Angaben zu machen . 17 Bislang wurden die Bilanzen sowie die Gewinn- und Verlustrechnungen bei den zuständigen Finanzämtern in Papierform gem. § 60 ( 1 ) Einkommensteuer-Durchführungsverordnung ( EStDV ) eingereicht .
+Bei allen Mussfeldern sind Angaben zu machen . 17 Bislang wurden die Bilanzen sowie die Gewinn- und Verlustrechnungen bei den zuständigen Finanzämtern in Papierform gem. § 60 (1) Einkommensteuer-Durchführungsverordnung ( EStDV ) eingereicht .
 Die Daten der Unternehmen stehen jedoch oftmals schon in digitaler Form zur Verfügung. 18
 Somit wurde im Dezember 2008 das Steuerbürokratieabbauge setz verabschiedet , welches dafür sorgen soll , dass die nationale Steuerbürokratie mit Hilfe von modernen Informationstechnologien mehr abgebaut wird .
 Eine weitere Änderung im Gesetz ist die Erweiterung des § 5 EStG um § 5b EStG. 19 § 5b Abs. 1 EStG besagt , dass Unternehmen die ihren „ Gewinn nach § 4 Abs. 1 , § 5 oder § 5a ermittel [ n ] “ 20 , den „ Inhalt der Bilanz sowie der Gewinn- und Verlustrechnung nach amtlich vorgeschriebenen Datensatz durch Datenübertragung zu übermitteln [ haben ] “ 21 Der Begriff „ Bilanz “ des Satzes 1 wird mit den Sätzen 2 und 3 des § 5b EStG konkretisiert .
