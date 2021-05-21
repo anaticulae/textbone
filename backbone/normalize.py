@@ -9,6 +9,7 @@
 
 import argparse
 import os
+import sys
 
 import knlp
 import utila
@@ -29,7 +30,7 @@ def main():
         content = utila.file_read(path)
         content = modern(content)
         utila.file_replace(path, content)
-    exit(utila.SUCCESS)
+    sys.exit(utila.SUCCESS)
 
 
 def modern(content: str) -> str:
@@ -57,11 +58,10 @@ def sources() -> list:
         if os.path.exists(item):
             if os.path.isfile(item):
                 continue
-            else:
-                utila.error(f'not a file: {item}')
+            utila.error(f'not a file: {item}')
         else:
             utila.error(f'file does not exists: {item}')
         failure = True
     if failure:
-        exit(utila.FAILURE)
+        sys.exit(utila.FAILURE)
     return result

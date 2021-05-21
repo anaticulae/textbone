@@ -16,8 +16,8 @@ import utila
 import backbone.judge
 
 try:
-    import sklearn.feature_extraction.text
-    import sklearn.svm
+    import sklearn.feature_extraction.text  # pylint:disable=C0415,W0611
+    import sklearn.svm  # pylint:disable=C0415,W0611
 except ImportError:
     utila.error('scipy is not installed correctly')
 

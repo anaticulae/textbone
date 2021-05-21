@@ -25,7 +25,6 @@ except ImportError:
     utila.error('scipy is not installed correctly')
 
 
-
 # pylint:disable=C0103
 # pylint:disable=R0914
 def train_slang():
@@ -46,7 +45,7 @@ def train_slang():
     vectorizer = sklearn.feature_extraction.text.CountVectorizer(
         stop_words=stopwords,)
     X_vec = vectorizer.fit_transform(data)
-    X_vec = X_vec.todense()
+    X_vec = X_vec.todense()  # pylint:disable=R0204
 
     tfidf = sklearn.feature_extraction.text.TfidfTransformer()
     X_tfidf = tfidf.fit_transform(X_vec)
