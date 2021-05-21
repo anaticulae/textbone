@@ -2,6 +2,13 @@
 
 Every noteable change is logged here.
 
+## v0.6.4
+
+### Fix
+
+* enable using without scipy (a779a4eb6b0e)
+* upgrade hashes after changing to 64bit python (32b3a4f8a2e9)
+
 ## v0.6.3
 
 ### Fix
