@@ -11,14 +11,19 @@ import pickle  # nosec
 
 import knlp
 import nltk
-import sklearn.feature_extraction.text
-import sklearn.metrics
-import sklearn.model_selection
-import sklearn.svm
 import utila
 
 import backbone.judge
 import judgeddata.data
+
+try:
+    import sklearn.feature_extraction.text
+    import sklearn.metrics
+    import sklearn.model_selection
+    import sklearn.svm
+except ImportError:
+    utila.error('scipy is not installed correctly')
+
 
 
 # pylint:disable=C0103

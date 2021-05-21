@@ -11,14 +11,18 @@ import os
 import pickle  # nosec
 
 import knlp
-import sklearn.feature_extraction.text
-import sklearn.svm
 import utila
 
 import backbone.judge
 
-SLANG_CLASSIFIER: sklearn.svm.SVC = None
-SLANG_VECTORIZER: sklearn.feature_extraction.text.CountVectorizer = None
+try:
+    import sklearn.feature_extraction.text
+    import sklearn.svm
+except ImportError:
+    utila.error('scipy is not installed correctly')
+
+SLANG_CLASSIFIER: 'sklearn.svm.SVC' = None
+SLANG_VECTORIZER: 'sklearn.feature_extraction.text.CountVectorizer' = None
 
 
 def decide(sentence: str) -> float:  # pylint:disable=W0613
@@ -26,17 +30,27 @@ def decide(sentence: str) -> float:  # pylint:disable=W0613
     >>> decide('Ein großartiges Ergebnis')
     0.0
     """
+    slang_classifier, slang_vectorizer = load_slang()
+    normalized = knlp.normalize_sentence(sentence)
+    doc = [normalized]
+    if not slang_vectorizer:
+        return 0.0
+    xnew = slang_vectorizer.transform(doc)
+    xnew = xnew.todense()
+    decided = slang_classifier.predict(xnew)
+    if decided[0] == 1:
+        return 1.0
+    return 0.0
+
+
+def load_slang():
     global SLANG_CLASSIFIER, SLANG_VECTORIZER  # pylint:disable=global-statement
     if SLANG_CLASSIFIER is None:
         assert os.path.exists(backbone.judge.SLANG), (
             f'require slang training {backbone.judge.SLANG}')
         slang = utila.file_read_binary(backbone.judge.SLANG)
-        SLANG_VECTORIZER, SLANG_CLASSIFIER = pickle.loads(slang)  # nosec
-    normalized = knlp.normalize_sentence(sentence)
-    doc = [normalized]
-    xnew = SLANG_VECTORIZER.transform(doc)
-    xnew = xnew.todense()
-    decided = SLANG_CLASSIFIER.predict(xnew)
-    if decided[0] == 1:
-        return 1.0
-    return 0.0
+        try:
+            SLANG_VECTORIZER, SLANG_CLASSIFIER = pickle.loads(slang)  # nosec
+        except ImportError:
+            utila.error('scipy is not installed correctly')
+    return SLANG_CLASSIFIER, SLANG_VECTORIZER
