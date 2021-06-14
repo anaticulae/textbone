@@ -2,6 +2,12 @@
 
 Every noteable change is logged here.
 
+## v0.6.6
+
+### Fix
+
+* adjust trainings data (23245e90de51)
+
 ## v0.6.5
 
 ## v0.6.4
