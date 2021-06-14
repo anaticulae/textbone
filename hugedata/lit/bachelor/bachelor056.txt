@@ -347,20 +347,20 @@ Beim ersten Zeitpunkt geschahen in der Alkoholgruppe 8 Unfälle , in der Placebo
 Beim zweiten Zeitpunkt waren es 10 Personen in der Alkoholgruppe , aber nur 3 in der Placebogruppe .
 Um das Entstehen der Unfälle besser zu verstehen , wurde die Geschwindigkeit unmittelbar vor der kritischen Situation untersucht .
 Dies wurde mit Hilfe einer univariaten Varianzanalyse mit den Faktoren Bedingung und Reihenfolge geprüft .
-Für die Kreuzungssituation zeigt sich kein Haupteffekt der Bedingung ( F₁ , ₄₇ = 2.2 , p = .145 ) , der Reihenfolge ( F₁‚₄₇ = 1.1 , p = .301 ) und kein Interaktionseffekt ( F₁‚₄₇ = 1.1 , p = .292 ) .
+Für die Kreuzungssituation zeigt sich kein Haupteffekt der Bedingung ( F₁ , ₄₇ = 2.2 , p = .145 ) , der Reihenfolge ( F₁ ‚ ₄₇ = 1.1 , p = .301 ) und kein Interaktionseffekt ( F₁ ‚ ₄₇ = 1.1 , p = .292 ) .
 Beide Gruppen fuhren in dieser Situation ähnlich schnell an das Ereignis heran ( EG ̅ = 31.5 km/h ; KG ̅ = 28.8 km/h ) .
-In der Fußgängersituation zeigten sich keine Haupteffekte der Bedingung ( F₁‚₄₇ = .442 , p = .509 ) oder der Reihenfolge ( F₁ , ₄₇ = .06 , p = .806 ) , aber eine signifikante Interaktion ( F₁‚₄₇ = 4.4 , p = .042 ) .
+In der Fußgängersituation zeigten sich keine Haupteffekte der Bedingung ( F₁ ‚ ₄₇ = .442 , p = .509 ) oder der Reihenfolge ( F₁ , ₄₇ = .06 , p = .806 ) , aber eine signifikante Interaktion ( F₁ ‚ ₄₇ = 4.4 , p = .042 ) .
 Abbildung 8 zeigt , dass die Probanden beider Gruppen etwa vergleichbar schnell fuhren , wenn der Fußgänger als erste Situation auftauchte .
 Wenn dieser jedoch erst in der zweiten Situation war , also vorher die Kreuzungssituation erlebt worden war , fuhren die Probanden der Placebogruppe 46.8 km/h , während die Probanden der Alkoholgruppe 50.2 km/h fuhren .
 Damit scheint die Geschwindigkeit vor dem Auftreten der kritischen Situation eine wichtige Rolle zu spielen .
 Um dies zu prüfen wurden für diese Situation , unabhängig von der Bedingung ( EG oder KG ) , die Geschwindigkeiten der Fahrer , die keinen Unfall hatten mit den Unfallfahrern verglichen .
 Wie die Abbildung 9 darstellt , fuhren die Probanden , die einen Unfall verursachten , schneller an die kritische Situation heran ( ̅ = 51 km/h ) , als die Probanden ohne Unfall ( ̅ = 46 km/h ) , unabhängig von dem Zeitpunkt , wann der Fußgänger auftauchte .
 Um zu beurteilen , ob sich die Reaktionszeit unter Alkohol verändert , wurde ebenfalls eine zweifaktorielle Varianzanalyse für jede der beiden Situationen durchgeführt .
-In der Kreuzungssituation zeigte sich kein signifikanter Effekt für die Bedingung ( F₁‚₄₄ = .00 , p = .987 ) .
+In der Kreuzungssituation zeigte sich kein signifikanter Effekt für die Bedingung ( F₁ ‚ ₄₄ = .00 , p = .987 ) .
 Der Unterschied liegt hier nur im Millisekundenbereich ( EG ̅ = 1.86s ; KG ̅ = 1.64s ) .
-Auch für die Reihenfolge der Situation ( F₁‚₄₄ = 2.2 , p = .146 ) und für die Interaktion ( F₁‚₄₄ = 2.5 , p = .119 ) zeigten sich keine deutlichen Effekte .
-Auch in der Fußgängersituation ergab sich kein Effekt für die Bedingung ( F₁‚₄₇ = .047 , p = .498 ) .
-Für die Reihenfolge ( F₁‚₄₇ = .012 , p = .913 ) und die Interaktion ( F₁‚₄₇ = .50 , p = .484 ) waren ebenfalls keine signifikanten Unterschiede erkennbar .
+Auch für die Reihenfolge der Situation ( F₁ ‚ ₄₄ = 2.2 , p = .146 ) und für die Interaktion ( F₁ ‚ ₄₄ = 2.5 , p = .119 ) zeigten sich keine deutlichen Effekte .
+Auch in der Fußgängersituation ergab sich kein Effekt für die Bedingung ( F₁ ‚ ₄₇ = .047 , p = .498 ) .
+Für die Reihenfolge ( F₁ ‚ ₄₇ = .012 , p = .913 ) und die Interaktion ( F₁ ‚ ₄₇ = .50 , p = .484 ) waren ebenfalls keine signifikanten Unterschiede erkennbar .
 Somit liegt kein signifikanter Unterschied der Bremsreaktionszeiten bezogen auf die Bedingung vor .
 Der Unterschied liegt auch wieder nur im Millisekundenbereich ( EG ̅ = 1.021s ; KG ̅ = 1.071s ) .
 Wie oben dargestellt , scheint die Geschwindigkeit direkt vor der kritischen Situation eine wesentliche Rolle bei der Unfallentstehung zu spielen .
