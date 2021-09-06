@@ -1,0 +1,423 @@
+Die voranschreitende Implementierung digitaler Prozesse in der Planung im Bauwesen geht einher mit der Entwicklung komplexer Datenstrukturen .
+Eine Form dieser Datenstrukturen stellt das digitale Bauwerksmodell dar , welches den Kern der modellbasierten Arbeitsweise ( englisch : Building Information Modeling ; Abk . BIM ) darstellt .
+Dabei stellt das Modell die Datenbasis für den aktuellen und alle folgenden Prozessschritte dar und bildet , so weit wie nötig , das real existierende oder zu erschaffende Bauwerk ab .
+Ein solches Modell umfasst geometrische Daten zur Beschreibung der geometrischen Form , sowie nicht-geometrische Daten zur Beschreibung semantischer , physikalischer oder anderer Inhalte .
+Der Umfang und die sich daraus ergebende Komplexität solcher Modelle lässt sich nur beherrschen , indem sie sinnvoll strukturiert werden .
+Mit dem Repräsentationscharakter des digitalen Bauwerksmodells ergibt sich die Strukturierung anhand aller relevanten Einzelteile des abgebildeten Gebäudes , wie zum Beispiel Bauteile und durch sie begrenzte Räume .
+Das eigentliche Ziel des Modells , als Quelle für die Generierung aller für die Umsetzung relevanter Informationen zu dienen , folgt dem Grundsatz , dass das digitale Bauen vor dem realen Bauen zu erfolgen hat .
+Die modellbasierte Arbeitsweise bringt es mit sich , dass das Modell datentechnisch konsistent sein soll , gleichzeitig aber auch die Anforderungen des realen Bauwerks , soweit es digital möglich ist , erfüllt werden müssen .
+Da das Modell entsprechend der üblichen iterativen Arbeitsweise beim Entwurf eines Bauwerks erstellt und verändert wird , stellt dies eine komplexe Aufgabe dar .
+Dies umfasst das Erstellen von Varianten , wie auch das Zurücknehmen von Entscheidungen .
+Sämtliche Arbeitsschritte werden auf Grund von Entscheidungen menschlicher Experten , wie Ingenieure oder Architekten , getroffen .
+Die Entscheidungen im Entwurfsprozess gehen auf Überlegungen der verantwortlichen Experten zurück und bilden die Synthese aus ihnen bekannten Annahmen und Anforderungen an das Bauwerk .
+Die Anforderungen an das Bauwerk sind vielfältig und haben ihren Ursprung in Vorschriften und Normen , baupraktischen Überlegungen , individuellen Projektanforderungen , ästhetischen Ansprüchen , aber auch in den Erfahrungen der Experten .
+Das digitale Modell hat dabei bestimmte Anforderungen zwingend – und andere wenn möglich – zu erfüllen .
+Der Experte hat die Aufgabe , aus diesem Spannungsfeld zwischen zwingenden und möglichen Anforderungen die Randbedingungen abzuleiten und auf deren Basis die Entwurfsentscheidungen zu treffen .
+Er hat diese so im Modell umzusetzen , dass sie – nach seiner Einschätzung – zum gewünschten Ergebnis führen .
+Dieses Prinzip existiert ebenso bei der Entwicklung digitaler Software ( vgl. Berg u. a. , 2009 ) .
+Das digitale Bauwerksmodell selbst wird nach heutigem Stand der Technik , hauptsächlich als aktueller Planungsstand bzw. als das Produkt der durch einen Menschen getroffenen Entscheidungen , betrachtet .
+Die darüberhinausgehende Integration des Wissens und der Überlegungen , welche hinter den Entscheidungen steckt , spielen bisher nur eine begrenzte Rolle , obwohl sich Wissen und Überlegungen aus den Anforderungen als mehr oder weniger exakt formulierte Zwänge und Regeln ergeben .
+Eine typische Form solcher Regeln im Bauwesen ist die Festlegung von Mindest- oder Höchstmaßen unter gegebenen Bedingungen .
+Beispielsweise hat die lichte Breite der Fluchtwege bei bis zu 20 Personen im Einzugsgebiet entsprechend der technischen Regeln mindestens 1,00 m zu betragen ( entnommen aus Bundesanstalt für Arbeitsschutz und Arbeitsmedizin : Ausschuss für Arbeitsstätten ( ASTA ) , 2007 , Tabelle 1 ) .
+Wird nun die lichte Breite als Parameter zwischen begrenzenden Bauteilen des Fluchtwegs aufgefasst , so ist es in aktuell verfügbaren Softwareprodukten zwar möglich , einen konkreten Wert für jeden solchen Parameter der lichten Breite festzulegen , die Information über den möglichen Wertebereich des Parameters wird dadurch nicht abgebildet .
+Dazu kommt zwar die Umsetzung des Prinzips des parametrischen Modellierens , bei dem der Entwurf in Abhängigkeit von bestimmten Parametern beschrieben wird , doch führt dies auf Grund eines fest definierten Konstruktionsplans zu einem steifen Korsett .
+Dieses ist insofern unflexibel , als dass bestimmte Parameter nicht direkt veränderbar sind und nur indirekt über andere Parameter gesteu- ert werden können .
+Damit ergibt sich ein gutes Ergebnis des parametrischen Modellierens durch Versuch und Irrtum .
+Es ist aber im Hinblick auf die Anforderungen nur in wenigen Fällen das beste bzw. optimale Ergebnis , welches möglich wäre .
+Ein solches Vorgehen steht der Idee des Baus eines unter aktuellen Randbedingungen möglichst optimalen Gebäudes entgegen .
+Bei der aktuellen Entwicklung , von einer steigenden Anzahl zu berücksichtigender Anforderungen durch umfangreichere und strengere Bauvorschriften , sowie der Berücksichtigung zusätzlicher Interessen , stellt es eine komplexer werdende Aufgabe dar .
+Dazu machen nachträgliche Änderungen des Entwurfs teure Umplanungen notwendig .
+Aus diesem Grund ist es zu prüfen , in wie weit die Bauwerksmodelle erweitert werden können , dass sie den Menschen bei solchen Aufgaben unterstützen .
+Dies beinhaltet zum einen , dass Entwurfsentscheidungen und die ihnen zugrunde liegenden begründbaren Überlegungen nachvollziehbar im Modell zu finden sind , und zum anderen , dass die Randbedingungen und Zusammenhänge direkt in das Modell integriert werden .
+Beides umfasst die Integration von Entwurfswissen in das Modell auf eine formalisierte Art und Weise und würde es ermöglichen , den Spielraum der möglichen Änderungen eines Modells algorithmisch zu berechnen .
+Es existieren sinnvolle Argumente für die Integration der Überlegungen und Entwurfsentscheidungen .
+Ihre digitale Repräsentation würde zu einer verbesserten Kommunikation und einem verbesserten Arbeiten am digitalen Modell führen ( vgl. Otey u. a. , 2018 ) , da eine erhöhte Nachvollziehbarkeit der Absichten hinter den Entscheidungen möglich wäre ( vgl. Shum u. a. , 1994 ) .
+Die Randbedingungen und Zusammenhänge könnten dazu genutzt werden , Änderungen direkt im Modell umzusetzen , solange alle Zwänge erfüllt wären .
+Auch wiederholt auftretende Muster in Form von wiederauftretenden Anforderungen ließen sich über Projekte hinweg nutzen .
+Insgesamt würde sich die Anzahl der Iterationsschritte im Prozess reduzieren , da direkt bei Ausführung von Änderungen und nicht am Ende eines Iterationsschritts die Einhaltung aller Randbedingungen geprüft würden .
+Die Möglichkeit , das Entwurfswissen in das Modell zu integrieren , zu verarbeiten und auszulesen , würde schlussendlich die Produktivität deutlich erhöhen ( vgl. Pena-Mora u. a. , 1993 ) .
+Die Anforderungen an solche Systeme und die Gründe für ihren sinnvollen Einsatz wurden bereits beschrieben .
+G. Lee u. a . ( 2006 ) bezeichnen die Integration von Entwurfsund Ingenieurwissen als Voraussetzung für leistungsfähige Softwaresysteme .
+Ein solches System nennt Galle ( 1995 ) „ intelligent “ , da es damit möglich ist , bei dem sich weiterentwickelnden Entwurf die semantische Integrität des Modells konsistent zu erhalten .
+Darüber hinaus nennt er die Möglichkeit , dass ein solches „ intelligentes “ System Lösungen zu verschiedenen Aspekten des Entwurfsproblems generieren und vorschlagen kann .
+Eastman , Sacks u. a . ( 2004 ) bezweifeln , dass ein manuelles Erstellen und Platzieren der in die Millionen gehenden Einzelteile eines mittelgroßen Gebäudemodells sinnvoll durchgeführt werden kann .
+Die benötigte Zeit und die Anzahl der gemachten Fehler wäre zu groß .
+Sie fordern daher die Entwicklung geeigneter Softwareprodukte , die den Entwurfsprozess unterstützen .
+Valdes u. a . ( 2016 ) schlagen dazu einen neuartigen Ansatz des Bauwerksentwurfs vor .
+Kern des Ganzen ist eine Systemumgebung , in der Gebäudeanforderungen und Entwurfsspezifikationen definiert und anschließend ausgewertet werden können .
+Dies soll mit der geometrischen Konstruktion gekoppelt werden .
+Der sich ergebende Vorteil wäre die Reduzierung von Fehlern und Erhöhung der Konsistenz der Modelle .
+Auch Bettig , Bapat u. a . ( 2005 ) erkennen , dass aktuelle Softwaresysteme kaum Entwurfswissen integrieren und beschreiben die Vision eines interaktiven Entwurfssystems .
+In diesem könnten die Anforderungen an das Modell während des Entwurfsprozesses durch den Menschen spezifiziert und durch eine Wissensdatenbank ergänzt werden .
+Dabei könnte – bei Änderungen – ein Algorithmus auftretende Probleme unter Berücksichtigung der implementierten Anforderungen lösen .
+Nach Bettig , Bapat u. a . ( eigene Übersetzung 2005 , Seite 8 ) würde dies zu einem neuen Paradigma für die menschlichen Experten , hier genannt „ Designer “ , beim Entwurf der Modelle führen : „ Designer könnten die Anzahl und Varianten von Entwürfen durch das Hinzufügen , Entfernen und Verändern der Entwurfsanforderungen kontrollieren .
+Designer könnten die Entwurfsalternativen untersuchen und durch aktives Anpassen die Grenzen erkennen. “ Die aufgeführten Veröffentlichungen enthalten alle die Forderung nach wissensintegrierenden Systemen für Bauwerksmodelle und machen Vorschläge , wie diese umgesetzt werden könnten .
+Es existiert aber aktuell keine Software , welche die Forderungen weder für einen Teilbereich noch für ein Gesamtsystem ermöglicht .
+Das Ziel dieser Arbeit ergibt sich aus den im vorangegangenen Abschnitt aufgezählten Forderungen an Softwaresysteme bzw. Bauwerksmodelle und die zugehörigen Visionen : Ziel ist die Entwicklung eines Bauwerksmodells mit Fokus auf die Geometrie , welches neben dem konkreten Entwurf das den einzelnen Entwurfsentschei- dungen zugrunde liegende Experten Das Expertenwissen soll bei der Entwicklung eines möglichst optimalen Entwurfs genutzt werden .
+Auf Grund der Komplexität der Aufgabe soll nur ein Teil der Forderungen erfüllt werden .
+Deshalb richtet sich der Fokus der Arbeit ausdrücklich auf das Expertenwissen in Bezug auf die Geometrie und auf die Strukturierung eines Bauwerksmodells .
+Dafür werden zwei Formen des Expertenwissens , die Intervalle in Parametern und die Constraints in das Modell integriert .
+Dies ist zum einen das Prinzip des Mengen-basierten Entwurfs ( englisch : set-based design ) , welcher in den Wertebereichen der Parametern Ausdruck findet .
+Bettig und Kale ( 2012 ) fordern von der nächsten Generation von Software-Systemen für das Modellieren von Geometrie , dass sie speziell Ungleichungen unterstützen , die es ermöglichen , Wertebereiche von Parametern festzulegen .
+Aus diesem Grund wird in dieser Arbeit geprüft , in wie weit dies möglich ist : Zur Beschreibung der gültigen Wertebereiche von numerischen Randbedingungen werden Intervalle genutzt .
+Zum anderen soll das Constraint-basierte Modellieren ( englisch : constraint-based modeling ) verwendet werden , das es ermöglicht , deklarativ und flexibel zu modellieren : Zur Beschreibung der Zusammenhänge zwischen den Einzelteilen des Modells werden sogenannte Constraints ( deutsch : Zwangsbedingungen ) genutzt .
+Beide Konzepte erhöhen die Komplexität eines Bauwerksmodells beträchtlich .
+Der Mehrwert des Konzepts ergibt sich , wenn der Mensch beim Lösen der Entwurfsprobleme unterstützt werden kann .
+Erst damit kann der Rechner zu mehr dienen , als nur zur mathematischen Berechnung und zur Datenspeicherung ( vgl. Vikram u. a. , 2007 ) .
+Dabei stellt die eigentliche Schwierigkeit Constraint-basierter Modelle deren Komplexität und Umfang dar .
+Shah ( 2001 ) fordert deshalb , dass der Mensch wissen muss , welche Änderungen im System unter den aktuell gesetzten Constraints möglich sind .
+Es stellen sich folgende Fragen : Wie kann effzieint und gezielt eine sinnvolle Lösung gefunden und ausgewählt werden , wenn im Modell – unter den gegebenen Anforderungen – eine große Anzahl Lösungen existiert ?
+Wie können die verbliebenen Möglichkeiten in Form der möglichen Werte der Parameter des Modells bestimmt werden ?
+Diese Arbeit gehört ausdrücklich nicht zu den Bereichen des maschinellen Lernens ( englisch : machine learning ) bzw. der Parameterstudien .
+Sie betrachtet keine Algorithmen , die nach heuristischen Prinzipien ablaufen .
+Ebenso wenig werden über mehrere Durchläufe Eingangsdaten variiert und das Ergebnis statistisch ausgewertet , wie es beispielsweise bei der Optimierung in der generativen Gestaltung ( engl . generative design ) der Fall ist .
+Dies bedeutet , dass alle Algorithmen in dem durch das Expertenwissen im Bauwerksmodells spezifizierten Rahmen keinen möglichen gültigen Entwurf ausschließen dürfen .
+Zur Erreichung der Ziele dieser Arbeit werden verschiedene Forschungsgebiete betrachtet und die auf diesen Gebieten entwickelten Ansätze und gewonnenen Erkenntnisse zusammengeführt .
+Die einbezogenen Forschungsgebiete sind : CAD-Modellierung : Der rechnergestützte Entwurf beinhaltet die Beschreibung und den Aufbau von Objekten auf geometrischer Grundlage für architektonische oder ingenieurtechnische Anwendungen .
+Constraint-basiertes Modellieren von Geometrie : Umfasst das Paradigma , Geometrie auf Basis von Constraints zu beschreiben .
+Da die Durchführung der Berechnung eines Entwurfs mit Constraints nur in wenigen Fällen trivial ist , existiert dazu eine Vielzahl an Untersuchungen .
+Mengen-basierter Entwurf : Ist ein Ansatz mit Ursprüngen im Automobilbau und stellt die Idee dar , im Entwicklungsprozess die Entwurfsparameter so spät wie möglich einzuschränken , damit keine sinnvolle Lösung zu früh ausgeschlossen werden kann .
+Intervall-Methoden : Auf Grundlage der mathematischen Beschreibung von Zahlen als Menge eines Zahlenraums können Constraint-Systeme beschrieben und berechnet werden .
+Die dafür entwickelten Algorithmen unterteilen sich in Optimierungs- und Suchverfahren .
+Im Zuge der Forschungen für diese Arbeit wurden zwei Untersuchungen veröffentlicht .
+Diese Veröffentlichungen enthalten bereits Grundideen , gehen aber von stark vereinfachten Randbedingungen aus .
+Die darin gewonnenen Erkenntnisse finden sich auch in dieser Arbeit wieder .
+In der ersten Untersuchung ( Kirchner , Huhnt u. a. , 2016 ) , wird die Forderung nach korrekten Geometrie-Objekten aufgestellt , die bei nachträglichen Änderungen ein nachvollziehbares Verhalten zeigen .
+Dies wird für den stark vereinfachten Fall untersucht , wenn die Beziehungen zwischen Objekten ausschließlich in einer Achsrichtung definiert werden können und die Geometrie-Objekte in einer einfachen raumzerlegenden Datenstruktur definiert sind .
+Dass dies unter den gegebenen Vereinfachungen möglich ist , wird in einer prototypischen Implementierung gezeigt .
+Die Vorzüge von Berechnungen mit Intervallen bei der geometrischen Modellierung wird bereits in der zweiten Untersuchung ( Kirchner und Huhnt , 2018 ) erkannt .
+Dabei ist es möglich , beliebige nichtlineare arithmetische Ausdrücke auszuwerten .
+Die Vereinfachung liegt darin , dass keine Zyklen bei der Berechnung auftreten dürfen , was zwingend eine Baumstruktur des Constraint-Graphen voraussetzt .
+Das Bild der geprägten Begriffe , welches sich bei der Bearbeitung des Themas ergibt , ist schwierig , da diese teilweise nicht eindeutig definiert und unterschiedlich verwendet werden .
+Es finden sich beispielsweise einzelne Begriffe , welche in unterschiedlichen Quellen und Domänen abweichend definiert sind .
+Dies geht soweit , dass solche Begriffe vollkommen gegensätzlich definiert und gebraucht werden .
+Andere Begriffe werden pauschal verwendet und nicht detaillierter definiert .
+Auch werden teilweise für denselben Sachverhalt eine Vielzahl von Begriffen geprägt .
+Trotz des Vorhandenseins von zusammenfassenden Veröffentlichungen und Büchern führender Experten ergibt sich daraus ein unbefriedigendes Gesamtbild , welches den tieferen Blick in die Thematik erschwert .
+Diese Kritik soll als Anregung verstanden werden , zukünftig Anstrengungen zur Verbesserung der Situation zu unternehmen .
+Die in dieser Arbeit verwendete Fachterminologie wird , so weit möglich , in deutscher Sprache geführt .
+Dazu gehört beispielsweise die konsequente Nutzung des deutschen Begriffs Entwurf für den englischen Begriffdesign in allen Kombinationen .
+Zur Identifikation der Begriffe in dem fast vollständig englischsprachigen Forschungsbereich werden bei deren Erstnennung zusätzlich die englische Entsprechung und gegebe- nenfalls deren Abkürzung genannt .
+Es existieren wenige , aber gewichtige Ausnahmen , wie zum Beispiel der BegriffConstraint , bei dem umgekehrt verfahren wird .
+Dies geschieht , da nach Meinung des Autors entweder der englische Begriffso dominant und präzise für die behandelte Domäne ist , oder eine deutsche Entsprechung nicht existiert , und eine Eigenübersetzung zu starken Eigenheiten mit sich bringen würde .
+Dies wird ebenfalls bei Abkürzungen angewendet , die fast ausschließlich auf der englischen Terminologie basieren .
+Bei der Zahlendarstellung von Dezimalzahlen , wird auf die in der Informatik übliche Schreibweise , mit einem . ( Punkt ) als Dezimaltrenner zurückgegriffen .
+Dies vereinfacht die eindeutige Darstellung bei den in dieser Arbeit verwendeten Intervallen , in denen das Trennzeichen zwischen der oberen und unteren Grenze ein , ( Komma ) darstellt .
+Nach diesem Einführungskapitel , in welchem die Motivation und die Ziele der Arbeit herausgestellt wurden , gliedert sich die Arbeit folgendermaßen .
+In Kapitel 2 werden Definitionen zur Beschreibung von Modellen und der Unterscheidung von Regeln und Constraints gegeben .
+Es werden anschließend die Grundlagen des Constraint-basierten Modellierens und der sich daraus ergebenden Probleme vorgestellt .
+Zusätzlich werden die im weiteren Verlauf der Arbeit vorausgesetzten Grundlagen über den Aufbau und die Eigenschaften der geometrischen Modelle des Solid Modelings näher erläutert .
+Das Ziel der Wissensintegration speziell für die Geometrie von Bauwerksmodellen erfordert , die einzelnen Bestandteile solcher Modelle näher zu erläutern .
+Dafür wird in Kapitel 3 das Prinzip erläutert , welche Formen von Wissen in digitale Modelle integriert werden können und wie sich daraus ein entsprechendes Expertensystem ergibt .
+Anschließend wird das digitale Bauwerksmodell , dessen Aufbau und seine Bestandteile bzw. verschiedenen Aspekte , analysiert und veranschaulicht .
+Es wird dazu auch der Bezug zum Mengen-basierten Entwurf hergestellt , welcher das übergeordnete Prinzip darstellt , wie mit Modellen mit integriertem Wissen zu arbeiten ist .
+Die Frage nach den Formen des Modellierens von Geometrie , und wie dabei Wissen integriert werden kann , wird in Kapitel 4 betrachtet .
+Dazu wird der Stand der Technik und der Forschung im Bereich der Modelle des Computer-Aided Designs ( CAD ) wiedergegeben .
+Insbesondere das Prinzip des parametrischen Modellierens und der Probleme von Lösungsverfahren beim Constraint-basierten Modellieren von Geometrie werden näher erläutert .
+Dabei werden speziell die Ermittlung gültiger Parameterbereiche und die Suche nach Entwürfen betrachtet , die der Idee bzw. der Absicht des Menschen nahekommen .
+Es wird anschließend auf die Forschungen in Bezug auf das Bauwesen im Bereich der Modellierung von Geometrie eingegangen , insbesondere auf das Constraint-basierte Modellieren .
+Die Ergebnisse der Betrachtung des aktuellen Entwicklungsstands zu diesem Thema werden diskutiert und daraus die weiteren Untersuchungen für diese Arbeit abgeleitet .
+Dabei wird die numerische Berechnung von Constraint-Systemen auf Basis von Intervallen für die Geometrie für die weitere Untersuchung ausgewählt .
+Die Berechnung auf Grundlage von Intervallen und deren Anwendung auf das Modellieren und Lösen von Constraint-Systemen wird in Kapitel 5 erläutert .
+Dabei werden die Möglichkeiten und Grenzen verfügbarer Algorithmen zur Ermittlung gültiger Parameterbereiche , der Optimierung und Lösungsfindung , genauer beschrieben .
+In Kapitel 6 wird ein Modell vorgestellt , welches im Zuge dieser Arbeit entwickelt wurde .
+Dieses beinhaltet die Geometrie von Bauteilen und ähnlichen Entitäten .
+Dabei wird das Wissen auf Basis von Constraints und Intervallen strukturiert in das Modell integriert .
+Wie das in das Modell integrierte Wissen ausgewertet werden kann , wird anhand einer prototypischen Implementierung vorgestellt .
+Diese wird in Kapitel 7 beschrieben .
+Dabei werden bekannte Algorithmen aus dem Bereich der Optimierungsverfahren auf Basis von Intervallen genutzt , um mögliche Parameterbereiche und möglichst geometrisch naheliegende Lösungen zu berechnen .
+Die Möglichkeiten der prototypischen Implementierung werden in Kapitel 8 an Beispielen gezeigt und bewertet .
+Die Arbeit wird mit einer Zusammenfassung , einem Fazit und einem Ausblick in Kapitel 9 abgeschlossen .
+In diesem Kapitel werden Begriffe definiert , die im Verlauf dieser Arbeit wiederholt Verwendung finden .
+Außerdem werden Grundlagen zum Constraint-basierten Modellieren und der Modellierung von geometrischen Körpern erläutert , die in den folgenden Kapiteln vorausgesetzt werden .
+Modelle zur Beschreibung von Sachverhalten besitzen Merkmale , die sich von anderen Modellen dieser Art unterscheiden .
+Da es in verschiedenen Domänen und auf Grund des Kontexts zu einer Verwendung von Synonymen zur Beschreibung von Modellen kommen kann , obwohl diesen unterschiedliche Konzepte zugrunde liegen , ist es notwendig , grundlegende Typen von Modellen festzulegen .
+Auf diese Weise ist eine eindeutige Beschreibung möglich , und an entsprechender Stelle kann auf Analogien Bezug genommen werden .
+Für die Repräsentation eines Modells zur Beschreibung eines Sachverhalts lassen sich zwei Formen unterscheiden .
+Definition 2.1.1 ( explizites Modell ) .
+Ein explizites Modell ( englisch : explicit model ) repräsentiert eindeutig die Lösung eines Problems in Form von Daten , die ohne weitere Berechnungen abgerufen werden können .
+Dabei muss die Struktur des Problems nicht mitabgebildet werden .
+Definition 2.1.2 ( implizites Modell ) .
+Ein implizites Modell ( englisch : implicit model ) repräsentiert ein Problem durch Beschreibung der Struktur des Problems .
+Mögliche Lösungen sind dabei algorithmisch zu ermitteln .
+Eine Lösung eines impliziten Modells ist ein ausgewertetes Modell ( englisch : evaluated model ) .
+Dieses gehört wiederum zu den expliziten Modellen .
+Für implizite Modelle existieren zwei mögliche Paradigmen : imperative Schemata und deklarative Schemata .
+Definition 2.1.3 ( imperatives Schema ) .
+Ein imperatives Schema ( englisch : imperative scheme ) stellt das Problem und die Lösung in einer strukturieren Form dar , sodass die Reihenfolge der einzelnen Lösungsschritte klar definiert ist .
+Existiert mindestens eine Lösung , kann eine solche durch serielle Bearbeitung der einzelnen Schritte gefunden werden .
+Definition 2.1.4 ( deklaratives Schema ) .
+Ein deklaratives Schema ( englisch : declarative scheme ) stellt das Problem in einzelnen , beschreibenden Aussagen dar , deren Reihenfolge nicht klar definiert sein muss .
+Existiert mindestens eine Lösung , kann diese gegebenenfalls nur durch komplexe Lösungsverfahren gefunden werden .
+In dieser Arbeit wird streng zwischen den Begriffen Regel und Constraint unterschieden .
+Dies ist notwendig , da sich nur durch diese Unterscheidung verschiedene Konzepte erklären lassen .
+Definition 2.2.1 ( Regeln ) .
+Regeln bestehen aus einer Bedingung für Eingangsgrößen ( englisch : input ) und einem eindeutigen Ergebnis ( englisch : output ) in Form von Ausgangsgrößen .
+Das Ergebnis kann unabhängig von anderen Regeln jederzeit bestimmt werden , wenn die Eingangsgrößen vollständig bekannt sind .
+Das Ergebnis kann dabei in einfachster Form eine Aussage der Gestalt Wahr oder Falsch sein , wie zum Beispiel „ Ist der Flur exakt 3 m breit ? “ .
+Komplexere Regeln können Konstruktionsregeln sein , wie zum Beispiel „ Sind die Punkte P1 und P2 vorhanden , erzeuge eine Linie zwischen ihnen “ .
+Regeln sind dabei vergleichbar mit der Kontrollstruktur aus Programmiersprachen : der bedingten Anweisung ( englisch : if-then-else-expression ) .
+Definition 2.2.2 ( Constraints ) .
+Constraints ( deutsch : Zwangsbedingungen ) stellen im Gegensatz zu Regeln eine Beschreibung dar , die etwas einschränkt .
+Dabei ist etwas constraint , wenn es durch mindestens eine Constraint eingeschränkt wird .
+Ihre Aussagen entsprechen dabei der Prädikatenlogik der ersten Stufe ( vgl. Ebbinghaus u. a. , 2018 , Seite 15 ) .
+Bei Constraints ist es immer möglich , die Negation der Aussage als Umkehrschluss abzuleiten .
+Dadurch muss bei der Auswertung von Constraints nicht zwischen Eingangsgrößen und Ausgangsgrößen unterschieden werden .
+Wenn die Eingangsgrößen vollständig bekannt sind , ist es jederzeit möglich zu prüfen , ob die Aussage erfüllt und die Constraint damit valide ist .
+Ist die Aussage nicht erfüllt , gilt die Constraint als verletzt .
+Fasst man Regeln und Constraints als Relationen zwischen Objekten auf , so sind Regeln bei der Auswertung unidirektional , während Constraints bidirektional interpretiert werden können .
+Dadurch bietet die Verwendung von Constraints deutlich mehr Möglichkeiten und Flexibilität als Regeln bei der Modellierung von Systemen .
+Je nach Struktur des Problems fällt die Auswertung von Constraints deutlich komplexer aus .
+Dies wird im folgenden Abschnitt genauer erläutert .
+Das Constraint-basierte Modellieren ist die Beschreibung eines Problems durch Aufbau eines Constraint-Systems .
+Definition 2.3.1 ( Constraint-System ) .
+Ein Constraint-System besteht aus folgenden Teilen : Die reine Beschreibung des Problems in Form eines Constraint-Systems ist deklarativ , sodass sich die Lösungen für dieses Problem nicht direkt bestimmen lassen .
+Da , die Bestimmung der Lösung ausschließlich in bestimmten Fällen trivial ist , wird das Problem als Constraint-Satisfaction-Problem bezeichnet .
+Definition 2.3.2 ( Constraint-Satisfaction-Problem ) .
+Das Constraint-Satisfaction-Problem ( deutsch : Bedingungserfüllungsproblem ; Abkz .
+CSP ) beschreibt die Schwierigkeit , einen bzw. die Zustände eines Constraint-Systems zu finden , für die alle Constraints gleichzeitig erfüllt bzw. valide sind .
+Es existieren verschiedene Arten des CSPs .
+In dieser Arbeit werden Numerische Constraint-Satisfaction-Probleme ( NCSP ) , geometrische Constraint-Satisfaction-Probleme ( GCSP ) ( siehe Abschnitt 4.3.4 ) und Intervall-Constraint-Satisfaction-Probleme ( ICSP ) ( siehe Abschnitt 5.4.2 ) eingeführt .
+Der Zusammenhang der verschiedenen CSP-Arten ist in Abbildung 2.1 abgebildet .
+Definition 2.3.3 ( Numerisches Constraint-Satisfaction-Problem ) .
+Ein numerisches Constraint-Satisfaction-Problem ( NCSP ) stellt eine spezielle Form des CSPs dar .
+Das numerische Constraint-System ( NCS ) selbst besteht aus den Variablen und Gleichungen und gegebenenfalls Ungleichungen in einem Gleichungssystem .
+Ein CSP kann auf Basis der Anzahl der möglichen Lösungen & # 119897 ; unterschieden werden : Ein Constraint-System ist überbestimmt ( englisch : over-constraint ) , wenn keine Lösung möglich ist : & # 119897 ; = 0 .
+Das bedeutet , es existiert mindestens ein Widerspruch durch Verletzung einer oder mehrerer Constraints .
+Wohlbestimmung Ein Constraint-System ist wohlbestimmt ( englisch : well-constraint ) , wenn exakt eine Lösung möglich ist : & # 119897 ; = 1 .
+Unterbestimmung Ein Constraint-System ist unterbestimmt ( englisch : under-constraint ) , wenn mehr als eine Lösung möglich ist : & # 119897 ; > 1 .
+Darüber hinaus ist zu unterscheiden , ob es sich in einem unterbestimmten CSP um eine begrenzte Anzahl disjunkter Einzellösungen handelt , oder kontinuierliche Lösungen vorhanden sind .
+Kontinuierliche Lösungen zeichnen sich dadurch aus , dass sie eine unbegrenzte Anzahl an nicht-disjunkten Einzellösungen enthalten .
+Es sei hiermit darauf hingewiesen , dass abweichende Definitionen der Bestimmtheit existieren : Die Software bzw. der Algorithmus , der ein Lösungsverfahren implementiert bzw. darstellt , wird als Löser ( englisch : solver ) bezeichnet .
+Es existieren dabei folgende Grundstrategien für effzieinte Solver , welche üblicherweise kombiniert werden ( nach Kelleners , 1999 , Seite 13-15 ) : Problemreduktion : Verkleinerung des zu prüfenden Bereichs durch Ausschließen von redundanten Werten oder Werten , die zu keiner Lösung führen .
+Baumsuche : Durchsuchen des Lösungsraums , in dem für einzelne Variablen der Wertebereich zerlegt wird und anschließend nur die Teilbereiche durchsucht und gegebenenfalls wieder zerlegt werden .
+Lösungssynthese : Schrittweises Erzeugen der Lösung auf konstruktive Art durch Ausnutzung der Struktur des CSPs .
+Die Fragestellungen , die bei einem CSP beantwortet werden können , unterteilen sich in folgende Klassen ( nach Kelleners , 1999 , Seite 15-16 ) : Einzelsuchproblem : Das Finden einer Lösung , die alle Constraints erfüllt .
+Suche aller Lösungen : Das Finden aller Lösungen , die jeweils alle Constraints für sich erfüllen .
+Optimierungsproblem : Das Finden der besten Lösung in Bezug auf eine vordefinierte Zielfunktion .
+Überbestimmtes Problem : Für den Fall , dass keine Lösung möglich ist , das Finden einer Pseudolösung , die einer eigentlichen Lösung möglichst „ nahe “ kommt .
+Die Fragestellungen resultieren in teilweise sehr unterschiedlichen Vorgehensweisen und Laufzeiten .
+Es ist daher immer zu prüfen , welche ingenieurtechnische Fragestellung welcher Klasse an CSP-Fragestellungen zuzuordnen ist .
+In dieser Arbeit wird keine Suche von Lösungen für überbestimmte Probleme behandelt , da davon ausgegangen wird , dass sich der Suchraum ausschließlich aus den vorhanden Constraints ergibt .
+Zur Darstellung und Analyse von Constraint-Systemen existieren – in Abhängigkeit von der Art des beschriebenen Problems – verschiedene Möglichkeiten .
+Eine grundlegende Form ist der Constraint-Graph .
+Definition 2.4.1 ( Constraint-Graph ) .
+Handelt es sich ausschließlich um einstellige ( eine Constraint beschränkt genau ein Objekt ) oder zweistellige Constraints ( eine Constraint beschränkt genau zwei Objekte ) , so handelt es sich um einen einfachen Graphen .
+Bei höherwertigen Constraints ( mehr als zwei beschränkte Objekte ) handelt es sich um einen Hypergraphen ( vgl. Freuder und Mackworth , 2006 , Seite 14 ) .
+Jede Kante verbindet dabei eine Constraint mit einem von ihr beschränkten Objekt ( vgl. Jermann u. a. , 2006 ) .
+Eine spezielle Form des Constraint-Graphen bei NCSP ist der Gleichungsgraph .
+Dabei handelt es sich bei den Constraints um Gleichungen und bei den beschränkten Objekten um Variablen in diesen Gleichungen ( vgl. Jermann u. a. , 2006 ) .
+Ein einzelner Körper ist eine abgeschlossene , dreidimensionale , volumetrische Form , die im Sinne des Modells als gesondert von den anderen Körpern betrachtet wird .
+Die Einteilung in einzelne Körper kann beispielsweise auf Basis von physischem Material geschehen .
+So können Ortbeton und die Bügel des Bewehrungsstahls in einer Betonwand einzelne Körper darstellen .
+Auch andere Einteilungen , beispielsweise auf Basis von Prozessen , ist möglich .
+So kann die Geometrie eines großen Betonfundaments , entsprechend der Fertigungsabschnitte in einzelne Körper zerlegt werden .
+Die geometrischen Beschreibungsformen solcher ( Fest- ) Körper , ( englisch : solids ) , ihre Erstellung und das Arbeiten mit ihnen werden unter dem BegriffSolid Modeling ( deutsch : Festkörper-Modellierung ) zusammengefasst .
+Durch die teils widersprüchliche oder synonyme Verwendung von Begriffen für die Taxonomie der Repräsentationen ist eine klare begriffichle Unterscheidung notwendig .
+Beispielsweise bezeichnet Hillyard ( 1982 , Seite 44 ) die Begriffe „ unevaluated , implicit , direct or algorithmic schemes “ als Synonyme .
+Das Ziel des Solid Modelings ist die Beschreibung valider Körper als eindeutige Teilmenge des dreidimensionalen Raums .
+Für die Validität kann dabei zwischen der Abgrenzung zum Raum außerhalb und der eindeutigen Belegung des Raums innerhalb eines Körpers unterschieden werden .
+Daraus ergeben sich angelehnt an Mäntylä ( nach 1988 , Abschnitt 6.3 ) folgende Kriterien : Wasserdichtigkeit : ( auch „ geschlossene Haut “ ) Die Teilmenge des Raums muss eindeutig von dem nicht zugehörigen Raum abgegrenzt sein .
+Überschneidungsfreiheit : Die Referenzierung von zugehörigen Teilen des Raums erfolgt eineindeutig .
+Das bedeutet , jeder Teil des Raums ist genau einmal von der Repräsentationsbeschreibung zu referenzieren .
+Wird der zu beschreibende Körper als Teilmenge des dreidimensionalen euklidischen Raums aufgefasst , ergeben sich folgende mathematischen Konzepte der Beschreibung ( nach Mäntylä , 1988 , Abschnitt 3.4 - 3.5 ) : Direkte Mengenbeschreibung : In der Literatur auch als Point-set models bekannt .
+Dabei wird die Teilmenge des Raums als vollständige Punktmenge beschrieben .
+Indirekte Mengenbeschreibung : In der Literatur auch als Surface-Set Models bekannt .
+Dabei erfolgt die Beschreibung der Menge indirekt über die topologische Oberfläche .
+Hierbei ist zu beachten , dass eine Orientierung notwendig ist , die eindeutig festlegt , auf welcher Seite der Oberfläche sich die zu beschreibende Menge befindet .
+Darüber hinaus ist zu unterscheiden , ob alle benötigten Teilmengen , unabhängig davon , ob sie eine direkte oder indirekte Mengenbeschreibung ermöglichen , vollständig als explizites Modell ( siehe Definition 2.1.1 ) vorliegen , oder , weil dies nicht möglich bzw. vorgesehen ist , als implizites Modell ( siehe Definition 2.1.2 ) .
+Ein implizites Schema wird üblicherweise dann verwendet , wenn ein explizites Schema sehr kompliziert zu bilden oder speicherintensiv ist .
+Dabei liegen alle benötigten Teilmengen nicht explizit vor .
+Stattdessen ist eine Erzeugungsvorschrift enthalten , die den Lösungsweg darstellt ( vgl. VDI 2209 , Seite 25 ) .
+Dafür kann die Zugehörigkeit zur Teilmenge des Körpers oder seiner Oberfläche eindeutig abgeleitet werden .
+Dies wird in der Literatur auch als konstruktiv oder prozedural beschrieben ( vgl. ISO 10303-55 , Definition 4.2 ) .
+Grundsätzlich existieren drei Hauptklassen , in die sich die Arten der Repräsentationen zuordnen lassen , welche individuelle Vor- und Nachteile mit sich bringen ( vgl. Mäntylä , 1988 , Kapitel 4-6 ; Shah und Mäntylä , 1995 , Seite 52-53 ) : Zerlegungsmodelle : Der Körper als Teilmenge des Raums wird direkt beschrieben , indem benachbarte , vorher fest defini Die Raumeinheiten können den Raum gleichmäßig wie ein reguläres Gitter zerlegen .
+Die Blöcke , sogenannte Voxels , besitzen dabei identische Form und Größe .
+Sind die zusammenhängenden Raumeinheiten unregelmäßig , so handelt es sich um eine zelluläre Zerlegung , wie sie in der FEM ( Finite Elemente Methode ) für die Repräsentation der Netze genutzt wird .
+Bei der rekursiven Zerlegung des Raums ( englisch : space subdivision ) werden Datenstrukturen wie zum Beispiel der Octreegenutzt um Raumeinheiten zu repräsentieren , die der Teilmenge des Körpers zugeordnet werden können .
+Form und Größe der Raumeinheiten sind entsprechend der Datenstruktur der Raumzerlegung definiert .
+Konstruktive Modelle : Konstruktive Modelle sind implizit mit einem üblicherweise imperativen Schema ( siehe Definition 2.1.3 ) , finden sich aber auch unter den Synonymen prozedurale oder generative Konstruktionsgeschichten-Modelle ( vgl. ISO 10303- 108 , Abschnitt 4.2 ) ( vgl. VDI 2209 , Seite 25 ) ( vgl. Mäntylä , 1988 , Kapitel 5 ; Shah und Mäntylä , 1995 , Bei konstruktiven Modellen wird die Teilmenge des Körpers auf Basis von vordefinierten Teilmengen ( Primitiven oder Sketches ) und deren Kombination oder Manipulation durch Konstruktions-Operatoren beschrieben .
+Vordefinierte Teilmengen können dabei vorgefertigte geometrische Primitive , wie zum Beispiel Würfel , Kugel , etc. , sein .
+Alternativ dazu können Sketches ( deutsch : Zeichnungen oder Skizzen ) in Form von meist zweidimensionalen , zusammengesetzten Formen , wie zum Beispiel Polygonen , genutzt werden .
+Dabei steht für die reine Repräsentation im Vordergrund , dass die Operatoren für die Auswertungen der Geometrie genutzt werden und nicht für die Erzeugung anderer Repräsentationen .
+Durch die Operatoren ist es nicht notwendig , die gesamte Teilmenge des Raums , die der Körper einnimmt , vorzuhalten , was gegebenenfalls auch nicht gewollt oder möglich ist .
+Beispiele für Konstruktions-Operatoren sind Boolesche Mengenoperatoren ( Vereinigung , Schnitt , Differenz ) oder translationales Sweeping , bei dem eine zweidimensionale Form beschreibende Menge entlang einer Raumkurve „ gezogen “ wird .
+Die Umsetzung eines rein konstruktiven Modells ist beispielsweise die Constructive Solid Geometry ( CSG ) .
+Dabei wird eine Binärbaumstruktur aufgebaut .
+In den Blättern finden sich definierte Mengen in Form von dreidimensionalen Primitiven .
+Die Knoten des Baums repräsentieren Boolesche Mengenoperatoren , welche die jeweiligen Unterbäume kombinieren .
+Eigenschaften , bzw. Vor- und Nachteile des CSG , werden von Hillyard ( 1982 , Seite 44 ) und Mäntylä ( 1988 , Abschnitt 5.24 ) genauer beschrieben .
+Eine neuere Variante der konstruktiven Modelle sind die sogenannten Sweeps oder Swept Surfaces , bei denen die eigentliche Operation aus einer zweidimensionalen Form einen dreidimensionalen Körper formt ( vgl. VDI 2209 , Seite 262 ) .
+Berandungsmodelle : Diese Modelle werden auch als Boundary representation ( deutsch : Begrenzungsflächenmodell ; Abk . B-rep ) bezeichnet .
+Die Beschreibung der Teilmenge des Raums erfolgt indirekt über den Rand als Zusammenfassung der gesamten Oberfläche eines Körpers .
+Der Rand eines Körpers ist dabei eine Menge von Randobjekten der zweiten Dimension , den Faces ( deutsch : Facetten ) ( vgl. Mäntylä , 1988 , Abschnitt 6.1 ) .
+Da es sich grundsätzlich um eine indirekte Mengenbeschreibungen handelt , besitzt jede Face eine Orientierung .
+Die Orientierung dient dazu , Außenund Innenraum des Körpers strikt voneinander zu unterscheiden .
+Die Ränder der Faces können dabei rekursiv betrachtet jeweils in um eine Dimension reduzierte Randobjekte zerlegt werden ( vgl. Hoffmann und Rossignac , 1996 ) .
+Dies kann auch als ein hierarchisches Modell aufgefasst werden , in dem höher-dimensionale Randobjekte durch eine Anzahl niederdimensionaler Randobjekte repräsentiert werden .
+Für dreidimensionale Körper sind die sich ergebenden topologischen Objekte in Tabelle 2.1 dargestellt .
+Tabelle 2.1 : Topologischen Objekte einer Boundary representation , entsprechend ihrer Dimension , mit deutscher und englischer Bezeichnung In der einfachsten Ausprägung sind B-rep-Modelle „ Polygon-basierte Berandungsmodelle ” .
+Dabei wird der Rand ausschließlich aus einer Menge planarer Polygone beschrieben , welche die Koordinaten der Eckpunkte geordnet speichern ( vgl. Mäntylä , 1988 , Abschnitt 6.2.1 ) .
+Dies ist für Visualisierungszwecke ausreichend .
+Die Prüfung , ob zwei Polygone eine gemeinsame Kante besitzen , ist ausschließlich auf geometrischer Ebene möglich , indem die numerischen Werte der Koordinaten verglichen werden .
+In den sogenannten Eckpunkt-basierten Modellen werden von den Polygonen die Koordinaten tragenden Eckpunkte referenziert ( vgl. Mäntylä , 1988 , Abschnitt 6.2.2 ) .
+Dadurch wird der topologische Zusammenhang der Faces festgehalten .
+Deutlich versiertere Formen stellen die Kanten-basierten Berandungsmodelle dar , in denen die vollständige topologische Hierarchie von der 3. bis zur 0 .
+Dimension objektorientiert abgebildet wird ( Mäntylä , 1988 , Abschnitt 6.2.3 ) .
+Ein Beispiel für kantenbasierte Modelle ist die Half-Edge Datenstruktur ( vgl. Mäntylä , 1988 , Kapitel 10 ; Shah und Mäntylä , 1995 , Anhang B ) .
+Berandungsmodelle haben gegenüber den anderen Repräsentationen direkte Vorteile .
+Beispielsweise ist für das Darstellen ( englisch : rendering ) von Geometrie im Rechner die explizite Beschreibung in Form einer B-rep die vorgeschriebene Form der verfügbaren Grafikschnittstellen ( vgl. Mäntylä , 1988 , Abschnitt 2.4.4 ) .
+Aus diesem Grund sind indirekte Beschreibungen zur Darstellung erst in eine B-rep zu konvertieren .
+Die Konversion der einzelnen Repräsentationsformen ist dabei möglich , aber selten trivial .
+Hoffmann ( 2004 ) nennt speziell CSG zu B-rep als durchführbar , die Gegenrichtung nur in bestimmten Fällen .
+Dies ist speziell notwendig für duale Modelle , in denen zusätzlich zur führenden indirekten Beschreibung eine jederzeit darauf basierende B-rep vorgehalten wird ( vgl. ISO 10303-55 , Abschnitt 4.2.4 ) .
+Werden implizite und explizite Schemen kombiniert , spricht man von einem Hybriden Modell ( ISO 10303-55 , Abschnitt 4.2.2 ) ( vgl. Mäntylä , 1988 , Kapitel 7 ) .
+Hybride Modelle sind in der Modellierungs-Software Stand der Technik ( vgl. VDI 2209 , Seite 157 ) .
+In diesem Kapitel wird eine Einführung in Wissen und in die Wissensrepräsentation in Expertensystemen gegeben .
+Die Konzepte zur Modellierung digitaler Bauwerksmodells werden vorgestellt und die unterschiedlichen Aspekte der eines Bauwerksmodells identifiziert und benannt .
+Es wird der Mengen-basierte Entwurf vorgestellt , der das Prinzip darstellt , wie mit einem Modell mit integriertem Wissen gearbeitet werden kann .
+Daran schließt eine Diskussion an über die Wissensintegration in Bezug auf Bauwerksmodelle .
+Wissen ist kein einfach zu fassender Begriffund wird in dieser Arbeit folgendermaßen definiert : Definition 3.1.1 ( Wissen ) .
+„ [ … ] [ ist ] die ( menschliche ) Fähigkeit , Regeln zu erzeugen und anzuwenden ( basierend auf Erfahrung , gestützt durch Vertrauen ) , also destillierte bzw. raffnieirte oder neutralisierte bzw. abstrahierte menschliche Erfahrung [ … ] “ ( eigene Übersetzung aus Vajna u. a. , 2009 , Seite 429 ) Dabei kann sich Wissen anhand des Grades der möglichen Formalisieru Explizites Wissen ist leicht zu formulieren , beispielsweise in Form von Anleitungen und Dokumentationen .
+Auch die Unterscheidung anhand der Art des Wissens ist dabei möglich : Deklaratives Wissen ist die Beschreibung von Objekten und die Relationen untereinander auf Basis von Fakten und definierten Begriffen .
+Prozedurales Wissen enthält Formeln bzw. Regeln , welche Abläufe für die Objekte des deklarativen Wissens definieren .
+Da nur formal beschreibbare Formen des Wissens im Rechner abgebildet werden können , ist es notwendig , Strukturen zu nutzen , die dies ermöglichen .
+Dazu gehören beispielsweise Taxonomien , Relationen , Regeln bzw. Meta-Regeln .
+Das bedeutet , dass nur explizites Wissen identifizierbar in Modellen abgebildet werden kann .
+Die Integration von Wissen in das Modell wird unter dem Begriffwissensbasierte Modellierung zusammengefasst .
+Definition 3.1.2 ( Wissensbasierte Modellierung ) .
+Wissensbasierte Modellierung ist die Integration von Regeln , Randbedingungen , Zwängen , Zusammenhängen und Beschreibungen , die ein Mensch formalisiert und in ein digitales Modell integriert .
+Das Wissen liegt dabei im Modell in der Form vor , dass der Rechner daraus Algorithmen ableiten oder es für Algorithmen verwenden kann .
+Digitale Wissensspeicherung bzw. Wissensrepräsentation erfordert , dass das Wissen in Form von expliziten Modellen bzw. der sie beschreibenden Sprachen vorgehalten wird .
+Die Idee , Wissen in einem Modell zu hinterlegen , welches anschließend für das Lösen von Fragestellungen im Kontext des Modells genutzt werden kann , wird unter dem BegriffExpertensystem zusammengefasst .
+Nach Haun ( eigener Übersetzung , 2016 , Seite 304 ) stellen Expertensysteme „ [ … ] eine Weiterentwicklung der klassischen Wissensspeicherung durch schriftliche oder elektronische Datenbanken dar .
+Expertensysteme speichern nicht nur Wissen , sondern ziehen das Wissen auch zu Schlussfolgerungen heran .
+Sie besitzen daher die Fähigkeit , das abgespeicherte Wissen zielgerichtet zu kombinieren .
+Bestandteile eines Expertensystems sind dementsprechend neben der Wissensbasis und der Wissenserwerbskomponente auch die Problemlösungs- , Erklärungs- und Dialogkomponente .
+Expertensysteme lassen sich im Bereich der Wissensspeicherung deshalb insbesondere dann sinnvoll einsetzen , wenn Fakten- , Handlungs- und Rezeptwissen abgespeichert wird , die den Anwender später bei der Diagnose , Planung , Beratung , Entscheidungsfindung und Koordination unterstützen sollen. “
+Probleme , die von einem solchen Expertensystem gelöst werden sollen , besitzen nach Neumann u. a . ( 1987 ) unter anderem folgende Merkmale : Ein Expertensystem dient also dazu , auf Basis von ( Experten- ) Wissen ein Problem zu lösen und dabei ein Modell so zu konfigurieren , dass es unter der Prämisse , dass die Wissensbasis ausreichend ist , möglichst sinnvolle Ergebnisse liefert .
+Dabei existieren laut Günter u. a . ( 1999 ) unterschiedliche Konfigurationsmethoden für Expertensysteme .
+Diese definieren die Form von Wissen , wie es in ein digitales Modell integriert werden kann : Regel-basierte Systeme : Eine Menge von Wenn-Dann-Entscheidungen auf Basis von fest definierten Regeln .
+Konzept-Hierarchien : Klassifikation von Objekten und damit Bildung von Konzepten .
+Struktur-basierter Ansatz : Konfiguration auf Basis von vorgegebenen Entscheidungsbäumen .
+Constraint-basierte Systeme : Beschränkungen werden als Relationen zwischen Objekten repräsentiert und können ausgewertet werden .
+Ressourcen-basierter Ansatz : Komponenten eines technischen Systems werden gewählt und genutzt , weil sie vom Gesamtsystem oder einzelnen anderen Komponente benötigt werden .
+Die Schnittstellen zwischen den Komponenten definieren die ausgetauschten „ Ressourcen “ .
+Fall-basierte Konfigurationen : Identifikation und Wahl einer Lösung auf Basis bereits gelöster ähnlicher Fälle .
+Es existierte ein Forschungsprojekt „ FLAKON : Expertensystemkern für Planungs- und Konfigurierungsaufgaben “ ( 1986-1990 ) , in dessen Zuge ein generisches Modell entwickelt wurde , für das einige dieser Konfigurationsmethoden umgesetzt wurden ( Zusammenfassung in Cunis u. a. , 1991 ) .
+Neuere Forschungen beinhalten die Entwicklung eines Datenmodells für Expertensysteme .
+Runte ( 2006 , Seite 2 ) stellt ein solches vor , welches „ [ … ] den problemlosen Austausch bzw. den domänenspezifischen Einsatz von Constraint-Lösungstechnologien ermöglicht. “ .
+Eine Anwendung solcher Systeme auf Bauwerksmodelle ist nicht bekannt .
+In verschiedenen Quellen finden sich Definitionen des digitalen Bauwerksmodells – oft Building ( Information ) Model genannt – , die sich wenig bis stark unterscheiden , bzw. sehr allgemein bis sehr detailliert sind .
+Nach DIN EN ISO 29481 ( Definition 3.2 ) ist es eine „ [ … ] [ digitale ] Repräsentanz eines Bauwerks ( inkl. Gebäude und Infrastrukturbauwerke , usw. ) , um die Prozesse der Bauplanung , der Baukonstruktion und des Bauwerksbetriebs zu erleichtern und eine verlässliche Entscheidungsgrundlage bereitzustellen “ .
+Dies umfasst „ [ … ] alles , was konstruiert wird oder das Ergebnis baulicher Tätigkeiten ist. “ ( DIN EN ISO 29481 , Definition 3.7 ) .
+Ein digitales Bauwerksmodel ist nach dieser Definition ein Produkt ( informations ) Modell , da es „ [ … ] ein Informations Modell [ ist ] , welches eine abstrakte Beschreibung von Fakten , Konzepten und Instruktionen eines Produktes [ darstellt ] [ … ] “ ( ISO 10303-1 , Definition 3.2.29 ) .
+Das zugehörige Produkt ist das „ Bauwerk “ , das ein „ [ … ] Ding [ … ] [ ist , welches ] durch einen natürlichen oder künstlichen Prozesses erstellt wird “ ( ISO 10303-1 , Definition 3.2.26 ) .
+Wichtigste Anforderung und größter Unterschied zu vorherigen Technologien – wie beispielsweise technische Zeichnungen als Resultat des klassischen Computer-Aided Draftings – ist dabei , dass ein solches Bauwerksmodell die Daten auf eine formale , computerinterpretierbare Art speichert ( vgl. Underwood u. a. , 2010 , Seite 2 ) .
+Nach Eastman , Teicholz u. a . ( 2011 , Seite 16 ) und in ähnlicher Form auch bei Borrmann , König u. a . ( 2015 , Kapitel 1.2 ) zeichnet sich ein Bauwerksmodell folgendermaßen aus : Es besteht aus digitalen Repräsentationen ( Objekten ) von Bauteilen .
+Diese Objekte besitzen eine Geometrie und Eigenschaften , die sie für Software-Anwendungen nutzbar machen .
+Darüber hinaus nennen Eastman , Teicholz u. a . ( 2011 , Seite 16 ) noch einen weiteren Punkt : Die Objekte besitzen parametrische Regeln , die es ermöglichen , sie auf intelligente Art zu verändern .
+Dies geht über die reine Repräsentation eines realen Bauteils hinaus , da hier das Arbeiten mit dem digitalen Modell im Vordergrund steht .
+Die Natur eines digitalen Bauwerksmodells lässt sich entsprechend über die Beantwortung dreier Fragen beschreiben : Was wird repräsentiert ?
+Ein Bauwerksmodell repräsentiert ein Bauwerk , wobei es , aufgrund der Menge der vorhandenen Informationen , in Objekte strukturiert wird .
+Diese stellen üblicherweise architektonische oder ingenieurtechnische Einteilungen dar , beispielsweise in Form von Etagen , Räumen , Bauteilen , etc .
+In welcher Art wird es repräsentiert ?
+Es sind unterschiedliche Arten von Daten zu unterscheiden : Die geometrischen Daten , welche die geometrische Form des Bauwerks und seiner Teile beschreiben und nicht-geometrische Daten .
+Dazu gehören beispielsweise die semantischen Daten , welche die Grundlage der Organisation des Modells bilden und Funktion und Zusammenhänge der Objekte beschreiben .
+Andere nicht-geometrische Daten sind zum Beispiel physikalische Daten , welche die physikalischen Eigenschaften und Zusammenhänge der Komponenten beschreiben .
+Was ist über die reine Repräsentation hinaus enthalten ?
+Soll das Modell als reiner Datencontainer dienen und einen Zustand des Bauwerks abbilden , so sind keine weiteren Daten als die der reinen Repräsentation notwendig .
+Es können aber zur Verwaltung , Kommunikation und Fortschreibung des Modells weitere Daten enthalten sein .
+Ein Anwendungsfall ist beispielsweise die computergestützte Modellerstellung und -veränderung , bei der die Daten der Kommunikation der Beteiligten oder zur Auswertung von Regeln dienen , welche automatisiert auf das Modell angewendet werden können .
+Entgegen anderer Definitionen , welche einem digitalen Bauwerksmodell die Notwendigkeit zusprechen , alle Daten für alle Prozesse des Gebäude-Lebenszyklus zu enthalten ( vgl. Underwood u. a. , 2010 , Seite 2 ) , wird in dieser Arbeit davon ausgegangen , dass ein digitales Bauwerksmodell mindestens einen Zustand des repräsentierten Bauwerks beschreibt und Andere Zustände , die sich zum Beispiel aus verschiedenen Bauphasen und deren Zusammenhang ergeben , werden nicht betrachtet .
+Zur Abgrenzung , was ein digitales Bauwerksmodell beschreibt und in was es sich von anderen Modellen unterschiedet , ist der Begriff „ Modell “ zu erklären .
+Allgemein besitzen Modelle laut Stachowiak ( 1973 , Abschnitt 2.1.1 ) drei Hauptmerkmale : Abbildungsmerkmal : „ Modelle sind stets [ … ] Abbildungen , Repräsentation natürlicher oder künstlicher Originale [ … ] “ Verkürzungsmerkmal : „ Modelle erfassen im allgemeinen [ … ] nicht alle Attribute des repräsentierten Originals , sondern nur solche , die den jeweiligen [ … ] Modellbenutzern relevant erscheinen “ Für ein digitales Bauwerksmodell folgt entsprechend dem Abbildungsmerkmal , dass es die Repräsentation eines Bauwerks ist , wobei die enthaltenen Daten mindestens einen konkreten Zustand des Bauwerks beschreiben .
+Bei diesen Zuständen kann es sich um verschiedene Varianten oder Baufortschritte handeln .
+In der Planung ist typischerweise der führende Zustand derjenige , der das finale Bauwerk am Ende des Errichtungsprozesses repräsentiert .
+Hingegen ist der führende Zustand der Bewirtschaftung eines existierenden Gebäudes der aktuelle Stand der Realität .
+Daraus folgt , dass die im Bauwerksmodell gespeicherten Daten unterschiedliche Ursprünge besitzen : Sie können auf Basis realer existierender Informationen , auf Basis menschlicher Planung und Vorhersehung oder einer Kombination beider entstehen .
+Ein digitales Bauwerksmodell kann aufgrund des Verkürzungsmerkmals nur eine Teilmenge der Eigenschaften des realen Bauwerks repräsentieren .
+Deshalb obliegt es dem Menschen – die Unterscheidung zwischen einem Modellersteller und einem Modellnutzer ist im Kontext dieser Arbeit nicht relevant – , die Vorgaben und Planungsideen , welche zum Zeitpunkt der Modellbearbeitung existieren , soweit wie möglich umzusetzen .
+Hierbei ist zu bemerken , dass auch Eigenschaften des digitalen Bauwerksmodells vorhanden sein können , die keine Entsprechung im realen Bauwerk besitzen .
+So sind zum Beispiel Identifikatoren einzelner Bauteile im digitalen Prozess relevant , fließen aber in keiner Form in das reale Bauwerk ein .
+Auch geometrisch-konstruktive Ideen , wie beispielsweise Hilfslinien oder die Parallelität bestimmter Linien , können zwar im digitalen Modell als Konstruktionsregeln enthalten sein und eine Rolle spielen , in der Realität ist aber maximal ihre Auswirkung auf das Ergebnis sichtbar .
+In dieser Arbeit soll dies unterschieden werden , indem die Existenz eines Objekts auf zwei Arten begründbar ist .
+Entweder ist es ingenieurtechnisch relevant , das bedeutet , es hat eine Entsprechung in der Realität oder wird für Prozesse der Realität benötigt , oder es ist modelliertechnisch relevant , was wiederum bedeutet , dass es allein in dem virtuellen Raum und den dort aktiven Prozessen einen Zweck erfüllt .
+Das pragmatische Merkmal ergibt sich aus dem Verkürzungsmerkmal .
+Da nur eine definierte Menge an Eigenschaften im digitalen Modell existieren kann , ist der Zweck des Modells die Grundlage , auf derer diese Menge definiert wird .
+So müssen zum Beispiel in einem Modell , welches als Datengrundlage für die Errichtung eines Gebäudes dienen soll , die notwendigen Eigenschaften für die Bestellung der zu liefernden Bauteile enthalten sein .
+Dies kann die Produktnummer eines Fenstertyps eines konkreten Herstellers oder die geometrische Form eines Stahlträgers sein .
+Hierbei ist zu beachten , dass ein Modell einen übergeordneten Zweck haben kann , der sich aus der Vereinigung aller Anforderungen aus den verschiedenen Prozessen , für die das Modell genutzt werden soll , ergeben kann .
+Die unterschiedlichen Zwecke eines digitalen Bauwerksmodells lassen sich folgendermaßen kategorisieren : Kommunikationszweck : Das Modell dient als Kommunikationsgrundlage für Beteiligte , beispielsweise in Form einer dreidimensionalen Visualisierung des finalen Bauwerks .
+Auch kann der Zweck eines Modells eine gemeinsame Datenquelle zur Kommunikation sein , zum Beispiel in Form von sprachlich verfassten Kommentaren im Modell .
+Zweck der realen Ausführung : Das Modell dient als Grundlage für die Erstellung von Daten und Dokumenten für Genehmigungsverfahren oder dem realen Bauprozess des Bauwerks , wie zum Beispiel Bestellungen von Bauprodukten , Ausschreibungen oder Plänen und Datenblättern .
+Zweck der Anforderungsprüfung : Da der Anteil der Bauwerke , die typisiert sind und in großer Stückzahl errichtet werden , aus ästhetischen wie auch praktischen Gründen gering ist , haben sie im Allgemeinen einen Unikats-Charakter .
+Auch die Qualität des Bauwerks und der Prozesse seiner baulichen Änderungen wird durch unterschiedliche , teilweise nicht direkt beeinflussbare Bedingungen geprägt , wie zum Beispiel die Wetterlage , der Baugrund , Normen und Gesetze , die Ausführungsqualität , Verfügbarkeit und Preis von Bauprodukten und die beteiligten Unternehmen .
+Daraus ergibt sich , dass es nicht sinnvoll , praktikabel und finanzierbar ist , Erprobungen , Optimierungen und Verbesserungen vorab an realen Prototypen des Bauwerks durchzuführen , wie es bei Produkten in anderen Industriezweigen üblich ist .
+Da aber ein reales Bauwerk unterschiedlichsten Anforderungen gerecht werden muss , wie zum Beispiel gesetzlichen Vorgaben oder den Wünschen des Bauherrn , verspricht das digitale Bauwerksmodell eine Lösung .
+Es kann durch seinen prototypischen Charakter vorab für notwendig Prüfungen der Anforderungen herangezogen werden .
+Dazu zählen beispielsweise statische und energetische Nachweise , Ent- fluchtungssimulationen , bauliche Umsetzbarkeit ( dazu gehört beispielsweise die Kollisionsfreiheit von Bauteilen ) usw .
+Wie bereits in Abschnitt 3.3 beschrieben , setzt sich ein digitales Bauwerksmodell aus Objekten zusammen .
+Das digitale Objekt als Teil des Modells ist ein Produkt des Paradigmas der Objektorientierung , welches eine große Rolle im Building Information Modeling ( BIM ) spielt ( vgl. Underwood u. a. , 2010 , Seite 179-180 ) .
+Das aus der Informatik stammende Konzept der Objektorientierung fußt darauf , dass ein Modell , welches ein komplexes System darstellt , besser verstanden und verarbeitet werden kann , wenn es in eine Struktur aus kleineren Teilen , den Objekten , zerlegt wird .
+Diese Objekte sind dabei klar identifizierbare Teile des Systems .
+Sie enthalten Daten in Form von Attributen und gegebenenfalls Regeln .
+Nach Booch u. a . ( 2008 , Abschnitt 1.5 ) ergeben sich mit der Objektorientierung folgende Möglichkeiten der Ordnung des Systems : Zerlegung : Durch die Zerlegung in kleine , „ autonome “ Einheiten können die Daten eindeutig den repräsentierten Entitäten zugeordnet werden .
+Dabei geschieht die Verwaltung der Daten eigenverantwortlich in den Objekten ( vgl. Shalloway u. a. , 2002 , Seite 110-112 ) .
+Abstraktion : Objekte können Gemeinsamkeiten aufweisen , welche es ermöglichen , eine Abstraktion vorzunehmen und die Objekte gleichzeitig zu klassifizieren .
+Hierarchie : Durch die Einführung einer hierarchischen Abstufung der Einheiten ist es möglich , den semantischen Gehalt eines Modells zu erhöhen .
+Die Identifikation einer sinnvollen Hierarchie ist dabei selten einfach , führt aber zu einer starken Erhöhung der Nachvollziehbarkeit und Verständlichkeit des Modells .
+Im Folgenden sollen diese Konzepte bei der Modellbildung eines digitalen Bauwerksmodells vorgestellt werden .
+Die Zerlegung von Modellen in einzelne identifizierbare Teile ( englisch : chunks ) , ist eine natürliche Art , Wissen in ein Modell zu integrieren ( vgl. Shah und Mäntylä , 1995 , Seite 10-11 ) .
+Bei einem digitalen Bauwerksmodell , welches ein ingenieurtechnisches Bauwerk repräsentiert , ist es naheliegend , die objektorientierte Struktur analog zu der Struktur des realen Bauwerks im ingenieurtechnischen Sinne aufzubauen .
+Das bedeutet beispielsweise , dass die Zerlegung in Einheiten – wie Bauteile , Räume , Etage , Leitungssystem etc. – vorzunehmen ist .
+Diese Einheiten bilden zusammen das System des Modells und können gegebenenfalls noch weiter zerlegt werden .
+Wie fein eine solche Zerlegung erfolgt und welche ingenieurtechnischen Domänen dabei berücksichtigt werden , hängt von dem Zweck des Modells ab .
+Außerhalb des Bauwesens finden sich vergleichbare Konzepte .
+So existiert im Maschinenbau das Feature-basierte Modellieren .
+Dabei liegt der Fokus auf dem Herstellungsprozess einzelner Bauteile und damit vor allem dem Herausarbeiten der geometrischen Form ( vgl. Hoffmann und Rossignac , 1996 ) .
+Ein Feature ( deutsch : Merkmal bzw. Funktion ) ist dabei die Repräsentation von physischen Teilen oder Baugruppen , die ingeneurtechnische Relevanz hat ( vgl. Shah und Mäntylä , 1995 , Seite 97 ) .
+Shah , Sreevalsan u. a . ( 1988 ) fassen folgende Eigenschaften eines Features zusammen : Das Feature-basierte Modellieren steht auch im Zusammenhang mit dem parametrischen Modellieren ( siehe Abschnitt 4.3.1 ) , da die Eigenschaften eines Features zur Steuerung der geometrischen Form genutzt werden können .
+In der objektorientierten Modellierung findet die Abstraktion mithilfe der Klassen statt .
+Jedes Objekt ist dabei die Instanz einer Klasse und besitzt deren Eigenschaften und deren Regeln .
+Objekte derselben Klasse besitzen dieselbe Menge an Eigenschaften , welche sie individuell ausprägen .
+Die Abstraktion findet im Bauwerksmodell entsprechend der ingenieurtechnischen Einteilung statt .
+Dies geschieht beispielsweise auf Basis von Gemeinsamkeiten , die entsprechend im Anwendungskontext identifiziert werden .
+Sie kann aber auch auf Basis eines Klassifikationssystems erfolgen .
+ISO 12006-2 dient als Grundlage für Klassifikationssysteme im Bauwesen , das die Bauteile repräsentierenden Objekte Element Klasse Kindklasse Wand Dach Geschoss Abbildung 3.1 : Klassifikation von Komponenten eines Bauwerks in einer Hierarchie ( in eigene Übersetzung entnommen aus ISO 12006-2 , Abbildung 2 , links ) entsprechend in Klassen und Unterklassen unterteilt .
+Ein Beispiel ist in Abbildung 3.1 gegeben .
+Eine Möglichkeit der Abstraktion von digitalen Bauteilobjekten wird von Gielingh ( 2008 ) genannt .
+Dieser unterteilt die Beschreibung von Objekten in vier Ebenen : Generische Ebene : Eine Beschreibung auf Basis von Parametern , wobei nicht alle Parameter mit Werten spezifiziert sind .
+Spezifische Ebene : Eine Beschreibung , die alle Parameterwerte spezifiziert , aber für mehrere Objekte verwendet werden kann .
+Individuelle Ebene : Individuelle Objekte , deren Eigenschaften über den Lebenszyklus variieren können .
+Auftritts-Ebene : Der Zustand eines Objekts zu einem bestimmten Zeitpunkt .
+Diese Einteilung findet sich auch in aktuellen Softwareprodukten zur Modellierung von Bauwerksmodellen , wie zum Beispiel Autodesk Revit .
+Dabei wird in Autodesk Revit der generische Typ als Familie ( englisch : family ) , der spezifische Typ als Typ ( englisch : type ) und das Exemplar als Instanz ( englisch : instance ) bezeichnet .
+Eine Entsprechung für das Auftreten ist in Autodesk Revit ausschließlich über die Zuordnung zu genau einer Projekt-Phase vorgesehen .
+Die hierarchische Strukturierung kann in der objektorientierten Modellierung auf verschiedene Art und Weise stattfinden .
+Durch die Klasse-Objekt-Struktur kann eine Klassenhierarchie aufgebaut werden , die eine Beschreibung der verschiedenen Ebenen der Abstraktion abbildet .
+Außerdem können direkte Relationen zwischen den Objekten bestehen , woraus sich eine Hierarchie auf Basis der Bedeutung der Relationen ergibt .
+Beispielsweise kann dies eine Aggregation sein , deren Semantik darin besteht , dass ein Objekt aus einem oder mehreren anderen Objekten zusammengesetzt wird .
+Dabei kann eines der Objekte auch ohne das Ganze existieren ( vgl. Booch u. a. , 2008 , Seite 63-64 ; Neumann u. a. , 1987 ) .
+Für ein digitales Bauwerksmodell wird üblicherweise eine Komposition gewählt , bei der ein Teil nur existieren kann , wenn auch das Ganze existiert .
+Dies ergibt beispielsweise folgende Einteilung : Ein Gebäude besteht aus Gebäudeteilen , diese bestehen aus Etagen , diese bestehen aus Räumen und Bauteilen , Bauteile bestehen aus Einzelkomponenten , usw .
+Nach ISO 12006-2 ( Abschnitt B.3 ) kann eine Klassifikation von Bauteilen und ihren Komponenten ebenfalls in einer Hierarchie abgebildet werden .
+Ein Beispiel für ein Gebäude und seine Zusammensetzung ist in Abbildung 3.2 gegeben .
+Gebäude Das Ganze Teil Geschoss Geschoss Teil eines Teils Wand Stütze Wand Wand Abbildung 3.2 : Strukturierung von Komponenten eines Bauwerks als Kompositions-Hierarchie ( angelehnt an ISO 12006-2 , Abbildung 2 , rechts ) An einem Beispiel sollen die einzelnen Aspekte eines digitalen Bauwerksmodells gezeigt werden , wie sie für diese Arbeit identifiziert werden .
+Ein Bauwerksmodell ist üblicherweise bauteilzentriert bzw. objektorientiert aufgebaut .
+Dies bedeutet , dass darin als kleinste Einheiten Bauteile oder vergleichbare Einheiten , wie zum Beispiel Räume , enthalten sind .
+Am Beispiel eines Fensters wird deutlich , welche unterschiedlichen Aspekte abgebildet werden .
+Das Fenster ist in Abbildung 3.3 dargestellt .
+Das Fenster selbst besteht aus Attributen ( englisch : attribute oder property ) , welche die Werte enthalten , die verschiedene Eigenschaften des Fensters festlegen .
+So kann es beispielsweise die Attribute „ Verglasung “ oder „ Rahmenbreite “ besitzen .
+Die Attribute werden den semantischen Daten des Fensters zugeordnet .
+Daneben gehört zu einem Fenster üblicherweise eine geometrische Beschreibung .
+Hierbei handelt es sich nicht um Attribute mit Maßen des Fensters , wie „ Höhe “ , „ Breite “ , „ Tiefe “ , sondern um eine geometrische Repräsentation des Fensters .
+Diese Modelle gehen über die reine Visualisierung hinaus .
+Sie können zur algorithmischen Ableitung von Informationen genutzt werden .
+Der Zweck einer geometrischen Zeichnung – als zweidimensionales Bild – ist es üblicherweise , Maße , Form und Material , als von Menschenen interpretierbar darzustellen : In geometrischen Modellen sind solche Informationen vom Comptuter interpretierbar abgelegt .
+Die Daten sind dabei explizit enthalten , oder sie können implizit abgeleitet werden .
+So lässt sich die Brüstungshöhe eines Fensters aus der Höhendifferenz zwischen Fensterbrüstung und Fertigfußboden oder Rohdecke berechnen .
+Dies ist in technischen Zeichnungen nicht möglich , da die Zahl dort explizit in Form einer Beschriftung dargestellt wird .
+Eine Ausnahme stellt die Ableitung einer technischen Zeichnung aus einem dreidimensionalen geometrischen Modell dar .
+Dabei geht üblicherweise der Bezug zwischen technischer Zeichnung und dem 3D-Modell durch die verwendeten Austauschformate verloren .
