@@ -2,6 +2,12 @@
 
 Every noteable change is logged here.
 
+## v0.7.0
+
+### Feature
+
+* add diss205 sentence data (fa2634f98ba6)
+
 ## v0.6.6
 
 ### Fix
