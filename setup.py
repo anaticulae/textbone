@@ -60,6 +60,9 @@ if __name__ == "__main__":
             'judgeddata',
         ],
         entry_points={
-            'console_scripts': ['normalize = backbone.normalize:main',],
+            'console_scripts': [
+                'normalize = backbone.normalize:main',
+                'ngram = backbone.ngram:main',
+            ],
         },
     )
