@@ -65,7 +65,8 @@ Das führt zu Motivationsverlust , Unproduktivität und zu Konflikten mit und im
 Auf der einen Seite bekommen die Mitarbeiter mehr Freiräume , wie zum Beispiel Home-Office oder flexible Arbeitszeiten , arbeiten dafür aber häufig projekt- oder ergebnisorientiert .
 Zeitliche Rahmenbedingungen und Pausenzeiten , sowie ein „ Abschalten “ nach der Arbeit fallen schwer oder sind nicht realisierbar .
 Das hat auf lange Sicht negative Folgen für die Gesundheit .
-„ Denn : Gesundheit und Zufriedenheit der Beschäftigten entscheiden bekanntermaßen über die Leistungsfähigkeit und Wettbewerbsfähigkeit eines Unternehmens “ ( Hannack & Räder , 2011 , S. 434 ) .
+„ Denn :
+Gesundheit und Zufriedenheit der Beschäftigten entscheiden bekanntermaßen über die Leistungsfähigkeit und Wettbewerbsfähigkeit eines Unternehmens “ ( Hannack & Räder , 2011 , S. 434 ) .
 Negative Folgen für die Gesundheit aufgrund von arbeitsbedingten Belastungen können vielfältig sein und sich bei jedem anders äußern .
 Die Techniker Krankenkasse ( 2013 , S. 33 ) beschreibt negative körperliche Folgen bei ihren Versicherten wie Muskelverspannungen , Rückenschmerzen , Kopfschmerzen , Magenbeschwerden und häufigen Erkältungskrankheiten .
 Es können auch negative Folgen im Bereich der Psyche auftreten .
@@ -346,7 +347,8 @@ Vier Wochen darauf ( k2 ) wird das zweite Fragebogenpaket ausgefüllt .
 Zwei Wochen vor Beginn der Studie wurden die Probanden im Arbeitsumfeld einer praktizierenden Allgemeinmedizinerin rekrutiert .
 Es erfolgte eine Aufteilung der Personen durch Losverfahren in eine EG und eine KG .
 Folgende Tab. umfasst die Ein- und Ausschlusskriterien der Probanden .
-Die Einschlusskriterien sind für alle Probanden gleich : Alle betreiben nicht mehr als eine Stunde Gesamtpensum an Sportaktivität in der Woche .
+Die Einschlusskriterien sind für alle Probanden gleich :
+Alle betreiben nicht mehr als eine Stunde Gesamtpensum an Sportaktivität in der Woche .
 Alle Probanden sind berufstätig und haben eine Arbeitswoche von mehr als 35 Stunden .
 Ihr Alter soll zwischen 20 und 65 Jahren liegen .
 Die Probanden sind sowohl weiblich als auch männlich .
@@ -369,7 +371,8 @@ Das Ausfüllen dauert etwa zehn Minuten .
 Der SCI-Fragebogen , das SCI-Manual und die Excel-Auswertungsmatrix werden von der „ Deutsche Hochschule für Prävention und Gesundheitsmanagement “ gestellt .
 Die 54 Einzelitems werden in fünf Kategorien aufgeteilt .
 Das Erhebungsinstrument misst die aktuelle Stressbelastung über drei von fünf Kategorien .
-Die Kategorien sind : „ Stress durch Unsicherheit “ , „ Stress durch Überforderung “ und „ Stress durch Verlust und tatsächlich eingetretene negative Ereignisse “ .
+Die Kategorien sind :
+„ Stress durch Unsicherheit “ , „ Stress durch Überforderung “ und „ Stress durch Verlust und tatsächlich eingetretene negative Ereignisse “ .
 Alle Items decken die wichtigsten Lebensbereiche Finanzen , Wohnen , Arbeits- und Ausbildungsplatz , Partnerschaft , Gesundheit und persönliche Erwartungen ab ( Satow , 2012b , S. 10 ) .
 Der Skalawert „ Aktuelle Stressbelastung “ ergibt sich aus dem Summenwert der drei Kategorien .
 Jede der drei Kategorien bietet sieben Antwortmöglichkeiten für jedes Item .
@@ -422,7 +425,8 @@ Nach dem Training wird alles wieder verstaut und der Kunde kann seinen Alltag na
 Die Atmosphäre für ein Training ist optimal , da sich dort keine unbekannten Personen aufhalten .
 Der Kunde kann sich dadurch frei entfalten .
 Zwischen Kunde und Trainer entsteht ein Vertrauensverhältnis .
-Die Vorteile für den Kunden liegen auf der Hand : Er spart dadurch Zeit und vermeidet Stress .
+Die Vorteile für den Kunden liegen auf der Hand :
+Er spart dadurch Zeit und vermeidet Stress .
 Stress zum Beispiel bei der An- und Abfahrt , bei der Parkplatzsuche , beim Ein- und Auschecken in die Räumlichkeit , beim Umziehen und beim Duschen .
 Das erleichtert die Trainingsdurchführung für Kunde und Trainer enorm .
 Aus der schriftlichen Befragung der EG und der KG ergeben sich zwei Auswertungsmöglichkeiten .
@@ -442,8 +446,10 @@ Durch die Inferenzstatistik sollen Rückschlüsse von einer kleinen auf eine gr�
 Dazu werden verschieden Signifikanztests zur Anwendung gebracht , durch die „ Man versucht zu bestimmen , wie wahrscheinlich die gefundenen Unterschiede oder Zusammenhänge … durch Zufall … zustande kommen können “ ( Pieter , 2015 , S. 217 ) .
 Das angewandte Programm ist „ IBM SPSS Statistics , Version 24 “ .
 Der eingesetzte Signifikanztest in dieser Arbeit ist der zweiseitige Mann-Whitney UTest für größere unabhängige Stichproben ( N > 20 ) mit einem festgelegten Signifikanzniveau von 5 % .
-Es wird folgende Unterschiedshypothese in drei Teilen geprüft : Nach einer vierwöchigen Intervention in Form eines EMS-Krafttrainings unterscheidet sich das individuelle Stresserleben der EG bezogen auf die Hauptskalen ( Aktuelle Stressbelastung , Körperliche und psychische Stresssymptome und Umgang mit Stress ( Coping ) ) signifikant vom individuellen Stresserleben der KG bezogen auf die Hauptskalen ( Aktuelle Stressbelastung , Körperliche und psychische Stresssymptome und Umgang mit Stress ( Coping ) ) .
-Folgende Hypothesen gilt es zu prüfen : Im folgenden Abschnitt werden die Ergebnisse der Studie in zwei Punkten dargestellt .
+Es wird folgende Unterschiedshypothese in drei Teilen geprüft :
+Nach einer vierwöchigen Intervention in Form eines EMS-Krafttrainings unterscheidet sich das individuelle Stresserleben der EG bezogen auf die Hauptskalen ( Aktuelle Stressbelastung , Körperliche und psychische Stresssymptome und Umgang mit Stress ( Coping ) ) signifikant vom individuellen Stresserleben der KG bezogen auf die Hauptskalen ( Aktuelle Stressbelastung , Körperliche und psychische Stresssymptome und Umgang mit Stress ( Coping ) ) .
+Folgende Hypothesen gilt es zu prüfen :
+Im folgenden Abschnitt werden die Ergebnisse der Studie in zwei Punkten dargestellt .
 In Punkt 5.1 erfolgt eine Ergebnisdarstellung in deskriptiver Form mit Abbildungen und Erläuterungen .
 Nachfolgend werden in Punkt 5.2 die inferenzstatistischen Ergebnisse präsentiert und die Unterschiedshypothese in drei Teilen überprüft .
 Für die Studie haben sich insgesamt 30 Personen gemeldet .
@@ -542,7 +548,8 @@ Das Thema „ Stress “ mit seinen unterschiedlichen Facetten rückte schon lan
 Das Interesse stieg weiter an , sodass bereits vor Bearbeitungsbeginn dieser Arbeit eine intensive Literaturrecherche durchgeführt wurde .
 Das Interesse ging in Richtung Stressentstehung , Folgen von Stress , Stressbewältigung und individuelles Stresserleben .
 Der Reiz lag vor allem auf einer individuellen Komponente in Bezug auf das Themengebiet .
-Denn klar ist : Jeder Mensch ist individuell .
+Denn klar ist :
+Jeder Mensch ist individuell .
 Individuell in seiner Ausdrucksweise , individuell in seinem Aussehen und ebenso individuell in seinem individuellen Stresserleben .
 Ähnliches Interesse weckte das EMS-Training als zeitsparende Alternative zum klassischen Krafttraining .
 Es kam die Frage auf , ob sich ein standardisiertes EMSKrafttraining positiv auf das individuelle Stresserleben auswirkt .

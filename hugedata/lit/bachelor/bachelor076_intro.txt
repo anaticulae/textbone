@@ -1,9 +1,10 @@
 Das Schlagwort „ Digitalisierung “ ist in den aktuellen wissenschaftlichen und wirtschaftlichen Beiträgen eines der meist diskutierten Themen weltweit , wenn es um die zukünftige Gestaltung von Geschäftsprozessen geht .
 Mit der tiefgreifenden Veränderung in allen Lebensbereichen mittels neuer technologischer Entwicklungen , werden grundlegende Strukturen revolutioniert und der digitale Wandel vorangetrieben .
-Bereits im Jahr 1988 beschrieb die ehemalige Harvard Professorin Shoshana Zuboff mit ihren drei „ Gesetzen der Digitalisierung “ diese fundamentalen Veränderungen , welche aus heutiger Sicht aktueller denn je sind : 1 .
-„ Alles , was digitalisiert und in Informationen verwandelt werden kann , wird digitalisiert und in Informationen verwandelt “ 1 2 .
-„ Was automatisiert werden kann , wird automatisiert “ 2 3 .
-„ Jede Technologie , die zum Zweck der Überwachung und Kontrolle kolonisiert werden kann , wird , was immer auch ihr ursprünglicher Zweck war , zum Zwecke der Überwachung und Kontrolle kolonisiert “ 3 Die zunehmende Verbreitung von Smartphones und Tablets sind die sichtbarsten Zeichen für den digitalen Wandel .
+Bereits im Jahr 1988 beschrieb die ehemalige Harvard Professorin Shoshana Zuboff mit ihren drei „ Gesetzen der Digitalisierung “ diese fundamentalen Veränderungen , welche aus heutiger Sicht aktueller denn je sind :
+1. „ Alles , was digitalisiert und in Informationen verwandelt werden kann , wird digitalisiert und in Informationen verwandelt “ 1
+2. „ Was automatisiert werden kann , wird automatisiert “ 2
+3. „ Jede Technologie , die zum Zweck der Überwachung und Kontrolle kolonisiert werden kann , wird , was immer auch ihr ursprünglicher Zweck war , zum Zwecke der Überwachung und Kontrolle kolonisiert “ 3
+Die zunehmende Verbreitung von Smartphones und Tablets sind die sichtbarsten Zeichen für den digitalen Wandel .
 Sie verändern das Kommunikations- und Konsumverhalten der Menschen enorm .
 Mittlerweile werden diese Möglichkeiten nicht mehr nur für die Informationsbeschaffung eingesetzt , sie sind außerdem ein etablierter Kanal zum Einkaufen sämtlicher Güter und Dienstleistungen .
 Die mobile Verfügbarkeit von digitalen Informationen bildet dabei den Kern der Digitalisierung und ermöglicht neue Produktions- und Geschäftsprozesse für Unternehmen .
@@ -14,7 +15,8 @@ Deren zukünftige Umsetzung stellt eine der zentralen Herausforderungen für den
 Da der Mittelstand einer der wichtigsten Treiber in der deutschen Wirtschaft ist , stehen mittelständische Unternehmen innerhalb dieser Arbeit im Zentrum der Betrachtungen .
 Die Auswirkungen der Digitalisierung und Industrie 4.0 entlang der Wertschöpfungskette werden dem Leser theoretisch sowie anhand von praktischen Ansatzpunkten und Orientierungshilfen vermittelt .
 Weiterhin soll die Arbeit dazu dienen , die dargestellte Problemstellung wissenschaftlich zu untersuchen sowie Denkanstöße zu geben , um mögliche Handlungsempfehlungen für mittelständische Unternehmen abzuleiten .
-Auf Basis der Problemstellung beantwortet diese Bachelorarbeit in den folgenden Kapiteln diese Forschungsfragen : - Welche technologischen Möglichkeiten können zur Gestaltung einer digitalen Infrastruktur eingesetzt werden ?
+Auf Basis der Problemstellung beantwortet diese Bachelorarbeit in den folgenden Kapiteln diese Forschungsfragen :
+- Welche technologischen Möglichkeiten können zur Gestaltung einer digitalen Infrastruktur eingesetzt werden ?
 - Welche Auswirkungen haben die Digitalisierung und Industrie 4.0 auf die Wertschöpfungskette mittelständischer Unternehmen ?
 Die methodische Vorgehensweise dieser Arbeit erfolgt im Sinne einer Literatur-Review mit dem Ziel , das Thema „ Digitalisierung und Industrie 4.0 im Mittelstand – Gestaltungsmöglichkeiten der digitalen Infrastruktur entlang der Wertschöpfungskette “ aus theoretischer Sicht zu beschreiben .
 Die steigende Bedeutsamkeit des Themas zeigt sich vor allem im Hinblick auf Beiträge im Internet , in Foren und in der einschlägigen Literatur .

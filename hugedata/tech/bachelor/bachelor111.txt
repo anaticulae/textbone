@@ -562,7 +562,8 @@ Die Datenstruktur Project bildet ein KNX-System innerhalb der iPhoneAnwendung ab
 Grundlage bildet die Gruppenkonﬁgurationsdatei der KNX-Software ETS .
 Diese bietet die Möglichkeit die Gruppen eines KNX-Projektes inklusive aller Bezeichnungen und Gruppenadressen in ein CSV-Austauschformat zu exportieren ( siehe Listing 4.1 ) .
 Die statische Klasse CSVParser ist für die Verarbeitung von Dateien im CSV-Format implementiert worden .
-Zur Verarbeitung von Gruppenkonﬁgurationsdateien steht die Klassenmethode + ( Project ) parseGroupAddressFile : ( NSString * ) filePath zur Verfügung .
+Zur Verarbeitung von Gruppenkonﬁgurationsdateien steht die Klassenmethode + ( Project ) parseGroupAddressFile :
+( NSString * ) filePath zur Verfügung .
 Die Gruppenkonﬁgurationsdatei wird dabei zeilenweise verarbeitet .
 Für jeden gültigen Eintrag in dieser Datei wird einem Objekt der Klasse Project eine entsprechende Haupt- , Mittel- oder Untergruppe hinzugefügt .
 Dem aufrufenden Objekt wird dieses Project-Objekt zurückgegeben .
@@ -576,7 +577,9 @@ Das NSXMLParser-Objekt stellt die verarbeiteten Daten über diese Methoden dem S
 Um sinnvoll mit dem NSXMLParser arbeiten zu können empﬁehlt es sich , mindestens die Delegate-Methoden aus Listing 5.1 zu implementieren .
 Mit den auf diese Art und Weise ermittelten Daten der Gerätekonﬁgurationsdatei wird das Project-Objekt ergänzt .
 Als problematisch stellte sich dabei das Verhalten des NSXMLParser bei Zeichenketten , die Umlaute enthalten , dar .
-Dieser kann die Delegation-Methode - ( void ) parser : ( NSXMLParser * ) parser foundCharacters : ( NSString * ) string ; in diesem Fall mehrfach aufrufen anstatt die komplette Zeichenkette beim erstmaligen Aufrufen dieser Methode zu übergeben .
+Dieser kann die Delegation-Methode - ( void ) parser :
+( NSXMLParser * ) parser foundCharacters :
+( NSString * ) string ; in diesem Fall mehrfach aufrufen anstatt die komplette Zeichenkette beim erstmaligen Aufrufen dieser Methode zu übergeben .
 Gelöst wurde das Problem indem die Zeichenkette zwischengespeichert und bei mehrmaligem Aufrufen der Delegation-Methode jeweils um den nächsten Teil der Zeichenkette ergänzt wurde ( siehe Listing 5.2 ) .
 Die KNX-Telegramme stellen die zweite Datenstruktur , die in der iPhoneAnwendung eine wichtige Rolle spielen , dar .
 Diese werden von der statischen Klasse PackageProcessor erzeugt und verarbeitet .
@@ -609,10 +612,12 @@ Wie schon in Unterabschnitt 4.1.2 herausgestellt wurde , übernehmen die Klassen
 Das AppDelegate-Objekt ist Start- und Endpunkt jeder Anwendung für die iPhoneOS-Plattform .
 Es stellt eine Art Stellvertreter der gesamten Anwendung für das zugrunde liegende Betriebssystem dar .
 An dieses Objekt werden systemrelevante Nachrichten gesendet , z.B. das die Anwendung komplett im Speicher verfügbar ist oder aber das Programm beendet werden muss , weil entweder der Anwender das Beenden ausgelöst hat oder aber ein eingehender Anruf die Anwendung zum Beenden zwingt .
-Die Delegate-Methode - ( void ) applicationDidFinishLaunching : ( UIApplication * ) application wird vom Betriebssystem aufgerufen , sobald die Anwendung in den Speicher geladen und bereit zur Ausführung ist .
+Die Delegate-Methode - ( void ) applicationDidFinishLaunching :
+( UIApplication * ) application wird vom Betriebssystem aufgerufen , sobald die Anwendung in den Speicher geladen und bereit zur Ausführung ist .
 Es werden hier weitere essentielle Objekte der Steuerungsschicht initialisiert .
 Im Fall der iPhone-Anwendung sind das das MainController-Objekt , welches alle allgemeinen Abläufe koordiniert und somit die Steuerzentrale der Anwendung darstelllt , und die verschiedenen ViewController-Objekte zur Steuerung der Benutzeroberﬂächen .
-Wird die Delegate-Methode - ( void ) applicationWillTerminate : ( UIApplication * ) application aufgerufen soll die Anwendung geschlossen werden .
+Wird die Delegate-Methode - ( void ) applicationWillTerminate :
+( UIApplication * ) application aufgerufen soll die Anwendung geschlossen werden .
 Innerhalb weniger Sekunden müssen hier letzte Aufgaben wie das Speichern von Konﬁgurationsdateien abgeschlossen werden , da die Anwendung andererseits systemseitig beendet wird .
 Aufgrund von Vorgaben aus dem KNX-Standard läuft die Kommunikation mit dem KNX-System über UDP-Pakete .
 In diese Pakete werden die KNX-Telegramme verpackt und an den KNXnet/IP-Router gesendet bzw. von diesem empfangen .
@@ -782,5 +787,6 @@ Die Engeneering Tool Software ( ETS ) ist eine für Windows erhältliche Anwendu
 Ein Gateway ermöglicht die Kommunikation zwischen Netzwerken , die unterschiedliche Protokolle benutzen .
 Es kann als Übergangspunkt zwischen unterschiedlichen Netzwerken bezeichnet werden .
 Ein Gyroskop ist ein Kreiselinstrument über das die Lage und Bewegungsrichtung eines Gegenstandes im Raum ermittelt werden kann Das Model-View-Controller-Architekturmuster ( MVC ) dient der Strukturierung von Software-Entwicklungen .
-Dabei wird die Anwendungen in drei Komponenten unterteilt : eine Präsentationskomponente , ein Datenmodell und eine Steuerungskomponente .
+Dabei wird die Anwendungen in drei Komponenten unterteilt :
+eine Präsentationskomponente , ein Datenmodell und eine Steuerungskomponente .
 Ziel dieses Musters ist eine verbesserte Wiederverwendbarkeit der einzelnen Komponenten .

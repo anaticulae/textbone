@@ -2,9 +2,9 @@
 Zu Beginn wurde mit Sekt angestoßen , zum Essen gab es einen Wein und zum Abschluss des Abends wurde noch gemeinsam ein Absacker getrunken .
 Nach der Verabschiedung der übliche Griff zum Schlüssel des Wagens und auf die Frage der Verwandtschaft , ob man denn noch in der Lage sei zu fahren , wird selbstverständlich mit „ Ich habe zwar getrunken , aber Auto fahren kann ich natürlich immer noch “ geantwortet. “ So oder so ähnlich begannen eine Reihe von Alkoholfahrten im Straßenverkehr , die laut Statistischem Bundesamt für das Jahr 2013 mit insgesamt 36878 alkoholbedingte Unfällen , wobei 17506 Menschen schwer-/leichtverletzt wurden und 314 ihre Leben lassen mussten , endeten ( Statistisches Bundesamt , 2014 ) .
 Ähnlich erschreckende Schlagzeilen lieferte die Verkehrsunfallstatistik der Braunschweiger Polizei für das Stadtgebiet Braunschweig für das Jahr 2012 .
-So lautet es in einem Bericht : „ Die Zahl der Verkehrsunfälle mit alkoholisierten männlichen jungen Fahrern am Steuer ( 18 bis 24 Jahre ) , hat sich verdoppelt.-31 ( 15 ) “ ( Verkehrsunfallstatistik für das Stadtgebiet Braunschweig , 2013 ) .
-Es zeigt sich zudem , dass gerade jüngere , männliche Autofahrer an alkoholbedingten Unfällen beteiligt sind ( Vgl .
-Statistisches Bundesamt , Verkehrsunfälle 2013 ) .
+So lautet es in einem Bericht :
+„ Die Zahl der Verkehrsunfälle mit alkoholisierten männlichen jungen Fahrern am Steuer ( 18 bis 24 Jahre ) , hat sich verdoppelt.-31 ( 15 ) “ ( Verkehrsunfallstatistik für das Stadtgebiet Braunschweig , 2013 ) .
+Es zeigt sich zudem , dass gerade jüngere , männliche Autofahrer an alkoholbedingten Unfällen beteiligt sind ( Vgl . Statistisches Bundesamt , Verkehrsunfälle 2013 ) .
 Laut dem Kuratorium für Verkehrssicherheit ( 2008 ) erhöht sich das Unfallrisiko bereits ab einer Promillezahl von 0.5 um das doppelte und ab einer Promille von 0.8 um das fünffache .
 Auf Grund der erhöhten Alkoholkonzentration kommt es zu einer erhöhten Bereitschaft zu riskantem Fahrverhalten , welche bei ca. 80 % liegt , und zu einer zwei bis dreimal häufigeren Wahrscheinlichkeit Fehler im Bereich der Konzentration und der Reaktionsgeschwindigkeit zu begehen ( Kuratorium für Verkehrssicherheit , 2008 ) .
 Trotz der erschütternden Zahlen im Bereich der erkannten Alkoholfahrten lässt sich zusätzlich eine enorme Dunkelziffer vermuten .
@@ -13,7 +13,8 @@ So kamen sie zu der schwerwiegenden Erkenntnis , dass ein Autofahrer 600mal Alko
 Dies führt dazu , dass die Fahrer üben können alkoholisiert zu fahren und damit zu der Einstellung kommen könnten , dass Alkohol am Steuer ja doch möglich ist ( Kazenwadel & Vollrath , 1995 ) .
 Befunde , dass alkoholisierte Autofahrer bis zu einer bestimmten Promillegrenze durchaus in der Lage sind ihr Auto unfallfrei zu führen , fanden Krüger , Kazenwadel und Vollrath ( 1995 ) in ihrer Untersuchung , dem Würzburger Roadside-Survey .
 So ließ sich nachweisen , dass sich „ Im Bereich unter 0.5 Promille BAK [ … ] ein verblüffendes Ergebnis [ … ] “ finden lässt ( Krüger et al. , 2005 , S. 59 ) .
-Es lautet weiter : „ [ … ] Das alkoholbedingte Verursachungsrisiko ist unter 0.5 Promille BAK geringer als das Risiko nüchterner Fahrer , d.h. Alkoholisierung in diesem Bereich reduzieren das Unfallrisiko “ .
+Es lautet weiter :
+„ [ … ] Das alkoholbedingte Verursachungsrisiko ist unter 0.5 Promille BAK geringer als das Risiko nüchterner Fahrer , d.h. Alkoholisierung in diesem Bereich reduzieren das Unfallrisiko “ .
 Grundlage der Analyse war der Vergleich der eigenen Daten aus dem Roadside-Survey mit den Daten der Grand Rapids-Study von Borkenstein , Crowther , Shumate , Ziel und Zylman aus dem Jahr 1974 .
 Es zeigte sich in der Studie bei einer Blutalkoholkonzentration ( BAK ) von unter 0.5‰ ein sogenannter „ dip “ , welcher ein geringeres Risiko für Unfälle im Vergleich zu nüchternen Fahrern darstellt .
 Betrachtet man die Erklärungsversuche für die vorliegenden Ergebnisse , so fällt auf , dass von verschieden Teilgruppen innerhalb der Datenerhebung gesprochen wird , sowie von unterschiedlichen Tageszeiten , die in Betracht gezogen werden müssen .
@@ -28,6 +29,7 @@ Kann man daraus schließen , dass Fahrer mit BAK-Werten zwischen 0.3 - 0.5‰ di
 Eine Erklärung für die zuvor genannten Befunde könnten Kompensationsmechanismen sein .
 Die Fahrer wissen , dass sie etwas getrunken haben und fahren aufgrund dessen vorsichtiger .
 Daraus folgt , dass die alkoholbedingte Beeinträchtigung aufgehoben , ja sogar vermutlich überkompensiert werden kann .
-Eine Vermutung ist , dass das Gefahrenbewusstsein der alkoholisierten Fahrer eine wichtige Rolle für die Kompensation spielt : Je mehr die Fahrer der Überzeugung sind , dass die Fahrsituation anstrengend oder gefährlich ist , umso eher müsste eine Kompensation nachgewiesen werden können .
+Eine Vermutung ist , dass das Gefahrenbewusstsein der alkoholisierten Fahrer eine wichtige Rolle für die Kompensation spielt :
+Je mehr die Fahrer der Überzeugung sind , dass die Fahrsituation anstrengend oder gefährlich ist , umso eher müsste eine Kompensation nachgewiesen werden können .
 Wenn die Fahrer jedoch glauben , dass in der Fahrsituation nicht viel passieren kann , sollten die Kompensationsmechanismen geringer sein .
 Das Thema der vorliegenden Arbeit ist es , diese Kompensationsmechanismen besser zu verstehen .

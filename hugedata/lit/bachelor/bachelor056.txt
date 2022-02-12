@@ -11,7 +11,8 @@ Fahrer die nur einen gelegentlichen Alkoholkonsum haben , erreichen auch nur in 
 Um im Straßenverkehr beim Führen eines Fahrzeuges mit mehr als 1.0‰ aufzufallen , ist eine Gewöhnung an den Alkohol durch einen regelmäßigen Konsum notwendig .
 So zeigt sich , dass die Leistungsfähigkeit unterschiedlich , je nach Trinkverhalten und Konsum , beeinträchtigt ist ( Vollrath & Krems , 2011 ) .
 In diesem Fall spricht man von Alkoholtoleranz .
-Vollrath ( 2011 ) beschreibt Alkoholtoleranz wie folgt : „ In der Suchtforschung versteht man darunter , dass dieselbe Alkoholmengen mit der Zeit immer weniger Wirkungen haben , sodass man immer mehr trinken muss , um die gewünschte Wirkung zu erreichen. “
+Vollrath ( 2011 ) beschreibt Alkoholtoleranz wie folgt :
+„ In der Suchtforschung versteht man darunter , dass dieselbe Alkoholmengen mit der Zeit immer weniger Wirkungen haben , sodass man immer mehr trinken muss , um die gewünschte Wirkung zu erreichen. “
 Laut Krüger et al. ( 1995 ) wird Alkohol vornehmlich konsumiert , um die erwünschten Wirkungen des Alkohols zu spüren .
 Dazu gehören Veränderungen „ im Bereich des Befindens und der Sozio-Emotionalität “ ( S. 11 ) .
 Schon ab einer Promille von 0.2 stellen sich eine Verbesserung der Stimmung in Sozialsituationen , eine Verringerung von Angst- und Spannungsgefühlen , sowie eine erhöhte Erregbarkeit ein ( Krüger et al. , 1995 ) .
@@ -52,7 +53,8 @@ Dieser Effekt wird umso effektiver , umso häufiger Alkohol konsumiert wird .
 Voraussetzung , um solche Reaktionen zu zeigen , sind jedoch verlässliche Hinweisreize und die Erfahrung von positiven Konsequenzen , wenn die Beeinträchtigung durch den Alkohol kompensiert werden können .
 Das heißt es besteht ein Zusammenhang zwischen dem gezeigten Verhalten nach dem Alkoholkonsum und den Konsequenzen die das Verhalten mit sich bringt ( Vogel-Sprott , 1997 ) .
 Vogel-Sprott ( 1992 , zit. nach Vollrath , 2000 ) beschreibt dies in ihrem Modell für das Erwartungslernen , welches in Anlehnung an vorherige Untersuchungen von Bolles ( 1972 ) entstand .
-Dabei werden zwei Arten von Erwartung unterschieden , die bei der Entwicklung einer Toleranz entscheidend sind : Zum einen die „ Stimulus expectancies “ und die „ Response expectancies “ ( Vogel-Sprott , zit. nach Vollrath , 2000 , S.78 ) .
+Dabei werden zwei Arten von Erwartung unterschieden , die bei der Entwicklung einer Toleranz entscheidend sind :
+Zum einen die „ Stimulus expectancies “ und die „ Response expectancies “ ( Vogel-Sprott , zit. nach Vollrath , 2000 , S.78 ) .
 Es handelt sich dabei zum einen um Erwartungen über eine Reaktion , die in bestimmten Situationen durch bestimmte Reize aus der Umwelt ausgelöst werden und zum anderen um Erwartungen über bestimmte Konsequenzen der Reaktionen .
 Sie unterscheidet dabei die Stimulus-Drug-OutcomeExpectancy von der Response-Outcome-Expectancy .
 Im ersten Fall ist ein Hinweisreiz ( z.B. Kneipe = Hinweis für Alkohol ) gegeben , welcher in der Person die Erwartung auslöst „ es folgt gleich die Alkoholgabe bzw. das Trinken von Alkohol “ .
@@ -117,7 +119,9 @@ Wenn keine nennenswerten Ereignisse während der Fahrt geschehen ( kein Gegenver
 Unter dem Einfluss von Alkohol verstärkt sich dieser Effekt , da nicht davon ausgegangen wird , dass es zu kritischen Situationen kommen könnte .
 Daraus ergibt sich , dass wenn eine Situation als einfach und gut bewältigbar erscheint , es keinen Grund für Kompensationsbemühungen gibt .
 Erscheint dann wider Erwarten eine Gefahr , so müsste sich wegen der mangelnden Kompensation die Alkoholwirkungen negativ auswirken .
-Damit ergibt sich folgenden Hypothese : Hypothese I b : Die Alkoholwirkung wird in einer scheinbar einfachen und wenig kritischen Situation von den Fahrern der Alkoholgruppe nicht kompensiert , so dass es zu signifikanten Unterschieden im Vergleich zur Placebogruppe kommt .
+Damit ergibt sich folgenden Hypothese :
+Hypothese I b :
+Die Alkoholwirkung wird in einer scheinbar einfachen und wenig kritischen Situation von den Fahrern der Alkoholgruppe nicht kompensiert , so dass es zu signifikanten Unterschieden im Vergleich zur Placebogruppe kommt .
 Die folgende experimentelle Untersuchung widmet sich somit der Frage , auf welche Weise alkoholisierte Fahrer Kompensationsprozesse einsetzen , um kritische Situationen trotz Alkohol zu bewältigen .
 Es wird vermutet , das Fahrer in Situationen , die subjektiv als komplexer und womöglich als gefährlicher erlebt werden , eine entsprechende Erhöhung der Anstrengung und eine stärkere Konzentration auf die Bewältigung der Situation zeigen .
 Dies sollte hingegen in scheinbar einfachen Situationen nicht der Fall sein .
@@ -135,7 +139,8 @@ Die UV hatte zwei Ausprägungen , welche zum einen die „ komplexe Kreuzungssit
 Die Kreuzungssituation sollte bei den Probanden dazu führen , dass sie denken , dass etwas passieren könne , um so Kompensationsmechanismen auszulösen .
 Bei der Fußgängersituation trat das kritische Ereignis völlig unvermutet auf , da die Situation einfach und unproblematisch erschien .
 Hier sollten keine Kompensationsmechanismen zu finden sein .
-Die UV B wurde wie folgt realisiert : In der Kreuzungssituation fuhren die Probanden innerhalb der Stadt an eine T-Kreuzung heran ( s. Abb. 1 ) .
+Die UV B wurde wie folgt realisiert :
+In der Kreuzungssituation fuhren die Probanden innerhalb der Stadt an eine T-Kreuzung heran ( s. Abb. 1 ) .
 Sie mussten in der Situation nach rechts auf die Hauptstraße fahren .
 Dabei war es von Bedeutung mehrere Faktoren während der Fahrt gleichzeitig zu überwachen ( heranfahrende Autos , Fußgänger , die über den Zebrastreifen gehen , ausparkende Autos ) .
 Nachdem Abbiegen parkte von rechts ein Auto aus und nahm dem Fahrer die Vorfahrt ( s. Abb. 1 ) .
@@ -144,7 +149,8 @@ Nach der Einfahrt in eine Einbahnstraße mussten die Probanden an links und rech
 Am Ende der Einbahnstraße lief plötzlich ohne Vorwarnung ein Fußgänger direkt auf die Straße und stoppte vor dem Auto ( s. Abb.2 ) .
 Dieser Faktor wurde mit Messwiederholung realisiert , da es sich um zwei ganz unterschiedliche Situationen handelte .
 Deshalb erschienen Übungs- bzw. Lerneffekte als unwahrscheinlich .
-Um mögliche Zeiteffekte dennoch zu kontrollieren , wurde in zwei unabhängigen Gruppen ( UV C : Reihenfolge der Situationen ) beide Reihenfolgen als Cross-Over-Plan realisiert ( Gruppe 1 : komplexe Kreuzung- , dann einfache Fußgängersituation ; Gruppe 2 : einfache Fußgänger- , dann komplexe Kreuzungssituation ) und somit als Zwischensubjektfaktor variiert .
+Um mögliche Zeiteffekte dennoch zu kontrollieren , wurde in zwei unabhängigen Gruppen ( UV C : Reihenfolge der Situationen ) beide Reihenfolgen als Cross-Over-Plan realisiert ( Gruppe 1 : komplexe Kreuzung- , dann einfache Fußgängersituation ; Gruppe 2 :
+einfache Fußgänger- , dann komplexe Kreuzungssituation ) und somit als Zwischensubjektfaktor variiert .
 Da die Erhebung der Daten im Rahmen eines größeren Versuchs stattfand , wurde außerdem ein Leistungstest durchgeführt , dessen Reihenfolge mit dem Fahrsimulatortest variiert wurde ( erst Leistung , dann Fahrsimulator und umgekehrt ) .
 Dieser Teil der Erhebung wurde von Heuer ( 2014 ) unter dem Titel „ Trotz Alkohol fit im Kopf ? !
 Kompensationsmöglichkeiten unter Alkohol im Leistungsbereich “ im Rahmen ihrer Bachelorarbeit betrachtet .
@@ -467,7 +473,8 @@ Es zeigt sich ein ähnliches Bild für die Schwierigkeit der Fahrt , welche höh
 So könnte man annehmen , dass diejenigen , die erst die Kreuzungssituation hatten , nicht mehr mit einer kritischen Situation gerechnet haben .
 Ein Hinweis hierfür zeigt sich auch in der Einschätzung des Befindens für das Item Entspannung .
 Die Probanden der Alkoholgruppe mit dem Fußgänger als zweite Situation fühlten sich in der Postmessung deutlich entspannter als die mit Kreuzung .
-Fasst man die Interpretationen zusammen , so konnte die Untersuchung folgende Ergebnisse im Hinblick auf Kompensation von Alkoholwirkungen in kritischen Fahrsituationen liefern : Wenn Fahrer unter dem Einfluss von Alkohol den Eindruck haben , dass die Fahrsituation komplex und möglicherweise gefährlich ist , passen sie ihr Fahrverhalten an und fahren langsamer .
+Fasst man die Interpretationen zusammen , so konnte die Untersuchung folgende Ergebnisse im Hinblick auf Kompensation von Alkoholwirkungen in kritischen Fahrsituationen liefern :
+Wenn Fahrer unter dem Einfluss von Alkohol den Eindruck haben , dass die Fahrsituation komplex und möglicherweise gefährlich ist , passen sie ihr Fahrverhalten an und fahren langsamer .
 Auf diese Weise können Unfälle ähnlich gut vermieden werden , wie bei den nüchternen Fahrern unter Placebo .
 In einer scheinbar ungefährlichen Situation ist diese Anpassungsleistung nicht zu finden .
 Obwohl es unter Alkoholwirkung gelingt , ähnlich schnell zu bremsen wie unter Placebo , gelingt es ihnen trotzdem nicht , eine Kollision mit dem Fußgänger zu vermeiden .
@@ -477,7 +484,8 @@ Das Alkohol ein großes Risiko für alle Beteiligten darstellt und zu einer Hera
 Die meisten Studien wurden in statistischen Fahrsimulatoren durchgeführt , da es aus ethischen und sicherheitstechnischen Gründen schwierig ist , Hypothesen im Zusammenhang mit Alkohol auf den Straßen zu testen .
 Aber genau dieser Aspekt stellt ein großes Problem dar .
 Simulatorstudien spiegeln nicht in vollem Ausmaß und auch nicht in ihrer Komplexität die realen Fahrsituationen wieder , zudem mangelt es an fahrdynamischen und visuellen Eindrücken , die nicht oder nur begrenzt simuliert werden können ( Martin et al. , 2013 ) .
-So beschreibt Martin el al. ( 2013 , S . 1240/1241 ) dies wie folgt : „ Laboratory simulations typically represent only one aspect of actual driving und require extrapolation of the effects as a predictor for other secondary tasks [ … ] .
+So beschreibt Martin el al. ( 2013 , S . 1240/1241 ) dies wie folgt :
+„ Laboratory simulations typically represent only one aspect of actual driving und require extrapolation of the effects as a predictor for other secondary tasks [ … ] .
 Even the most sophisticated driving simulators can only approximate actual driving conditions and suffer from lack of car dynamics an inadequacy of the visual scene “ .
 Der Proband muss also in der Lage sein , alle weiteren Aspekte , die mit dem Führen eines Fahrzeuges zusammenhängen , sich vorzustellen , was dazu führt , dass es zu einer unnatürlichen Fahrsituation kommt .
 Eine Studie , die im Simulator nur ein Teilaspekt des Fahrens betrachtet , birgt die Gefahr , dass keine signifikanten Ergebnisse gefunden werden können , weil der Fahrer sich ausschließlich auf eine einzige Variable konzentrieren kann und in der Lage ist die Aufgabe zu bewältigen .
@@ -497,7 +505,8 @@ Anhand der Ergebnisse im Fahrverhalten und in den Fragebögen , kann man darauf 
 Im Mittel gaben die Probanden in den Fragebögen in der Postmessung an , dass sie sich signifikant aufmerksamkeits- und leistungsgemindert fühlten .
 Sie unterschieden sich in ihrer Einschätzung nicht von den Probanden der Experimentalgruppe , was nicht der Fall hätte sein dürfen , da sie ja nicht alkoholisiert waren .
 Problematisch ist bei der Generierung von Placebobedingungen , dass die Probanden annehmen , dass sie Alkohol erhalten , was ihre Erwartungshaltung in Bezug auf physische und psychische Veränderungen verändert .
-Wie bedeutend die Erwartungshaltung einer Person ist beschreiben Fillmore , Carscadden und Vogel-Sprott ( 1998 , S. 174 ) in ihrer Studie wie folgt : „ [ … ] , those who expected more impairment performed more poorly under alcohol , and under the placebo when alcohol was expected .
+Wie bedeutend die Erwartungshaltung einer Person ist beschreiben Fillmore , Carscadden und Vogel-Sprott ( 1998 , S. 174 ) in ihrer Studie wie folgt :
+„ [ … ] , those who expected more impairment performed more poorly under alcohol , and under the placebo when alcohol was expected .
 [ … ] The findings call attention to expectancies as an important factor that may contribute to individual differences in cognitive functioning under alcohol and placebo “ .
 In einer vergleichbaren Studie von Marczinski und Fillmore ( 2005 ) konnte gezeigt werden , dass unter der Annahme , dass Alkohol konsumiert wurde , wie in der Alkoholbedingung Kompensationsstrategien in den Leistungstests zu verzeichnen waren .
 Dies führte dazu , dass die Probanden der Placebobedingung ähnliche Leistungen erbrachten , wie die alkoholisierten Probanden .

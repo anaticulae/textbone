@@ -10,7 +10,8 @@ Der Rang eines zentralen Ortes leitet sich dabei aus denjenigen –unter allen i
 Je hoher die Zentralität der Güter und Dienste , desto höher der Rang und desto größer die Einzugs- und Versorgungsgebiete eines zentralen Ortes “ ( GIFFINGER R. , KRAMAR H. und LUNAK D. ( 2004 ) , S. 22 ff )
 Dem Konzept der zentralen Orte folgt das Niederösterreichische Raumordnungsprogramm , welches verbindlich festlegt , welche Einrichtungen eine Stadt für die Bevölkerung zur Verfügung stellen muss .
 So heißt es in § 1 , Niederösterreichisches Raumordnungsprogramm von 1992 :
-( abrufbar unter : https://www.ris.bka.gv.at/Dokumente/LgblNO/LRNI_1992062/LRNI_1992062.pdf ( 25.01.2018 ) )
+( abrufbar unter :
+https://www.ris.bka.gv.at/Dokumente/LgblNO/LRNI_1992062/LRNI_1992062.pdf ( 25.01.2018 ) )
 „ Die Bevölkerung soll die Möglichkeit haben , alle Arten von zentralen Einrichtungen innerhalb zumutbarer Entfernung und mit einem zumutbaren Aufwand an Zeit und Kosten in Anspruch nehmen zu können .
 “ So ist die Stadt Neunkirchen nach dem Zentrale-Orte-Raumordnungsprogramm von 1992 in die Kategorie 4 eingeteilt .
 § 12 des Zentrale-Raumordnungs-Programmes definiert diese folgendermaßen :
@@ -37,14 +38,17 @@ Eines der Ergebnisse war , dass Neunkirchen in einer Wettbewerbssituation mit Wi
 Im Zuge der nun verfassten Arbeit soll anhand der Herkunft der befragten Personen als auch durch die Befragungsergebnisse ( wo werden Dienste alternativ zu Neunkirchen befriedigt ?) festgestellt werden , ob auch im Jahr 2017 dieser Wettbewerb besteht und möglicherweise eine Veränderung erkennbar ist .
 Das Untersuchungsgebiet Stadt Neunkirchen wurde aufgrund der gegebenen Situation in vier Untersuchungsstandorte „ Innenstadt “ , „ Am Spitz “ , „ Panoramapark “ und „ Sonstige “ eingeteilt ( siehe Abb. 2 ) .
 Die Innenstadt umfasst die Geschäfte am Hauptplatz und dessen umliegende Gassen , der Panoramapark ist das Einkaufszentrum Panoramapark nördlich des Hauptplatzes , als Am Spitz ist das Gewerbe- und Handelsgebiet im Südwesten der Stadt gemeint und unter Sonstiges firmieren die Geschäfte entlang der Bundesstraße 17 sowie die Unternehmen des Aucenters im Südosten .
-Als Erhebungsmethode wurde die persönliche Befragung vor Ort mit Hilfe eines standardisierten Fragebogens ( siehe Punkt 3.2. : Fragebogen , Abb. 3 und Abb. 4 ) an folgenden Wochentagen ausgewählt :
+Als Erhebungsmethode wurde die persönliche Befragung vor Ort mit Hilfe eines standardisierten Fragebogens ( siehe Punkt 3.2. :
+Fragebogen , Abb. 3 und Abb. 4 ) an folgenden Wochentagen ausgewählt :
 Dienstag , Freitag , Samstag im Zeitraum von Mai bis Juli 2017 .
 Der Umfang der Stichprobe beträgt n=50 an jeweils vier Standorten - somit ergibt sich die Größe der Gesamtstichprobe von 200 .
 Um die Struktur der Grundgesamtheit exakt widerzuspiegeln wurde auf das Quotenauswahlverfahren zurückgegriffen bei der die demographischen Merkmale Alter und Geschlecht als Auswahlkriterium zur Stichprobenkonstruktion herangezogen werden ( vgl. KAMENZ 20012 , S. 137 ff ) .
 Zur Konstruktion der Stichprobe wurden Daten der Statistik Austria über die Bevölkerungsstruktur am 01.01.2016 herangezogen welche frei über die Webseite zu beziehen sind .
-( Quelle : https://www.statistik.at/web_de/statistiken/menschen_und_gesellschaft/bevoelkerung/bevoelkerungsstruktur/bevoelkerung_nach_alter_geschlecht/index.html - aufgerufen am 15.03.2017 )
+( Quelle :
+https://www.statistik.at/web_de/statistiken/menschen_und_gesellschaft/bevoelkerung/bevoelkerungsstruktur/bevoelkerung_nach_alter_geschlecht/index.html - aufgerufen am 15.03.2017 )
 Da von der Annahme ausgegangen wird , dass die Bezirkshauptstadt Neunkirchen als Hauptort des Bezirkes den größten Teil der Versorgungsfunktion der im Bezirk ansässigen Bevölkerung übernimmt , wurde als Grundlage die Bevölkerungsstatistik des Bezirkes Neunkirchen mit Stand 01.01.2016 herangezogen ( zum Zeitpunkt der Stichprobenkonstruktion waren die Daten mit Stand 01.01.2017 noch nicht verfügbar ) und deren Einteilung hinsichtlich der Altersgruppen übernommen .
-Diese lautet : Aus den absoluten Werten wurden die relativen Anteile berechnet und diese anschließend wieder in Absolutwerte für die Stichprobengröße umgewandelt und auf ganze Personen gerundet .
+Diese lautet :
+Aus den absoluten Werten wurden die relativen Anteile berechnet und diese anschließend wieder in Absolutwerte für die Stichprobengröße umgewandelt und auf ganze Personen gerundet .
 Somit ergibt sich die in Tabelle 1 dargestellte Stichprobengröße pro Untersuchungsstandort nach Geschlecht und Altersklasse .
 Betrachtet man die Besuchsfrequenz für gesamt Neunkirchen so zeigen sich nur geringste Unterschiede im Prozentbereich bei den beiden Geschlechtern ( siehe Abb. 5 und 6 ) – insgesamt gesehen wird Neunkirchen somit von Männern wie Frauen in äußerst ähnlicher Häufigkeit besucht .
 Betrachtet man den Standort Innenstadt ( Abb. 7 und 8 ) so dominieren die täglichen sowie mehrmaligen Besuche pro Woche .
@@ -132,7 +136,8 @@ Die Kinderfreundlichkeit hat die schlechteste Bewertung erhalten denn es gibt we
 Etwas überraschend die schlechten Werte bei der Einschätzung der Parkplatzsituation :
 So verfügt der ( durch eine Straße zweigeteilte ) Panoramapark über zwei große , zentral zu den Geschäften gelegene Parkplätze welche auch zu den typischen Einkaufszeiten immer noch freie Stellflächen bieten .
 Das Einkaufszentrum am Spitz verfügt über die beste Bewertung bei der Parkplatzsituation , Erreichbarkeit mit Auto und Fahrrad sowie der Barrierefreiheit ( siehe Abb. 35 ) .
-Vor jedem Geschäft finden sich große Stellflächen ( mit Ausnahme eines Baumarktes , hier sind die Probleme quantitativer als auch qualitativer Natur : Die Anzahl ist begrenzt und die Parkplätze sehr schmal ) .
+Vor jedem Geschäft finden sich große Stellflächen ( mit Ausnahme eines Baumarktes , hier sind die Probleme quantitativer als auch qualitativer Natur :
+Die Anzahl ist begrenzt und die Parkplätze sehr schmal ) .
 Alle Geschäfte sind ebenerdig erreichbar und der große Lebensmittelhändler verfügt sogar über eine behindertengerechte Toilette .
 Die Erreichbarkeit mit öffentlichen Verkehrsmitteln erfährt hier ihre schlechteste Bewertung , die Öffnungszeiten haben im Vergleich die besten Werte .
 Hinsichtlich Kinderfreundlichkeit gilt dasselbe wie am Standort Panoramapark :
@@ -167,15 +172,19 @@ Der Panoramapark mit seiner zentralen Lage und dennoch guter Verkehrsanbindung s
 Er dient somit der ansässigen Bevölkerung als Nahversorger ( erkennbar durch den relativ hohen Anteil von Fußgängern und Radfahrern bei der Anreise , siehe Punkt 4.2.2. :
 Art der Anreise Standort „ Panoramapark “ ) , wirkt aber auch als klassisches Einkaufszentrum , das von weiter entfernt besucht wird . 40
 Differenziert nach Geschlechtern ( Abb. 50 und 56 ) zeigt sich hier ein leichter Überhang bei den Männern die direkt aus Neunkirchen bzw. aus einem Umkreis von 5 km stammen und die Frauen einen höheren Anteil mit einer Anreise von 10 bis 20 Kilometern aufweisen .
-Ein Erklärungsversuch wäre hier , dass der hohe Anteil an Bekleidungs- und Schuhgeschäften ( siehe auch Punkt 4.3.2. : Besuchsgrund Standort „ Panoramapark “ ) zu einer erhöhten Attraktivität und somit höheren Reichweite bei den Frauen führt .
+Ein Erklärungsversuch wäre hier , dass der hohe Anteil an Bekleidungs- und Schuhgeschäften ( siehe auch Punkt 4.3.2. :
+Besuchsgrund Standort „ Panoramapark “ ) zu einer erhöhten Attraktivität und somit höheren Reichweite bei den Frauen führt .
 Der Standort Am Spitz zeigt den geringsten Anteil an Besuchern aus der Stadt Neunkirchen ( Abb. 52 ) und passt somit in das Bild eines peripher gelegenen Einkaufszentrums das als Anziehungspunkt für Besucher aus dem Umland dient .
-Diesen Eindruck unterstützt auch der Befund , dass das Einkaufszentrum Am Spitz den geringsten Anteil an Besuchern aufweist welche täglich hier vor Ort sind ( siehe Punkt 4.1.3. : Besuchsfrequenz Standort „ Am Spitz “ ) .
+Diesen Eindruck unterstützt auch der Befund , dass das Einkaufszentrum Am Spitz den geringsten Anteil an Besuchern aufweist welche täglich hier vor Ort sind ( siehe Punkt 4.1.3. :
+Besuchsfrequenz Standort „ Am Spitz “ ) .
 Auch das nach Geschlechtern differenzierte Bild der Herkunft der Besucher des Einkaufszentrums Am Spitz unterstützt den schon öfters erweckten Eindruck einer mit einer höheren Mobilität ausgestatteten Gruppe der Männer .
 Auch wenn der Anteil an Einheimischen bei diesen höher liegt ist die Besuchsfrequenz ( siehe 4.1.3. , Besuchsfrequenz Am Spitz ) höher als bei den Frauen und das bei keinem feststellbaren Unterschied in der Art der Anreise ( siehe Abb. 53 und 54 ) .
 Dies stützt die zu Beginn geäußerte Vermutung , dass die traditionell häufiger im Berufsleben stehenden Männer das Einkaufszentrum Am Spitz auf ihren täglichen Arbeitswegen für einen Zwischenstopp nutzen wohingegen Frauen die Örtlichkeit gezielter und von weiter außerhalb anfahren .
 Am Standort Sonstige dominiert die einheimische Bevölkerung ( siehe Abb. 55 ) , in keinem anderen Untersuchungsgebiet sind die Werte so eindeutig .
 Dies liegt mit hoher Wahrscheinlichkeit an der ( verteilten ) Lage im Stadtgebiet ( siehe Abb. 2 ) welche den Besuch von außerhalb hier , im Vergleich zu den räumlich konzentrierten Einkaufszentren , unattraktiv zu gestalten scheint .
-Darauf weist auch die Auswertung der Art der Anreise hin ( siehe Punkt 4.2.4. : Art der Anreise Standort „ Sonstige “ : Abb. 24 und 25 ) wonach der Standort die höchsten Anteile an Fußgängern und Radfahrern besitzt .
+Darauf weist auch die Auswertung der Art der Anreise hin ( siehe Punkt 4.2.4. :
+Art der Anreise Standort „ Sonstige “ :
+Abb. 24 und 25 ) wonach der Standort die höchsten Anteile an Fußgängern und Radfahrern besitzt .
 Folgt man der These der generell mobileren Männer so fügt sich auch die geschlechterdifferenzierte Auswertung des Standortes in dieses Bild wonach die Männer längere Anfahrtswege in Kauf nehmen bzw. die ( Fach- ) Geschäfte gezielt ( von außerhalb ) ansteuern ( Abb. 56 und 57 ) .
 Abbildung 58 zeigt das Befragungsergebnis der Haushaltseinkommenssituation ( netto ) für ganz Neunkirchen in Prozent .
 Die Fragestellung erwies sich als eine der problematischsten der gesamten Untersuchung da einerseits die sieben befragten Kinder ( Personen unter 15 Jahren ) pro Standort nur in Ausnahmefällen hierauf eine Antwort geben konnten und andererseits , weil die Frage nach der finanziellen Lage eine sehr delikate Angelegenheit darstellt .
@@ -183,20 +192,24 @@ Dementsprechend erreichte die Antwort „ keine Angabe “ den höchsten Anteil 
 Eine Aufschlüsselung nach Geschlechtern getrennt erweist sich als nicht sinnvoll , da vom Haushaltseinkommen ( außer bei Einpersonenhaushalten , die Haushaltsgröße wurde allerdings nicht abgefragt ) nicht auf das Einkommen der befragten Person geschlossen und somit das Einkommen von Männern bzw. Frauen nicht korrekt dargestellt werden könnte .
 Abbildung 59 stellt die Einkommenssituation relativ für ganz Neunkirchen als auch nach den einzelnen Standorten getrennt dar .
 Auffällig sind die großen Unterschiede bei der Antwortmöglichkeit „ keine Angabe “ :
-So erwiesen sich die Befragungsteilnehmer an den Standorten Panoramapark und Am Spitz ( die klassischen Einkaufszentren mit größerer Reichweite , siehe Punkt 4.7. : Herkunft der Untersuchungsteilnehmer ) als relativ auskunftsfreudig wohingegen in der Innenstadt als auch bei Sonstige eher ein Geheimnis daraus gemacht wurde .
+So erwiesen sich die Befragungsteilnehmer an den Standorten Panoramapark und Am Spitz ( die klassischen Einkaufszentren mit größerer Reichweite , siehe Punkt 4.7. :
+Herkunft der Untersuchungsteilnehmer ) als relativ auskunftsfreudig wohingegen in der Innenstadt als auch bei Sonstige eher ein Geheimnis daraus gemacht wurde .
 Da es in Neunkirchen keine sogenannte Luxusmeile mit hochpreisigen Geschäften gibt ( und erst recht keinen Untersuchungsstandort der vom Branchenmix und der Positionierung der Unternehmen im Markt darauf schließen ließe ) zeigen die Ergebnisse keine eindeutige Präferenz von finanziell besser situierten Personen für einen gewissen Standort um einzukaufen .
 Die Zahlen über die Wohnsituation in Neunkirchen ( Abb. 60 ) zeigen nur minimale Unterschiede zwischen den Geschlechtern ( auf eine weitere getrennte Auswertung wird somit verzichtet ) , mit knapp der Hälfte der Antworten liegen die Einfamilienhäuser vor der Antwortmöglichkeit „ Wohnung “ , welche fast 40 Prozent erreichte .
 Mehrfamilien- bzw. Reihenhäuser erhielten zusammen nur einen Wert von 15 Prozent und stellen hier somit eher eine Ausnahme dar .
-Betrachtet man die Wohnsituation der Besucher der einzelnen Standorte ( Abb. 61 ) so zeigt sich , dass einzig die Besucher der Innenstadt mehrheitlich in Wohnungen leben - dieser Befund passt zur Tatsache , dass die Innenstadt und ihre Umgebung dichter und weniger mit Einfamilienhäusern bebaut ist ( und hauptsächlich zur Nahversorgung genutzt wird , siehe Punkte 4.1.1. : Besuchsfrequenz Standort „ Innenstadt “ und 4.2.1. : Art der Anreise Standort „ Innenstadt “ ) .
+Betrachtet man die Wohnsituation der Besucher der einzelnen Standorte ( Abb. 61 ) so zeigt sich , dass einzig die Besucher der Innenstadt mehrheitlich in Wohnungen leben - dieser Befund passt zur Tatsache , dass die Innenstadt und ihre Umgebung dichter und weniger mit Einfamilienhäusern bebaut ist ( und hauptsächlich zur Nahversorgung genutzt wird , siehe Punkte 4.1.1. :
+Besuchsfrequenz Standort „ Innenstadt “ und 4.2.1. :
+Art der Anreise Standort „ Innenstadt “ ) .
 Bei den weiteren drei Standorten dominiert die Wohnform „ Einfamilienhaus “ und folgt somit dem Gesamtergebnis für Neunkirchen .
 Die beiden höchsten EinfamilienhausWerte wurden von den Einkaufszentren Panoramapark und Am Spitz erzielt :
-Diese haben auch die höchsten Anteile an Besuchern von außerhalb von Neunkirchen ( siehe Punkt 4.7.2. : Herkunft Standort „ Panoramapark “ und 4.7.3. : Herkunft Standort „ Am Spitz “ ) , bedenkt man nun zusätzlich , dass in den ländlicheren Umlandgemeinden die Wohnform „ Wohnung “ zugunsten des Einfamilienhauses wahrscheinlich eine untergeordnete Rolle einnimmt so zeigt auch diese Auswertung , dass diese Standorte eine größere Reichweite aufweisen .
+Diese haben auch die höchsten Anteile an Besuchern von außerhalb von Neunkirchen ( siehe Punkt 4.7.2. :
+Herkunft Standort „ Panoramapark “ und 4.7.3. :
+Herkunft Standort „ Am Spitz “ ) , bedenkt man nun zusätzlich , dass in den ländlicheren Umlandgemeinden die Wohnform „ Wohnung “ zugunsten des Einfamilienhauses wahrscheinlich eine untergeordnete Rolle einnimmt so zeigt auch diese Auswertung , dass diese Standorte eine größere Reichweite aufweisen .
 In ihrer Arbeit von 1978 über das System der zentralen Orte Österreichs kommen Bobek und Fesl zu folgenden Befunden :
 So bescheinigen sie Wiener Neustadt gegenüber 1959 / 60 noch stärkere Übergriffe auf Verwaltungsgebiete Neunkirchens – sowohl im Wiener Becken als auch in der Buckligen Welt ( vgl. BOBEK und FESL 1978 , S. 141 ) und kann sich Neunkirchen gegenüber dem nur 17 km entfernten Wiener Neustadt nicht voll behaupten ( vgl. BOBEK und FESL 1978 : S. 228 ) .
 Ein Vergleich mit den Daten von Bobek und Fesl ( siehe Abb. 63 ) ist aufgrund der unterschiedlichen Erhebungsmethoden zwar nur bedingt möglich ( Bobek und Fesl erhoben 182 zentralörtliche Dienste die dem tertiären Sektor zuzuordnen sind v.a. mittels Fragebögen an Gemeindeämter und Schulen ; vgl. BOBEK und FESL 1978 , Einleitung bzw. S. 4 ff ) während in der aktuellen Untersuchung 200 Besucher der Stadt Neunkirchen nach ihren Einkaufsgewohnheiten befragt wurden .
 Trotzdem zeigt sich , dass die Reichweite der Stadt Neunkirchen auch im Jahre 2017 relativ begrenzt ist , kaum über die eigenen Bezirksgrenzen hinauskommt und große Bereiche im Nordwesten des Bezirkes aufweist , aus denen kein einziger Besucher angetroffen wurde ( Abb. 64 ) .
-Ein Faktor hierfür könnte der seit den 1960er Jahren in Österreich stark gestiegen Motorisierungsgrad sein denn dieser erhöhte sich von 109 PKWs pro 1000 Einwohnern im Jahr 1965 auf 522 im Jahr 2009 ( Quelle :
-Bundesministerium für Verkehr , Innovation und Technologie ( 2012 ) :
+Ein Faktor hierfür könnte der seit den 1960er Jahren in Österreich stark gestiegen Motorisierungsgrad sein denn dieser erhöhte sich von 109 PKWs pro 1000 Einwohnern im Jahr 1965 auf 522 im Jahr 2009 ( Quelle : Bundesministerium für Verkehr , Innovation und Technologie ( 2012 ) :
 Verkehr in Zahlen , https://www.bmvit.gv.at/verkehr/gesamtverkehr/statistik/viz11/index.html , aufgerufen am 18.12.2017 ) .
 Dies führt dazu , dass die Möglichkeit aus dem Umland in die Stadt Neunkirchen zu kommen zwar einfacher geworden ist , es allerdings auch leichter wurde ein noch weiter entferntes Ziel anzusteuern und weiter auseinander liegende Einkaufsorte in direkte Konkurrenz zueinander treten .
 Die Analyse der alternativen Einkaufsorte ( Abb. 62 ) bestätigt dieses Bild :
@@ -221,20 +234,26 @@ Dargestellt in relativen Zahlen ( ab vier Nennungen wurde berücksichtigt , alle
 Es dominiert der Einkauf von Lebensmitteln gefolgt von Kleidung und Schuhen .
 Vergleicht man dies mit dem Werten für die Einheimischen Untersuchungsteilnehmer ( ab vier Nennungen wurde berücksichtigt , alles andere unter dem Punkt Rest zusammengefasst ) zeigen sich gewisse Unterschiede ( Abb. 71 ) .
 So haben die Neunkirchner im Lebensmittelhandel , Gastronomie und Süßwaren einen höheren Anteil , wohingegen die Auswärtigen häufiger Geschäfte für Bekleidung , Schuhe und Heimwerkerbedarf aufsuchen .
-Aus diesem Befund lässt sich schließen , dass Neunkirchen seiner Rolle als Mittelzentrum der Region ( vgl. BOBEK u. FESL 1978 : S. 227 ) gerecht wird und sein Umland mit Diensten höherer Ordnung versorgt , welche in den kleineren Orten nicht angeboten werden ( können ) .
+Aus diesem Befund lässt sich schließen , dass Neunkirchen seiner Rolle als Mittelzentrum der Region ( vgl. BOBEK u. FESL 1978 :
+S. 227 ) gerecht wird und sein Umland mit Diensten höherer Ordnung versorgt , welche in den kleineren Orten nicht angeboten werden ( können ) .
 Von den 200 befragten Besuchern der Stadt Neunkirchen wurden 169 Angaben zu fehlendem Angebot bzw. nicht befriedigten Einkaufsbedürfnissen gemacht ( Abb. 72 ) .
 Bei der Produktgruppe Elektronik kann eine generelle Unterversorgung festgestellt werden da die Befragungsteilnehmer einen allgemeinen Bedarf kundtaten und auch meist explizit auf ein Geschäft ( in Wiener Neustadt ) verwiesen haben .
 Bei den Produktgruppen Kleidung , Möbel und Schuhe wird zwar ein gewisses Basisangebot wahrgenommen und auch anerkannt , hinsichtlich Auswahl und Qualität , d.h. in Angebotsbreite und -tiefe , dürfte es allerdings eine Unterversorgung geben .
 Durch die Frage nach dem Ort , an dem die Einkaufsbedürfnisse alternativ befriedigt werden , lässt sich der direkt mit der Einkaufsstadt Neunkirchen konkurrierende Einkaufsstandort identifizieren .
 Abbildung 73 zeigt das Ergebnis der Befragung der jeweils 50 Personen pro Standort :
 Die mit Abstand höchste Anzahl an Nennungen erreichte Wiener Neustadt vor der Shopping City Süd ( SCS ) in Vösendorf und Wien .
-Dies bestätigt den Befund von Bobek und Fesl von 1978 ( Das System der zentralen Orte Österreichs : S. 228 ) wonach sich Neunkirchen trotz seiner guten Ausstattung mit zentralörtlichen Diensten in einer Konkurrenzsituation mit Wiener Neustadt befindet .
+Dies bestätigt den Befund von Bobek und Fesl von 1978 ( Das System der zentralen Orte Österreichs :
+S. 228 ) wonach sich Neunkirchen trotz seiner guten Ausstattung mit zentralörtlichen Diensten in einer Konkurrenzsituation mit Wiener Neustadt befindet .
 Betrachtet man die einzelnen Standorte nach der Art der Anreise der Besucher ( Abb. 74 und 75 ) so zeigen sich bei beiden Geschlechtern eindeutige Präferenzen .
 So wird das Einkaufszentrum Am Spitz bedingt durch seine periphere Lage ( siehe Abb. 2 ) beinahe ausschließlich mit dem KFZ besucht - auch der Panoramapark wird bevorzugt mit dem KFZ angefahren , allerdings ist hier bei den Männern eine auffallend hohe Anzahl an Fahrradfahrern und bei den Frauen bei den Fußgängern zu beobachten .
 Eine Erklärung hierfür liegt in der Lage :
 So liegt der Panoramapark sehr zentral und ist hervorragend an das Radwegnetz angeschlossen .
 Die Innenstadt mit seinen Kurzparkzonen und der für viele ( vor allem Auswärtige ) verwirrenden Einbahnregelung zeigt ( vor allem bei den Männern ) trotzdem einen überraschend hohen Anteil an KFZ-Anreisen , bei den Frauen halten sich diese mit den Fußgängern die Waage .
-Hier zeigt sich , ebenso wie beim Standort Sonstige , dass die Innenstadt vor allem der Nahversorgung und den täglichen , kleineren Einkäufen dient ( siehe Punkte 4.1.1. : Besuchsfrequenz Standort „ Innenstadt “ und 4.1.4. : Besuchsfrequenz Standort „ Sonstige “ sowie 4.3.1. : Besuchsgrund Standort „ Innenstadt “ und 4.3.4. : Besuchsgrund Standort „ Sonstige “ ) .
+Hier zeigt sich , ebenso wie beim Standort Sonstige , dass die Innenstadt vor allem der Nahversorgung und den täglichen , kleineren Einkäufen dient ( siehe Punkte 4.1.1. :
+Besuchsfrequenz Standort „ Innenstadt “ und 4.1.4. :
+Besuchsfrequenz Standort „ Sonstige “ sowie 4.3.1. :
+Besuchsgrund Standort „ Innenstadt “ und 4.3.4. :
+Besuchsgrund Standort „ Sonstige “ ) .
 Abbildung 76 zeigt das Ergebnis der Befragung zur Zufriedenheit differenziert nach Standorten .
 Auf den ersten Blick fällt eine gute Grundstimmung auf , bis auf wenige Ausreißer befinden sich alle Werte im positiven Bereich .
 Bei den Punkten Sauberkeit und Atmosphäre des Standortes herrscht an allen Standorten große Einigkeit , die Bewertungen befinden sich im guten Mittelfeld .

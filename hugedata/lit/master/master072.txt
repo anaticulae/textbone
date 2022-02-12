@@ -413,7 +413,8 @@ Darin unterscheidet sich Vertrauen von Hoffnung , die Kontingenz nicht in Erwäg
 Der Vertrauensprozess muss bzw. kann allerdings auch nicht bei jeder Entscheidung bewusst vollzogen werden , sondern läuft zum Teil routiniert ab .
 Dies trifft insbesondere auf relativ sichere Verhaltenserwartungen in Alltagssituationen zu , die z.B. als Selbstverständlichkeiten gelten . 165
 Vertrauen hängt darüber hinaus von Sanktionsmöglichkeiten ab , die allerdings nicht explizit reflektiert werden dürfen , damit es nicht zu Misstrauensbildung kommt .
-Sanktionsmöglichkeiten erfordern einen gewissen zeitlichen Fortbestand der Beziehung , denn die Interaktionspartner müssen sich wiedersehen : „ Es herrscht das Gesetz des Wiedersehens “ 166 .
+Sanktionsmöglichkeiten erfordern einen gewissen zeitlichen Fortbestand der Beziehung , denn die Interaktionspartner müssen sich wiedersehen :
+„ Es herrscht das Gesetz des Wiedersehens “ 166 .
 Der Vertrauende kann so ggf. im Nachhinein einen Vertrauensbruch mit Konsequenzen belegen .
 Außerdem kann er davon ausgehen , dass sich auch der , dem vertraut wird , dieser Möglichkeit bewusst ist .
 Weiterhin muss das Vertrauen sozial gerechtfertigt und anerkannt sein , damit Sanktionsmöglichkeiten bestehen .
@@ -458,7 +459,8 @@ Es gibt keine gegenseitigen Erwartungen , die das Handeln bestimmen könnten , d
 Und darin liegt nach White die Antriebskraft für den Aufbau von Identitäten :
 “ Identities spring up out of efforts at control in turbulent context “ 178 .
 Sie entstehen aus den Versuchen , Unsicherheit zu kontrollieren , indem sie danach streben , einen festen Standpunkt ( Footing ) inmitten einer kontingenten Umwelt zu finden . 179
-Boris Holzer schreibt : „ Identität wird damit beobachtbar als der Ausdruck eines Bedürfnisses nach sozialer Verortung ( social footing ) “ 180 .
+Boris Holzer schreibt :
+„ Identität wird damit beobachtbar als der Ausdruck eines Bedürfnisses nach sozialer Verortung ( social footing ) “ 180 .
 Das Bedürfnis nach Kontrolle darf jedoch nicht als Machtstreben missverstanden werden – vielmehr handelt es sich um existenziell wichtige Vorgänge für die Identitätsbildung .
 Kontrolle ist , nach White , das Basis-Moment in sozialen Netzwerken und beschreibt das Verlangen , mehr oder weniger feste Bindungen zu schaffen und damit Halt und eine bestimmte Position im sozialen Umfeld von anderen Identitäten zu finden .
 So lassen sich Unsicherheit und Kontingenz in der sozialen Umwelt reduzieren .
@@ -493,9 +495,11 @@ Ties verketten sich folglich miteinander , sodass es zu Verbindungen über die d
 Außerdem können sie vielfältige Dimensionen aufweisen , wenn z.B. eine Beziehung zwischen Arbeitskollegen existiert , die gleichzeitig auch Freunde sind . 202
 Identitäten koppeln sich durch Ties an andere Identitäten , sie lösen sich aber auch ständig wieder von diesen; White spricht in diesem Zusammenhang von „ Coupling “ und „ Decoupling “ . 203
 Ties lassen sich durch einen bestimmten Kontext in einer Story konkretisieren .
-White schreibt : „ A story is a tie placed in context “ 204 .
+White schreibt :
+„ A story is a tie placed in context “ 204 .
 Stories entstehen demnach in konkreten Netzwerk-Verbindungen und ermöglichen es , die Beziehungen zwischen den Identitäten zu unterscheiden und zu charakterisieren , z.B. als Bekanntschaft , Freundschaft oder Intimbeziehung .
-Durch sie wird Identität erzählt oder anders ausgedrückt : dargestellt .
+Durch sie wird Identität erzählt oder anders ausgedrückt :
+dargestellt .
 Stories gelten dabei immer als gemeinsame Produktionen und sind nicht das kreative Ergebnis von Einzelnen .
 Sie entstehen durch interagierende Kontrollbemühungen von zwei Identitäten , die in Beziehung zueinander stehen . 205
 Stories beschreiben die Beziehung dann aus der subjektiven Perspektive eines Beteiligten und definieren sie damit gleichzeitig .
@@ -581,7 +585,8 @@ Interaktion mit all den Lesern ist dann nicht mehr möglich .
 Dies trifft jedoch , statistisch gesehen , nur auf etwa ein Fünftel der Blogs zu , denn sobald die Nutzer Wahlfreiheit aus einer Vielfalt haben , herrscht Ungleichheit und es kommt zu einer Power-Law-Verteilung ( 80-20-Regel ) . 217
 Demnach lässt sich näherungsweise annehmen , dass 20 % aller Blogs 80 % der Leserschaft für sich beanspruchen .
 Die Mehrheit der Blogs bleibt daher unpopulär und ermöglicht weiterhin Interaktion.
-Der vorangegangene Abschnitt zeigt : Die Interaktionssysteme in den sozialen Medien können recht groß werden .
+Der vorangegangene Abschnitt zeigt :
+Die Interaktionssysteme in den sozialen Medien können recht groß werden .
 Von Grenzfällen einmal abgesehen , bleiben die Adressaten also bestimmbar .
 Gerade bei den viel beachteten Social Network Sites können die Kontakte benannt werden , denn sie müssen bewusst ausgewählt werden .
 Auch wenn die sozialen Online-Netzwerke eine beachtliche Größe erreichen können , sind sie ihrem Wesen nach dennoch Auswahl , denn sie können nicht ins Unendliche anwachsen .
@@ -704,7 +709,8 @@ Facebook beispielsweise bietet dafür mittlerweile eine Reihe von Funktionen an 
 Die Nutzer können also steuern , wem sie was mitteilen wollen .
 Es lässt sich daher nicht sagen , dass eine Entprivatisierung eingesetzt habe oder das Private durch die sozialen Medien generell öffentlich gemacht werde .
 Vielmehr gibt es gerade auf den viel beachteten Social Network Sites Funktionen , die eine Eingrenzung der Interaktionskontexte erlauben und damit die Kontrolle über den Adressatenkreis ermöglichen .
-Anders ausgedrückt : Es gibt Einstellungen , mit denen Privatheit geschaffen werden kann .
+Anders ausgedrückt :
+Es gibt Einstellungen , mit denen Privatheit geschaffen werden kann .
 Die Social Network Site Google+ z.B. ist so konzipiert , dass Informationen selektiv geteilt und konsumiert werden können .
 Der Nutzer kann dafür individuelle Kreise ( Circles ) einrichten , um seine verschiedenen Kontakte zu organisieren und gezielt auszuwählen , wem er welche Informationen mitteilen möchte .
 Die Kreise können nicht nur nach Beziehungsgrad der Kontakte gruppiert werden , sondern auch durch ein bestimmtes Thema organisiert werden , das dann einen Rahmen für die Kommunikation vorgibt ( z.B. Kochen , Motorräder etc.) .235 Google+ ermöglicht also sehr spezifische Einstellungen , die den Adressatenkreis individuell bestimmbar machen .
@@ -714,7 +720,8 @@ Hier ist jedoch zu beachten , dass es bei der zugehörigen Frage im Rahmen der S
 Möglicherweise liegt darin ein Grund für den relativ geringen Prozentsatz .
 Allerdings zeichnet sich empirisch auch ab , dass die Nutzer offenbar andere Wege bevorzugen , um für sich abgrenzbare Kontexte zu bilden , z.B. über private Nachrichten , die Chat-Kommunikation oder geschlossene Gruppen . 237
 Eingrenzende Faktoren sind für die Nutzer also wichtig .
-Die bereits zitierte BITCOMStudie bestätigt : 91 % der Nutzer sozialer Online-Netzwerke ist es eher wichtig bis sehr wichtig , die Sichtbarkeit ihrer Daten für bestimmte Personengruppen definieren zu können .
+Die bereits zitierte BITCOMStudie bestätigt :
+91 % der Nutzer sozialer Online-Netzwerke ist es eher wichtig bis sehr wichtig , die Sichtbarkeit ihrer Daten für bestimmte Personengruppen definieren zu können .
 87 % der Nutzer legen z.B. Wert darauf , ihre Pinnwand nur für bestimmte Personen verfügbar zu machen; eine deutliche Mehrheit äußerte außerdem , dass es ihnen wichtig sei , ihr Profil als nicht auffindbar einstellen zu können ( 83 % ) . 238
 Den Nutzern geht es jedoch nicht nur darum , wer bestimmte Inhalte sehen darf .
 Sie haben differenziertere Kriterien , nach denen sie die Empfänger auswählen .

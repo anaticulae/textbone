@@ -25,7 +25,9 @@ XBRL ist die Abkürzung für eXtensible Business Reporting Language und dient de
 Es bietet den Vorteil , dass es nicht nur für die EBilanz genutzt werden kann , sondern auch „ im Rahmen der allgemeinen Finanzberichterstattung [ … ] . “ 12
 Beispiele für die weitere Verwendung sind die Übermittlung an den Bundesanzeiger , an verbundene Unternehmen und an die Banken .
 Die Umstellung auf XBRL muss meistens nur einmal erfolgen und spart somit wieder Zeit und Kosten .
-Aus der Drucksache 16/10188 vom Bundestag kommt deutlich heraus , dass der Bedarf an Daten in Zukunft steigen wird : „ Der Gesetzentwurf enthält ein Bündel von Maßnahmen , die dieser Zielsetzung in besonderem Maße gerecht werde : Einen Schwerpunkt bildet der Ausbau der elektronischen Kommunikation zwischen Unternehmen und Steuerbehörde , insbesondere durch papierlose Übermittlung der Steuererklärungsdaten und ergänzender Unterlagen bei den Unternehmenssteuern. “ 13
+Aus der Drucksache 16/10188 vom Bundestag kommt deutlich heraus , dass der Bedarf an Daten in Zukunft steigen wird :
+„ Der Gesetzentwurf enthält ein Bündel von Maßnahmen , die dieser Zielsetzung in besonderem Maße gerecht werde :
+Einen Schwerpunkt bildet der Ausbau der elektronischen Kommunikation zwischen Unternehmen und Steuerbehörde , insbesondere durch papierlose Übermittlung der Steuererklärungsdaten und ergänzender Unterlagen bei den Unternehmenssteuern. “ 13
 Für den steuerlichen Berater und auch für die Unternehmen heißt das , dass sie mit einer Umstellung rechnen müssen .
 Die inhaltlichen Anforderungen weichen zum Teil von der bisherigen Praxis ab. 14
 „ Die Technik der E-Bilanz greift [ jedoch ] nicht unmittelbar in die bestehende individuelle Buchführung des Steuerpflichtigen ein “ 15 Die Ordnungsmäßigkeit der Buchführung wird nicht verändert .
@@ -37,7 +39,8 @@ Die Daten der Unternehmen stehen jedoch oftmals schon in digitaler Form zur Verf
 Somit wurde im Dezember 2008 das Steuerbürokratieabbauge setz verabschiedet , welches dafür sorgen soll , dass die nationale Steuerbürokratie mit Hilfe von modernen Informationstechnologien mehr abgebaut wird .
 Eine weitere Änderung im Gesetz ist die Erweiterung des § 5 EStG um § 5b EStG. 19 § 5b Abs. 1 EStG besagt , dass Unternehmen die ihren „ Gewinn nach § 4 Abs. 1 , § 5 oder § 5a ermittel [ n ] “ 20 , den „ Inhalt der Bilanz sowie der Gewinn- und Verlustrechnung nach amtlich vorgeschriebenen Datensatz durch Datenübertragung zu übermitteln [ haben ] “ 21 Der Begriff „ Bilanz “ des Satzes 1 wird mit den Sätzen 2 und 3 des § 5b EStG konkretisiert .
 Diese Sätze sind identisch zu den Vorschriften des § 60 Abs. 2 EStDV .
-„ Geringe Änderungen ergeben sich im Verhältnis zu § 60 EStDV : [ die ] Verpflichtungen nach § 60 EStDV werden nicht ausgeweitet. “ 22
+„ Geringe Änderungen ergeben sich im Verhältnis zu § 60 EStDV :
+[ die ] Verpflichtungen nach § 60 EStDV werden nicht ausgeweitet. “ 22
 Die Bilanz sowie die Gewinn- und Verlustrechnung müssen nun elektronisch übermittelt werden .
 Der Anhang , der Lagebericht und der Prüfbericht können jedoch noch in Papierform eingereicht werden. 23
 In der Nachfolgenden Abbildung wird noch einmal § 5b Abs. 1 EStG dargestellt .
@@ -46,9 +49,11 @@ Durch diesen Paragraphen wird das Bundesministerium der Finanzen dazu ermächtig
 Daraus entstand ein Anwendungsschreiben des BMF vom 28. 09.2011 , welches vorher von mehreren Unternehmen in einer Pilotphase getestet und hierbei immer wieder weiterentwickelt wurde letztendlich die Endversion veröffentlicht werden konnte .
 Man kann also sagen , dass das Bundesministerium der Finanzen einige Kritikpunkte aufgenommen und verbessert hat .
 Somit wird deutlich , dass das „ Projekt E-Bilanz “ nicht gefährdet werden soll und „ die verpflichtende Einführung für die betroffenen Unternehmen – zunächst – ohne wesentliche Eingriffe in deren bisheriges Buchungsverhalten “ 25 ermöglicht wird .
-Als Taxonomien werden die gegliederten Datenschemata bezeichnet , „ die den Inhalt und die Struktur von Finanzberichten beschreiben. “ 26 Sie werden vom Bundesministerium für Finanzen wie folgt definiert : „ Eine Taxonomie ist ein Datenschema für Jahresabschlussdaten .
-Durch die Taxonomie werden die verschiedenartigen Positionen definiert , aus denen z .
-B. eine Bilanz oder eine Gewinn-und Verlustrechnung bestehen kann ( also etwa die Firma des Kaufmanns oder die einzelnen Positionen von Bilanz und Gewinn- und Verlustrechnung ) und entsprechend ihrer Beziehungen zueinander geordnet. “ 27 Vergleichbar sind die Berichtbestandteile mit Lettern aus einem Setzkasten .
+Als Taxonomien werden die gegliederten Datenschemata bezeichnet , „ die den Inhalt und die Struktur von Finanzberichten beschreiben. “ 26
+Sie werden vom Bundesministerium für Finanzen wie folgt definiert :
+„ Eine Taxonomie ist ein Datenschema für Jahresabschlussdaten .
+Durch die Taxonomie werden die verschiedenartigen Positionen definiert , aus denen z.B. eine Bilanz oder eine Gewinn-und Verlustrechnung bestehen kann ( also etwa die Firma des Kaufmanns oder die einzelnen Positionen von Bilanz und Gewinn- und Verlustrechnung ) und entsprechend ihrer Beziehungen zueinander geordnet. “ 27
+Vergleichbar sind die Berichtbestandteile mit Lettern aus einem Setzkasten .
 Sie dienen dabei als Vorlage für den Abschluss . 28
 Die Taxonomien werden jedes Jahr durch die Finanzverwaltung geprüft .
 Je nachdem , ob ein Änderungsbedarf besteht , wird eine neue Version durch ein amtliches BMF-Schreiben veröffentlicht .
@@ -150,7 +155,8 @@ Postalische Umfragen können bei einer hohen Fallzahl sehr kostenaufwändig sein
 Die Portokosten für das Versenden der Fragebögen wären enorm hoch .
 „ Um die niedrige Rücklaufquote zu verbessern , muss man [ … ] mehrere Mahn- und Nachfassaktionen durchführen. “ 59 Diese führen erneut zu hohen Portokosten .
 Ein weiterer Vorteil der schriftlichen Befragung ist , dass die Intervieweffekte entfallen .
-Folgende Vorteile werden genannt : Durch das Fehlen eines Interviewers können die Befragten ehrlicher und auch überlegter antworten .
+Folgende Vorteile werden genannt :
+Durch das Fehlen eines Interviewers können die Befragten ehrlicher und auch überlegter antworten .
 Sie fühlen sich nicht gezwungen , es dem Interviewer recht zu machen .
 Sie können in Ruhe überlegen , was für sie die richtige Antwort ist und müssen nicht überstürzt antworten .
 „ Die Zusicherung von Anonymität und sozialer Folgenlosigkeit der Befragung “ 60 ist für die Befragten wesentlich angenehmer .
@@ -326,7 +332,8 @@ Die Dauer der Bearbeitung des Fragebogens betrug ungefähr 10 Minuten .
 In der versandten E-Mail war ein Link zum Fragebogen enthalten und ein Begleitschreiben .
 In diesem Schreiben erläuterte ich die Umfrage .
 Es wurde auf die Bearbeitungszeit der Umfrage hingewiesen und auf das Thema .
-Das Thema der Umfrage nannte ich : „ Eine Umfrage zur E-Bilanz “ .
+Das Thema der Umfrage nannte ich :
+„ Eine Umfrage zur E-Bilanz “ .
 So konnten die Mitarbeiter , die mit diesem Bereich nichts zu tun haben , gleich erkennen , dass sie diese Umfrage nicht beantworten müssen .
 Die Beteiligung an der Umfrage war ganz gut .
 Von 127 Mitarbeitern haben 52 teilgenommen .
@@ -344,7 +351,8 @@ Rund 1.500 Mitarbeiterinnen und Mitarbeiter sind deutschlandweit bei der ECOVIS 
 Die ECOVIS ist ein Beratungsunternehmen für den Mittelstand und zählt in Deutschland zu den Top 10 der Branche .
 In einer von der Zeitschrift Markt und Mittelstand in Auftrag gegebenen Studie erzielte ECOVIS hervorragende Ergebnisse in fast allen abgefragten Bereichen und konnte sich damit an die Spitze als bester Wirtschaftsprüfer für den Mittelstand absetzen .
 Ebenfalls bekam das Unternehmen erst in diesem Jahr die Auszeichnung vom FOCUS-Spezial Arbeitgeberranking , als beliebtester Arbeitgeber mit den Schwerpunkten Steuerberatung und Wirtschaftsprüfung . 85
-Seit der Gründung 2003 hat sich die ECOVIS auf dem Markt etabliert : „ als [ ein ] Unternehmen aus Steuerberatern , Wirtschaftsprüfern , Rechtsanwälten und Unter nehmensberatern mit dem Schwerpunkt auf den speziellen Bedürfnissen von inhaber- und familiengeführten Unternehmen und Privatpersonen. “ 86
+Seit der Gründung 2003 hat sich die ECOVIS auf dem Markt etabliert :
+„ als [ ein ] Unternehmen aus Steuerberatern , Wirtschaftsprüfern , Rechtsanwälten und Unter nehmensberatern mit dem Schwerpunkt auf den speziellen Bedürfnissen von inhaber- und familiengeführten Unternehmen und Privatpersonen. “ 86
 Ihr Erfolgsrezept liegt darin , das sie aus profundem Wissen zur richtigen Lösung gelangen können .
 Ihre Arbeit erfolgt interdisziplinär sowie international .
 Der Vorteil , welcher daraus hervorgeht ist , dass sie somit ein größeres Leistungsspektrum anbieten können , als kleinere und mittelgroße Kanzleien direkt vor Ort .
@@ -363,7 +371,8 @@ Die ECOVIS beschäftigt sich mit allen möglichen Branchen der jeweiligen Region
 Sie zeichnet aus , dass immer Mitarbeiter vor Ort sind die auf eine Branche spezialisiert sind .
 Somit können die Unternehmen bestmöglich beraten werden .
 Beispiele für Branchen sind die Agrarbranche , Bauwirtschaft und Immobilien , Handwerk , Gesundheitswesen , Hotel und Gastronomie , Unternehmer und Privatpersonen und viele mehr . 90
-Der Ablauf in einer Kanzlei der ECOVIS ist wie folgt : Die Unternehmen bringen ihre Unterlagen in die Kanzlei .
+Der Ablauf in einer Kanzlei der ECOVIS ist wie folgt :
+Die Unternehmen bringen ihre Unterlagen in die Kanzlei .
 Dort besitzt jeder Mitarbeiter seine Mandanten .
 Die Unterlagen werden von dem jeweiligen Mitarbeiter bearbeitet .
 Bei Fragen aus Sicht der Unternehmer , können diese immer auf die Mitarbeiter zu gehen .
@@ -371,7 +380,8 @@ In jeder Kanzlei ist auch ein Steuerberater vertreten , welcher auch für die Fr
 Die Unternehmen werden bestmöglich betreut und müssen sich mit neuen Dingen , wie beispielweise der E-Bilanz nicht auseinandersetzen und sind trotzdem sehr gut beraten .
 Im ersten Teil des Fragebogens ging es um die Erfassung der personenbezogenen Daten .
 Von den 50 Teilnehmern waren 9 Teilnehmer männlich und 41 weiblich .
-Die Altersverteilung ist in der nachfolgenden Abbildung dargestellt : Das Alter der Mitarbeiter variiert zwischen 18 und über 60 Jahren , wobei über 56 % der Teilnehmer jünger als 40 Jahre alt sind .
+Die Altersverteilung ist in der nachfolgenden Abbildung dargestellt :
+Das Alter der Mitarbeiter variiert zwischen 18 und über 60 Jahren , wobei über 56 % der Teilnehmer jünger als 40 Jahre alt sind .
 Lediglich 44 % also 22 von 50 Teilnehmer sind älter als 40 Jahre alt .
 Der größte Teil der weiblichen Mitarbeiter mit 14 Antworten sind zwischen 40 und 50 Jahre alt .
 Bei den männlichen Mitarbeitern sind die Meisten 30-40 Jahre alt .
@@ -433,7 +443,8 @@ In der Abbildung 12 ist das Ergebnis dieser Frage dargestellt .
 52 % der befragten Mitarbeiter gaben an , dass sie einen 10 % höheren Zeitaufwand vermuten , 31 % finden sogar das es einen bis zu 20 % höheren Zeitaufwand gibt .
 Nur 4 % der Mitarbeiter vermuten einen bis zu 30 % höheren Zeitaufwand .
 13 % also 6 Mitarbeiter gaben ihre Antwort in dem Zusatzantwortfeld an .
-Folgende Antworten wurden dort angegeben : - kommt ganz drauf an , prinzipiell ca. 2-3 h pro E-Bilanz - 15-30 min .
+Folgende Antworten wurden dort angegeben :
+- kommt ganz drauf an , prinzipiell ca. 2-3 h pro E-Bilanz - 15-30 min .
 - kommt auf die bebuchten Konten an - ca. 10-15 Minuten - anfangs ca. ½ Stunde - leider keine Erfahrungen Man kann also feststellen , dass grundsätzlich alle Mitarbeiter einen höheren Zeitaufwand vermuten beim Erstellen der E-Bilanz .
 Die nächsten beiden Fragen beziehen sich auf den Kostenaufwand .
 In der einen Frage wurde allgemein nach dem Kostenaufwand gefragt .
@@ -448,7 +459,8 @@ Lediglich 3 der befragten Personen vermuten keine höheren Kosten für den Manda
 Die Antworten bis 30 % und mehr als 30 % wurden nicht genutzt .
 Die letzten beiden Fragen im Fragebogenkomplex 4 sollen eine Aussage über den Bürokratieaufwand geben .
 Einmal über den Bürokratieaufwand zum Zeitpunkt der Einführung der E-Bilanz und einmal danach .
-Folgende Ergebnisse sind daraus entstanden : In der Abbildung 14 wird verdeutlicht , dass die Mehrheit der Mitarbeiter einen höheren Bürokratieaufwand zum Zeitpunkt der Einführung feststellt .
+Folgende Ergebnisse sind daraus entstanden :
+In der Abbildung 14 wird verdeutlicht , dass die Mehrheit der Mitarbeiter einen höheren Bürokratieaufwand zum Zeitpunkt der Einführung feststellt .
 27 von 48 beantworteten die Frage mit „ hoher Bürokratieaufwand “ , 18 mit „ geringerer Bürokratieaufwand “ , eine Person mit „ kein Bürokratieaufwand “ und zwei Personen mit „ Reduzierung Bürokratieaufwand “ .
 Bei der nächsten Frage , wie sich der Bürokratieaufwand verändert hat nach dem die E-Bilanz eingeführt wurde , war das Ergebnis anders herum .
 Dort gab die Mehrheit ( 28 Nennungen ) an , dass sich der Bürokratieaufwand verringert hat .
@@ -465,7 +477,8 @@ Bei der letzten Frage im Fragebogenkomplex fünf sollen die Mitarbeiter bewerten
 Die restlichen 39,1 % finden die zusätzlichen Informationspflichten der E-Bilanz unverhältnismäßig .
 Im letzten Fragebogenkomplex wurden nochmal Fragen zur Bewertung der EBilanz gestellt .
 Wie die Mitarbeiter die Einführung bewerten , wie wichtig Ihnen die Beibehaltung der Abgabe der Bilanz in Papierform ist , die Einschätzung des Vorbereitungsstandes der E-Bilanz , ob es eine Erleichterung für die Mitarbeiter ist durch die E-Bilanz und ob sie nicht lieber doch wieder darauf verzichten möchten .
-Bei der Frage der Bewertung konnten die Teilnehmer auswählen zwischen : „ deutlicher Vorteil “ , „ neutral “ und „ deutlicher Nachteil “ .
+Bei der Frage der Bewertung konnten die Teilnehmer auswählen zwischen :
+„ deutlicher Vorteil “ , „ neutral “ und „ deutlicher Nachteil “ .
 Von den 48 Mitarbeitern die diese Frage beantwortet haben , bewerten 77,1 % ( 37 Nennungen ) die Einführung der E-Bilanz neutral .
 Ein Mitarbeiter sieht die Einführung als deutlichen Vorteil und 10 Mitarbeiter als deutlichen Nachteil .
 In der nachfolgenden Abbildung ist dargestellt , wie wichtig den Mitarbeitern die Beibehaltung der Abgabe der Bilanz in Papierform ist .
@@ -513,9 +526,8 @@ In den Unterlagen sind zum größten Teil auch Fallbeispiele dargestellt und gen
 Dadurch können die Mitarbeiter gezielt nachschauen , welche Informationen für Sie relevant im Berufsalltag sind .
 Anhand der Ergebnisse der Umfrage wird deutlich , dass weniger als die Hälfte der Mitarbeiter ein Seminar besucht haben .
 47,9 % von 48 Teilnehmer nahmen an einem Seminar zum Thema E-Bilanz teil .
-Durch die Teilnahme an dem Seminar bestätigten 95,9 % , dass sie neue oder teilweise neue Erkenntnisse erlangt haben .
-( siehe Abb .
-11 ) Damit wäre bestätigt das Seminare helfen , neue Information über eine bestimmte Thematik zu erlangen .
+Durch die Teilnahme an dem Seminar bestätigten 95,9 % , dass sie neue oder teilweise neue Erkenntnisse erlangt haben . ( siehe Abb . 11 )
+Damit wäre bestätigt das Seminare helfen , neue Information über eine bestimmte Thematik zu erlangen .
 Die Hypothese kann bestätigt werden .
 Teilnehmer die die Frage nach der Teilnahme an einem Seminar mit Ja beantwortet haben , fühlen sich auch gut über die E-Bilanz informiert .
 Von den 23 Mitarbeitern die ein Seminar besucht haben , gaben 15 an , dass sie sich gut und 2 das sie sich sogar sehr gut über die E-Bilanz informiert fühlen .

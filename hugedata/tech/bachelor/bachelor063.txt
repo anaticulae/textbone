@@ -76,7 +76,8 @@ Das errechnete Stellsignal wird durch einen weiteren DAQ-Block ausgegeben .
 Eine zusätzliche Funktion bildet die Einrichtung einer Timer-Struktur , welche bei jedem Durchlauf die seit dem Start abgelaufene Zeit in Millisekunden protokolliert .
 Somit können die Periodendauer und daraus die tatsächlich erreichte Frequenz der zeitgesteuerten Schleife ermittelt werden .
 Eine erste Testmessung ergibt eine Periodendauer zwischen 20 und 50ms .
-Deshalb wird versucht , die Performance durch verschiedene Maßnahmen zu verbessern : Zur Anpassung an die digitale Regelung muss der bestehende Hardwareaufbau geändert werden .
+Deshalb wird versucht , die Performance durch verschiedene Maßnahmen zu verbessern :
+Zur Anpassung an die digitale Regelung muss der bestehende Hardwareaufbau geändert werden .
 Im bisherigen Gerät können mehrere Komponenten wie z.B. die Reglerplatine oder diverse Netzteile eingespart werden .
 Es wird ein kompaktes Gehäuse gesucht , das neben der Druckerzeugungseinheit eine 24V-Spannungsquelle und eine Anschlussmöglichkeit an das 230V-Stromnetz aufnehmen kann .
 Nach Montageversuchen und dem Aufbau einiger Raummodelle wird es als sinnvoll erachtet , das bestehende Gehäuse der Druckerzeugungseinheit zu verwenden .
@@ -113,7 +114,8 @@ Dazu wird ein externer Druck am Arm aufgebracht und langsam wieder abgelassen .
 Dabei werden die auftretenden Oszillationen ermittelt .
 Es soll untersucht werden , ob eine solche Messung zuverlässige Werte liefert .
 Die Programmierung wird als Sub-VI realisiert und im Hauptprogramm eingebettet .
-Das Unterprogramm soll folgende Abläufe durchführen : Dem Ventil soll ein Rampensignal vorgegeben werden , das in der Manschette zügig einen Druck von vorerst 200mmHg erzeugt und diesen dann mit mäßiger Geschwindigkeit ( ca. 5 mmHg / s ) ablässt .
+Das Unterprogramm soll folgende Abläufe durchführen :
+Dem Ventil soll ein Rampensignal vorgegeben werden , das in der Manschette zügig einen Druck von vorerst 200mmHg erzeugt und diesen dann mit mäßiger Geschwindigkeit ( ca. 5 mmHg / s ) ablässt .
 Während des Ablassens sollen die vom Blutgefäß auf die Manschette übertragenen Oszillationen registriert , herausgefiltert und verstärkt werden .
 Aus diesen Schwingungen sollen dann Blutdruckwerte ermittelt werden .
 Das Sub-VI ist in zwei Sequenzen aufgeteilt .
@@ -199,10 +201,12 @@ Störend wirkt sich hierbei die am Venenstauband verwendete Verschlussschnalle a
 Durch ihr Gewicht und ihre im normalen Anwendungsfall in der Luft hängende Position verursacht sie eine Verschiebung der Sonde weg von der aufgesuchten Arterie .
 Dies hat ein schlechter werdendes Dopplersignal zur Folge .
 Daher soll eine alternative Fixierungsmöglichkeit gefunden werden .
-Für diese werden folgende Anforderungen erarbeitet : Ein wichtiger und zu berücksichtigender Aspekt ist der zu erwartende Fertigungsaufwand .
+Für diese werden folgende Anforderungen erarbeitet :
+Ein wichtiger und zu berücksichtigender Aspekt ist der zu erwartende Fertigungsaufwand .
 Die neue Halterung soll möglichst schnell zur Verfügung stehen .
 Das für den bestehenden Versuch aufwendig gestaltete Kunststoff-Verbindungselement soll , wenn möglich , weiter verwendet werden .
-Es werden folgende Lösungsideen gefunden : • Die letztgenannte Idee wird weiterverfolgt und ausgearbeitet ( siehe Abb. 23 ) .
+Es werden folgende Lösungsideen gefunden :
+• Die letztgenannte Idee wird weiterverfolgt und ausgearbeitet ( siehe Abb. 23 ) .
 Als Material werden Silikonrundschnüre mit 3mm Durchmesser verwendet .
 Zur Verbindung dient ein Befestigungsblock aus Kunststoff , in dem die einen Enden der Schnüre fixiert und durch den die anderen Enden gefädelt werden .
 Dieser wird durch die mechanische Werkstatt angefertigt .
@@ -220,7 +224,8 @@ Die Eignung der Fixierung während der Regelung wird durch Versuche festgestellt
 Die Testmessungen werden an zehn zufällig ausgewählten Probanden ( Studenten der Hochschule Ulm ) durchgeführt .
 Davon sind vier Personen weiblich und sechs Personen männlich .
 Die Testpersonen sind im Alter zwischen 21 und 27 Jahren .
-Es werden folgende Voraussetzungen definiert : Die jeweils durchzuführenden Manöver bzw. der Ablauf der Messungen sollen bei jedem Probanden gleich sein und werden einheitlich festgelegt .
+Es werden folgende Voraussetzungen definiert :
+Die jeweils durchzuführenden Manöver bzw. der Ablauf der Messungen sollen bei jedem Probanden gleich sein und werden einheitlich festgelegt .
 Es wird ein Messprotokoll erstellt , welches zur Führung durch den Versuch und zur Dokumentation der Ergebnisse eingesetzt wird ( vgl. 7.4.1 ) .
 Die Versuche sollen folgende Fragestellungen beantworten :
 • Vergleich der ermittelten Werte für den mittleren arteriellen Druck durch verschiedene Methoden ( auskultatorische Messung mit boso classic privat , oszillometrische Messungen mit NAIS EW270E sowie Handgelenksmanschette/Messprogramm und Bestimmung nach der ( nicht angepassten ) Servomethode ) • Untersuchung der Druckdifferenz des mittleren arteriellen Drucks nach Anheben der Messanordnung um 25cm ( Ändern des hydrostatischen Drucks ) .

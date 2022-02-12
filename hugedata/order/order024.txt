@@ -1,7 +1,8 @@
 Vieles , was sich über die Qualitätsmerkmale akademischer Texte sagen läßt , gilt wie gesagt nur für bestimmte Gattungen .
 Die wichtigste Gattung akademischer Texte ist die Abhandlung ; weitere sind Forschungsreferat und Forschungsbericht , Interpretation , Kommentar , Besprechung , Miszelle , Lemma u.a.m.
 Ich bespreche unten Forschungsreferat und Abhandlung als zentrale Gattungen .
-Die verschiedenen Gattungen haben jeweils ein bestimmtes Ziel : Forschungsreferate fassen umfangreichere Forschungen zu einem Thema zusammen .
+Die verschiedenen Gattungen haben jeweils ein bestimmtes Ziel :
+Forschungsreferate fassen umfangreichere Forschungen zu einem Thema zusammen .
 Abhandlungen erweitern oder korrigieren Forschungen ; Lemmata ( Lexikoneinträge ) erläutern die Verwendungsweisen von Fachbegriﬀen .
 Als Paper oder Papier werden allgemeiner Texte bezeichnet , die in Fachzeitschriften veröﬀentlicht oder auf Tagungen vorgestellt werden ( sollen ) ; die deutsche Entsprechung ist ‘ Beitrag ’ .
 Meist sind Abhandlungen gemeint .
@@ -9,23 +10,38 @@ Meist sind Abhandlungen gemeint .
 Diese Bezeichnungen speziﬁzieren nicht das Ziel und also nicht die Gattung eines Textes , sondern geben an , in welchem Kontext ein Text verfaßt wurde – als Seminar- oder Prüfungsschrift .
 Meist sind es Abhandlungen oder Erörterungen , bisweilen aber auch Forschungsreferate oder ( zumal in philologischen Fächern ) Interpretationen .
 Erkundigen Sie sich , was – welche Gattung – jeweils unter ‘ Hausarbeit ’ verstanden wird .
-‘ Essays. ’ Der Ausdruck Essay ist mehrdeutig und bezeichnet sowohl eine ( nicht-akademische ) Gattung als auch eine ( akademische ) Nicht-Gattung : Im ersten ( älteren ) Sinn behandelt ein Essay – der Ausdruck geht auf Michel de Montaigne zurück – kein Fachproblem , sondern ein Problem von allgemeinem Interesse , und legt dabei besonderen Wert auf eine kunstvolle sprachliche Form.
+‘ Essays. ’ Der Ausdruck Essay ist mehrdeutig und bezeichnet sowohl eine ( nicht-akademische ) Gattung als auch eine ( akademische ) Nicht-Gattung :
+Im ersten ( älteren ) Sinn behandelt ein Essay – der Ausdruck geht auf Michel de Montaigne zurück – kein Fachproblem , sondern ein Problem von allgemeinem Interesse , und legt dabei besonderen Wert auf eine kunstvolle sprachliche Form.
 Beides triﬀt auf akademische und zumal philosophische Texte nicht notwendig zu ( die wären also dieser Bestimmung nach oft keine oder schlechte Essays ) .
-Die folgende , einem Lexikon entnommene Charakterisierung nennt als Gattungsmerkmale geradezu einen Katalog dessen , was man im akademischen Kontext vermeiden sollte : Der Essay zeichne sich aus durch “ die betonte Subjektivität der Auﬀassung und v.a. durch die lockere Art der Behandlung des Themas , für die eine assoziative , oft sprunghafte Gedankenführung , variationsartiges Umkreisen des Gegenstandes [ sowie ] oft paradoxe und provokante Aussagen grundlegend sind ” 4 ( meine Hervorhebungen ) .
+Die folgende , einem Lexikon entnommene Charakterisierung nennt als Gattungsmerkmale geradezu einen Katalog dessen , was man im akademischen Kontext vermeiden sollte :
+Der Essay zeichne sich aus durch “ die betonte Subjektivität der Auﬀassung und v.a. durch die lockere Art der Behandlung des Themas , für die eine assoziative , oft sprunghafte Gedankenführung , variationsartiges Umkreisen des Gegenstandes [ sowie ] oft paradoxe und provokante Aussagen grundlegend sind ” 4 ( meine Hervorhebungen ) .
 In diesem Sinn verwendet bezeichnet Essay zwar eine Gattung , aber keine akademische ( wenngleich vielleicht eine im weiteren Sinne philosophische ) .
 In dem zweiten , jüngeren Sinn ist Essay aus dem Englischen entlehnt , wo ‘ essay ’ unspeziﬁsch so viel bedeutet wie ‘ nicht-ﬁktionaler , bes. akademischer Text ’ .
 Im Englischen hat ‘ essay ’ oft die Konnotation einer gewissen Kürze oder Unabgeschlossenheit , allerdings werden vielfach auch veritable Monographien als ‘ essay ’ bezeichnet. 5
 An Universitäten meint der Begriff gegen wärtig im Anschluß an diesen Sprachgebrauch meist einfach ‘ kürzere Hausaufgabe ’ .
 Hausaufgaben sind keine Gattung .
-Literaturnachweise dienen dazu , Zitate nachzuweisen sowie Behauptungen nachprüfbar zu belegen : Wer einen Text sucht , soll ihn auch ﬁnden .
-Wesentlich sind Eindeutigkeit und Auﬃndbarkeit : Zitieren Sie also auf bestimmte ( d.h. speziﬁsche ) Weise nach weithin verfügbaren Ausgaben .
+Literaturnachweise dienen dazu , Zitate nachzuweisen sowie Behauptungen nachprüfbar zu belegen :
+Wer einen Text sucht , soll ihn auch ﬁnden .
+Wesentlich sind Eindeutigkeit und Auﬃndbarkeit :
+Zitieren Sie also auf bestimmte ( d.h. speziﬁsche ) Weise nach weithin verfügbaren Ausgaben .
 Ergänzen Sie nach Möglichkeit ausgabenunabhängige Hinweise ( etwaKapitelangaben ) , damitauchLeser , die die angegebene Ausgabe ( oder Auflage ) nicht zur Hand haben , die zitierte Stelle ﬁnden können .
-Beispiel : Schwackenhofer gibt folgenden Nachweis für das oben angeführte Aristoteles-Zitat : “ Aristoteles : Rhetorik , S. 41. ” 6 Im Literaturverzeichnis ﬁndet man : “ Aristoteles : Rhetorik . ( Hg. ) G.Gohlke , Verlag F.Schöningh , Paderborn 1959. ”
+Beispiel :
+Schwackenhofer gibt folgenden Nachweis für das oben angeführte Aristoteles-Zitat :
+“ Aristoteles :
+Rhetorik , S. 41. ” 6 Im Literaturverzeichnis ﬁndet man :
+“ Aristoteles :
+Rhetorik . ( Hg. ) G.Gohlke , Verlag F.Schöningh , Paderborn 1959. ”
 Wer z.B. den Kontext des Zitats nachschauen möchte , ist mit dieser Angabe schlecht bedient , da er auf eine bestimmte Ausgabe angewiesen ist .
-Ein brauchbarer Nachweis des Passus wäre : “ Aristoteles Rhetorik 58a/b. Zit. nach : Aristoteles : Die Lehrschriften . Bd.4 : Rhetorik . Hrsg. , übertr. [ ... ] von Paul Gohlke , Paderborn 1959 , S. 41. ”
+Ein brauchbarer Nachweis des Passus wäre :
+“ Aristoteles Rhetorik 58a/b. Zit. nach :
+Aristoteles :
+Die Lehrschriften . Bd.4 :
+Rhetorik . Hrsg. , übertr. [ ... ] von Paul Gohlke , Paderborn 1959 , S. 41. ”
 Die Form des Nachweises richtet sich nach der Art der nachgewiesenen Literatur ; die wichtigsten Arten sind Monographien , Aufsätze in Zeitschriften , Beiträge in Sammelbänden sowie Werksausgaben .
-üblich sind dabei folgende Angaben und Reihenfolge : Einheitlichkeit der Zitation ; Zitiersysteme .
-Was formale Vorgaben betriﬀt : Es gibt eine Reihe üblicher Zitiersysteme .
+üblich sind dabei folgende Angaben und Reihenfolge :
+Einheitlichkeit der Zitation ; Zitiersysteme .
+Was formale Vorgaben betriﬀt :
+Es gibt eine Reihe üblicher Zitiersysteme .
 Sie ﬁnden solche Systeme etwa bei den Richtlinien von Zeitschriften und Verlagen .
 Man sollte sich ( der Einheitlichkeit halber ) für ein System entscheiden ( zu Zitationsstilen vgl. Anhang A ) .
 Internetquellen lassen sich , soweit möglich , in der gleichen Weise behandeln wie die oben genannten Arten von Literatur ; hinzu tritt üblicherweise die Internetseite ( URL ) sowie das Datum des Aufrufens der Seite .
@@ -38,13 +54,16 @@ Oft werden bekannte Werke nach einer Standardausgabe zitiert .
 Platon z.B. zitiert man nach der Ausgabe von H.Stephanus ( 1587 ) , Aristoteles nach der Ausgabe von I.Bekker ( der sog. Akademieausgabe , Berlin 1831 ) , beide mit Seite und Abschnitt bzw. Kolumne ( Spalte ) in der Form 426b ( =Seite 426, 2.Spalte ) .
 Man sollte solche Konventionen übernehmen , zumal wenn man sie oft verwenden muß ( dann sparen sie Platz ) , sollte sie aber möglichst ( im Literaturverzeichnis oder bei der ersten Verwendung ) erläutern .
 Ein Literatur verzeichnis am Ende der Arbeit ist nicht in jedemFall nötig .
-Dies gilt zumal bei kurzen Texten : Man kann die bibliographischen Angaben auch in den Fußnoten anführen .
+Dies gilt zumal bei kurzen Texten :
+Man kann die bibliographischen Angaben auch in den Fußnoten anführen .
 Ein Literaturverzeichnis ist allerdings sinnvoll , wenn Sie Schriften mehrfach zitieren , denn auf schon zitierte Werke müßten Sie sonst in umständlicher Form verweisen , etwa durch ‘ A.a.O. , Anm. 25 ’ ( ‘ am in Anmerkung 25 angegebenen Ort ’ , d.h. in dem in Fußn. 25 nachgewiesenen Werk des fraglichen Autors ) .
 Solche Verwiese sind für den Leser mühselig ( den sie zwingen , immer wieder herumzublättern ) ; ebenso mühselig sind sie für den Schreiber , da man die Numerierung der Fußnoten erst am Ende feststeht .
 Auf eine in der direkt vorangehenden Fußnote nachgewiesene Quelle kann man kurz durch ein ib. / ibid. ( ‘ ibidem ’ , deutsch ebd. ‘ ebendort ’ ) verweisen .
 Auch diese Abkürzung kann man aber erst zum Schluß der Arbeit einführen .
-Im Literaturverzeichnis werden die Schriften alphabetisch nach dem Nachnamen des Autors angeführt : “ Laudan , Larry , Science and Values , Berkeley u.a. 1984 ” .
-Für Nachweise in Fußnoten gilt dies selbstredend nicht ( ist ja keine alphabetische Liste ) ; dort also : “ Larry Laudan , Science and Values , Berkeley u.a. 1984 ” .
+Im Literaturverzeichnis werden die Schriften alphabetisch nach dem Nachnamen des Autors angeführt :
+“ Laudan , Larry , Science and Values , Berkeley u.a. 1984 ” .
+Für Nachweise in Fußnoten gilt dies selbstredend nicht ( ist ja keine alphabetische Liste ) ; dort also :
+“ Larry Laudan , Science and Values , Berkeley u.a. 1984 ” .
 Die Titel von Schriften setzt man meist kursiv .
 Zumal im englischsprachigen Raum ist es üblich , die Titel von Buchkapiteln , von Aufsätzen in Zeitschriften und in Sammelbänden nicht kursiv , sondern in Anführungszeichen zu setzen .
 4. Anmerkungen Anmerkungen ( ‘ Noten ’ ) sollten keine wesentlichen und zum Verständnis Ihres Textes wichtigen Informationen enthalten .
@@ -63,15 +82,21 @@ Je ausdücklicher Sie formulieren , desto weniger werden Ihnen solche Fehler unt
 Zumal in der Philosophie sollte jeder wesentliche Fachbegriﬀ beim ersten Auftreten deﬁniert werden .
 Zur äußeren Form gehören die sprachliche und orthographische Korrektheit , eine dem Inhalt angemessene Gliederung , eine durchgehende Paginierung und ein leserfreundlicher Textsatz .
 Ein guter Anhaltspunkt für eine gute äußere Form ist oft die typographische Gestaltung von Fachzeitschriften .
-Zum Textsatz : Das Papierformat DinA4 ist für einen einspaltigen seitenfüllenden Satz eigentlich zu breit : die Zeilen sind zu lang , um gut lesbar zu sein .
+Zum Textsatz :
+Das Papierformat DinA4 ist für einen einspaltigen seitenfüllenden Satz eigentlich zu breit :
+die Zeilen sind zu lang , um gut lesbar zu sein .
 Man sollte daher die Seitenränder ( ‘ Stege ’ ) vergleichsweise breit wählen .
 ( Obgleich es viele Zeitschriften im DinA4Format gibt , verwendet eigentlich keine einen einspaltigen Satz . )
 Gut lesbar sind Schriften in einer Schriftgröße von 10 Punkt oder 11 Punkt .
 Der Zeilenabstand sollte in Abhängigkeit von der Schriftgröße und der Zeilenlänge gewählt werden ( einzeilig ist meist zu eng , anderthalbzeilig etwas zu weit ) .
 ( Die Wahl von 12-Punkt-Schriften und die Unterscheidung einzeilig / zweizeilig stammt wohl aus Schreibmaschinenzeiten und stellt eine sinnlose Einschränkung dar , wenn man Textverarbeitungs- oder Textsatzprogramme verwendet . )
-Literatur : Jan Tschichold , Ausgewählte Aufsätze über Fragen der Gestalt des Buches und der Typographie , Basel 21993 ( Klassiker der Typographie ) . – Hans Peter Willberg , Friedrich Forssman , Lesetypographie , Mainz 1997 ( umfangreiches Handbuch ) .
+Literatur :
+Jan Tschichold , Ausgewählte Aufsätze über Fragen der Gestalt des Buches und der Typographie , Basel 21993 ( Klassiker der Typographie ) . – Hans Peter Willberg , Friedrich Forssman , Lesetypographie , Mainz 1997 ( umfangreiches Handbuch ) .
 Auf dem Deckblatt einer Arbeit sollten sich die Informationen ﬁnden , die die Dozentin oder der Dozent bzw. das Prüfungsamt benötigt , um die Arbeit ein- und zuzuordnen .
-Dies sind besonders : (1) Personendaten : vollständiger Name , Matrikelnummer , Kontaktdaten ( bes. E-mail-Adresse ) ; (2) Titel der Arbeit ; (3) die für die Prüfungsverwaltung relevanten Daten : Art der Arbeit ( Hausarbeit , Bachelorarbeit usw. ) , Studiengang und Prüfungsordnung , ggfs. Zuordnung zu Seminaren oder Modulen ; (4) Name ( n ) des Dozenten bzw. der Gutachter .
+Dies sind besonders :
+(1) Personendaten :
+vollständiger Name , Matrikelnummer , Kontaktdaten ( bes. E-mail-Adresse ) ; (2) Titel der Arbeit ; (3) die für die Prüfungsverwaltung relevanten Daten :
+Art der Arbeit ( Hausarbeit , Bachelorarbeit usw. ) , Studiengang und Prüfungsordnung , ggfs. Zuordnung zu Seminaren oder Modulen ; (4) Name ( n ) des Dozenten bzw. der Gutachter .
 Eine eigene Titelseite darüberhinaus ist , zumal bei kürzeren Arbeiten , nicht unbedingt nötig ; bei kurzen Arbeiten können die Informationen auch einfach am Kopf der ersten Seite stehen .
 Manche Ratschläge hinsichtlich des Stils gelten ( leider ) im akademischen Kontext nur begrenzt .
 Der akademische Ausdruck zielt v.a. auf Eindeutigkeit und Bestimmtheit .
@@ -80,20 +105,24 @@ Wenn Sie Gleiches verschieden ausdrücken , wird ein aufmerksamer Leser vermuten
 Wortwiederholungen sind in akademischen Texten also allgemein kein Stilfehler ( und selbst wenn sie es wären , wäre dieser Stilfehler hinzunehmen ) ; Wortwiederholungen sind die Kehrseite eines terminologischen Sprachgebrauchs und sind erwünscht .
 Eine andere Folge eines terminologischen Sprachgebrauchs ist eine Tendenz zum Nominalstil ( d.h. die vornehmliche Verwendung sprechender Nomina und blasser Verben ) .
 Der Nominalstil gilt Stilisten als großes übel , ergibt sich aber bei akademischen Schriften teilweise dadurch , daß Fachbegriﬀe meist Substantive sind , und ist insoweit ( ! ) nicht zu beanstanden ( vgl. Abschnitt IV ) .
-Kein Text ist nachdem ersten Schreiben akzeptabel ( Ernest Hemingway soll dies pointierter formuliert haben : “ The ﬁrst draft of anything is shit. ” ) .
+Kein Text ist nachdem ersten Schreiben akzeptabel ( Ernest Hemingway soll dies pointierter formuliert haben :
+“ The ﬁrst draft of anything is shit. ” ) .
 Damit ist der Nachteil verbunden , daß die Arbeit mit der ersten Version nicht abgeschlossen ist ; der Vorteil ist , daß die erste Version nicht perfekt sein muß .
 Lesen Sie Ihren eigenen Text weitere Male durch und überarbeiten Sie ihn .
 Die eigentliche Arbeit ist nicht das Schreiben des Textes , die eigentliche Arbeit ist das überarbeiten .
-Von Vorteil dabei sind Distanz zum eigenen Text und die Kritik von anderen : Lassen Sie also etwas Zeit vergehen , bis Sie sich an das überarbeiten setzen . ( Fangen Sie also rechtzeitig an zu schreiben . )
+Von Vorteil dabei sind Distanz zum eigenen Text und die Kritik von anderen :
+Lassen Sie also etwas Zeit vergehen , bis Sie sich an das überarbeiten setzen . ( Fangen Sie also rechtzeitig an zu schreiben . )
 Lesen Sie den fertigen Text laut .
 ( George-Louis Buﬀon soll sich seine Texte vorlesen lassen haben , um festzustellen , an welchen Stellen der Vorleser stockte , um diese Stellen dann zu überarbeiten . )
 Kritisieren Sie mit Kommilitonen gegenseitig Ihre Texte .
 Für die überarbeitung empfehlen sich vier Schritte :
-(1) Prüfen Sie die Gliederung des Textes und die einzelnen Absätze daraufhin , ob diese jeweils einen ( und nur einen ) erkennbaren Gegenstand ( bzw. allgemeiner : eine bestimmte Funktion ) haben .
+(1) Prüfen Sie die Gliederung des Textes und die einzelnen Absätze daraufhin , ob diese jeweils einen ( und nur einen ) erkennbaren Gegenstand ( bzw. allgemeiner :
+eine bestimmte Funktion ) haben .
 (2) überprüfen Sie die einzelnen Sätze und Wörter auf die üblichen Fehler ( Satzanschlüsse , Konjunktionen , Modusfehler , überﬂüssige Adjektive usw. ) .
 (3) Prüfen sie den Text daraufhin , ob er sich eindeutig von vorne nach hinten lesen läßt ( ob eingeführte Begriﬀe beim ersten Auftreten erläutert werden , Namen beim ersten Mal mit Vornamen auftreten usw. ) und ergänzen Verweise ( ‘ s.o. ’ , ‘ s.u. ’ , ‘ wie gesagt ’ etc. ) .
 (4) Prüfen Sie abschließend Rechtschreibung sowie Typographie ( Worttrennung und Seitenumbruch , bes. überschriften am Fuß von Seiten ) .
-Umberto Eco , Wie man eine wissenschaftliche Abschlußarbeit schreibt : Doktor- , Diplomund Magisterarbeit in den Geistes- und Sozialwissenschaften , Heidelberg 1988 ( zahlreiche Auflagen ) .
+Umberto Eco , Wie man eine wissenschaftliche Abschlußarbeit schreibt :
+Doktor- , Diplomund Magisterarbeit in den Geistes- und Sozialwissenschaften , Heidelberg 1988 ( zahlreiche Auflagen ) .
 Unter einem Referat wird hier die Wiedergabe des Inhalts und bes. des Gedankengangs akademischer Texte verstanden .
 Das Ziel von Referaten ist , den Leser über die wesentlichen Aussagen und Argumentationen dieser Texte ins Bild zu setzen .
 Ein gutes Referat ist kurz , korrekt und erspart das Lesen des wiedergegebenen Textes.
@@ -135,29 +164,35 @@ Zitate sollten eingeleitet werden , d.h. der Leser sollte erfahren , an welcher 
 Fremdsprachige Zitate sollte man möglichst im Original wiedergeben , zumal dann , wenn sie aus einer der klassischen Sprachen ( in der Philosophie sind dies bes. Deutsch , Englisch , Französisch , Latein und Altgriechisch ) stammen ( und man dieser Sprache mächtig ist ) .
 Denn daß man wörtlich zitiert , bedeutet ja , daß man den Wortlaut für wichtig hält , und dann liegt es nahe , das Original anzuführen .
 Es ist allerdings zumal bei Altsprachen für viele Leser hilfreich , eine ( wessen ? ) übersetzung in einer Fußnote beizufügen .
-Zum Textsatz : Sehr lange Zitate sowie Zitate , die man hervorheben möchte , setzt man oft als eigenen Absatz ( ohne Einzug und in kleinerer Schrift und mit geringerem Zeilenabstand ) ; die Anführungszeichen sind dann überﬂüssig und entfallen . 14
+Zum Textsatz :
+Sehr lange Zitate sowie Zitate , die man hervorheben möchte , setzt man oft als eigenen Absatz ( ohne Einzug und in kleinerer Schrift und mit geringerem Zeilenabstand ) ; die Anführungszeichen sind dann überﬂüssig und entfallen . 14
 Nicht selten sind bestimmte Ausdrücke , die im referierten Text auftreten , ohne Erläuterung un- oder mißverständlich – bei Fremdsprachen oder wenn die Verwendung autorenspeziﬁsch ist oder der Sprachgebrauch veraltet .
 In all solchen Fällen muß der Sprachgebrauch erläutert werden , und zumal in den ersten beiden Fällen kann man überlegen , den Begriﬀ im Original zu übernehmen .
-Beispiele : Der Begriﬀ ἀρετή ( aret¯e ) ist in der Philosophie geläuﬁg ( und jede übersetzung führt zu Problemen ) , und also kann man den Begriﬀ übernehmen und ihn vielleicht beim ersten Auftreten erläutern .
+Beispiele :
+Der Begriﬀ ἀρετή ( aret¯e ) ist in der Philosophie geläuﬁg ( und jede übersetzung führt zu Problemen ) , und also kann man den Begriﬀ übernehmen und ihn vielleicht beim ersten Auftreten erläutern .
 – Noch Kant gebraucht das Wort ‘ historisch ’ oft im Sinne von ‘ empirisch ’ ; auch dies sollte man erläutern , wenn man es beim Leser nicht voraussetzen kann .
 Lesen Sie den Text , den Sie wiedergeben möchten , zweimal !
 Machen Sie sich beim ersten Durchgang Notizen , und versuchen Sie dann , die Gesamtstruktur des Textes anhand Ihrer Notizen zu rekonstruieren .
 Prüfen Sie beim zweiten Lesen , ob Ihre Rekonstruktion stimmig ist .
 Einen direkten Weg zum Raisonnement weist , wie gesagt , oft der Textaufbau .
 Versuchen Sie also eine Gliederung des Textes .
-Nutzen Sie alle Hinweise , die der Autor selbst gibt : Beachten Sie den Titel und Zwischenüberschriften !
+Nutzen Sie alle Hinweise , die der Autor selbst gibt :
+Beachten Sie den Titel und Zwischenüberschriften !
 Beachten Sie die Abschnitte und Absätze des Textes .
 Beachten Sie auch Aufzählungen , wenn der Autor welche macht , sowie Wörter , die die logische Struktur des referierten Textes erschließen ( ‘ einerseits ... andererseits ’ , ‘ z.B. ’ , ‘ daher ’ , ‘ daraus folgt ’ usw. ) .
-Ein anderer guter , inhaltlicher Ansatz besteht in Standardfragen an den Text wie etwa der nach dem ‘ Bösewicht ’ der Geschichte : Gegen welche Sichtweise wendet sich der Text ?
+Ein anderer guter , inhaltlicher Ansatz besteht in Standardfragen an den Text wie etwa der nach dem ‘ Bösewicht ’ der Geschichte :
+Gegen welche Sichtweise wendet sich der Text ?
 In einer Abhandlung soll eine These nachvollziehbar begründet werden .
 Deren Wert für die Forschung liegt in ihrer Originalität , sie geht also idealiter über den Forschungsstand hinaus .
 ( Im Grundstudium bzw. Bachelor-Studium können Sie sich auf ausgewählte Forschungsliteratur beschränken ; s.u. ) Kern einer Abhandlung ist eine – genau eine – Behauptung ( These , Aussage ) .
 Die Abhandlung dient dazu , diese Behauptung – in Auseinandersetzung mit dem Stand der Forschung – zu erläutern , zu begründen und gegen Einwände zu verteidigen .
 Dies ist das Hauptziel einer Abhandlung , alles andere sollte diesem einen Ziel dienen oder weggelassen werden .
 Der Wert einer Abhandlung liegt in ihrem Wert für die Forschung .
-Dieser Wert bemißt sich v.a. nach den folgenden Gesichtspunkten : der Bedeutung des behandelten Problems ( ist es grundlegend ? aktuell ? vieldiskutiert ?) ; der Neuheit der These oder der Begründung sowie deren Stringenz ; der Fruchtbarkeit der Problemlösung ( verspricht sie , weitere Probleme zu lösen ? Führt sie zu weiteren , neuen Fragestellungen ? ) .
+Dieser Wert bemißt sich v.a. nach den folgenden Gesichtspunkten :
+der Bedeutung des behandelten Problems ( ist es grundlegend ? aktuell ? vieldiskutiert ?) ; der Neuheit der These oder der Begründung sowie deren Stringenz ; der Fruchtbarkeit der Problemlösung ( verspricht sie , weitere Probleme zu lösen ? Führt sie zu weiteren , neuen Fragestellungen ? ) .
 Damit ergibt sich die Gliederung .
-Eine Abhandlung umfaßt drei Teile : eine Einleitung , in der das behandelte Forschungsproblem motiviert und erläutert wird ; einen Hauptteil , in dem die Problemlösung verteidigt wird ; drittens den Schluß , der die Implikationen der Problemlösung behandelt .
+Eine Abhandlung umfaßt drei Teile :
+eine Einleitung , in der das behandelte Forschungsproblem motiviert und erläutert wird ; einen Hauptteil , in dem die Problemlösung verteidigt wird ; drittens den Schluß , der die Implikationen der Problemlösung behandelt .
 Der Aufbau folgt also dem Schema Frage ( stellung ) — Antwort — Implikationen , bisweilen auch Phänomen — Erklärung — Implikationen .
 Die Einleitung dient dazu , die Fragestellung bzw. das Problem zu erläutern , einzugrenzen und zu motivieren .
 Die Fragestellung kann in der Einleitung eingegrenzt werden ( was genau soll behandelt werden ? ) und von anderen Fragestellungen abgegrenzt werden ( was soll nicht behandelt werden ? ) .
@@ -170,7 +205,8 @@ Die Form des Raisonnements der Arbeit , der Begründung und Verteidigung des ges
 Allgemeine Hinweise lassen sich nur wenige geben .
 Deﬁnieren Sie , soweit Sie es nicht in der Einleitung schon gemacht haben , alle wesentlichen Begriﬀe .
 Versuchen Sie , auf der Grundlage des Forschungsstandes Einwände zu antizipieren , und diskutieren Sie diese .
-Der dritte Teil einer Abhandlung dient dazu , die Implikationen der vertretenen Behauptung für die Forschung auszuarbeiten : Wenn Sie mitdem , was Sieim Hauptteil behauptet haben , Recht haben , dann sollte das Konsequenzen für andere Fragen haben .
+Der dritte Teil einer Abhandlung dient dazu , die Implikationen der vertretenen Behauptung für die Forschung auszuarbeiten :
+Wenn Sie mitdem , was Sieim Hauptteil behauptet haben , Recht haben , dann sollte das Konsequenzen für andere Fragen haben .
 Erstens können sich damit bestimmte weitere oﬀene Forschungsfragen beantworten lassen ; andere erscheinen vielleicht in einem neuen Licht ; nicht zuletzt kann die Arbeit fruchtbar sein und neue Fragen aufwerfen oder weitere Forschungen nahelegen ( ‘ Desiderata ’ ) .
 Die Einleitung diente u.a. dazu zu zeigen , daß die behandelte Frage für die Forschung interessant ist ; was Sie also in der Einleitung angesprochen haben , um dies zu zeigen , sollten Sie nun daraufhin untersuchen , ob die verteidigte These der Arbeit Implikationen für diese Aspekte hat .
 Abhandlungen , die als Hausarbeit und damit als übung verfaßt werden , müssen nicht in jedem Fall den aktuellen Forschungsstand voraussetzen .
@@ -184,13 +220,17 @@ Ein Inhaltsverzeichnis dient der Orientierung des Lesers ; es ist bei kürzeren 
 Für den Leser hilfreicher ist oft eine Zusammenfassung ( Summary , Abstract ) zu Beginn der Arbeit , die die Fragestellung der Arbeit und die Kernaussage enthält .
 Bei längeren Arbeiten kann es sich anbieten , stattdessen am Ende der Einleitung ( nach Darlegung der Problemstellung der Arbeit ) eine übersicht über den Argumentationsgang der Arbeit zu geben .
 Wenn das Ziel darin besteht , eine These zu verteidigen , so kann man doch bei der Arbeit nicht mit der These beginnen – die These ist ja im Gegenteil schon ein Forschungsresultat .
-Heuristisch bieten sich als Ansatz an : Mit einem Problem zu beginnen , das man verstehen möchte ( einer Frage / Fragestellung ) ; zu prüfen , inwieweit diese Frage in der Forschung einheitlich zufriedenstellend beantwortet ist – bis man einen Disput ( Streit ) in der Forschung ﬁndet ; dann zu versuchen , sich ( möglichst mit neuen Gründen ) zu entscheiden .
-Die klassische Rhetorik kennt vier Wertmaßstäbe des sprachlichen Ausdrucks ( virtutes elocutionis ) : Der Ausdruck soll dem Gegenstand ebenso angemessen sein wie der Funktion und dem Publikum ( inneres bzw. äußeres aptum ) , er soll sprachlich korrekt sein ( latinitas ) , inhaltlich/gedanklich transparent und verständlich sein ( perspicuitas ) und – schließlich – auch wohlgestaltet sein ( ornatus ) .
+Heuristisch bieten sich als Ansatz an :
+Mit einem Problem zu beginnen , das man verstehen möchte ( einer Frage / Fragestellung ) ; zu prüfen , inwieweit diese Frage in der Forschung einheitlich zufriedenstellend beantwortet ist – bis man einen Disput ( Streit ) in der Forschung ﬁndet ; dann zu versuchen , sich ( möglichst mit neuen Gründen ) zu entscheiden .
+Die klassische Rhetorik kennt vier Wertmaßstäbe des sprachlichen Ausdrucks ( virtutes elocutionis ) :
+Der Ausdruck soll dem Gegenstand ebenso angemessen sein wie der Funktion und dem Publikum ( inneres bzw. äußeres aptum ) , er soll sprachlich korrekt sein ( latinitas ) , inhaltlich/gedanklich transparent und verständlich sein ( perspicuitas ) und – schließlich – auch wohlgestaltet sein ( ornatus ) .
 Diese Maßstäbe gelten nach wie vor .
 Es ist empfehlenswert , die üblichen Werke zum literarischen Stil zu konsultieren .
-Besonders empfehlenswertesten scheinen mir zwei Schriften von Wolf Schneider : Deutsch für Proﬁs , das sich besonders an Journalisten richtet , sowie Deutsch für Kenner , eine allgemeine Stillehre . 16
+Besonders empfehlenswertesten scheinen mir zwei Schriften von Wolf Schneider :
+Deutsch für Proﬁs , das sich besonders an Journalisten richtet , sowie Deutsch für Kenner , eine allgemeine Stillehre . 16
 Bisweilen wird man den Vorschlägen Schneiders allerdings nicht folgen mögen , da sie sich nicht speziﬁsch auf akademische Texte beziehen .
-Ein Leser einer Tageszeitung kann von einem Text etwas anderes verlangen als ein Forscher von den Schriften eines Kollegen : Die Verwendung von Fachbegriﬀen , häuﬁge Substantive ( Nominalstil ) , längere Zitate etc. sind der Leserschaft einer Zeitung sicherlich nicht immer angemessen , im akademischen Kontext hingegen oft erforderlich ( inneres aptum ) und einem vorgebildeten Leser durchaus zuzumuten ( äußeres aptum ) .
+Ein Leser einer Tageszeitung kann von einem Text etwas anderes verlangen als ein Forscher von den Schriften eines Kollegen :
+Die Verwendung von Fachbegriﬀen , häuﬁge Substantive ( Nominalstil ) , längere Zitate etc. sind der Leserschaft einer Zeitung sicherlich nicht immer angemessen , im akademischen Kontext hingegen oft erforderlich ( inneres aptum ) und einem vorgebildeten Leser durchaus zuzumuten ( äußeres aptum ) .
 Diese Feststellung ist aber kein Freibrief , zumal die Verständlichkeit zu vernachlässigen oder sogar im unverständlichen Ausdruck ein Merkmal von Wissenschaftlichkeit zu sehen .
 Ein unklarer Ausdruck ist Zeichen unklarer Gedanken .
 Nehmen Sie , was Sie schreiben , nicht wieder zurück .
@@ -201,11 +241,13 @@ Diese dritte Möglichkeit ist im akademischen Kontext unstatthaft .
 Methodologisch wie sprachlich ist es vorzuziehen , etwas Bestimmtes zu sagen und falsch zu liegen , als nichts zu sagen . 17
 Drücken Sie nicht Ihre überzeugung aus , nennen Sie die Gründe selbst .
 Die Ausdrücke bekanntlich , natürlich , oﬀenkundig , selbstverständlich , unfraglich , zweifellos , etc. sind entweder überﬂüssig ( wenn dasBehauptete wirklich oﬀenkundig oderbekanntist ) , oder stehen illegitim für den Nachweis selbst .
-Der Rat , das Aktiv gegenüber dem Passiv zu bevorzugen , ist als Grundregel korrekt : Es ist direkter , es ist kürzer , es ist verständlicher . 18
+Der Rat , das Aktiv gegenüber dem Passiv zu bevorzugen , ist als Grundregel korrekt :
+Es ist direkter , es ist kürzer , es ist verständlicher . 18
 Schneider kritisiert , der Gebrauch des Passivs verschleiere den Handelnden ; 19 dieser Gesichtspunkt ist im Journalismus problematischer als in den meisten akademischen Kontexten .
 Ist der Handelnde irrelevant , ist das Passiv besser , besonders dann , wenn er so wenig interessant ist , daß er gar nicht genannt werden muß .
 Die Auﬀassung Schneiders , daß Personen interessanter als Sachen seien ( ib. ) , muß man nicht teilen .
-Das Aktiv betont den Handelnden , das Passiv den Gegenstand der Handlung , und entsprechend ist das Hauptkriterium : Das Aktiv ist passender , wenn der Handelnde der Hauptgegenstand der Aussage ist , anderenfalls das Passiv .
+Das Aktiv betont den Handelnden , das Passiv den Gegenstand der Handlung , und entsprechend ist das Hauptkriterium :
+Das Aktiv ist passender , wenn der Handelnde der Hauptgegenstand der Aussage ist , anderenfalls das Passiv .
 Die Passivkonstruktion rückt weiterhin das Objekt an den Satzanfang , und wurde zuvor über den Gegenstand gesprochen , empﬁehlt sich das Passiv nach der Regel , das Bekannte vor dem Neuen zu nennen .
 Ist keines von beiden der Fall , verwenden Sie das Aktiv .
 Referate und Textwiedergaben stehen sinnvollerweise in indirekter Rede .
@@ -216,41 +258,66 @@ Vergleichen Sie folgende drei Varianten :
 (2) Duhem behauptet , es gebe keine experimenta crucis . ( Koni. I )
 (3) Duhem behauptet , es gäbe keine experimenta crucis . ( Koni. II )
 Nur die zweite Variante ist korrekt .
-Die erste Variante ist uneindeutig : sie kann sowohl als wertfreie wie auch als zustimmende Wiedergabe der Ansicht Duhems gelesen werden .
+Die erste Variante ist uneindeutig :
+sie kann sowohl als wertfreie wie auch als zustimmende Wiedergabe der Ansicht Duhems gelesen werden .
 Die dritte Variante impliziert , daß Duhem ( nach Ansicht des Referenten ) unrecht hat .
-Die Formen des Konjunktiv I sind einfach , zumal man sich im akademischen Kontext weitgehend auf die 3. Person Singular und Plural beschränken kann : Beide Formen werden vom Präsensstamm ( = Inﬁnitiv ohne die Endung −en ) gebildet .
+Die Formen des Konjunktiv I sind einfach , zumal man sich im akademischen Kontext weitgehend auf die 3. Person Singular und Plural beschränken kann :
+Beide Formen werden vom Präsensstamm ( = Inﬁnitiv ohne die Endung −en ) gebildet .
 In der 3. Person Singular hat der Konjunktiv I die Endung −e .
-( Etwas präziser sollte man formulieren : Die Endung −e tritt an den Präsensstamm , also an den Inﬁnitiv ohne die Inﬁnitivendung −en oder −n ; Verben mit der Inﬁnitivendung −n sind allerdings im akademischen Kontext selten ( lächeln , kichern , menscheln ; aber : zweifeln . )
+( Etwas präziser sollte man formulieren :
+Die Endung −e tritt an den Präsensstamm , also an den Inﬁnitiv ohne die Inﬁnitivendung −en oder −n ; Verben mit der Inﬁnitivendung −n sind allerdings im akademischen Kontext selten ( lächeln , kichern , menscheln ; aber :
+zweifeln . )
 Die Pluralformen sind also i.d.R. ( mit Ausnahmen von ‘ sein ’ ) formgleich mit dem Inﬁnitiv bzw. Indikativ .
 Im Plural tritt daher der Konjunktiv II an die Stelle des Konjunktiv I .
 Er wird vom Präteritumstamm gebildet ; die Endungen sind dieselben ( mit Umlaut bei den starken Verben , soweit möglich ) .
 Sind auch diese Formen uneindeutig , können sie durch würde + Infinitiv umschrieben werden .
-Paradigmata : Der häuﬁgste Fehler besteht darin , in der indirekten Rede den Konjunktiv II anstelle des korrekten Konjunktiv I zu verwenden .
-Der Konjunktiv II drückt aber i.d.R. den Irrealis aus : die Auﬀassung , daß die referierte Aussage falsch sei .
-Wenn Sie schreiben : “ Pierre Duhem vertrat die Auﬀassung , es gäbe keine experimenta crucis ” , sagen Sie , Duhem habe Unrecht .
+Paradigmata :
+Der häuﬁgste Fehler besteht darin , in der indirekten Rede den Konjunktiv II anstelle des korrekten Konjunktiv I zu verwenden .
+Der Konjunktiv II drückt aber i.d.R. den Irrealis aus :
+die Auﬀassung , daß die referierte Aussage falsch sei .
+Wenn Sie schreiben :
+“ Pierre Duhem vertrat die Auﬀassung , es gäbe keine experimenta crucis ” , sagen Sie , Duhem habe Unrecht .
 Damit verletzen Sie die Regel , Referat und eigene Meinung zu trennen ; zudem behaupten Sie etwas , ohne es zu begründen .
-Dieser Fehler läßt sich durch Beachtung einer einzigen Faustregel bei der Korrektur vermeiden : Faustregel : Steht das Prädikat im Singular , entspricht die Form dem Inﬁnitiv ohne −n .
-Man kann ein Referat durch präpositionale Quellenangaben ( laut Kuhn ; Popper zufolge ; so Laudan ; nach Menke ) kennzeichnen oder durch Redeeinführungen ( sog. Inquit-Formeln , also Nennung des Sprechers mit verba dicendi et sentiendi ( Verben des Sagens oder Denkens ) : Kant behauptet , ... ; Quine vermutet , ... ) .
+Dieser Fehler läßt sich durch Beachtung einer einzigen Faustregel bei der Korrektur vermeiden :
+Faustregel :
+Steht das Prädikat im Singular , entspricht die Form dem Inﬁnitiv ohne −n .
+Man kann ein Referat durch präpositionale Quellenangaben ( laut Kuhn ; Popper zufolge ; so Laudan ; nach Menke ) kennzeichnen oder durch Redeeinführungen ( sog. Inquit-Formeln , also Nennung des Sprechers mit verba dicendi et sentiendi ( Verben des Sagens oder Denkens ) :
+Kant behauptet , ... ; Quine vermutet , ... ) .
 Ein von Inquit-Formeln abhängiger Satz im Indikativ ist wie gesagt nicht eindeutig – er kann Zustimmung ausdrücken , muß dies aber nicht .
 Bei präpositionalen Quellenangaben hingegen zeigt der Indikativ keine Wertung an .
-Bei verba dicendi et sentiendi gibt es zudem einige , bei denen ein abhängiger Indikativ Zustimmung impliziert ( hier ist der Sinn eindeutig , aber meist unerwünscht ) : Zu schreiben “ Laudan räumt ein , daß der Schluß ungültig ist ” impliziert , daß auch Sie den Schluß für ungültig halten – was eine Wertung ist und daher innerhalb eines Referats unstatthaft .
+Bei verba dicendi et sentiendi gibt es zudem einige , bei denen ein abhängiger Indikativ Zustimmung impliziert ( hier ist der Sinn eindeutig , aber meist unerwünscht ) :
+Zu schreiben “ Laudan räumt ein , daß der Schluß ungültig ist ” impliziert , daß auch Sie den Schluß für ungültig halten – was eine Wertung ist und daher innerhalb eines Referats unstatthaft .
 “ Laudan räumt ein , daß der Schluß ungültig sei ” hingegen läßt keine Wertung erkennen .
-Literatur : Wolf Schneider , Deutsch für Kenner , München 3 2006 , 269ﬀ .
-– Albrecht Schöne , Aufklärung aus den Geist der Experimentalphysik : Lichtenbergsche Konjunktive , München : Beck , 1982 [ Studie über Lichtenbergs Konjunktivgebrauch ] .
-– Daniel Kehlmann , Die Vermessung der Welt , Hamburg : Rowohlt , 2005 [ ein schöner , zu einem Gutteil in indirekter Rede geschriebener Roman ] .
+Literatur :
+Wolf Schneider , Deutsch für Kenner , München 3 2006 , 269ﬀ .
+– Albrecht Schöne , Aufklärung aus den Geist der Experimentalphysik :
+Lichtenbergsche Konjunktive , München :
+Beck , 1982 [ Studie über Lichtenbergs Konjunktivgebrauch ] .
+– Daniel Kehlmann , Die Vermessung der Welt , Hamburg :
+Rowohlt , 2005 [ ein schöner , zu einem Gutteil in indirekter Rede geschriebener Roman ] .
 Daß , zumal nach den Regeln der reformierten Rechtschreibung , bestimmte Kommata nicht gesetzt werden müssen , bedeutet nicht , daß sie nicht gesetzt werden sollen .
 Zumal Kommata , die das Lesen erleichtern , indem sie Sätze oder satzwertige Konstruktionen trennen , sollten Sie setzen ; das betriﬀt besonders erweiterte Inﬁnitivkonstruktionen .
-Im Deutschen steht nach einleitenden Adverbialphrasen kein Komma , anders als oft im Englischen : “ An adverbial or participal phrase at the beginning of a sentence is usually followed by a comma , especially if a slight pause is intended .
-[ ... ] ‘ On the other hand , his vices could be considered virtues. ’ ” 20 Faustregel im Deutschen : keine Aufzählung , kein Satz : kein Komma .
-Der Titel sollte zwei Kriterien erfüllen : Erstens soll er den Inhalt des Textes treﬀend bezeichnen ; zweitens soll er den Text eindeutig identiﬁzieren ( diesen also von anderen Texten unterscheiden ) .
+Im Deutschen steht nach einleitenden Adverbialphrasen kein Komma , anders als oft im Englischen :
+“ An adverbial or participal phrase at the beginning of a sentence is usually followed by a comma , especially if a slight pause is intended .
+[ ... ] ‘ On the other hand , his vices could be considered virtues. ’ ” 20 Faustregel im Deutschen :
+keine Aufzählung , kein Satz :
+kein Komma .
+Der Titel sollte zwei Kriterien erfüllen :
+Erstens soll er den Inhalt des Textes treﬀend bezeichnen ; zweitens soll er den Text eindeutig identiﬁzieren ( diesen also von anderen Texten unterscheiden ) .
 Monographien ( ‘ Bücher ’ ) verlangen nach anderen ( kürzeren ) Titeln als Aufsätze ; dies ist die Kehrseite davon , daß man in einer Monographie ein allgemeineres Thema behandeln kann als in einem kurzen Aufsatz .
 Abhandlungen sollten möglichst bestimmt , d.h. speziﬁsch , benanntwerden .
 ( Man sollte Abstand davon nehmen , eine kürzere Erörtung “ Skeptizismus ” zu nennen ; für eine – mehrbändige – Monographie könnte dieser Titel hingegen passend sein . )
-Beispiele : Der Titel Philosophische Untersuchungen ist nach dem ersten Kriterium nicht optimal , da er doch recht unspeziﬁsch ist , und heute , da er ( an Wittgenstein ) vergeben ist , auch nach nach dem zweiten nicht .
+Beispiele :
+Der Titel Philosophische Untersuchungen ist nach dem ersten Kriterium nicht optimal , da er doch recht unspeziﬁsch ist , und heute , da er ( an Wittgenstein ) vergeben ist , auch nach nach dem zweiten nicht .
 Ihren Text Kritik der reinen Vernunft zu nennen ( durchaus speziﬁsch ) , verbietet sich auch dann , wenn gerade dies behandelt wird .
-Vergleichen Sie damit folgende Titel : Friedrich Nietzsche , Die Geburt der Tragödie aus dem Geiste der Musik.
+Vergleichen Sie damit folgende Titel :
+Friedrich Nietzsche , Die Geburt der Tragödie aus dem Geiste der Musik.
 Vom Nutzen und Nachteil der Historie für das Leben . 22
-Es spricht nichts gegen Fragen im Titel : Albert E. Wood , What , if Anything , is a Rabbit ?
+Es spricht nichts gegen Fragen im Titel :
+Albert E. Wood , What , if Anything , is a Rabbit ?
 23 – Albert Einstein et al. , Can Quantum-Mechanical Description of Physical Reality be Considered Complete ? 24
-Vier Arten von Literatur nachweisen werden Ihnen häuﬁg begegnen : Monographien , Aufsätze in Zeitschriften , Beiträge in Sammelbänden und Werke in Werkausgaben eines Autors .
-Hier ein Vorschlag für die Form von Literaturnachweisen für Literaturverzeichnisse bei Zitation nach Autor und Jahr ( also nach Nachnamen und Erscheinungsdaten geordnet ) : Auf diese Werke können Sie am einfachsten in der Form Autor Jahr , Seite ( n ) verweisen : Laudan 1984 , S. 12 – 14 . Merton 1938 , S.322 . Feyerabend 1965 , S. 202 [ Erscheinungsjahr des Sammelbandes ] Merton 1973 , S. 260 – 266 [ Erscheinungsjahr der Werkausgabe ] .
+Vier Arten von Literatur nachweisen werden Ihnen häuﬁg begegnen :
+Monographien , Aufsätze in Zeitschriften , Beiträge in Sammelbänden und Werke in Werkausgaben eines Autors .
+Hier ein Vorschlag für die Form von Literaturnachweisen für Literaturverzeichnisse bei Zitation nach Autor und Jahr ( also nach Nachnamen und Erscheinungsdaten geordnet ) :
+Auf diese Werke können Sie am einfachsten in der Form Autor Jahr , Seite ( n ) verweisen :
+Laudan 1984 , S. 12 – 14 . Merton 1938 , S.322 . Feyerabend 1965 , S. 202 [ Erscheinungsjahr des Sammelbandes ] Merton 1973 , S. 260 – 266 [ Erscheinungsjahr der Werkausgabe ] .
