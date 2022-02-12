@@ -33,4 +33,4 @@ def test_api_documents_master72master75(testdir, client, monkeypatch):
         }
         request = f'plots/{expected["plots"][0]}'
         png = utilatest.get(client, request, raw=True).data
-        assert utila.near(len(png), 12035, diff=1000)
+        assert utila.near(len(png), 13317, diff=1000)
