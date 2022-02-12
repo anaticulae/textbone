@@ -2,6 +2,18 @@
 
 Every noteable change is logged here.
 
+## v0.8.0
+
+### Feature
+
+* use : as sentence separator (d3644079f36d)
+* add cli to compute ngrams (d228ae44daab)
+
+### Documentation
+
+* Happy New Year! (b165d5fead95)
+* adjust modules path (4eced0637298)
+
 ## v0.7.0
 
 ### Feature
