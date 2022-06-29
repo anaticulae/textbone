@@ -2,6 +2,12 @@
 
 Every noteable change is logged here.
 
+## v0.9.0
+
+### Feature
+
+* add random text generator (6f257621ed35)
+
 ## v0.8.0
 
 ### Feature
