@@ -17,3 +17,5 @@ ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), '..'))
 
 # pylint:disable=wrong-import-position
 from backbone.judge.slang import decide as slang_decide  # isort:skip
+from backbone.rand import text  # isort:skip
+from backbone.rand import text_improved  # isort:skip
