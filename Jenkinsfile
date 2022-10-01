@@ -18,6 +18,11 @@ pipeline {
                 sh 'baw sh "pip install -e ."'
             }
         }
+        stage('train'){
+            steps{
+                sh 'baw sh "python backbone/train/judge_slang.py"'
+            }
+        }
         stage('doctest'){
             steps{
                 sh 'baw test docs -n1'
