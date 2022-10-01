@@ -15,7 +15,7 @@ pipeline {
         stage('sync'){
             steps{
                 sh 'baw sync all'
-                sh 'baw sh "pip install ."'
+                sh 'baw sh "pip install -e ."'
             }
         }
         stage('doctest'){

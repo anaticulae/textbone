@@ -11,6 +11,7 @@ import pickle  # nosec
 
 import knlp
 import nltk
+import nltk_data
 import utila
 
 import backbone.judge
@@ -23,6 +24,12 @@ try:
     import sklearn.svm
 except ImportError:
     utila.error('scipy is not installed correctly')
+
+
+def setup_nltk():
+    utila.log(f'NLTK: {nltk.data.path}\n')
+    nltk.data.path.append(utila.join(nltk_data.ROOT, 'nltk_data'))
+    utila.log(f'NLTK: {nltk.data.path}\n')
 
 
 # pylint:disable=C0103
@@ -88,4 +95,5 @@ def dump_slang(vectorizer, classifier):
 
 
 if __name__ == "__main__":
+    setup_nltk()
     train_slang()
