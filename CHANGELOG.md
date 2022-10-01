@@ -2,6 +2,19 @@
 
 Every noteable change is logged here.
 
+## v0.9.1 (2022-10-01)
+
+### Fix
+
+* ensure that nltk is installed (117f018bee0f)
+
+### Chore
+
+* adjust tmp renderer (03255fc5aad4)
+* train slang (a6af6d5d9fda)
+* add Jenkinsfile (2240b60056ea)
+* upgrade requirements.txt (c984ca89d000)
+
 ## v0.9.0
 
 ### Feature
