@@ -11,6 +11,10 @@ pipeline {
         booleanParam(name: 'RELEASE', defaultValue: false)
     }
 
+    environment{
+        DEV_BBVIEW_TMP = '/var/tmp/bbview_tmp'
+    }
+
     stages{
         stage('sync'){
             steps{
