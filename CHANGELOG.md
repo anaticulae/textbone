@@ -1,4 +1,4 @@
-# changelog
+# Changelog
 
 Every noteable change is logged here.
 
@@ -177,4 +177,3 @@ Every noteable change is logged here.
 * add list of interesting NLP articles (668016fbc719)
 
 ## v0.0.0 Initial release
-
