@@ -93,7 +93,9 @@ def dump_slang(vectorizer, classifier):
     utila.log(f'write slang: {outpath}')
     utila.file_replace_binary(outpath, dumped)
 
-
-if __name__ == "__main__":
+def train():
     setup_nltk()
     train_slang()
+
+if __name__ == "__main__":
+    train()
