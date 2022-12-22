@@ -28,7 +28,7 @@ def magicpath(path, base=None) -> str:
     base = base if base else hugedata.ROOT
     parentname = []
     while path != base:
-        parentname.insert(0, filename(path))
+        parentname.insert(0, utila.file_name(path))
         path = utila.path_parent(path)
     magic = '_'.join(parentname)
     return magic
@@ -39,10 +39,3 @@ def filepath(name, base=hugedata.ROOT, fileext='txt'):
     name = f'{name}.{fileext}'
     result = os.path.join(base, name)
     return result
-
-
-def filename(item):
-    # TODO: MOVE TO UTILA?
-    item = os.path.split(item)[1]
-    item = str(item).split('.', 1)
-    return item

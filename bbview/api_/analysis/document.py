@@ -52,7 +52,7 @@ def paint_document_sentence_mean_length(documents):
             document,
             remove_punctation=True,
         )
-        name = bbview.api.magic.filename(document)
+        name = utila.file_name(document)
         names.append(name)
         lengths = [len(item) for item in raw]
         x.append(len(raw))
