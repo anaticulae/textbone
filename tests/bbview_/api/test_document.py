@@ -19,10 +19,10 @@ def test_api_documents_no_selection(client):
     assert not answer['plots']
 
 
-def test_api_documents_master72master75(testdir, client, monkeypatch):
+def test_api_documents_master72master75(td, client, mp):
     request = ('analysis/documents?documents%5B%5D=lit_master_master072&'
                'documents%5B%5D=lit_master_master075&operations%5B%5D=scatter')
-    with tests.bbview_.utils.patch_todo(monkeypatch, testdir):
+    with tests.bbview_.utils.patch_todo(mp, td):
         answer = utilatest.apicall(client, request)
         assert answer['plots']
         assert len(answer['plots']) == 1

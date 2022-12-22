@@ -49,7 +49,7 @@ class Sentences:
             hugedata.utils.load_sentences(item, remove_punctation=False)
             for item in self.files
         ]
-        sentences = utila.flatten(files)
+        sentences = utila.flat(files)
         sentences = [' '.join(sentence) for sentence in sentences]
         if self.skip:
             # skip already judged items

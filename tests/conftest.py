@@ -7,7 +7,11 @@
 # be prosecuted under federal law. Its content is company confidential.
 # =============================================================================
 
+
 import utila
+from utilatest import mp  # pylint:disable=W0611
+from utilatest import td  # pylint:disable=W0611
+
 import backbone.judge
 import backbone.train.judge_slang
 

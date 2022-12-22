@@ -17,12 +17,12 @@ run = functools.partial(  # pylint:disable=C0103
     utilatest.run_command,
     main=backbone.normalize.main,
     process='normalize',
-    success=True,
+    expect=True,
 )
 
 failure = functools.partial(  # pylint:disable=C0103
     utilatest.run_command,
     main=backbone.normalize.main,
     process='normalize',
-    success=False,
+    expect=False,
 )

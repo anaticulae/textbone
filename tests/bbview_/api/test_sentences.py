@@ -13,10 +13,10 @@ import utilatest
 import tests.bbview_.utils
 
 
-def test_api_sentence_master72master75(testdir, client, monkeypatch):
+def test_api_sentence_master72master75(td, client, mp):
     request = ('analysis/documents?documents%5B%5D=lit_master_master072'
                '&documents%5B%5D=lit_master_master075&operations%5B%5D=line')
-    with tests.bbview_.utils.patch_todo(monkeypatch, testdir):
+    with tests.bbview_.utils.patch_todo(mp, td):
         answer = utilatest.apicall(client, request)
         assert answer['plots']
         assert len(answer['plots']) == 3

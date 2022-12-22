@@ -8,7 +8,6 @@
 # =============================================================================
 
 import functools
-import os
 
 import utila
 import utilatest
@@ -22,13 +21,13 @@ def test_sentences_next(client):
     assert len(sentences['sentences']) == 10
 
 
-def test_sentences_send(client, testdir, monkeypatch):
+def test_sentences_send(client, td, mp):
     data = {
         'current': 'this is just a sentence',
     }
-    judged = os.path.join(testdir.tmpdir, 'sentences')
+    judged = td.tmpdir.join('sentences')
     utila.file_create(judged, 'this is just a sentence\n')
-    with monkeypatch.context() as context:
+    with mp.context() as context:
         append = functools.partial(
             bbview.api_.judge.sentence.sentence_append,
             base=judged,

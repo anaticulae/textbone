@@ -42,7 +42,7 @@ def filepath(name, base=hugedata.ROOT, fileext='txt'):
 def filename(item):
     # TODO: MOVE TO UTILA?
     item = os.path.split(item)[1]
-    item = str(item).split('.')[0]
+    item = str(item).split('.', 1)
     return item
 
 

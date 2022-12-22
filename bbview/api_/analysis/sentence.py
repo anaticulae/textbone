@@ -56,7 +56,7 @@ def render_sentences_mean(magics):
 
 def merged(single, magics) -> str:
     filename = paths(magics)
-    items = utila.flatten([(floating, mean) for _, floating, mean in single])
+    items = utila.flat([(floating, mean) for _, floating, mean in single])
     painted = painter.plot_render(*items, width=30, height=10, title='Merged')
     raw = painter.png(painted)
     workdir = bbview.config.renderer_workdir()

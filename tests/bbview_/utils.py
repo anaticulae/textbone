@@ -8,18 +8,17 @@
 # =============================================================================
 
 import contextlib
-import os
 import threading
 
 LOCK = threading.Lock()
 
 
 @contextlib.contextmanager
-def patch_todo(monkeypatch, testdir):
-    testdir.mkdir('renderer')
-    workdir = os.path.join(testdir.tmpdir, 'renderer')
+def patch_todo(mp, td):
+    td.mkdir('renderer')
+    workdir = td.tmpdir.join('renderer')
     with LOCK:
         # TODO: INVESTIGATE HOW TO THIS BETTER
-        with monkeypatch.context() as context:
+        with mp.context() as context:
             context.setenv('DEV_BBVIEW_TMP', workdir)
             yield

@@ -7,18 +7,16 @@
 # be prosecuted under federal law. Its content is company confidential.
 # =============================================================================
 
-import os
-
 import utila
 
 import hugedata
 import tests.backbone_
 
 
-def test_normalize_cli(testdir, monkeypatch):
-    filename = os.path.join(testdir.tmpdir, 'master72.txt')
+def test_normalize_cli(td, mp):
+    filename = td.tmpdir.join('master72.txt')
     utila.copy_content(hugedata.LIT_MASTER075, filename)
     before = utila.file_read(filename)
-    tests.backbone_.run(cmd=filename, monkeypatch=monkeypatch)
+    tests.backbone_.run(cmd=filename, mp=mp)
     after = utila.file_read(filename)
     assert after != before

@@ -35,6 +35,7 @@ def text_improved(length: int = 1024) -> str:
     1024
     """
     import german
+
     # reuqire some more text to run toke_plain
     raw = text(int(length * 1.1))
     raw = german.token_plain(raw)

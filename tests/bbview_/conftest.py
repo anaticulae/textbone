@@ -17,7 +17,7 @@ utilatest.setup(bbview.config.API_PREFIX)
 
 
 @pytest.fixture
-def app(testdir):
+def app(td):  # pylint:disable=W0613
     """Create and configure a new app instance for each test."""
     appi = bbview.app.create_application()
     with appi.app_context():

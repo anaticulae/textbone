@@ -30,18 +30,18 @@ def create_sentences(path, skip=None):
     return sentences
 
 
-def test_sentences_pop(testdir):
-    sentences = create_sentences(testdir.tmpdir)
+def test_sentences_pop(td):
+    sentences = create_sentences(td.tmpdir)
     assert sentences.pop()
     assert sentences.pop()
     with pytest.raises(IndexError, match='pop from empty list'):
         assert sentences.pop()
 
 
-def test_sentences_skip(testdir):
+def test_sentences_skip(td):
     """Judge one sentence of two to verify that judge list is used to
     avoid presenting a sentence twice."""
-    sentence_file = os.path.join(testdir.tmpdir, 'skips.txt')
+    sentence_file = td.tmpdir.join('skips.txt')
     sentence = bbview.api_.judge.sentence.SentenceJudged(
         'No Helm for telm .',
         True,
@@ -53,7 +53,7 @@ def test_sentences_skip(testdir):
     )
     bbview.api_.judge.sentence.sentence_append(sentence, sentence_file)
 
-    sentences = create_sentences(testdir.tmpdir, skip=sentence_file)
+    sentences = create_sentences(td.tmpdir, skip=sentence_file)
     popped = sentences.pop()
     assert popped != 'No Helm for telm .'
     with pytest.raises(IndexError, match='pop from empty list'):
