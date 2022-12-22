@@ -9,6 +9,8 @@
 
 import os
 
+import utila
+
 import hugedata
 
 
@@ -27,7 +29,7 @@ def magicpath(path, base=None) -> str:
     parentname = []
     while path != base:
         parentname.insert(0, filename(path))
-        path = parent(path)
+        path = utila.path_parent(path)
     magic = '_'.join(parentname)
     return magic
 
@@ -44,9 +46,3 @@ def filename(item):
     item = os.path.split(item)[1]
     item = str(item).split('.', 1)
     return item
-
-
-def parent(path):
-    # TODO: MOVE TO UTILA?
-    result = os.path.abspath(os.path.join(path, '..'))
-    return result
