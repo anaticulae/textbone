@@ -1,65 +1,71 @@
-pipeline {
-    agent {
-        docker {
-            image '169.254.149.20:6001/arch_python_baw_opengl:0.10.3'
-            args  '--privileged -u root -v $WORKSPACE:/var/workdir'
+@Library('caelum@refs/tags/v0.12.0') _
+
+pipeline{
+    agent{
+        docker{
+            image '169.254.149.20:6001/arch_python_git_ghost_opencv_baw:v1.46.0'
         }
     }
-
-    parameters {
-        string(name: 'BRANCH', defaultValue: 'master')
-        booleanParam(name: 'RELEASE', defaultValue: false)
-    }
-
     environment{
         DEV_BBVIEW_TMP = '/var/tmp/bbview_tmp'
     }
-
     stages{
-        stage('sync'){
+        stage('integrate'){
+            steps{script{baw.integrate()}}
+        }
+        stage('setup'){
+            steps{script{baw.setup()}}
+        }
+        stage('generate'){
             steps{
-                sh 'baw sync all'
-                sh 'baw sh "pip install -e ."'
+                sh 'baw --docken generate all'
             }
         }
-        stage('train'){
-            steps{
-                sh 'baw sh "python backbone/train/judge_slang.py"'
+        stage('test'){
+            failFast true
+            parallel{
+                stage('doc'){
+                    steps{
+                        sh 'baw --docken test docs'
+                    }
+                }
+                stage('fast'){
+                    steps{
+                        sh 'baw --docken test long'
+                    }
+                }
             }
         }
-        stage('doctest'){
-            steps{
-                sh 'baw test docs -n1'
+        stage('quality'){
+            failFast true
+            parallel{
+                stage('lint'){
+                    steps{
+                        script{baw.lint()}
+                    }
+                }
+                stage('format'){
+                    steps{
+                        script{baw.format()}
+                    }
+                }
             }
         }
-        stage('fast'){
-            steps{
-                sh 'baw test fast -n5'
-            }
+        stage('pre-release'){
+            when{not{branch 'master'}}
+            steps{sh 'baw publish --pre'}
         }
-        stage('long'){
+        stage('all'){
             steps{
-                sh 'baw test long -n8'
-            }
-        }
-        stage('lint'){
-            steps{
-                sh 'baw lint'
-            }
-        }
-        stage('nightly'){
-            steps{
-                sh 'baw test nightly -n16 --cov --junit_xml=report.xml'
-                junit '**/report.xml'
+                sh 'baw --docken test all -n32'
             }
         }
         stage('release'){
-            when {
-                expression { return params.RELEASE }
-            }
             steps{
-                sh 'baw install && baw release && baw publish'
-                // TODO: GIT COMMIT?
+                script{
+                    publish.release()
+                    baw.rebase()
+                }
             }
         }
     }
