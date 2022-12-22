@@ -24,4 +24,5 @@ def renderer_workdir() -> str:
         utila.error('require global env `DEV_BBVIEW_TMP`')
         sys.exit(utila.FAILURE)
     os.makedirs(path, exist_ok=True)
-    return path
+    result = str(path)
+    return result
