@@ -16,7 +16,7 @@ LOCK = threading.Lock()
 @contextlib.contextmanager
 def patch_todo(mp, td):
     td.mkdir('renderer')
-    workdir = td.tmpdir.join('renderer')
+    workdir = str(td.tmpdir.join('renderer'))
     with LOCK:
         # TODO: INVESTIGATE HOW TO THIS BETTER
         with mp.context() as context:

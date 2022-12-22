@@ -14,7 +14,7 @@ import tests.backbone_
 
 
 def test_normalize_cli(td, mp):
-    filename = td.tmpdir.join('master72.txt')
+    filename = str(td.tmpdir.join('master72.txt'))
     utila.copy_content(hugedata.LIT_MASTER075, filename)
     before = utila.file_read(filename)
     tests.backbone_.run(cmd=filename, mp=mp)
