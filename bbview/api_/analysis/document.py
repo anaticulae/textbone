@@ -59,7 +59,7 @@ def paint_document_sentence_mean_length(documents):
         y.append(statistics.mean(lengths))
         markers.append(marker(document))
 
-    rendered = painter.scatter_render(
+    rendered = upainter.scatter_render(
         x,
         y,
         legend=names,
@@ -67,7 +67,7 @@ def paint_document_sentence_mean_length(documents):
         height=5,
         marker=markers,
     )
-    figure = painter.png(rendered)
+    figure = upainter.png(rendered)
     result = [
         (figure, paths(documents)),
     ]

@@ -41,14 +41,14 @@ def render_sentences_mean(magics):
     for magic, floating, mean in single:
         filename = paths(magic)
         result.append(filename)
-        painted = painter.plot_render(
+        painted = upainter.plot_render(
             *(floating, mean),
             width=30,
             height=10,
             title=magic,
             xlabel='sentence number',
         )
-        raw = painter.png(painted)
+        raw = upainter.png(painted)
         outpath = os.path.join(workdir, filename)
         utilo.file_replace_binary(outpath, raw)
     return result
@@ -57,8 +57,8 @@ def render_sentences_mean(magics):
 def merged(single, magics) -> str:
     filename = paths(magics)
     items = utilo.flat([(floating, mean) for _, floating, mean in single])
-    painted = painter.plot_render(*items, width=30, height=10, title='Merged')
-    raw = painter.png(painted)
+    painted = upainter.plot_render(*items, width=30, height=10, title='Merged')
+    raw = upainter.png(painted)
     workdir = bbview.config.renderer_workdir()
     outpath = os.path.join(workdir, filename)
     utilo.file_replace_binary(outpath, raw)
