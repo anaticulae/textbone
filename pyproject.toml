@@ -1,0 +1,98 @@
+[build-system]
+requires = [
+    "setuptools>=82.0.1",
+    "wheel>=0.47.0",
+]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "textbone"
+version = "0.9.1"
+description = ""
+requires-python = ">=3.12"
+authors = [
+    { name = "Helmut Konrad Schewe", email = "helmutus@outlook.com" },
+]
+dependencies = [
+    "utilo>=2.107.4,<3.0.0",
+    "configos>=1.0.4,<2.0.0",
+    "upainter>=0.13.2,<1.0.0",
+    "nltk_data>=0.2.6,<1.0.0",
+    "knlp>=0.6.5,<1.0.0",
+    "scikit_learn>=1.1.3,<2.0.0",
+    "Flask==2.2.2",
+    "Flask-Bootstrap==3.3.7.1",
+]
+keywords = []
+classifiers = [
+    "Programming Language :: Python :: 3.12",
+    "Programming Language :: Python :: 3.13",
+    "Programming Language :: Python :: 3.14",
+]
+license = "MIT"
+license-files = [
+    "LICENSE",
+]
+
+[project.readme]
+file = "README"
+content-type = "text/markdown"
+
+[project.optional-dependencies]
+dev = [
+    "utilotest>=1.0.1,<2.0.0",
+]
+
+[project.urls]
+Homepage = "https://github.com/anaticulae/textbone"
+Repository = "https://github.com/anaticulae/textbone"
+
+[tool.semantic_release]
+version_toml = [
+    "pyproject.toml:project.version",
+]
+
+[tool.semantic_release.changelog]
+mode = "init"
+output_format = "md"
+
+[tool.semantic_release.changelog.default_templates]
+changelog_file = "CHANGELOG"
+
+[tool.semantic_release.commit_parser_options]
+patch_tags = [
+    "fix",
+    "perf",
+    "build",
+    "chore",
+    "ci",
+    "docs",
+    "style",
+    "refactor",
+    "test",
+    "deps",
+]
+
+[tool.setuptools.packages.find]
+where = [
+    ".",
+]
+include = [
+    "backbone",
+    "backbone.judge",
+    "backbone.magic",
+    "backbone.train",
+    "bbview.api",
+    "bbview.api.analysis",
+    "bbview.api.data",
+    "bbview.api.judge",
+    "bbview.api_",
+    "bbview.api_.analysis",
+    "bbview.api_.judge",
+    "bbview.view",
+    "hugedata",
+    "judgeddata",
+]
+exclude = [
+    "tests*",
+]
