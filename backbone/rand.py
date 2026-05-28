@@ -7,7 +7,10 @@
 # be prosecuted under federal law. Its content is company confidential.
 # =============================================================================
 
-import utila
+import re
+
+import konradus
+import utilo
 
 import hugedata
 
@@ -34,10 +37,45 @@ def text_improved(length: int = 1024) -> str:
     >>> len(text_improved(1024))
     1024
     """
-    import german
 
     # reuqire some more text to run toke_plain
     raw = text(int(length * 1.1))
-    raw = german.token_plain(raw)
+    raw = token_plain(raw)
     result = raw[0:length]
     return result
+
+
+# TODO: PLACE WITH GERMANIA CODE?
+def token_plain(items: list) -> str:
+    """\
+    >>> token_plain('A. 5 . 2)'.split())
+    'A.5.2)'
+    >>> token_plain('A. 5 .)'.split())
+    'A.5.)'
+    """
+    if utilo.iterable(items):
+        items = [konradus.mark2str(item) for item in items]
+        raw = ' '.join(items)
+    else:
+        raw = items
+    raw = raw.replace('( ', '(')
+    raw = raw.replace('[ ', '[')
+    raw = raw.replace(' )', ')')
+    raw = raw.replace(' ]', ']')
+    raw = raw.replace(' ,', ',')
+    raw = raw.replace(' ; ', '; ')
+    raw = raw.replace(' - ', '-')
+    raw = raw.replace(' : ', ': ')
+    raw = raw.replace(' .', '.')
+    # TODO: VERY BAD
+    raw = re.sub(
+        r'([A-Z]\.)[ ](\d{1,2})[ ]?\.[ ]?(\d{1,2})',
+        r'\1\2.\3',
+        raw,
+    )
+    raw = re.sub(
+        r'([A-Z]\.)[ ](\d{1,2})[ ]?\.',
+        r'\1\2.',
+        raw,
+    )
+    return raw
