@@ -11,7 +11,7 @@ import argparse
 import os
 import sys
 
-import knlp
+import analp
 import utilo
 
 DESCRIPTION = """\
@@ -35,8 +35,8 @@ def main():
 
 def modern(content: str) -> str:
     collected = []
-    for sentence in knlp.sent_tokenize(content):
-        raw = knlp.word_tokenize(sentence)
+    for sentence in analp.sent_tokenize(content):
+        raw = analp.word_tokenize(sentence)
         line = ' '.join(raw)
         collected.append(line)
     result = utilo.NEWLINE.join(collected)

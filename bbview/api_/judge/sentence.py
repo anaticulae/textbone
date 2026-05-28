@@ -11,7 +11,7 @@ import collections
 import os
 import random
 
-import knlp
+import analp
 import utilo
 
 import backbone
@@ -57,7 +57,7 @@ class Sentences:
                 skipped = load_skip(self.skip)
             else:
                 skipped = [
-                    sentence_hash(knlp.normalize_sentence(item))
+                    sentence_hash(analp.normalize_sentence(item))
                     for item in self.skip
                 ]
             sentences = [
@@ -68,7 +68,7 @@ class Sentences:
         generator.shuffle(sentences)
         self.sentences = sentences
         self.hashed = {
-            sentence_hash(knlp.normalize_sentence(sentence)): sentence
+            sentence_hash(analp.normalize_sentence(sentence)): sentence
             for sentence in self.sentences
         }
 
@@ -78,7 +78,7 @@ class Sentences:
 
     def sentence_inside(self, sentence):
         self.load_lazy()
-        sentence = knlp.normalize_sentence(sentence)
+        sentence = analp.normalize_sentence(sentence)
         hashid = sentence_hash(sentence)
         try:
             self.sentence_fromhash(hashid)
@@ -116,7 +116,7 @@ def sentence_raw(sentence: SentenceJudged) -> str:
     '... 1 1 0 0 0 0'
     """
     raw, *judgement = sentence
-    raw = knlp.normalize_sentence(raw)
+    raw = analp.normalize_sentence(raw)
     raw = sentence_hash(raw)
     judgement = ' '.join([config_raw(item) for item in judgement])
     result = f'{raw} {judgement}'

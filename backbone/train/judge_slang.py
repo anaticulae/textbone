@@ -9,7 +9,7 @@
 
 import pickle  # nosec
 
-import knlp
+import analp
 import ltk_data
 import nltk
 import utilo
@@ -40,9 +40,9 @@ def train_slang():
     for item in slang:
         utilo.log(item)
     utilo.log('==========================================')
-    slang = [knlp.normalize_sentence(item) for item in slang]
+    slang = [analp.normalize_sentence(item) for item in slang]
     noslang = judgeddata.data.noslang()
-    noslang = [knlp.normalize_sentence(item) for item in noslang]
+    noslang = [analp.normalize_sentence(item) for item in noslang]
 
     data = slang + noslang
     judgement = [1] * len(slang) + [0] * len(noslang)
@@ -76,7 +76,7 @@ def train_slang():
 
     data = judgeddata.data.sentences(skip=slang)
     for sentence in data:
-        normalized = knlp.normalize_sentence(sentence)
+        normalized = analp.normalize_sentence(sentence)
         doc = [normalized]
         Xnew = vectorizer.transform(doc)
         # Xnew = Xnew.todense()

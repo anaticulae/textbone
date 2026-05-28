@@ -10,7 +10,7 @@
 import os
 import pickle  # nosec
 
-import knlp
+import analp
 import utilo
 
 import backbone.judge
@@ -31,7 +31,7 @@ def decide(sentence: str) -> float:  # pylint:disable=W0613
     0.0
     """
     slang_classifier, slang_vectorizer = load_slang()
-    normalized = knlp.normalize_sentence(sentence)
+    normalized = analp.normalize_sentence(sentence)
     doc = [normalized]
     if not slang_vectorizer:
         return 0.0

@@ -11,7 +11,7 @@ import argparse
 import os
 import sys
 
-import knlp
+import analp
 import utilo
 
 DESCRIPTION = """\
@@ -33,7 +33,7 @@ def determine(paths, ngram: int = 1) -> set:
         lines = utilo.file_read(path).splitlines()
         for line in lines:
             sentence = line.lower()
-            tokens = knlp.word_tokenize(sentence)
+            tokens = analp.word_tokenize(sentence)
             tokens = filter_words(tokens)
             for item in determine_ngram(tokens, count=ngram):
                 result.add(item)

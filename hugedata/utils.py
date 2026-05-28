@@ -9,7 +9,7 @@
 
 import string
 
-import knlp
+import analp
 import utilo
 
 
@@ -17,7 +17,7 @@ def load_sentences(path: str, remove_punctation: bool = False) -> list:
     document = utilo.file_read(path)
     lines = [sentence for sentence in document.splitlines() if sentence.strip()]
     # TODO: USE GERMAN TOKENIZER
-    sentences = [knlp.word_tokenize(line) for line in lines]
+    sentences = [analp.word_tokenize(line) for line in lines]
     if remove_punctation:
         sentences = [[
             item for item in sentence if item not in string.punctuation
