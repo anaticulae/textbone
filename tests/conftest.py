@@ -7,14 +7,14 @@
 # be prosecuted under federal law. Its content is company confidential.
 # =============================================================================
 
-import utila
-from utilatest import mp  # pylint:disable=W0611
-from utilatest import td  # pylint:disable=W0611
+import utilo
+from utilotest import mp  # pylint:disable=W0611
+from utilotest import td  # pylint:disable=W0611
 
 import backbone.judge
 import backbone.train.judge_slang
 
 pytest_plugins = ['pytester', 'xdist']  # pylint: disable=invalid-name
 
-if not utila.exists(backbone.judge.SLANG):
+if not utilo.exists(backbone.judge.SLANG):
     backbone.train.judge_slang.train()

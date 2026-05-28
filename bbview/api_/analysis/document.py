@@ -11,7 +11,7 @@ import os
 import statistics
 
 import painter
-import utila
+import utilo
 
 import bbview.api.magic
 import bbview.config
@@ -27,7 +27,7 @@ def render_document_sentence_mean_length(documents):
     # write painted
     for fig, path in painted:
         outpath = os.path.join(workdir, path)
-        utila.file_replace_binary(outpath, fig)
+        utilo.file_replace_binary(outpath, fig)
     result = [paths(documents)]
     return result
 
@@ -42,7 +42,7 @@ MARKER = (
 def paint_document_sentence_mean_length(documents):
     sources = [bbview.api.magic.filepath(item) for item in documents]
     if any((not os.path.exists(item) for item in sources)):
-        utila.error(f'sources does not exists: {sources}')
+        utilo.error(f'sources does not exists: {sources}')
         return []
     if not sources:
         return []
@@ -52,7 +52,7 @@ def paint_document_sentence_mean_length(documents):
             document,
             remove_punctation=True,
         )
-        name = utila.file_name(document)
+        name = utilo.file_name(document)
         names.append(name)
         lengths = [len(item) for item in raw]
         x.append(len(raw))

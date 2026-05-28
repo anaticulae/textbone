@@ -8,7 +8,7 @@
 # =============================================================================
 
 import flask
-import utila
+import utilo
 
 import bbview.api_.judge.sentence
 import hugedata
@@ -29,12 +29,12 @@ def send():
 
     judged = bbview.api_.judge.sentence.SentenceJudged(
         sentence,
-        utila.str2bool(slang),
-        utila.str2bool(noscience),
-        utila.str2bool(complicated),
-        utila.str2bool(nocontent),
-        utila.str2bool(style),
-        utila.str2bool(structure),
+        utilo.str2bool(slang),
+        utilo.str2bool(noscience),
+        utilo.str2bool(complicated),
+        utilo.str2bool(nocontent),
+        utilo.str2bool(style),
+        utilo.str2bool(structure),
     )
     if not SENTENCES.sentence_inside(sentence):
         return f'SENTENCE NOT AVAILABLE: {sentence}', 404

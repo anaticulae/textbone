@@ -9,27 +9,27 @@
 
 import http
 
-import utilatest
+import utilotest
 
 
 def test_welcome(client):
-    welcome = utilatest.get(client, '/')
+    welcome = utilotest.get(client, '/')
     assert '<h1>Home</h1>' in welcome
 
 
 def test_analysis(client):
-    welcome = utilatest.get(client, '/analysis')
+    welcome = utilotest.get(client, '/analysis')
     assert '<h1>Analysis</h1>' in welcome
 
 
 def test_judge(client):
-    welcome = utilatest.get(client, '/judge')
+    welcome = utilotest.get(client, '/judge')
     # TODO: CHANGE HEADLINE
     assert '<h1>Training</h1>' in welcome
 
 
 def test_invalid_view(client):
-    utilatest.get(
+    utilotest.get(
         client,
         '/invalid_view',
         expected=http.HTTPStatus.NOT_FOUND,
@@ -37,7 +37,7 @@ def test_invalid_view(client):
 
 
 def test_view_plots_not_exists(client):
-    notexists = utilatest.get(
+    notexists = utilotest.get(
         client,
         '/plots/image_does_not_exists',
         expected=http.HTTPStatus.NOT_FOUND,

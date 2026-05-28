@@ -15,7 +15,7 @@ import utilo
 import hugedata
 
 
-@utila.cacheme
+@utilo.cacheme
 def text(length: int = 1024) -> str:
     """\
     >>> len(text(100))
@@ -23,7 +23,7 @@ def text(length: int = 1024) -> str:
     """
     result = ''
     for path in hugedata.RESOURCES:
-        content = utila.file_read(path)
+        content = utilo.file_read(path)
         diff = length - len(result)
         result += content[0:diff]
         if len(result) >= length:
@@ -31,7 +31,7 @@ def text(length: int = 1024) -> str:
     return result
 
 
-@utila.cacheme
+@utilo.cacheme
 def text_improved(length: int = 1024) -> str:
     """\
     >>> len(text_improved(1024))

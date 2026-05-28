@@ -12,25 +12,25 @@ import os
 import sys
 
 import knlp
-import utila
+import utilo
 
 DESCRIPTION = """\
 """
 
 
-@utila.saveme
+@utilo.saveme
 def main():
     source, ngram = sources()
     data = determine(source, ngram=ngram)
-    raw = utila.NEWLINE.join(sorted(data))
-    utila.log(raw)
-    return utila.SUCCESS
+    raw = utilo.NEWLINE.join(sorted(data))
+    utilo.log(raw)
+    return utilo.SUCCESS
 
 
 def determine(paths, ngram: int = 1) -> set:
     result = set()
     for path in paths:
-        lines = utila.file_read(path).splitlines()
+        lines = utilo.file_read(path).splitlines()
         for line in lines:
             sentence = line.lower()
             tokens = knlp.word_tokenize(sentence)
@@ -56,14 +56,14 @@ def determine_ngram(tokens, count: int = 1) -> list:
     return result
 
 
-INVALID = utila.splititems("""' " ( ) [ ] { } … “ • „ ” : . , ‚ -  ’ ;
+INVALID = utilo.splititems("""' " ( ) [ ] { } … “ • „ ” : . , ‚ -  ’ ;
 – ‘
 """)
 
 
 def filter_words(tokens):
     result = [item for item in tokens if item not in INVALID]
-    result = [item for item in result if utila.char_rate(item) == 1.0]
+    result = [item for item in result if utilo.char_rate(item) == 1.0]
     return result
 
 
@@ -81,19 +81,19 @@ def sources() -> list:
         help='count of words',
     )
     args = parser.parse_args()
-    result = [utila.make_absolute(item) for item in args.inputs]
+    result = [utilo.make_absolute(item) for item in args.inputs]
     failure = False
     for item in result:
         if os.path.exists(item):
             if not os.path.isfile(item):
                 continue
-            utila.error(f'not a directory: {item}')
+            utilo.error(f'not a directory: {item}')
             failure = True
     if failure:
-        sys.exit(utila.FAILURE)
+        sys.exit(utilo.FAILURE)
     ngram = int(args.ngram)
     files = []
     for item in result:
-        located = utila.file_list(item, include='txt', absolute=True)
+        located = utilo.file_list(item, include='txt', absolute=True)
         files.extend(located)
     return files, ngram

@@ -9,15 +9,15 @@
 
 import functools
 
-import utila
-import utilatest
+import utilo
+import utilotest
 
 import bbview.api.judge.sentence
 import bbview.api_.judge.sentence
 
 
 def test_sentences_next(client):
-    sentences = utilatest.apicall(client, request='judge/sentence/next')
+    sentences = utilotest.apicall(client, request='judge/sentence/next')
     assert len(sentences['sentences']) == 10
 
 
@@ -26,7 +26,7 @@ def test_sentences_send(client, td, mp):
         'current': 'this is just a sentence',
     }
     judged = td.tmpdir.join('sentences')
-    utila.file_create(judged, 'this is just a sentence\n')
+    utilo.file_create(judged, 'this is just a sentence\n')
     with mp.context() as context:
         append = functools.partial(
             bbview.api_.judge.sentence.sentence_append,
@@ -35,10 +35,10 @@ def test_sentences_send(client, td, mp):
         context.setattr(bbview.api_.judge.sentence, 'sentence_append', append)
         sentences = bbview.api_.judge.sentence.Sentences(files=[judged])
         context.setattr(bbview.api.judge.sentence, 'SENTENCES', sentences)
-        sentences = utilatest.apipost(
+        sentences = utilotest.apipost(
             client,
             page='judge/sentence/send',
             data=data,
         )
     assert sentences == 'DONE'
-    assert len(utila.file_read(judged)) > 10
+    assert len(utilo.file_read(judged)) > 10

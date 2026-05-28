@@ -11,7 +11,7 @@ import os
 import statistics
 
 import painter
-import utila
+import utilo
 
 import bbview.api.magic
 import hugedata.statistics
@@ -23,7 +23,7 @@ def render_sentences_mean(magics):
     for magic in magics:
         source = bbview.api.magic.filepath(magic)
         if not os.path.exists(source):
-            utila.error(f'file does not exists: {source}')
+            utilo.error(f'file does not exists: {source}')
             continue
         raw = hugedata.utils.load_sentences(
             source,
@@ -50,18 +50,18 @@ def render_sentences_mean(magics):
         )
         raw = painter.png(painted)
         outpath = os.path.join(workdir, filename)
-        utila.file_replace_binary(outpath, raw)
+        utilo.file_replace_binary(outpath, raw)
     return result
 
 
 def merged(single, magics) -> str:
     filename = paths(magics)
-    items = utila.flat([(floating, mean) for _, floating, mean in single])
+    items = utilo.flat([(floating, mean) for _, floating, mean in single])
     painted = painter.plot_render(*items, width=30, height=10, title='Merged')
     raw = painter.png(painted)
     workdir = bbview.config.renderer_workdir()
     outpath = os.path.join(workdir, filename)
-    utila.file_replace_binary(outpath, raw)
+    utilo.file_replace_binary(outpath, raw)
     return [paths(magics)]
 
 

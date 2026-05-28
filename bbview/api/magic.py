@@ -9,7 +9,7 @@
 
 import os
 
-import utila
+import utilo
 
 import hugedata
 
@@ -28,8 +28,8 @@ def magicpath(path, base=None) -> str:
     base = base if base else hugedata.ROOT
     parentname = []
     while path != base:
-        parentname.insert(0, utila.file_name(path))
-        path = utila.path_parent(path)
+        parentname.insert(0, utilo.file_name(path))
+        path = utilo.path_parent(path)
     magic = '_'.join(parentname)
     return magic
 

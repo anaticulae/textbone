@@ -9,7 +9,7 @@
 
 import os
 
-import nltk_data
+import ltk_data
 
 __version__ = '0.9.1'
 

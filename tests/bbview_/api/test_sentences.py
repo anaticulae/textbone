@@ -7,8 +7,8 @@
 # be prosecuted under federal law. Its content is company confidential.
 # =============================================================================
 
-import utila
-import utilatest
+import utilo
+import utilotest
 
 import tests.bbview_.utils
 
@@ -17,7 +17,7 @@ def test_api_sentence_master72master75(td, client, mp):
     request = ('analysis/documents?documents%5B%5D=lit_master_master072'
                '&documents%5B%5D=lit_master_master075&operations%5B%5D=line')
     with tests.bbview_.utils.patch_todo(mp, td):
-        answer = utilatest.apicall(client, request)
+        answer = utilotest.apicall(client, request)
         assert answer['plots']
         assert len(answer['plots']) == 3
         expected = {
@@ -30,12 +30,12 @@ def test_api_sentence_master72master75(td, client, mp):
             ]
         }
         request = f'plots/{expected["plots"][0]}'
-        png = utilatest.get(client, request, raw=True).data
-        assert utila.near(len(png), 168025, diff=2000)
+        png = utilotest.get(client, request, raw=True).data
+        assert utilo.near(len(png), 168025, diff=2000)
 
 
 def test_api_documentsentence_document_does_not_exists(client):
     request = ('analysis/documents?documents%5B%5D=document_does_not_exists&'
                'operations%5B%5D=line&operations%5B%5D=scatter')
-    answer = utilatest.apicall(client, request)
+    answer = utilotest.apicall(client, request)
     assert not answer['plots']

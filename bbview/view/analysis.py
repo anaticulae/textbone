@@ -10,7 +10,7 @@
 import os
 
 import flask
-import utila
+import utilo
 
 import bbview.api.magic
 import bbview.config
@@ -34,7 +34,7 @@ def view_plot(image: str = None):
     workdir = bbview.config.renderer_workdir()
 
     image = os.path.join(workdir, image)
-    if not os.path.exists(image) or not utila.file_read_binary(image):
+    if not os.path.exists(image) or not utilo.file_read_binary(image):
         return 'image does not exists', 404
 
     # Hint: contextmanager does not work here

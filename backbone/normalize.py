@@ -12,7 +12,7 @@ import os
 import sys
 
 import knlp
-import utila
+import utilo
 
 DESCRIPTION = """\
 Normalize test file
@@ -22,15 +22,15 @@ Normalize test file
 """
 
 
-@utila.saveme
+@utilo.saveme
 def main():
     paths = sources()
     for path in paths:
-        utila.log(path)
-        content = utila.file_read(path)
+        utilo.log(path)
+        content = utilo.file_read(path)
         content = modern(content)
-        utila.file_replace(path, content)
-    sys.exit(utila.SUCCESS)
+        utilo.file_replace(path, content)
+    sys.exit(utilo.SUCCESS)
 
 
 def modern(content: str) -> str:
@@ -39,7 +39,7 @@ def modern(content: str) -> str:
         raw = knlp.word_tokenize(sentence)
         line = ' '.join(raw)
         collected.append(line)
-    result = utila.NEWLINE.join(collected)
+    result = utilo.NEWLINE.join(collected)
     return result
 
 
@@ -52,16 +52,16 @@ def sources() -> list:
         help='files to process',
     )
     args = parser.parse_args()
-    result = [utila.make_absolute(item) for item in args.inputs]
+    result = [utilo.make_absolute(item) for item in args.inputs]
     failure = False
     for item in result:
         if os.path.exists(item):
             if os.path.isfile(item):
                 continue
-            utila.error(f'not a file: {item}')
+            utilo.error(f'not a file: {item}')
         else:
-            utila.error(f'file does not exists: {item}')
+            utilo.error(f'file does not exists: {item}')
         failure = True
     if failure:
-        sys.exit(utila.FAILURE)
+        sys.exit(utilo.FAILURE)
     return result

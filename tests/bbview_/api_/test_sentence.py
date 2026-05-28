@@ -10,7 +10,7 @@
 import os
 
 import pytest
-import utila
+import utilo
 
 import bbview.api_.judge.sentence
 
@@ -22,7 +22,7 @@ no space after mace
 
 def create_sentences(path, skip=None):
     sentence_file = os.path.join(path, 'sentence.txt')
-    utila.file_create(sentence_file, SENTENCES)
+    utilo.file_create(sentence_file, SENTENCES)
     sentences = bbview.api_.judge.sentence.Sentences(
         files=[sentence_file],
         skip=skip,

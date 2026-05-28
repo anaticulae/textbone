@@ -10,11 +10,11 @@
 import string
 
 import knlp
-import utila
+import utilo
 
 
 def load_sentences(path: str, remove_punctation: bool = False) -> list:
-    document = utila.file_read(path)
+    document = utilo.file_read(path)
     lines = [sentence for sentence in document.splitlines() if sentence.strip()]
     # TODO: USE GERMAN TOKENIZER
     sentences = [knlp.word_tokenize(line) for line in lines]

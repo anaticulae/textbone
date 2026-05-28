@@ -12,7 +12,7 @@ import os
 import random
 
 import knlp
-import utila
+import utilo
 
 import backbone
 import hugedata.utils
@@ -27,8 +27,8 @@ SentenceJudged = collections.namedtuple(
 
 def sentence_append(sentence: SentenceJudged, base=DATA):
     raw = sentence_raw(sentence)
-    raw = raw + utila.NEWLINE
-    utila.file_append(base, raw, create=True)
+    raw = raw + utilo.NEWLINE
+    utilo.file_append(base, raw, create=True)
 
 
 class Sentences:
@@ -49,7 +49,7 @@ class Sentences:
             hugedata.utils.load_sentences(item, remove_punctation=False)
             for item in self.files
         ]
-        sentences = utila.flat(files)
+        sentences = utilo.flat(files)
         sentences = [' '.join(sentence) for sentence in sentences]
         if self.skip:
             # skip already judged items
@@ -101,7 +101,7 @@ class Sentences:
 
 
 def load_skip(path: str = DATA) -> set:
-    loaded = utila.file_read(path)
+    loaded = utilo.file_read(path)
     splitted = loaded.splitlines()
     skip = {int(item.split()[0]) for item in splitted if item}
     return skip

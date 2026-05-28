@@ -11,7 +11,7 @@ import os
 import sys
 
 import configo
-import utila
+import utilo
 
 SECRET_KEY = b'helmut_max_power_abs29.nsTODOThisIsVerySecreyISwarTODO'
 API_PREFIX = '/api/v0/'
@@ -21,8 +21,8 @@ def renderer_workdir() -> str:
     try:
         path = configo.env('DEV_BBVIEW_TMP')
     except KeyError:
-        utila.error('require global env `DEV_BBVIEW_TMP`')
-        sys.exit(utila.FAILURE)
+        utilo.error('require global env `DEV_BBVIEW_TMP`')
+        sys.exit(utilo.FAILURE)
     os.makedirs(path, exist_ok=True)
     result = str(path)
     return result

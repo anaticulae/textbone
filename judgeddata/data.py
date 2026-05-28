@@ -7,7 +7,7 @@
 # be prosecuted under federal law. Its content is company confidential.
 # =============================================================================
 
-import utila
+import utilo
 
 import bbview.api_.judge.sentence
 import hugedata
@@ -44,7 +44,7 @@ def collect_byid(attribute: int, positive: bool = True) -> list:
         skip=None,
         seed=5889,
     )
-    loaded = utila.file_read(judgeddata.SENTENCE)
+    loaded = utilo.file_read(judgeddata.SENTENCE)
     splitted = loaded.splitlines()
     collected = []
     for line in splitted:

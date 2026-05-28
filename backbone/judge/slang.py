@@ -11,7 +11,7 @@ import os
 import pickle  # nosec
 
 import knlp
-import utila
+import utilo
 
 import backbone.judge
 
@@ -19,7 +19,7 @@ try:
     import sklearn.feature_extraction.text  # pylint:disable=C0415,W0611
     import sklearn.svm  # pylint:disable=C0415,W0611
 except ImportError:
-    utila.error('scipy is not installed correctly')
+    utilo.error('scipy is not installed correctly')
 
 SLANG_CLASSIFIER: 'sklearn.svm.SVC' = None
 SLANG_VECTORIZER: 'sklearn.feature_extraction.text.CountVectorizer' = None
@@ -48,9 +48,9 @@ def load_slang():
     if SLANG_CLASSIFIER is None:
         assert os.path.exists(backbone.judge.SLANG), (
             f'require slang training {backbone.judge.SLANG}')
-        slang = utila.file_read_binary(backbone.judge.SLANG)
+        slang = utilo.file_read_binary(backbone.judge.SLANG)
         try:
             SLANG_VECTORIZER, SLANG_CLASSIFIER = pickle.loads(slang)  # nosec
         except ImportError:
-            utila.error('scipy is not installed correctly')
+            utilo.error('scipy is not installed correctly')
     return SLANG_CLASSIFIER, SLANG_VECTORIZER

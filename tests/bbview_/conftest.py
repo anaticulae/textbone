@@ -8,12 +8,12 @@
 # =============================================================================
 
 import pytest
-import utilatest
+import utilotest
 
 import bbview.app
 import bbview.config
 
-utilatest.setup(bbview.config.API_PREFIX)
+utilotest.setup(bbview.config.API_PREFIX)
 
 
 @pytest.fixture

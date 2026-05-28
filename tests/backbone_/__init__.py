@@ -9,19 +9,19 @@
 
 import functools
 
-import utilatest
+import utilotest
 
 import backbone.normalize
 
 run = functools.partial(  # pylint:disable=C0103
-    utilatest.run_command,
+    utilotest.run_command,
     main=backbone.normalize.main,
     process='normalize',
     expect=True,
 )
 
 failure = functools.partial(  # pylint:disable=C0103
-    utilatest.run_command,
+    utilotest.run_command,
     main=backbone.normalize.main,
     process='normalize',
     expect=False,

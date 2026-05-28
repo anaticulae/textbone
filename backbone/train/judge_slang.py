@@ -10,9 +10,9 @@
 import pickle  # nosec
 
 import knlp
+import ltk_data
 import nltk
-import nltk_data
-import utila
+import utilo
 
 import backbone.judge
 import judgeddata.data
@@ -23,23 +23,23 @@ try:
     import sklearn.model_selection
     import sklearn.svm
 except ImportError:
-    utila.error('scipy is not installed correctly')
+    utilo.error('scipy is not installed correctly')
 
 
 def setup_nltk():
-    utila.log(f'NLTK: {nltk.data.path}\n')
-    nltk.data.path.append(utila.join(nltk_data.ROOT, 'nltk_data'))
-    utila.log(f'NLTK: {nltk.data.path}\n')
+    utilo.log(f'NLTK: {nltk.data.path}\n')
+    nltk.data.path.append(utilo.join(ltk_data.ROOT, 'ltk_data'))
+    utilo.log(f'NLTK: {nltk.data.path}\n')
 
 
 # pylint:disable=C0103
 # pylint:disable=R0914
 def train_slang():
-    utila.log('train slang')
+    utilo.log('train slang')
     slang = judgeddata.data.slang()
     for item in slang:
-        utila.log(item)
-    utila.log('==========================================')
+        utilo.log(item)
+    utilo.log('==========================================')
     slang = [knlp.normalize_sentence(item) for item in slang]
     noslang = judgeddata.data.noslang()
     noslang = [knlp.normalize_sentence(item) for item in noslang]
@@ -47,7 +47,7 @@ def train_slang():
     data = slang + noslang
     judgement = [1] * len(slang) + [0] * len(noslang)
 
-    utila.log('start training')
+    utilo.log('start training')
     stopwords = nltk.corpus.stopwords.words('german')
     vectorizer = sklearn.feature_extraction.text.CountVectorizer(
         stop_words=stopwords,)
@@ -72,7 +72,7 @@ def train_slang():
     y_pred = classifier.predict(X_test)
 
     confusion = sklearn.metrics.confusion_matrix(y_test, y_pred)
-    utila.log(confusion)
+    utilo.log(confusion)
 
     data = judgeddata.data.sentences(skip=slang)
     for sentence in data:
@@ -84,14 +84,14 @@ def train_slang():
 
         decided = classifier.predict(Xdif)
         if decided[0] == 1:
-            utila.log(sentence)
+            utilo.log(sentence)
 
 
 def dump_slang(vectorizer, classifier):
     dumped = pickle.dumps((vectorizer, classifier))
     outpath = backbone.judge.SLANG
-    utila.log(f'write slang: {outpath}')
-    utila.file_replace_binary(outpath, dumped)
+    utilo.log(f'write slang: {outpath}')
+    utilo.file_replace_binary(outpath, dumped)
 
 
 def train():
