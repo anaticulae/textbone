@@ -13,7 +13,7 @@ import pickle  # nosec
 import analp
 import utilo
 
-import backbone.judge
+import textbone.judge
 
 try:
     import sklearn.feature_extraction.text  # pylint:disable=C0415,W0611
@@ -46,9 +46,9 @@ def decide(sentence: str) -> float:  # pylint:disable=W0613
 def load_slang():
     global SLANG_CLASSIFIER, SLANG_VECTORIZER  # pylint:disable=global-statement
     if SLANG_CLASSIFIER is None:
-        assert os.path.exists(backbone.judge.SLANG), (
-            f'require slang training {backbone.judge.SLANG}')
-        slang = utilo.file_read_binary(backbone.judge.SLANG)
+        assert os.path.exists(textbone.judge.SLANG), (
+            f'require slang training {textbone.judge.SLANG}')
+        slang = utilo.file_read_binary(textbone.judge.SLANG)
         try:
             SLANG_VECTORIZER, SLANG_CLASSIFIER = pickle.loads(slang)  # nosec
         except ImportError:

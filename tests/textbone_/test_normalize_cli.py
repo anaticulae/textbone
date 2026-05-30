@@ -7,22 +7,16 @@
 # be prosecuted under federal law. Its content is company confidential.
 # =============================================================================
 
-import functools
+import utilo
 
-import utilotest
+import hugedata
+import tests.textbone_
 
-import backbone.normalize
 
-run = functools.partial(  # pylint:disable=C0103
-    utilotest.run_command,
-    main=backbone.normalize.main,
-    process='normalize',
-    expect=True,
-)
-
-failure = functools.partial(  # pylint:disable=C0103
-    utilotest.run_command,
-    main=backbone.normalize.main,
-    process='normalize',
-    expect=False,
-)
+def test_normalize_cli(td, mp):
+    filename = str(td.tmpdir.join('master72.txt'))
+    utilo.copy_content(hugedata.LIT_MASTER075, filename)
+    before = utilo.file_read(filename)
+    tests.textbone_.run(cmd=filename, mp=mp)
+    after = utilo.file_read(filename)
+    assert after != before

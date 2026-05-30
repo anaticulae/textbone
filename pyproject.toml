@@ -78,10 +78,10 @@ where = [
     ".",
 ]
 include = [
-    "backbone",
-    "backbone.judge",
-    "backbone.magic",
-    "backbone.train",
+    "textbone",
+    "textbone.judge",
+    "textbone.magic",
+    "textbone.train",
     "bbview.api",
     "bbview.api.analysis",
     "bbview.api.data",

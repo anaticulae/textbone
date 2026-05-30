@@ -14,10 +14,10 @@ import random
 import analp
 import utilo
 
-import backbone
 import hugedata.utils
+import textbone
 
-DATA = os.path.join(backbone.ROOT, 'judgeddata/sentence')
+DATA = os.path.join(textbone.ROOT, 'judgeddata/sentence')
 
 SentenceJudged = collections.namedtuple(
     'SentenceJudged',

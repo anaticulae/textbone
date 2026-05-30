@@ -13,6 +13,6 @@ graft hugedata
 graft bbview/static
 graft bbview/templates
 
-graft backbone/magic
+graft textbone/magic
 
 include judgeddata/sentence

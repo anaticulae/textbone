@@ -9,7 +9,7 @@
 
 import os
 
-import backbone
+import textbone
 
-MAGIC = os.path.join(backbone.ROOT, 'backbone/magic')
+MAGIC = os.path.join(textbone.ROOT, 'textbone/magic')
 SLANG = os.path.join(MAGIC, 'slang.bin')

@@ -9,9 +9,9 @@
 
 import os
 
-import backbone
+import textbone
 
-ROOT = os.path.join(backbone.ROOT, 'hugedata')
+ROOT = os.path.join(textbone.ROOT, 'hugedata')
 
 LIT = os.path.join(ROOT, 'lit')
 ORDER = os.path.join(ROOT, 'order')

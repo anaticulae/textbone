@@ -153,7 +153,7 @@ Every noteable change is logged here.
 * connect documents API to view (866170dc136b)
 * add basic application (e2fa12e8380f)
 * add list of collected masters (cf269af86718)
-* add backbone cli view (0b57a4868e8b)
+* add textbone cli view (0b57a4868e8b)
 * add master099 example (017a40b55123)
 * add master098 example (5deeb824dca9)
 * use modern text splitter (408ea8a648bc)

@@ -9,7 +9,7 @@
 
 import os
 
-import backbone
+import textbone
 
-ROOT = os.path.join(backbone.ROOT, 'judgeddata')
+ROOT = os.path.join(textbone.ROOT, 'judgeddata')
 SENTENCE = os.path.join(ROOT, 'sentence')

@@ -14,8 +14,8 @@ import ltk_data
 import nltk
 import utilo
 
-import backbone.judge
 import judgeddata.data
+import textbone.judge
 
 try:
     import sklearn.feature_extraction.text
@@ -89,7 +89,7 @@ def train_slang():
 
 def dump_slang(vectorizer, classifier):
     dumped = pickle.dumps((vectorizer, classifier))
-    outpath = backbone.judge.SLANG
+    outpath = textbone.judge.SLANG
     utilo.log(f'write slang: {outpath}')
     utilo.file_replace_binary(outpath, dumped)
 

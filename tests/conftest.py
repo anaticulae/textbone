@@ -11,10 +11,10 @@ import utilo
 from utilotest import mp  # pylint:disable=W0611
 from utilotest import td  # pylint:disable=W0611
 
-import backbone.judge
-import backbone.train.judge_slang
+import textbone.judge
+import textbone.train.judge_slang
 
 pytest_plugins = ['pytester', 'xdist']  # pylint: disable=invalid-name
 
-if not utilo.exists(backbone.judge.SLANG):
-    backbone.train.judge_slang.train()
+if not utilo.exists(textbone.judge.SLANG):
+    textbone.train.judge_slang.train()
