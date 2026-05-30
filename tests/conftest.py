@@ -7,12 +7,12 @@
 # be prosecuted under federal law. Its content is company confidential.
 # =============================================================================
 
-import utilo
+# import utilo
 from utilotest import mp  # pylint:disable=W0611
 from utilotest import td  # pylint:disable=W0611
 
-import textbone.judge
-import textbone.train.judge_slang
+# import textbone.judge
+# import textbone.train.judge_slang
 
 pytest_plugins = ['pytester', 'xdist']  # pylint: disable=invalid-name
 
