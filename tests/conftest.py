@@ -16,5 +16,6 @@ import textbone.train.judge_slang
 
 pytest_plugins = ['pytester', 'xdist']  # pylint: disable=invalid-name
 
-if not utilo.exists(textbone.judge.SLANG):
-    textbone.train.judge_slang.train()
+# TODO: ENABLE LATER
+# if not utilo.exists(textbone.judge.SLANG):
+#     textbone.train.judge_slang.train()
