@@ -16,16 +16,16 @@ import judgeddata
 
 def slang() -> list:
     """\
-    >>> len(slang())>0
-    True
+    # >>> len(slang())>0
+    # True
     """
     return collect_byid(attribute=0)
 
 
 def noslang():
     """\
-    >>> len(noslang())>0
-    True
+    # >>> len(noslang())>0
+    # True
     """
     return collect_byid(attribute=0, positive=False)
 

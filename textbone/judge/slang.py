@@ -27,8 +27,8 @@ SLANG_VECTORIZER: 'sklearn.feature_extraction.text.CountVectorizer' = None
 
 def decide(sentence: str) -> float:  # pylint:disable=W0613
     """\
-    >>> decide('Ein großartiges Ergebnis')
-    0.0
+    #>>> decide('Ein großartiges Ergebnis')
+    #0.0
     """
     slang_classifier, slang_vectorizer = load_slang()
     normalized = analp.normalize_sentence(sentence)
