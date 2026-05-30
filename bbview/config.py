@@ -16,10 +16,12 @@ import utilo
 SECRET_KEY = b'helmut_max_power_abs29.nsTODOThisIsVerySecreyISwarTODO'
 API_PREFIX = '/api/v0/'
 
+TMP_DEFAULT = '~/.anaticulae/textbone/bbview_tmp'
+
 
 def renderer_workdir() -> str:
     try:
-        path = configos.env('DEV_BBVIEW_TMP')
+        path = configos.env('DEV_BBVIEW_TMP', default=TMP_DEFAULT)
     except KeyError:
         utilo.error('require global env `DEV_BBVIEW_TMP`')
         sys.exit(utilo.FAILURE)
