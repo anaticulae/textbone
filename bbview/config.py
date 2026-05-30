@@ -10,7 +10,7 @@
 import os
 import sys
 
-import configo
+import configos
 import utilo
 
 SECRET_KEY = b'helmut_max_power_abs29.nsTODOThisIsVerySecreyISwarTODO'
@@ -19,7 +19,7 @@ API_PREFIX = '/api/v0/'
 
 def renderer_workdir() -> str:
     try:
-        path = configo.env('DEV_BBVIEW_TMP')
+        path = configos.env('DEV_BBVIEW_TMP')
     except KeyError:
         utilo.error('require global env `DEV_BBVIEW_TMP`')
         sys.exit(utilo.FAILURE)

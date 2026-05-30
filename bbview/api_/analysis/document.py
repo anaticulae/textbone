@@ -10,7 +10,7 @@
 import os
 import statistics
 
-import painter
+import upainter
 import utilo
 
 import bbview.api.magic
