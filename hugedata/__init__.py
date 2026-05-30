@@ -16,13 +16,13 @@ ROOT = os.path.join(textbone.ROOT, 'hugedata')
 LIT = os.path.join(ROOT, 'lit')
 ORDER = os.path.join(ROOT, 'order')
 TECH = os.path.join(ROOT, 'tech')
-UTILS = os.path.join(ROOT, 'utils')
+UTILS_PATH = os.path.join(ROOT, 'utils')
 
 LIT_BACHELOR = os.path.join(LIT, 'bachelor')
 LIT_MASTER = os.path.join(LIT, 'master')
-LIT_DISS = os.path.join(LIT, 'diss')
+LIT_DISS_PATH = os.path.join(LIT, 'diss')
 TECH_BACHELOR = os.path.join(TECH, 'bachelor')
-TECH_DISS = os.path.join(TECH, 'diss')
+TECH_DISS_PATH = os.path.join(TECH, 'diss')
 
 LIT_BACHELOR051 = os.path.join(LIT_BACHELOR, 'bachelor051.txt')
 LIT_BACHELOR056 = os.path.join(LIT_BACHELOR, 'bachelor056.txt')
@@ -36,17 +36,17 @@ LIT_MASTER089 = os.path.join(LIT_MASTER, 'master089.txt')
 LIT_MASTER098 = os.path.join(LIT_MASTER, 'master098.txt')
 LIT_MASTER099 = os.path.join(LIT_MASTER, 'master099.txt')
 
-LIT_DISS266 = os.path.join(LIT_DISS, 'diss266.txt')
+LIT_DISS266 = os.path.join(LIT_DISS_PATH, 'diss266.txt')
 
 TECH_BACHELOR063 = os.path.join(TECH_BACHELOR, 'bachelor063.txt')
 TECH_BACHELOR111 = os.path.join(TECH_BACHELOR, 'bachelor111.txt')
 
-TECH_DISS205 = os.path.join(TECH_DISS, 'diss205.txt')
+TECH_DISS205 = os.path.join(TECH_DISS_PATH, 'diss205.txt')
 
 ORDER_ORDER024 = os.path.join(ORDER, 'order024.txt')
 
-UTILS_ABBREVIATION = os.path.join(UTILS, 'abbreviations.txt')
-UTILS_ROMAN = os.path.join(UTILS, 'roman.txt')
+UTILS_ABBREVIATION = os.path.join(UTILS_PATH, 'abbreviations.txt')
+UTILS_ROMAN = os.path.join(UTILS_PATH, 'roman.txt')
 
 LIT_DISS = [
     LIT_DISS266,
