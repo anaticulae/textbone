@@ -8,10 +8,9 @@
 #==============================================================================
 
 import os
+from importlib.metadata import version
 
-import ltk_data
-
-__version__ = '0.9.1'
+__version__ = version("textbone")
 
 ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), '..'))
 
