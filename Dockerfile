@@ -21,6 +21,7 @@ COPY pyproject.toml .
 
 RUN pip install .[dev]
 RUN pip install .[view]
+RUN pip install .[textbone]
 RUN pip install .
 
 COPY . /var/install
