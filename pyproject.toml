@@ -16,12 +16,9 @@ authors = [
 dependencies = [
     "utilo>=2.107.4,<3.0.0",
     "configos>=1.0.4,<2.0.0",
-    "upainter>=1.0.0,<2.0.0",
     "analp>=1.0.0,<2.0.0",
     "ltk_data>=1.0.2,<2.0.0",
     "scikit_learn>=1.8.0,<2.0.0",
-    "Flask>=3.1.3,<4.0.0",
-    "Flask-Bootstrap>=3.3.7.1,<4.0.0",
 ]
 keywords = []
 classifiers = [
@@ -41,6 +38,11 @@ content-type = "text/markdown"
 [project.optional-dependencies]
 dev = [
     "utilotest>=1.0.1,<2.0.0",
+]
+view = [
+    "upainter>=1.0.0,<2.0.0",
+    "Flask>=3.1.3,<4.0.0",
+    "Flask-Bootstrap>=3.3.7.1,<4.0.0",
 ]
 
 [project.urls]

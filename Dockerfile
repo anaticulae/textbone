@@ -20,6 +20,7 @@ WORKDIR /var/install
 COPY pyproject.toml .
 
 RUN pip install .[dev]
+RUN pip install .[view]
 RUN pip install .
 
 COPY . /var/install
