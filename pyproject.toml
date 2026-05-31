@@ -47,6 +47,10 @@ dev = [
 Homepage = "https://github.com/anaticulae/textbone"
 Repository = "https://github.com/anaticulae/textbone"
 
+[project.scripts]
+normalize = "backbone.normalize:main"
+ngram = "backbone.ngram:main"
+
 [tool.semantic_release]
 version_toml = [
     "pyproject.toml:project.version",
