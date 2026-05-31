@@ -10,7 +10,6 @@
 import pickle  # nosec
 
 import analp
-import ltk_data
 import nltk
 import utilo
 
@@ -27,6 +26,7 @@ except ImportError:
 
 
 def setup_nltk():
+    import ltk_data
     utilo.log(f'NLTK: {nltk.data.path}\n')
     nltk.data.path.append(utilo.join(ltk_data.ROOT, 'ltk_data'))
     utilo.log(f'NLTK: {nltk.data.path}\n')
