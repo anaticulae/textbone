@@ -9,6 +9,12 @@
 
 FROM ghcr.io/anaticulae/baw:447bf27
 
+RUN apk add --no-cache \
+    gcc\
+    g++\
+    musl-dev
+    # build-base
+
 WORKDIR /var/install
 
 COPY pyproject.toml .
