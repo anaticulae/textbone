@@ -1,192 +1,728 @@
-# Changelog
+# CHANGELOG
 
-Every noteable change is logged here.
+
+## v1.0.0 (2026-05-31)
+
+### Bug Fixes
+
+- **bbview**: Add missing import
+  ([`7ebfeaf`](https://github.com/anaticulae/textbone/commit/7ebfeaffe7079de592b1b587748f1cc3761d9826))
+
+- **bbview**: Ensure that's string
+  ([`5b9f5e0`](https://github.com/anaticulae/textbone/commit/5b9f5e03bd0a2d3603c170fea2c1e02a3a652a1e))
+
+- **config**: Ensure that path is str
+  ([`5709b65`](https://github.com/anaticulae/textbone/commit/5709b65174f8e1bc9a07403585aa1eeea2aadf63))
+
+### Chores
+
+- **baw**: Remove default behavior
+  ([`e21a177`](https://github.com/anaticulae/textbone/commit/e21a177b46d1848b15e23e61bf43f21b24e10f4e))
+
+- **docker**: Reduce image size
+  ([`5cf3249`](https://github.com/anaticulae/textbone/commit/5cf3249769f7a0e08e0982a1a2761919be495893))
+
+- **docker**: Upgrade environment
+  ([`500e335`](https://github.com/anaticulae/textbone/commit/500e335be682037d4513bb3928a6b1cc4e9fcd2b))
+
+- **github**: Add .github
+  ([`fee1c96`](https://github.com/anaticulae/textbone/commit/fee1c96c521f3e251e139483124976dc72ba0d41))
+
+- **Jenkins**: Upgrade pipeline
+  ([`72a3334`](https://github.com/anaticulae/textbone/commit/72a33348fa6ac2fe3570e71c9ffa94d2ed7242f6))
+
+- **license**: Add LICENSE
+  ([`a4fb6e1`](https://github.com/anaticulae/textbone/commit/a4fb6e1422782376850c6c29a003c12036e1fa1a))
+
+- **project**: Add missing command tool
+  ([`5d07853`](https://github.com/anaticulae/textbone/commit/5d078536793bc7e48ee8e3cd99a66c0dc3898e40))
+
+- **project**: Add separate view installer
+  ([`a387b5a`](https://github.com/anaticulae/textbone/commit/a387b5af731bae2996ac017b596a1a7f8ce54ddb))
+
+- **project**: Remove knlp
+  ([`e689849`](https://github.com/anaticulae/textbone/commit/e68984993c427de79780cea7dab4dfa08be5c9f8))
+
+- **project**: Remove outdated data
+  ([`a898119`](https://github.com/anaticulae/textbone/commit/a898119106af0ee7f8d1d302eee2fc8119ee57e4))
+
+- **pyproject**: Add separate install step
+  ([`fe7aa18`](https://github.com/anaticulae/textbone/commit/fe7aa182219de4b7f58713b1c4548bcc13ec9a48))
+
+- **requirements**: Upgrade requirements
+  ([`6f4f7db`](https://github.com/anaticulae/textbone/commit/6f4f7db18bde1f17370882d736c9cebee1ddeea4))
+
+- **requirements**: Upgrade requirements.txt
+  ([`38e5670`](https://github.com/anaticulae/textbone/commit/38e56709a4ebf21c50e65ef4b6ce02c667f93002))
+
+- **setup**: Add modern project setup
+  ([`00969c1`](https://github.com/anaticulae/textbone/commit/00969c184eb651556cc6d9200a51bde5dc64e8ba))
+
+- **setup**: Remove outdated setup
+  ([`7330644`](https://github.com/anaticulae/textbone/commit/7330644e5e9e8357f55902717bec6c3327c3c27f))
+
+- **setup**: Use quick install
+  ([`93db26c`](https://github.com/anaticulae/textbone/commit/93db26ce8e3ef86243a85b0e8763566d25e05bc6))
+
+- **test**: Ensure that data is trained
+  ([`36e1068`](https://github.com/anaticulae/textbone/commit/36e106869d7b8c749252a8aa39c830411a9f2f3b))
+
+- **textbone**: Add dynamic version
+  ([`fe2b0b9`](https://github.com/anaticulae/textbone/commit/fe2b0b9752e99a6aef3ba49a610a272f379161c1))
+
+- **textbone**: Reduce amount of imports
+  ([`e75f1ad`](https://github.com/anaticulae/textbone/commit/e75f1adb99770177c9cd0683132e448ab7f92644))
+
+### Code Style
+
+- **code**: Format code
+  ([`eed238f`](https://github.com/anaticulae/textbone/commit/eed238fa96ebeb64001124e1ed376bd6113b6385))
+
+### Documentation
+
+- **copyright**: Happy New Year!
+  ([`64d0c55`](https://github.com/anaticulae/textbone/commit/64d0c5590837207dbdcb2c817b944c26b5ca329f))
+
+### Features
+
+- **config**: Add default tmp dir
+  ([`d311d6f`](https://github.com/anaticulae/textbone/commit/d311d6f6daa5e4bcf41222baf86cd351a78703ae))
+
+### Refactoring
+
+- **hugedata**: Replace with utilo code
+  ([`8aaa01c`](https://github.com/anaticulae/textbone/commit/8aaa01c27af8c3df73f7db53e05336043ea5bb67))
+
+- **judge**: Make code more reusable
+  ([`05b84ac`](https://github.com/anaticulae/textbone/commit/05b84ac0f07aa629b20510f6dbee13122a8f294c))
+
+- **magic**: Replace with utila code
+  ([`93ea204`](https://github.com/anaticulae/textbone/commit/93ea204340fc751bb0ec0ac626ef9ef22a705c98))
+
+- **magic**: Replace with utila code
+  ([`1c0ec80`](https://github.com/anaticulae/textbone/commit/1c0ec80b5139501ee562d62758c97a1509ab63da))
+
+- **packages**: Adjust names
+  ([`960294e`](https://github.com/anaticulae/textbone/commit/960294ee00ac497398c83df0d5f0b3da02854212))
+
+- **project**: Adjust project name
+  ([`4df8254`](https://github.com/anaticulae/textbone/commit/4df82547f198f9beebf09dd430a6c07ab5a1dc0a))
+
+- **rand**: Replace german code
+  ([`090cd4e`](https://github.com/anaticulae/textbone/commit/090cd4e93624ecdaa0aee04852f5b1072b49b807))
+
+- **replace**: Automated replacement
+  ([`e7a53c1`](https://github.com/anaticulae/textbone/commit/e7a53c1720c216ca69b5f0a49886da090e80ef11))
+
+### Testing
+
+- **disable**: Disable slang tests
+  ([`109b432`](https://github.com/anaticulae/textbone/commit/109b432814464fb286be270013ed3d2a097dd40d))
+
+- **disable**: Do not train slang
+  ([`22dc53a`](https://github.com/anaticulae/textbone/commit/22dc53a9612062bbd1a5284babee98620dcbb573))
+
 
 ## v0.9.1 (2022-10-01)
 
-### Fix
+### Bug Fixes
 
-* ensure that nltk is installed (117f018bee0f)
+- **slang**: Ensure that nltk is installed
+  ([`117f018`](https://github.com/anaticulae/textbone/commit/117f018bee0f081d2f64b0dc4c40de87b3485d27))
 
-### Chore
+### Chores
 
-* adjust tmp renderer (03255fc5aad4)
-* train slang (a6af6d5d9fda)
-* add Jenkinsfile (2240b60056ea)
-* upgrade requirements.txt (c984ca89d000)
+- **ci**: Add Jenkinsfile
+  ([`2240b60`](https://github.com/anaticulae/textbone/commit/2240b60056ead0cfd6ebf770f7e7926518afb836))
 
-## v0.9.0
+- **Jenkinsfile**: Adjust tmp renderer
+  ([`03255fc`](https://github.com/anaticulae/textbone/commit/03255fc5aad46e5ca9b84ad039b2aef8426d334e))
 
-### Feature
+- **Jenkinsfile**: Train slang
+  ([`a6af6d5`](https://github.com/anaticulae/textbone/commit/a6af6d5d9fda746c06edb5312caa3a48ddf09600))
 
-* add random text generator (6f257621ed35)
+- **requirements**: Upgrade requirements.txt
+  ([`c984ca8`](https://github.com/anaticulae/textbone/commit/c984ca89d00003e00315e16fd9d4594531b1cb76))
 
-## v0.8.0
+### Code Style
 
-### Feature
+- **changelog**: Adjust automation tool
+  ([`7b9e178`](https://github.com/anaticulae/textbone/commit/7b9e1787dfe08ea1638fe0cc0e8e94e891fa2693))
 
-* use : as sentence separator (d3644079f36d)
-* add cli to compute ngrams (d228ae44daab)
+- **docs**: Adjust headline
+  ([`3490917`](https://github.com/anaticulae/textbone/commit/349091792f85e4a9bed99af99e504378171d3670))
 
-### Documentation
 
-* Happy New Year! (b165d5fead95)
-* adjust modules path (4eced0637298)
+## v0.9.0 (2022-06-29)
 
-## v0.7.0
+### Chores
 
-### Feature
+- **requirements**: Add german package
+  ([`cead9b3`](https://github.com/anaticulae/textbone/commit/cead9b390609aeb7634fe9eac9e97923d8df82d4))
 
-* add diss205 sentence data (fa2634f98ba6)
+- **requirements**: Upgrade requirements.txt
+  ([`cbf1b14`](https://github.com/anaticulae/textbone/commit/cbf1b143e8bf7049731b20c409ceee51e262747d))
 
-## v0.6.6
+### Features
 
-### Fix
+- **rand**: Add random text generator
+  ([`6f25762`](https://github.com/anaticulae/textbone/commit/6f257621ed35b1ec5b6dfec8a436a492175a1d92))
 
-* adjust trainings data (23245e90de51)
 
-## v0.6.5
+## v0.8.0 (2022-02-12)
 
-## v0.6.4
+### Chores
 
-### Fix
+- **project**: Move project config
+  ([`c70ee71`](https://github.com/anaticulae/textbone/commit/c70ee710a84a905160d652299c7340e61669d380))
 
-* enable using without scipy (a779a4eb6b0e)
-* upgrade hashes after changing to 64bit python (32b3a4f8a2e9)
-
-## v0.6.3
-
-### Fix
-
-* adjust number list pattern (197a3e1fe3f0)
-
-## v0.6.2
-
-### Fix
-
-* fix master99 (100d6adc8f18)
-
-## v0.6.1
-
-### Fix
-
-* add roman numbers example (7f6378c15176)
-
-## v0.6.0
-
-### Feature
-
-* connect trained model with slang determiner (06b090eed2ce)
-* save trained result (16a79b6ca4eb)
-* add slang trainer (385069115d5b)
-* judge more sentences (fb89fce259ad)
-* normalize hashed sentences (5997afc4098c)
-* add sentence provider (5f8790966122)
-* add magic methods to ease using (31435e2e85e2)
-* add option to select negative column (5c265bba5ea3)
-* add slang detection interface (f7c0703bd647)
-
-### Fix
-
-* make assertion more explicit (22474d6a6f8d)
-
-## v0.5.0
-
-### Feature
-
-* return resource not found for invalid sentence transmission (8d29363994e4)
-* add method to check if sentence exists (a1fc40f29c52)
-* add slang data provider (d94b50e00dd1)
-* judge some data (0c06fcb4cc9a)
-* add access by sentence hash (8b84d0ee4087)
-* add option to control randomizing sentences (447245a47ee9)
-* add style and syntax field (9909be9565ab)
-* move send button to next line (4a1cfbe66714)
-* make sentence API more robust (f2439976a7e4)
-* catch information that all sentences are judged (f15cb7a063e3)
-* add judge view (8a206437704c)
-* add sentence judge API (a61df4fb2fed)
-* add sentence judge package (37dbe95f3310)
-
-### Fix
-
-* add lazy loading to improve test discovery (14cfd2c080a8)
-* change return value of error page to 404 (c962d12b546d)
-* allow creating skipped file if not exists (7d6a6a80fdb5)
-* ensure correct data type (bbe8166c7c74)
-* adjust sentences boundary (8b35ce317b49)
-
-## v0.4.0
-
-### Feature
-
-* add bachelor111 example (cdbbed302e39)
-* add bachelor128 example (8f50fe62a4ce)
-* add bachelor076 example (e1e9a82d7738)
-* add special order marker (1cb945b466b4)
-* add order024 example (d4207ce23801)
-* use document type specific marker (54ae1a20e14c)
-* do not show file extension (ad28522d8d7d)
-* add bachelor63 example (815a32ce6822)
-* add bachelor056 example (6c9170705859)
-* add bachelor051 example (c3519e4e7cb0)
-* add labels to plot (f66725eea60b)
-
-### Fix
-
-* use hash to handle a lot of document selections (891f066cbfec)
-* support more than two resource levels (e97643fce24a)
-* use hugedata file source (f1f0ba66be84)
-
-## v0.3.0
-
-### Feature
-
-* handle invalid resource access (1f30ee7e3417)
-* link interface to API (a0758804ff59)
-* add sentence renderer (d1e234eba4d1)
-* add magic module to generate plot file names (a434f6aef6f9)
-* add more space to display longer file names (a1b81e648412)
-* add analysis document scatter renderer (e728c4cf3b78)
-* link API to renderer code (d6e961fd386a)
-* add image provider (15713b8206ca)
-* connect documents API to view (866170dc136b)
-* add basic application (e2fa12e8380f)
-* add list of collected masters (cf269af86718)
-* add textbone cli view (0b57a4868e8b)
-* add master099 example (017a40b55123)
-* add master098 example (5deeb824dca9)
-* use modern text splitter (408ea8a648bc)
-
-### Fix
-
-* fix linter findings (207d89cc372b)
-* add file extension in renderer (9186b3806952)
-* do not show file name in selector (1074a6c17cb2)
-* simplify operation name, fix js plot (380be1350531)
-* fix misalignments (322a7c99e5d5)
-
-## v0.2.0
-
-### Feature
-
-* add abbreviations list (19d7d66a6824)
-
-## v0.1.0
-
-### Feature
-
-* add master089 example (cadcf6ce0cb2)
-* add master83 example (baf449df6a50)
-* add test to display text statistics (14767cd66edb)
-* add statistics module (d198c720d387)
-* add method to load sentences from document path (d405966b0dc0)
-* add master075 example (fc1093b3cb65)
-* add master072 example (f8a6812c5b83)
-* add cli to automate normalizing text file (16640721dda1)
+- **requirements**: Upgrade requirements.txt
+  ([`d6e639c`](https://github.com/anaticulae/textbone/commit/d6e639c342bb4e81c7391eb16c8dbf9e694a4d4c))
 
 ### Documentation
 
-* add list of interesting NLP articles (668016fbc719)
+- **copyright**: Happy New Year!
+  ([`b165d5f`](https://github.com/anaticulae/textbone/commit/b165d5fead9542bcdf9ebb965cd70f53a2b159a3))
 
-## v0.0.0 Initial release
+- **fix**: Adjust modules path
+  ([`4eced06`](https://github.com/anaticulae/textbone/commit/4eced063729858baca5fa6ebb773f1f6845385a2))
+
+### Features
+
+- **data**: Use : as sentence separator
+  ([`d364407`](https://github.com/anaticulae/textbone/commit/d3644079f36d09b2d5f387cf20c07312a85640cf))
+
+- **ngram**: Add cli to compute ngrams
+  ([`d228ae4`](https://github.com/anaticulae/textbone/commit/d228ae44daabe9106f5bc2be14e3ced5f7c55c72))
+
+### Testing
+
+- **adjust**: Adjust test after changing text data
+  ([`1b7bcd3`](https://github.com/anaticulae/textbone/commit/1b7bcd37c99b058ceab7ee5f9e105a33ace9a443))
+
+
+## v0.7.0 (2021-09-07)
+
+### Chores
+
+- **requirements**: Upgrade requirements.txt
+  ([`fe865c1`](https://github.com/anaticulae/textbone/commit/fe865c1a1a467305e72634b3967f4dbda97f3ad2))
+
+### Features
+
+- **data**: Add diss205 sentence data
+  ([`fa2634f`](https://github.com/anaticulae/textbone/commit/fa2634f98ba67c89d03ac72c0aa356fd337604d7))
+
+
+## v0.6.6 (2021-06-14)
+
+### Bug Fixes
+
+- **hugedata**: Adjust trainings data
+  ([`23245e9`](https://github.com/anaticulae/textbone/commit/23245e90de51b05a0b82da5b456046aec0f22b8b))
+
+
+## v0.6.5 (2021-06-13)
+
+### Chores
+
+- **requirements**: Upgrade requirements.txt
+  ([`92763fc`](https://github.com/anaticulae/textbone/commit/92763fc1876ae3e4f68d02c4bf2d39f7f964de76))
+
+
+## v0.6.4 (2021-05-22)
+
+### Bug Fixes
+
+- **scipy**: Enable using without scipy
+  ([`a779a4e`](https://github.com/anaticulae/textbone/commit/a779a4eb6b0e7c244c0ddd87b6438e9edfa61b22))
+
+- **sentence**: Upgrade hashes after changing to 64bit python
+  ([`32b3a4f`](https://github.com/anaticulae/textbone/commit/32b3a4f8a2e91e562e3f8742331262a229a43cfd))
+
+### Chores
+
+- **requirements**: Upgrade requirements.txt
+  ([`def6731`](https://github.com/anaticulae/textbone/commit/def6731b77d2da5eb7c5d314ada17c7fc0f1de67))
+
+### Code Style
+
+- **format**: Use improved yapf formatter
+  ([`1bef066`](https://github.com/anaticulae/textbone/commit/1bef066b47b18d8dfcf5063e4fe0a288fa045fdd))
+
+
+## v0.6.3 (2021-03-16)
+
+### Bug Fixes
+
+- **corpus**: Adjust number list pattern
+  ([`197a3e1`](https://github.com/anaticulae/textbone/commit/197a3e1fe3f0b68950c49f75d77799a0fbdace88))
+
+### Chores
+
+- **requirements**: Remove nltk
+  ([`5c64063`](https://github.com/anaticulae/textbone/commit/5c64063bc28f9cee68843ed1c3980b2acdf162d8))
+
+- **requirements**: Upgrade requirements.txt
+  ([`f6bca1f`](https://github.com/anaticulae/textbone/commit/f6bca1fc61da7011af47ada52e6c031ff9ff6e1e))
+
+### Refactoring
+
+- **remove**: Remove nltk dependency
+  ([`5b912b7`](https://github.com/anaticulae/textbone/commit/5b912b77a733c2af9f49665b0442398daab2d327))
+
+
+## v0.6.2 (2021-03-09)
+
+### Bug Fixes
+
+- **corpus**: Fix master99
+  ([`100d6ad`](https://github.com/anaticulae/textbone/commit/100d6adc8f18edff29b2b0447c59815445139694))
+
+### Chores
+
+- **fix**: Add missing requirement
+  ([`f25895a`](https://github.com/anaticulae/textbone/commit/f25895ab4bd54623f87d01241583caac3defc36f))
+
+
+## v0.6.1 (2021-03-09)
+
+### Bug Fixes
+
+- **roman**: Add roman numbers example
+  ([`7f6378c`](https://github.com/anaticulae/textbone/commit/7f6378c151765e19a6494fe47ffad371360045c2))
+
+
+## v0.6.0 (2021-03-08)
+
+### Bug Fixes
+
+- **judge**: Make assertion more explicit
+  ([`22474d6`](https://github.com/anaticulae/textbone/commit/22474d6a6f8debfdcd24e1bead45a0fc509d23c6))
+
+### Chores
+
+- **requirements**: Add nltk data package, ensure that nltk data is loaded
+  ([`f99e903`](https://github.com/anaticulae/textbone/commit/f99e903615dc2b6848d4ed061a161140e88f967d))
+
+- **requirements**: Add sentence normalizer package
+  ([`61481e5`](https://github.com/anaticulae/textbone/commit/61481e554ee43686548c96078d5bcae35f2987f5))
+
+- **requirements**: Upgrade requirements.txt
+  ([`950c276`](https://github.com/anaticulae/textbone/commit/950c2764ad704c3cf43052bb6b2e41dd7c74a7ef))
+
+- **setup**: Add trained data to project delivery
+  ([`051b327`](https://github.com/anaticulae/textbone/commit/051b3276fbd664ae1fdde9ee081233cb8c76d4be))
+
+- **setup**: Ignore training data
+  ([`40cb905`](https://github.com/anaticulae/textbone/commit/40cb9057592e69a9593d176e5bcfaa24dc642f28))
+
+- **setup**: Include magic package
+  ([`a5e24d3`](https://github.com/anaticulae/textbone/commit/a5e24d3e1c3d844cd493b3172dcb5659e33eac69))
+
+### Features
+
+- **backbone**: Add slang detection interface
+  ([`f7c0703`](https://github.com/anaticulae/textbone/commit/f7c0703bd647f6c2234ad5d0479be372246e2957))
+
+- **data**: Add sentence provider
+  ([`5f87909`](https://github.com/anaticulae/textbone/commit/5f879096612294cfa6a7e031e94060d4bad70ab1))
+
+- **judge**: Add option to select negative column
+  ([`5c265bb`](https://github.com/anaticulae/textbone/commit/5c265bba5ea30c76526468a701bc97a0eb721ef5))
+
+- **judge**: Judge more sentences
+  ([`fb89fce`](https://github.com/anaticulae/textbone/commit/fb89fce259adc83a8c7175e9e179cd3ce770824e))
+
+- **sentence**: Add magic methods to ease using
+  ([`31435e2`](https://github.com/anaticulae/textbone/commit/31435e2e85e2531750cb597e58736ec4e21f75da))
+
+- **sentence**: Normalize hashed sentences
+  ([`5997afc`](https://github.com/anaticulae/textbone/commit/5997afc4098cc93b04427934a088f50bb802a3a1))
+
+- **slang**: Connect trained model with slang determiner
+  ([`06b090e`](https://github.com/anaticulae/textbone/commit/06b090eed2ce0c4dbaf1106e48e84871cdcfa8a6))
+
+- **train**: Add slang trainer
+  ([`3850691`](https://github.com/anaticulae/textbone/commit/385069115d5b0b0cfeec4646a1371e653e633ebc))
+
+- **training**: Save trained result
+  ([`16a79b6`](https://github.com/anaticulae/textbone/commit/16a79b6ca4eb1bde9b825c23c0ae64c8d77b95a7))
+
+### Refactoring
+
+- **replace**: Replace with own API wrapper
+  ([`ae2e6db`](https://github.com/anaticulae/textbone/commit/ae2e6db574ce66295e9b16f83069d754a3204699))
+
+### Testing
+
+- **painter**: Make test less strict
+  ([`e4ff855`](https://github.com/anaticulae/textbone/commit/e4ff8553ddaa1002b6a6343d2c5b5cf3d5478f52))
+
+
+## v0.5.0 (2021-03-05)
+
+### Bug Fixes
+
+- **hugedata**: Adjust sentences boundary
+  ([`8b35ce3`](https://github.com/anaticulae/textbone/commit/8b35ce317b49367b3f73c38c4d943945937fe4c2))
+
+- **sentence**: Add lazy loading to improve test discovery
+  ([`14cfd2c`](https://github.com/anaticulae/textbone/commit/14cfd2c080a8548bc8abd0d04073b4c63e168c18))
+
+- **sentence**: Allow creating skipped file if not exists
+  ([`7d6a6a8`](https://github.com/anaticulae/textbone/commit/7d6a6a80fdb57f4d0ab55e6c86896ac53f0520ce))
+
+- **sentence**: Ensure correct data type
+  ([`bbe8166`](https://github.com/anaticulae/textbone/commit/bbe8166c7c741424b98dae4c09ce9775a5d44ca0))
+
+- **view**: Change return value of error page to 404
+  ([`c962d12`](https://github.com/anaticulae/textbone/commit/c962d12b546d9b5a8b27a2232745af681ad2ef1f))
+
+### Chores
+
+- **project**: Add judgeddata project
+  ([`0e129bf`](https://github.com/anaticulae/textbone/commit/0e129bf8edcab6321f9c0e26dab22b07119b3258))
+
+- **requirements**: Upgrade requirements.txt
+  ([`9015c0b`](https://github.com/anaticulae/textbone/commit/9015c0b10f978814460e52a8294e87d171642739))
+
+- **setup**: Fix package name
+  ([`9f3590e`](https://github.com/anaticulae/textbone/commit/9f3590e39e0765d996306924e4cc42780e2df075))
+
+- **setup**: Remove duplicated project config
+  ([`3ce54ec`](https://github.com/anaticulae/textbone/commit/3ce54ec3cf3fcdf6752a64b940ec1e1b31338e6f))
+
+### Code Style
+
+- **format**: Format code
+  ([`03720c5`](https://github.com/anaticulae/textbone/commit/03720c58abed60ee30c4a3685c5bd0ad354c8fb1))
+
+### Features
+
+- **API**: Add sentence judge API
+  ([`a61df4f`](https://github.com/anaticulae/textbone/commit/a61df4fb2fedd75c266052db3fc39c9e6fa15bfb))
+
+- **API**: Catch information that all sentences are judged
+  ([`f15cb7a`](https://github.com/anaticulae/textbone/commit/f15cb7a063e3f020134532a03cfa31ced4c4becb))
+
+- **API**: Make sentence API more robust
+  ([`f243997`](https://github.com/anaticulae/textbone/commit/f2439976a7e4755ffdc3150fb3587df619b13686))
+
+- **API**: Return resource not found for invalid sentence transmission
+  ([`8d29363`](https://github.com/anaticulae/textbone/commit/8d29363994e453386e90d83951128f06e68db388))
+
+- **bbview**: Add style and syntax field
+  ([`9909be9`](https://github.com/anaticulae/textbone/commit/9909be9565aba355c20b659c23292ff71ecad46b))
+
+- **judge**: Add judge view
+  ([`8a20643`](https://github.com/anaticulae/textbone/commit/8a206437704c49870fc4240615fbb867a15cc402))
+
+- **judge**: Add sentence judge package
+  ([`37dbe95`](https://github.com/anaticulae/textbone/commit/37dbe95f33107b5620fbb51345e31d2efd0256c2))
+
+- **judge**: Judge some data
+  ([`0c06fcb`](https://github.com/anaticulae/textbone/commit/0c06fcb4cc9a584b68506a11325bd6778a330e47))
+
+- **judge**: Move send button to next line
+  ([`4a1cfbe`](https://github.com/anaticulae/textbone/commit/4a1cfbe66714eedbea23663bdde2fcf68049b9b8))
+
+- **judged**: Add slang data provider
+  ([`d94b50e`](https://github.com/anaticulae/textbone/commit/d94b50e00dd1e884f59519b06cd8a02d0ab4f027))
+
+- **sentence**: Add access by sentence hash
+  ([`8b84d0e`](https://github.com/anaticulae/textbone/commit/8b84d0ee408720dbfafcc71373d0a844f753120a))
+
+- **sentence**: Add method to check if sentence exists
+  ([`a1fc40f`](https://github.com/anaticulae/textbone/commit/a1fc40f29c52ee7e1d4057c646dfd082fbc47eb1))
+
+- **sentence**: Add option to control randomizing sentences
+  ([`447245a`](https://github.com/anaticulae/textbone/commit/447245a47ee947adfd56045fdcd9a37e454244e4))
+
+### Refactoring
+
+- **document**: Use MARKER definition to simplify code
+  ([`5944758`](https://github.com/anaticulae/textbone/commit/59447583253e5abdd457814889d18af7d9541c27))
+
+- **sentence**: Simplify code
+  ([`0317cc6`](https://github.com/anaticulae/textbone/commit/0317cc6648652bfb695efc4fb05e5da03b0511bc))
+
+- **sentence**: Simplify code and extend interface documentation
+  ([`5637bc6`](https://github.com/anaticulae/textbone/commit/5637bc6a54969421889f650848e1e2bc810d4cf3))
+
+- **welcome**: Simplify code
+  ([`5850815`](https://github.com/anaticulae/textbone/commit/58508159b5a4b3ca8325ae3a7ce1e670b3e66a55))
+
+### Testing
+
+- **API**: Get and judge sentences
+  ([`49c7b87`](https://github.com/anaticulae/textbone/commit/49c7b878611350eaec89146ca8ac91e966355817))
+
+- **sentences**: Verify skip-next pattern
+  ([`0636e73`](https://github.com/anaticulae/textbone/commit/0636e7315a46ad40dd28dd1e1686ddd4c278995e))
+
+- **view**: Get non existing plot
+  ([`688a0ba`](https://github.com/anaticulae/textbone/commit/688a0ba3a67687c9826dcabd743f06bef8602070))
+
+- **view**: Invoke judge view
+  ([`2ce0e34`](https://github.com/anaticulae/textbone/commit/2ce0e34b1dcb3c62bedfbf36baa012d7434723a1))
+
+
+## v0.4.0 (2021-03-03)
+
+### Bug Fixes
+
+- **magic**: Support more than two resource levels
+  ([`e97643f`](https://github.com/anaticulae/textbone/commit/e97643fce24a126773db51210d2f33e6b9a7c1be))
+
+- **magic**: Use hash to handle a lot of document selections
+  ([`891f066`](https://github.com/anaticulae/textbone/commit/891f066cbfec6503309f5b1639ec0e5a05c58024))
+
+- **magic**: Use hugedata file source
+  ([`f1f0ba6`](https://github.com/anaticulae/textbone/commit/f1f0ba66be84a2284afbdbb06b98c098702ce166))
+
+### Chores
+
+- **requirements**: Upgrade requirements.txt
+  ([`ad46456`](https://github.com/anaticulae/textbone/commit/ad46456c89e2d4711af9b3d9f42fbab9b85f01e2))
+
+### Features
+
+- **analysis**: Add labels to plot
+  ([`f66725e`](https://github.com/anaticulae/textbone/commit/f66725eea60bd2aff316baa0dab4693c8390e9b2))
+
+- **document**: Add special order marker
+  ([`1cb945b`](https://github.com/anaticulae/textbone/commit/1cb945b466b4cc7c081faa3c11ad2e768800de69))
+
+- **document**: Do not show file extension
+  ([`ad28522`](https://github.com/anaticulae/textbone/commit/ad28522d8d7d9e99e567182449c4cd990281d773))
+
+- **document**: Use document type specific marker
+  ([`54ae1a2`](https://github.com/anaticulae/textbone/commit/54ae1a20e14c65702139fbc36b5fb84199235896))
+
+- **lit**: Add bachelor051 example
+  ([`c3519e4`](https://github.com/anaticulae/textbone/commit/c3519e4e7cb06a44133a0529203c9a2ccbd0188e))
+
+- **lit**: Add bachelor056 example
+  ([`6c91707`](https://github.com/anaticulae/textbone/commit/6c9170705859b083d7edb9952e3a6a0106dc182f))
+
+- **lit**: Add bachelor111 example
+  ([`cdbbed3`](https://github.com/anaticulae/textbone/commit/cdbbed302e39cd05f1d8a6187a00e80c104c0760))
+
+- **lit**: Add bachelor128 example
+  ([`8f50fe6`](https://github.com/anaticulae/textbone/commit/8f50fe62a4cecc195acd7d561696a755bef8e603))
+
+- **order**: Add order024 example
+  ([`d4207ce`](https://github.com/anaticulae/textbone/commit/d4207ce23801444c3ed81a039a44a08d5764376b))
+
+- **tech**: Add bachelor076 example
+  ([`e1e9a82`](https://github.com/anaticulae/textbone/commit/e1e9a82d77384ae356906f511995da298f2c1d19))
+
+- **tech**: Add bachelor63 example
+  ([`815a32c`](https://github.com/anaticulae/textbone/commit/815a32ce68225c1a94f96913d4a70995a3c77a82))
+
+### Refactoring
+
+- **document**: Simplify code
+  ([`d41ca0a`](https://github.com/anaticulae/textbone/commit/d41ca0a8ed81a920ea2d516f59549c0c44879655))
+
+### Testing
+
+- **cli**: Add test to run normalize cli
+  ([`e70dcd3`](https://github.com/anaticulae/textbone/commit/e70dcd3b6f5324d26e75eb629a8c6c7252028281))
+
+
+## v0.3.0 (2021-03-02)
+
+### Bug Fixes
+
+- **bbview**: Simplify operation name, fix js plot
+  ([`380be13`](https://github.com/anaticulae/textbone/commit/380be13505310af13a5af37dd9a6c7b49f73b653))
+
+- **corpus**: Fix misalignments
+  ([`322a7c9`](https://github.com/anaticulae/textbone/commit/322a7c99e5d5023148f11944d35f364ae7c6c890))
+
+- **linter**: Fix linter findings
+  ([`207d89c`](https://github.com/anaticulae/textbone/commit/207d89cc372bc89890ac1f0a5dc23a5697c402cf))
+
+- **view**: Add file extension in renderer
+  ([`9186b38`](https://github.com/anaticulae/textbone/commit/9186b380695298280f43f47a0b379367ef394244))
+
+- **view**: Do not show file name in selector
+  ([`1074a6c`](https://github.com/anaticulae/textbone/commit/1074a6c17cb288d4d7726ae1f1a8eb1ac55727c6))
+
+### Chores
+
+- **requirements**: Add configo package
+  ([`554d92b`](https://github.com/anaticulae/textbone/commit/554d92b37f0c018aaeadc3d771456fbb3c92cb37))
+
+- **requirements**: Add Flask and Bootstrap
+  ([`bd8b983`](https://github.com/anaticulae/textbone/commit/bd8b983f671205ca28026e4713c99ba91d241448))
+
+- **requirements**: Add painter
+  ([`8030f48`](https://github.com/anaticulae/textbone/commit/8030f48c3da5592f8845f3fd34a658227ba83815))
+
+- **setup**: Add new subproject
+  ([`567874a`](https://github.com/anaticulae/textbone/commit/567874a0ff1e90deb3cd6a61e4b27bccfe705307))
+
+### Code Style
+
+- **cleanup**: Organize imports and remove outdated code
+  ([`97e72be`](https://github.com/anaticulae/textbone/commit/97e72bea4867c104066bb2a395121f34cc7ff315))
+
+### Features
+
+- **API**: Add analysis document scatter renderer
+  ([`e728c4c`](https://github.com/anaticulae/textbone/commit/e728c4cf3b78bf31d69fb1f3b4e936d509433ac5))
+
+- **API**: Add magic module to generate plot file names
+  ([`a434f6a`](https://github.com/anaticulae/textbone/commit/a434f6aef6f960c582e3a3fb1521c860410d2bdb))
+
+- **API**: Add sentence renderer
+  ([`d1e234e`](https://github.com/anaticulae/textbone/commit/d1e234eba4d1507b31e615e6b1859589df3805cb))
+
+- **API**: Connect documents API to view
+  ([`866170d`](https://github.com/anaticulae/textbone/commit/866170dc136bb019d6c7b31e09b6097d48f6fd4c))
+
+- **API**: Link API to renderer code
+  ([`d6e961f`](https://github.com/anaticulae/textbone/commit/d6e961fd386a57e2cb1cb937e3e3e3a79047b04b))
+
+- **API**: Link interface to API
+  ([`a075880`](https://github.com/anaticulae/textbone/commit/a0758804ff59f1d70ec60ed6270ca781c6b50a0b))
+
+- **backbone**: Add backbone cli view
+  ([`0b57a48`](https://github.com/anaticulae/textbone/commit/0b57a4868e8be0e3ec5d982da4b24a7610d9e641))
+
+- **bbview**: Add basic application
+  ([`e2fa12e`](https://github.com/anaticulae/textbone/commit/e2fa12e8380fb02b2bd05df1815b0065a86ff459))
+
+- **document**: Handle invalid resource access
+  ([`1f30ee7`](https://github.com/anaticulae/textbone/commit/1f30ee7e3417fe7a4ad849effb9e91674096a625))
+
+- **hugedata**: Add list of collected masters
+  ([`cf269af`](https://github.com/anaticulae/textbone/commit/cf269af86718cec040c201186c3445614923968c))
+
+- **lit**: Add master098 example
+  ([`5deeb82`](https://github.com/anaticulae/textbone/commit/5deeb824dca9bcffaf083ed09b9a54fe6e05b3b5))
+
+- **lit**: Add master099 example
+  ([`017a40b`](https://github.com/anaticulae/textbone/commit/017a40b55123418305b65dedc0a7de9ef99459f2))
+
+- **normalize**: Use modern text splitter
+  ([`408ea8a`](https://github.com/anaticulae/textbone/commit/408ea8a648bc62bc100b7ae272e09f3a5878cdd6))
+
+- **view**: Add image provider
+  ([`15713b8`](https://github.com/anaticulae/textbone/commit/15713b8206cac5316c7c0e25e0a9c89fa89d5ab8))
+
+- **view**: Add more space to display longer file names
+  ([`a1b81e6`](https://github.com/anaticulae/textbone/commit/a1b81e6484122cb5706f42f6b6c3484c5d31024d))
+
+### Refactoring
+
+- **API**: Move dict converter to utils module
+  ([`471a6c4`](https://github.com/anaticulae/textbone/commit/471a6c417904524f40251d8cced4e5d16c930441))
+
+- **remove**: Remove outdated code
+  ([`9035206`](https://github.com/anaticulae/textbone/commit/9035206a571988cbf5361ce20013797c89fee540))
+
+- **rename**: Rename central view test
+  ([`84773bf`](https://github.com/anaticulae/textbone/commit/84773bf953718deeed54616eb5b9866e935fcc7b))
+
+### Testing
+
+- **API**: Add test to invoke scatter plotting
+  ([`5b184f8`](https://github.com/anaticulae/textbone/commit/5b184f8731b7e1ba8903b65f7d050c0c0ada5b93))
+
+- **config**: Setup API prefix and add test client
+  ([`98b787f`](https://github.com/anaticulae/textbone/commit/98b787fd66580a0038fa77dbc657e64dd2155417))
+
+- **documents**: Select master72 with scatter plot
+  ([`d1b77bc`](https://github.com/anaticulae/textbone/commit/d1b77bc594ba2133e7f406264c2a56acf34f60fd))
+
+- **fix**: Adjust to new magic document description
+  ([`f6b7dfa`](https://github.com/anaticulae/textbone/commit/f6b7dfa866ec8d2d25497cf133cc8fb5cda5cc9a))
+
+- **sentence**: Add test to invoke single/mixed line plot
+  ([`c898752`](https://github.com/anaticulae/textbone/commit/c8987521b2c0eabe27a35c6e43648c01a5f6962c))
+
+- **utils**: Add method to patch renderer repository
+  ([`03b39cd`](https://github.com/anaticulae/textbone/commit/03b39cd242cd83895b475f771e3ba032a7e182fb))
+
+- **view**: Invoke landing page
+  ([`ce036cc`](https://github.com/anaticulae/textbone/commit/ce036cc74a14b83a5762db69d986294d0b167d4e))
+
+
+## v0.2.0 (2021-02-27)
+
+### Chores
+
+- **imports**: Organize imports
+  ([`becafc7`](https://github.com/anaticulae/textbone/commit/becafc7a807aa22ac042e38b45949ae78efcfe3f))
+
+- **setup**: Add missing hugedata package
+  ([`caf47dc`](https://github.com/anaticulae/textbone/commit/caf47dcbc911a6855f2fa68c9ee6d095ba7c4dc2))
+
+### Code Style
+
+- **linter**: Solve linter warning
+  ([`8941c48`](https://github.com/anaticulae/textbone/commit/8941c487c269f66919a26ce8cb1454181eedf7e3))
+
+### Features
+
+- **huge**: Add abbreviations list
+  ([`19d7d66`](https://github.com/anaticulae/textbone/commit/19d7d66a6824199f43b70d6bc984458b762cb23c))
+
+
+## v0.1.0 (2021-02-26)
+
+### Chores
+
+- **requirements**: Add utila package
+  ([`47172fa`](https://github.com/anaticulae/textbone/commit/47172faf36045d593f58bf64889d0bede3836b41))
+
+- **requirements**: Add utilatest
+  ([`a526ae9`](https://github.com/anaticulae/textbone/commit/a526ae9da73ed98701e0b8fa922a4d76245d0172))
+
+- **setup**: Copy data to package
+  ([`645f6c5`](https://github.com/anaticulae/textbone/commit/645f6c56855470a39c7c82b5c556c20e91803027))
+
+### Documentation
+
+- **resources**: Add list of interesting NLP articles
+  ([`668016f`](https://github.com/anaticulae/textbone/commit/668016fbc71954c7b87110fba64db933e4942747))
+
+### Features
+
+- **cli**: Add cli to automate normalizing text file
+  ([`1664072`](https://github.com/anaticulae/textbone/commit/16640721dda1805e5ce536ac56ce0ddcedb2ed8a))
+
+- **huge**: Add statistics module
+  ([`d198c72`](https://github.com/anaticulae/textbone/commit/d198c720d38716038275848c9669c59fffb8faa8))
+
+- **lit**: Add master072 example
+  ([`f8a6812`](https://github.com/anaticulae/textbone/commit/f8a6812c5b8308865a561fad73b88a6ff5dd6c51))
+
+- **lit**: Add master075 example
+  ([`fc1093b`](https://github.com/anaticulae/textbone/commit/fc1093b3cb655b63d5f10a06cf3e7c63a45c3781))
+
+- **lit**: Add master089 example
+  ([`cadcf6c`](https://github.com/anaticulae/textbone/commit/cadcf6ce0cb2ae5064def9b88b94f0101c9c2d1e))
+
+- **lit**: Add master83 example
+  ([`baf449d`](https://github.com/anaticulae/textbone/commit/baf449df6a5035a2c13833682ce71a5a6377f95f))
+
+- **test**: Add test to display text statistics
+  ([`14767cd`](https://github.com/anaticulae/textbone/commit/14767cd66edb1053335f2b4ffef01e6d64055d78))
+
+- **utils**: Add method to load sentences from document path
+  ([`d405966`](https://github.com/anaticulae/textbone/commit/d405966b0dc0da016794d9327a9131d4a67cc3f4))
+
+### Refactoring
+
+- **move**: Rename literature folder
+  ([`be29590`](https://github.com/anaticulae/textbone/commit/be295901a3a9484762603b2410f896cbc6c2223e))
+
+
+## v0.0.0 (2021-02-25)
+
+- Initial Release
