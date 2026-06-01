@@ -7,13 +7,7 @@
 # be prosecuted under federal law. Its content is company confidential.
 # =============================================================================
 
-FROM ghcr.io/anaticulae/baw:80681b9
-
-RUN apk add --no-cache \
-    gcc\
-    g++\
-    musl-dev
-    # build-base
+FROM ghcr.io/anaticulae/baw:80681b9-python
 
 WORKDIR /var/install
 
