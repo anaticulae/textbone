@@ -1,6 +1,14 @@
 # CHANGELOG
 
 
+## v1.0.1 (2026-06-01)
+
+### Chores
+
+- **docker**: Use environment to use pre-build scikit
+  ([`11b3ff6`](https://github.com/anaticulae/textbone/commit/11b3ff669ad9490bf3c09a32fb3ab5723fe1ba4f))
+
+
 ## v1.0.0 (2026-05-31)
 
 ### Bug Fixes
